@@ -1,0 +1,39 @@
+name: Update stars.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+  # Everyday at 5:30 AM UTC (that is, 10:00 AM IST).
+  - cron: 30 5 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository.
+        uses: actions/checkout@v2.3.4
+      - name: Setup Python.
+        uses: actions/setup-python@v2.2.1
+        with:
+          python-version: 3.8
+      - name: Install dependencies.
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Updating the README.
+        env:
+          GITHUB_USER: astrogewgaw
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          invoke stars
+          git add README.md
+          git config --global user.name "starbot"
+          git config --global user.email "starbot@example.com"
+          git commit -m "GitHub stars updated: `date +'%Y-%m-%d %H:%M:%S'`" || true
+      - name: Push the changes.
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
