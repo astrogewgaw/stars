@@ -48,6 +48,7 @@
 
 ## C
 
+* [**jayanthc/yapp**](https://github.com/jayanthc/yapp): Yet Another Pulsar Processor (YAPP) is a suite of radio pulsar data analysis software.
 * [**debauchee/barrier**](https://github.com/debauchee/barrier): Open-source KVM software
 * [**astrofrog/fast-histogram**](https://github.com/astrofrog/fast-histogram): :zap: Fast 1D and 2D histogram functions in Python :zap:
 * [**eddieantonio/imgcat**](https://github.com/eddieantonio/imgcat): It's like cat, but for images.
@@ -196,6 +197,7 @@
 
 ## HTML
 
+* [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
@@ -389,6 +391,10 @@
 
 ## Python
 
+* [**chipmuenk/pyfda**](https://github.com/chipmuenk/pyfda): Python Filter Design Analysis Tool
+* [**theXYZT/pulsarbat**](https://github.com/theXYZT/pulsarbat): pulsarbat (PULSAR Baseband Analysis Tools) is a Python package for analysis of radio baseband observations of pulsars.
+* [**mhvk/baseband**](https://github.com/mhvk/baseband): Package to read and write radio baseband data
+* [**astrogewgaw/stars**](https://github.com/astrogewgaw/stars): My GitHub stars, curated.
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks.
 * [**pypa/setuptools**](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [**hedyhli/starcli**](https://github.com/hedyhli/starcli): :sparkles: Browse trending GitHub projects from your command line
