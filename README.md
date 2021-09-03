@@ -76,6 +76,7 @@
 
 ## C++
 
+* [**nlohmann/json**](https://github.com/nlohmann/json): JSON for Modern C++
 * [**AlexandreRouma/SDRPlusPlus**](https://github.com/AlexandreRouma/SDRPlusPlus): Cross-Platform SDR Software
 * [**chowdhuryaditya/gptool**](https://github.com/chowdhuryaditya/gptool): gptool - GMRT Pulsar Tool || RFI mitigation and pulsar processing for GMRT beamformer data.
 * [**kmsmith137/simpulse**](https://github.com/kmsmith137/simpulse): C++/python library for simulating FRB's and pulsars
@@ -259,6 +260,7 @@
 
 ## Julia
 
+* [**JuliaPlots/Plots.jl**](https://github.com/JuliaPlots/Plots.jl): Powerful convenience for Julia visualizations and data analysis
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
 * [**mojaie/MolecularGraph.jl**](https://github.com/mojaie/MolecularGraph.jl): Graph-based molecule modeling toolkit for cheminformatics
 * [**FluxML/Zygote.jl**](https://github.com/FluxML/Zygote.jl): Intimate Affection Auditor
@@ -287,6 +289,7 @@
 
 ## Jupyter Notebook
 
+* [**cgobat/pulsar-nulling**](https://github.com/cgobat/pulsar-nulling): Analysis of radio pulsar parameters and their relationships with nulling statistics
 * [**marceloprates/prettymaps**](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 * [**farr/Astrostatistics**](https://github.com/farr/Astrostatistics): A romp through the field of modern astrostatistics.
 * [**agoose77/literary**](https://github.com/agoose77/literary): Literate Python package development with Jupyter
@@ -391,11 +394,14 @@
 
 ## Python
 
+* [**giampaolo/psutil**](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): 💻 Simulating cosmic fireworks 💥 !
+* [**randolf-scholz/autokey_julia_unicode**](https://github.com/randolf-scholz/autokey_julia_unicode): Add all JuliaLang unicode abbreviations to AutoKey.
+* [**aristocratos/bpytop**](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [**chipmuenk/pyfda**](https://github.com/chipmuenk/pyfda): Python Filter Design Analysis Tool
 * [**theXYZT/pulsarbat**](https://github.com/theXYZT/pulsarbat): pulsarbat (PULSAR Baseband Analysis Tools) is a Python package for analysis of radio baseband observations of pulsars.
 * [**mhvk/baseband**](https://github.com/mhvk/baseband): Package to read and write radio baseband data
 * [**astrogewgaw/stars**](https://github.com/astrogewgaw/stars): My GitHub stars, curated.
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks.
 * [**pypa/setuptools**](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [**hedyhli/starcli**](https://github.com/hedyhli/starcli): :sparkles: Browse trending GitHub projects from your command line
 * [**pyFFTW/pyFFTW**](https://github.com/pyFFTW/pyFFTW): A pythonic python wrapper around FFTW
@@ -767,6 +773,7 @@
 
 ## Rust
 
+* [**nannou-org/nannou**](https://github.com/nannou-org/nannou): A Creative Coding Framework for Rust.
 * [**jpochyla/psst**](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 * [**sixtyfpsui/sixtyfps**](https://github.com/sixtyfpsui/sixtyfps): SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 * [**mitsuhiko/dialoguer**](https://github.com/mitsuhiko/dialoguer): Rust utility library for nice command line prompts and similar things
