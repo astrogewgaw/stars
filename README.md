@@ -76,6 +76,9 @@
 
 ## C++
 
+* [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps): 🍃 Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.
+* [**AstroAccelerateOrg/astro-accelerate**](https://github.com/AstroAccelerateOrg/astro-accelerate): AstroAccelerate is a many-core accelerated software package for processing time-domain radio-astronomy data.
+* [**adrn/cpp-gala**](https://github.com/adrn/cpp-gala): Experimental re-implementation of Gala potential machinery in C++
 * [**nlohmann/json**](https://github.com/nlohmann/json): JSON for Modern C++
 * [**AlexandreRouma/SDRPlusPlus**](https://github.com/AlexandreRouma/SDRPlusPlus): Cross-Platform SDR Software
 * [**chowdhuryaditya/gptool**](https://github.com/chowdhuryaditya/gptool): gptool - GMRT Pulsar Tool || RFI mitigation and pulsar processing for GMRT beamformer data.
@@ -394,6 +397,8 @@
 
 ## Python
 
+* [**astropy/astropy**](https://github.com/astropy/astropy): Repository for the Astropy core package
+* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogues 😸 !
 * [**giampaolo/psutil**](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): 💻 Simulating cosmic fireworks 💥 !
 * [**randolf-scholz/autokey_julia_unicode**](https://github.com/randolf-scholz/autokey_julia_unicode): Add all JuliaLang unicode abbreviations to AutoKey.
@@ -781,7 +786,6 @@
 * [**David-OConnor/pyflow**](https://github.com/David-OConnor/pyflow): An installation and dependency system for Python
 * [**pyros2097/rust-embed**](https://github.com/pyros2097/rust-embed): Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 * [**al-jshen/compute**](https://github.com/al-jshen/compute): Scientific and statistical computing with Rust.
-* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogues 😸 !
 * [**tree-sitter/tree-sitter**](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools
 * [**rust-phf/rust-phf**](https://github.com/rust-phf/rust-phf): Compile time static maps for Rust
 * [**wez/wezterm**](https://github.com/wez/wezterm): A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
