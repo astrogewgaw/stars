@@ -76,6 +76,7 @@
 
 ## C++
 
+* [**exoplanet-dev/celerite2**](https://github.com/exoplanet-dev/celerite2): Fast & scalable Gaussian Processes in one dimension
 * [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps): 🍃 Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.
 * [**AstroAccelerateOrg/astro-accelerate**](https://github.com/AstroAccelerateOrg/astro-accelerate): AstroAccelerate is a many-core accelerated software package for processing time-domain radio-astronomy data.
 * [**adrn/cpp-gala**](https://github.com/adrn/cpp-gala): Experimental re-implementation of Gala potential machinery in C++
@@ -397,6 +398,9 @@
 
 ## Python
 
+* [**PrefectHQ/prefect**](https://github.com/PrefectHQ/prefect): The easiest way to automate your data
+* [**samuelcolvin/python-devtools**](https://github.com/samuelcolvin/python-devtools): Dev tools for python
+* [**kbarbary/extinction**](https://github.com/kbarbary/extinction): Fast interstellar dust extinction laws in Python
 * [**astropy/astropy**](https://github.com/astropy/astropy): Repository for the Astropy core package
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogues 😸 !
 * [**giampaolo/psutil**](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
