@@ -463,7 +463,7 @@
 * [**nschloe/fontman**](https://github.com/nschloe/fontman): Manage and update your installed fonts.
 * [**mwilliamson/python-vendorize**](https://github.com/mwilliamson/python-vendorize): Vendorize packages from PyPI
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
-* [**hamletfansion/curvefitting**](https://github.com/hamletfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
+* [**hfansion/curvefitting**](https://github.com/hfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
 * [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 A powerful matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
