@@ -48,6 +48,7 @@
 
 ## C
 
+* [**mattpitkin/lintegrate**](https://github.com/mattpitkin/lintegrate): A numerical integration routine that works for the natural logarithm of functions
 * [**jayanthc/yapp**](https://github.com/jayanthc/yapp): Yet Another Pulsar Processor (YAPP) is a suite of radio pulsar data analysis software.
 * [**debauchee/barrier**](https://github.com/debauchee/barrier): Open-source KVM software
 * [**astrofrog/fast-histogram**](https://github.com/astrofrog/fast-histogram): :zap: Fast 1D and 2D histogram functions in Python :zap:
@@ -77,7 +78,7 @@
 ## C++
 
 * [**exoplanet-dev/celerite2**](https://github.com/exoplanet-dev/celerite2): Fast & scalable Gaussian Processes in one dimension
-* [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps): 🍃 Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.
+* [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps): 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team!
 * [**AstroAccelerateOrg/astro-accelerate**](https://github.com/AstroAccelerateOrg/astro-accelerate): AstroAccelerate is a many-core accelerated software package for processing time-domain radio-astronomy data.
 * [**adrn/cpp-gala**](https://github.com/adrn/cpp-gala): Experimental re-implementation of Gala potential machinery in C++
 * [**nlohmann/json**](https://github.com/nlohmann/json): JSON for Modern C++
@@ -293,6 +294,7 @@
 
 ## Jupyter Notebook
 
+* [**VanderbiltAstronomy/astr_8070_s21**](https://github.com/VanderbiltAstronomy/astr_8070_s21): Spring 2021 course materials for ASTR 8070: Astrostatistics
 * [**cgobat/pulsar-nulling**](https://github.com/cgobat/pulsar-nulling): Analysis of radio pulsar parameters and their relationships with nulling statistics
 * [**marceloprates/prettymaps**](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 * [**farr/Astrostatistics**](https://github.com/farr/Astrostatistics): A romp through the field of modern astrostatistics.
@@ -398,6 +400,10 @@
 
 ## Python
 
+* [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
+* [**asottile/reorder_python_imports**](https://github.com/asottile/reorder_python_imports): Rewrites source to reorder python imports
+* [**psf/black**](https://github.com/psf/black): The uncompromising Python code formatter
+* [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra): Hydra is a framework for elegantly configuring complex applications
 * [**PrefectHQ/prefect**](https://github.com/PrefectHQ/prefect): The easiest way to automate your data
 * [**samuelcolvin/python-devtools**](https://github.com/samuelcolvin/python-devtools): Dev tools for python
 * [**kbarbary/extinction**](https://github.com/kbarbary/extinction): Fast interstellar dust extinction laws in Python
