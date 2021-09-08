@@ -24,6 +24,7 @@
 * [**Fortran**](#fortran)
 * [**Go**](#go)
 * [**HTML**](#html)
+* [**Haskell**](#haskell)
 * [**JavaScript**](#javascript)
 * [**Jsonnet**](#jsonnet)
 * [**Julia**](#julia)
@@ -39,6 +40,7 @@
 * [**QML**](#qml)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
+* [**SCSS**](#scss)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
@@ -208,7 +210,6 @@
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
-* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 * [**jakobnissen/hardware_introduction**](https://github.com/jakobnissen/hardware_introduction): What scientific programmers must know about CPUs and RAM to write fast code.
 * [**swcarpentry/shell-novice**](https://github.com/swcarpentry/shell-novice): The Unix Shell
 * [**laserkelvin/yaml-resume**](https://github.com/laserkelvin/yaml-resume): A one-stop shop for academic/industry resume and CV formatting using YAML and Jinja2
@@ -220,6 +221,10 @@
 * [**andybrewer/mvp**](https://github.com/andybrewer/mvp): MVP.css — Minimalist stylesheet for HTML elements
 * [**wowchemy/wowchemy-hugo-themes**](https://github.com/wowchemy/wowchemy-hugo-themes): 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 * [**twintproject/twint-explorer**](https://github.com/twintproject/twint-explorer): TWINT Graph Visualizer
+
+## Haskell
+
+* [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten
 
 ## JavaScript
 
@@ -294,6 +299,8 @@
 
 ## Jupyter Notebook
 
+* [**Milne-Centre/Prometheus**](https://github.com/Milne-Centre/Prometheus): Synthetic rovibrational spectra. (Currently diatomic only)
+* [**srush/streambook**](https://github.com/srush/streambook): Live Python Notebooks with any Editor
 * [**VanderbiltAstronomy/astr_8070_s21**](https://github.com/VanderbiltAstronomy/astr_8070_s21): Spring 2021 course materials for ASTR 8070: Astrostatistics
 * [**cgobat/pulsar-nulling**](https://github.com/cgobat/pulsar-nulling): Analysis of radio pulsar parameters and their relationships with nulling statistics
 * [**marceloprates/prettymaps**](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
@@ -880,6 +887,10 @@
 * [**jonasbb/pre-commit-latex-hooks**](https://github.com/jonasbb/pre-commit-latex-hooks): pre-commit hooks to improve LaTeX writing.
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+
+## SCSS
+
+* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 
 ## Shell
 
