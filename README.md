@@ -246,7 +246,7 @@
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
-* [**mjswensen/themer**](https://github.com/mjswensen/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+* [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
 * [**impress/impress.js**](https://github.com/impress/impress.js): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -407,6 +407,7 @@
 
 ## Python
 
+* [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
 * [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
 * [**asottile/reorder_python_imports**](https://github.com/asottile/reorder_python_imports): Rewrites source to reorder python imports
 * [**psf/black**](https://github.com/psf/black): The uncompromising Python code formatter
@@ -415,9 +416,7 @@
 * [**samuelcolvin/python-devtools**](https://github.com/samuelcolvin/python-devtools): Dev tools for python
 * [**kbarbary/extinction**](https://github.com/kbarbary/extinction): Fast interstellar dust extinction laws in Python
 * [**astropy/astropy**](https://github.com/astropy/astropy): Repository for the Astropy core package
-* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogues 😸 !
 * [**giampaolo/psutil**](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): 💻 Simulating cosmic fireworks 💥 !
 * [**randolf-scholz/autokey_julia_unicode**](https://github.com/randolf-scholz/autokey_julia_unicode): Add all JuliaLang unicode abbreviations to AutoKey.
 * [**aristocratos/bpytop**](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
 * [**chipmuenk/pyfda**](https://github.com/chipmuenk/pyfda): Python Filter Design Analysis Tool
@@ -915,6 +914,7 @@
 
 ## TeX
 
+* [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
 * [**rodluger/showyourwork**](https://github.com/rodluger/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
 * [**xu-cheng/texlive-action**](https://github.com/xu-cheng/texlive-action): :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 * [**kourgeorge/arxiv-style**](https://github.com/kourgeorge/arxiv-style): A Latex style and template for paper preprints (based on NIPS style)
