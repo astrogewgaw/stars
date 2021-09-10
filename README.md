@@ -165,6 +165,9 @@
 
 ## Go
 
+* [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, efficient spring animation library 🎼
+* [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss): Style definitions for nice terminal layouts 👄
+* [**muesli/beehive**](https://github.com/muesli/beehive): A flexible event/agent & automation system with lots of bees 🐝
 * [**nektos/act**](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 * [**yudai/gotty**](https://github.com/yudai/gotty): Share your terminal as a web application
 * [**wtfutil/wtf**](https://github.com/wtfutil/wtf): The personal information dashboard for your terminal
@@ -407,6 +410,8 @@
 
 ## Python
 
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
+* [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
 * [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
 * [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
 * [**asottile/reorder_python_imports**](https://github.com/asottile/reorder_python_imports): Rewrites source to reorder python imports
@@ -914,6 +919,7 @@
 
 ## TeX
 
+* [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
 * [**rodluger/showyourwork**](https://github.com/rodluger/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
 * [**xu-cheng/texlive-action**](https://github.com/xu-cheng/texlive-action): :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
