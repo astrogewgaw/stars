@@ -50,6 +50,7 @@
 
 ## C
 
+* [**demorest/psrfits_utils**](https://github.com/demorest/psrfits_utils): Utility library for working with search- and fold-mode PSRFITS pulsar data files.
 * [**mattpitkin/lintegrate**](https://github.com/mattpitkin/lintegrate): A numerical integration routine that works for the natural logarithm of functions
 * [**jayanthc/yapp**](https://github.com/jayanthc/yapp): Yet Another Pulsar Processor (YAPP) is a suite of radio pulsar data analysis software.
 * [**debauchee/barrier**](https://github.com/debauchee/barrier): Open-source KVM software
@@ -302,6 +303,9 @@
 
 ## Jupyter Notebook
 
+* [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
+* [**AaronWatters/jp_proxy_widget**](https://github.com/AaronWatters/jp_proxy_widget): Generic Jupyter/IPython widget implementation that will support many types of javascript libraries and interactions.
+* [**AaronWatters/jp_doodle**](https://github.com/AaronWatters/jp_doodle): Tools for drawing 2d and 3d interactive visualizations using Jupyter proxy widgets
 * [**Milne-Centre/Prometheus**](https://github.com/Milne-Centre/Prometheus): Synthetic rovibrational spectra. (Currently diatomic only)
 * [**srush/streambook**](https://github.com/srush/streambook): Live Python Notebooks with any Editor
 * [**VanderbiltAstronomy/astr_8070_s21**](https://github.com/VanderbiltAstronomy/astr_8070_s21): Spring 2021 course materials for ASTR 8070: Astrostatistics
