@@ -50,6 +50,7 @@
 
 ## C
 
+* [**weltevrede/psrsalsa**](https://github.com/weltevrede/psrsalsa): PSRSALSA: A Suite of ALgorithms for Statistical Analysis of pulsar data. Please refer to the following website for dowload instructions and a tutorial:
 * [**demorest/psrfits_utils**](https://github.com/demorest/psrfits_utils): Utility library for working with search- and fold-mode PSRFITS pulsar data files.
 * [**mattpitkin/lintegrate**](https://github.com/mattpitkin/lintegrate): A numerical integration routine that works for the natural logarithm of functions
 * [**jayanthc/yapp**](https://github.com/jayanthc/yapp): Yet Another Pulsar Processor (YAPP) is a suite of radio pulsar data analysis software.
@@ -902,6 +903,7 @@
 
 ## Shell
 
+* [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
 * [**romkatv/powerlevel10k**](https://github.com/romkatv/powerlevel10k): A Zsh theme
 * [**pypa/manylinux**](https://github.com/pypa/manylinux): Python wheels that work on any linux (almost)
