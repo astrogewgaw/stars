@@ -167,6 +167,7 @@
 
 ## Go
 
+* [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
 * [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, efficient spring animation library 🎼
 * [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss): Style definitions for nice terminal layouts 👄
 * [**muesli/beehive**](https://github.com/muesli/beehive): A flexible event/agent & automation system with lots of bees 🐝
@@ -415,6 +416,7 @@
 
 ## Python
 
+* [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted Youtube media server
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
 * [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
