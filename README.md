@@ -81,6 +81,8 @@
 
 ## C++
 
+* [**rajatjain1997/subprocess**](https://github.com/rajatjain1997/subprocess): A C++ high level library for running shell processes
+* [**duartegroup/molfunc**](https://github.com/duartegroup/molfunc): fast functionalisation of molecules
 * [**exoplanet-dev/celerite2**](https://github.com/exoplanet-dev/celerite2): Fast & scalable Gaussian Processes in one dimension
 * [**organicmaps/organicmaps**](https://github.com/organicmaps/organicmaps): 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team!
 * [**AstroAccelerateOrg/astro-accelerate**](https://github.com/AstroAccelerateOrg/astro-accelerate): AstroAccelerate is a many-core accelerated software package for processing time-domain radio-astronomy data.
@@ -416,6 +418,8 @@
 
 ## Python
 
+* [**peterniuzai/FAST_FRB**](https://github.com/peterniuzai/FAST_FRB): FAST FRB offline Pipeline. This Pipeline can do a search using 21 GPU nodes simultaneously, each with 2 RTX2080 GPU cards.
+* [**MJTemple/qsogen**](https://github.com/MJTemple/qsogen): Model quasar SEDs
 * [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted Youtube media server
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
@@ -838,7 +842,7 @@
 * [**clap-rs/clap**](https://github.com/clap-rs/clap): A full featured, fast Command Line Argument Parser for Rust
 * [**serde-rs/serde**](https://github.com/serde-rs/serde): Serialization framework for Rust
 * [**tikv/tikv**](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
-* [**hecrj/iced**](https://github.com/hecrj/iced): A cross-platform GUI library for Rust, inspired by Elm
+* [**iced-rs/iced**](https://github.com/iced-rs/iced): A cross-platform GUI library for Rust, inspired by Elm
 * [**rust-unofficial/awesome-rust**](https://github.com/rust-unofficial/awesome-rust): A curated list of Rust code and resources.
 * [**rust-lang/regex**](https://github.com/rust-lang/regex): An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 * [**rust-lang-nursery/lazy-static.rs**](https://github.com/rust-lang-nursery/lazy-static.rs): A small macro for defining lazy evaluated static variables in Rust.
