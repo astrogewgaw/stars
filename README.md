@@ -310,6 +310,7 @@
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
 * [**AaronWatters/jp_proxy_widget**](https://github.com/AaronWatters/jp_proxy_widget): Generic Jupyter/IPython widget implementation that will support many types of javascript libraries and interactions.
 * [**AaronWatters/jp_doodle**](https://github.com/AaronWatters/jp_doodle): Tools for drawing 2d and 3d interactive visualizations using Jupyter proxy widgets
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**Milne-Centre/Prometheus**](https://github.com/Milne-Centre/Prometheus): Synthetic rovibrational spectra. (Currently diatomic only)
 * [**srush/streambook**](https://github.com/srush/streambook): Live Python Notebooks with any Editor
 * [**VanderbiltAstronomy/astr_8070_s21**](https://github.com/VanderbiltAstronomy/astr_8070_s21): Spring 2021 course materials for ASTR 8070: Astrostatistics
@@ -418,10 +419,18 @@
 
 ## Python
 
+* [**pythonprofilers/memory_profiler**](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
+* [**vrodgom/statmorph**](https://github.com/vrodgom/statmorph): Python code for calculating non-parametric morphological diagnostics of galaxy images.
+* [**Hazboun6/hasasia**](https://github.com/Hazboun6/hasasia): Python package for calculating pulsar timing array sensitivity curves.
+* [**zoghbi-a/nicer-background**](https://github.com/zoghbi-a/nicer-background): A model for estimating NICER background using Machine Learning
+* [**healpy/healpy**](https://github.com/healpy/healpy): Python healpix maps tools
+* [**astropy/specutils**](https://github.com/astropy/specutils): An Astropy coordinated package for astronomical spectroscopy.  Maintainers: @nmearl @crawfordsm @keflavich @eteq
+* [**sirfuzzalot/textual-inputs**](https://github.com/sirfuzzalot/textual-inputs): Textual Inputs is a collection of input widgets for the Textual TUI framework.
+* [**rupertcw/pytest-performance**](https://github.com/rupertcw/pytest-performance): A simple plugin to ensure the execution of critical sections of code has not been impacted
+* [**encode/httpx**](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [**peterniuzai/FAST_FRB**](https://github.com/peterniuzai/FAST_FRB): FAST FRB offline Pipeline. This Pipeline can do a search using 21 GPU nodes simultaneously, each with 2 RTX2080 GPU cards.
 * [**MJTemple/qsogen**](https://github.com/MJTemple/qsogen): Model quasar SEDs
 * [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted Youtube media server
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
 * [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
 * [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
