@@ -373,6 +373,7 @@
 
 ## Others
 
+* [**jive-vlbi/PolConvert**](https://github.com/jive-vlbi/PolConvert): Advanced polarization calibration of linear feeds in VLBI observations.
 * [**gwisk/gradguide**](https://github.com/gwisk/gradguide): A guide on STEM PhD admissions
 * [**bromite/bromite**](https://github.com/bromite/bromite): Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 * [**astronexus/HYG-Database**](https://github.com/astronexus/HYG-Database): Current version of the HYG Stellar database
@@ -419,6 +420,10 @@
 
 ## Python
 
+* [**fabric/patchwork**](https://github.com/fabric/patchwork): Common deployment/sysadmin operations, built on Fabric
+* [**pyinvoke/invocations**](https://github.com/pyinvoke/invocations): Reusable Invoke tasks
+* [**fabric/fabric**](https://github.com/fabric/fabric): Simple, Pythonic remote execution and deployment.
+* [**Hazboun6/PulsarDataToolbox**](https://github.com/Hazboun6/PulsarDataToolbox): Package for dealing with PSRFITS files within Python
 * [**pythonprofilers/memory_profiler**](https://github.com/pythonprofilers/memory_profiler): Monitor Memory usage of Python code
 * [**vrodgom/statmorph**](https://github.com/vrodgom/statmorph): Python code for calculating non-parametric morphological diagnostics of galaxy images.
 * [**Hazboun6/hasasia**](https://github.com/Hazboun6/hasasia): Python package for calculating pulsar timing array sensitivity curves.
