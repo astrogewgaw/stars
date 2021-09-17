@@ -213,6 +213,7 @@
 
 ## HTML
 
+* [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
@@ -310,7 +311,6 @@
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
 * [**AaronWatters/jp_proxy_widget**](https://github.com/AaronWatters/jp_proxy_widget): Generic Jupyter/IPython widget implementation that will support many types of javascript libraries and interactions.
 * [**AaronWatters/jp_doodle**](https://github.com/AaronWatters/jp_doodle): Tools for drawing 2d and 3d interactive visualizations using Jupyter proxy widgets
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**Milne-Centre/Prometheus**](https://github.com/Milne-Centre/Prometheus): Synthetic rovibrational spectra. (Currently diatomic only)
 * [**srush/streambook**](https://github.com/srush/streambook): Live Python Notebooks with any Editor
 * [**VanderbiltAstronomy/astr_8070_s21**](https://github.com/VanderbiltAstronomy/astr_8070_s21): Spring 2021 course materials for ASTR 8070: Astrostatistics
@@ -420,6 +420,9 @@
 
 ## Python
 
+* [**deepmind/tree**](https://github.com/deepmind/tree): tree is a library for working with nested data structures
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
+* [**hrshe/pulsar-analysis-package**](https://github.com/hrshe/pulsar-analysis-package): This package was developed during my time at Raman Research Institute while working with Prof Avinash Deshpande (desh). Currently, refactoring the package to make it more readable and usable while also adding some new features
 * [**fabric/patchwork**](https://github.com/fabric/patchwork): Common deployment/sysadmin operations, built on Fabric
 * [**pyinvoke/invocations**](https://github.com/pyinvoke/invocations): Reusable Invoke tasks
 * [**fabric/fabric**](https://github.com/fabric/fabric): Simple, Pythonic remote execution and deployment.
