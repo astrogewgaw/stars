@@ -181,7 +181,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Open-Source Photo Management powered by Go and Google TensorFlow 🌈
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -279,6 +279,7 @@
 
 ## Julia
 
+* [**mcabbott/Tullio.jl**](https://github.com/mcabbott/Tullio.jl): ⅀
 * [**JuliaPlots/Plots.jl**](https://github.com/JuliaPlots/Plots.jl): Powerful convenience for Julia visualizations and data analysis
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
 * [**mojaie/MolecularGraph.jl**](https://github.com/mojaie/MolecularGraph.jl): Graph-based molecule modeling toolkit for cheminformatics
@@ -420,6 +421,7 @@
 
 ## Python
 
+* [**nat/ghtop**](https://github.com/nat/ghtop): See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 * [**deepmind/tree**](https://github.com/deepmind/tree): tree is a library for working with nested data structures
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**hrshe/pulsar-analysis-package**](https://github.com/hrshe/pulsar-analysis-package): This package was developed during my time at Raman Research Institute while working with Prof Avinash Deshpande (desh). Currently, refactoring the package to make it more readable and usable while also adding some new features
@@ -438,7 +440,7 @@
 * [**encode/httpx**](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [**peterniuzai/FAST_FRB**](https://github.com/peterniuzai/FAST_FRB): FAST FRB offline Pipeline. This Pipeline can do a search using 21 GPU nodes simultaneously, each with 2 RTX2080 GPU cards.
 * [**MJTemple/qsogen**](https://github.com/MJTemple/qsogen): Model quasar SEDs
-* [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted Youtube media server
+* [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted YouTube media server
 * [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
 * [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
 * [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
@@ -510,7 +512,7 @@
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
 * [**hfansion/curvefitting**](https://github.com/hfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
-* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 A powerful matplotlib wrapper for making beautiful, publication-quality graphics
+* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 An efficient matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
 * [**dantaki/vapeplot**](https://github.com/dantaki/vapeplot): matplotlib extension for vaporwave aesthetics
 * [**dhaitz/mplcyberpunk**](https://github.com/dhaitz/mplcyberpunk): "Cyberpunk style" for matplotlib plots
