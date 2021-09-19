@@ -50,6 +50,7 @@
 
 ## C
 
+* [**hpjansson/chafa**](https://github.com/hpjansson/chafa): 📺🗿 Terminal graphics for the 21st century.
 * [**weltevrede/psrsalsa**](https://github.com/weltevrede/psrsalsa): PSRSALSA: A Suite of ALgorithms for Statistical Analysis of pulsar data. Please refer to the following website for dowload instructions and a tutorial:
 * [**demorest/psrfits_utils**](https://github.com/demorest/psrfits_utils): Utility library for working with search- and fold-mode PSRFITS pulsar data files.
 * [**mattpitkin/lintegrate**](https://github.com/mattpitkin/lintegrate): A numerical integration routine that works for the natural logarithm of functions
@@ -309,6 +310,7 @@
 
 ## Jupyter Notebook
 
+* [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
 * [**AaronWatters/jp_proxy_widget**](https://github.com/AaronWatters/jp_proxy_widget): Generic Jupyter/IPython widget implementation that will support many types of javascript libraries and interactions.
 * [**AaronWatters/jp_doodle**](https://github.com/AaronWatters/jp_doodle): Tools for drawing 2d and 3d interactive visualizations using Jupyter proxy widgets
@@ -421,6 +423,9 @@
 
 ## Python
 
+* [**rzellem/EXOTIC**](https://github.com/rzellem/EXOTIC): EXOplanet Transit Interpretation Code
+* [**jradavenport/appaloosa**](https://github.com/jradavenport/appaloosa): Python-based flare finding code for Kepler light curves.
+* [**scikit-hep/awkward-1.0**](https://github.com/scikit-hep/awkward-1.0): Manipulate JSON-like data with NumPy-like idioms.
 * [**nat/ghtop**](https://github.com/nat/ghtop): See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 * [**deepmind/tree**](https://github.com/deepmind/tree): tree is a library for working with nested data structures
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
@@ -512,7 +517,7 @@
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
 * [**hfansion/curvefitting**](https://github.com/hfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
-* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 An efficient matplotlib wrapper for making beautiful, publication-quality graphics
+* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 An economic matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
 * [**dantaki/vapeplot**](https://github.com/dantaki/vapeplot): matplotlib extension for vaporwave aesthetics
 * [**dhaitz/mplcyberpunk**](https://github.com/dhaitz/mplcyberpunk): "Cyberpunk style" for matplotlib plots
