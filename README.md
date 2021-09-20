@@ -50,6 +50,7 @@
 
 ## C
 
+* [**dnelson86/arepo**](https://github.com/dnelson86/arepo): This the public version of the moving-mesh AREPO code for large-scale structure and galaxy formation simulations.
 * [**hpjansson/chafa**](https://github.com/hpjansson/chafa): 📺🗿 Terminal graphics for the 21st century.
 * [**weltevrede/psrsalsa**](https://github.com/weltevrede/psrsalsa): PSRSALSA: A Suite of ALgorithms for Statistical Analysis of pulsar data. Please refer to the following website for dowload instructions and a tutorial:
 * [**demorest/psrfits_utils**](https://github.com/demorest/psrfits_utils): Utility library for working with search- and fold-mode PSRFITS pulsar data files.
@@ -834,6 +835,10 @@
 
 ## Rust
 
+* [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
+* [**MoonZoon/MoonZoon**](https://github.com/MoonZoon/MoonZoon): Rust Fullstack Framework
+* [**seed-rs/seed**](https://github.com/seed-rs/seed): A Rust framework for creating web apps
+* [**thedodd/trunk**](https://github.com/thedodd/trunk): Build, bundle & ship your Rust WASM application to the web.
 * [**nannou-org/nannou**](https://github.com/nannou-org/nannou): A Creative Coding Framework for Rust.
 * [**jpochyla/psst**](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 * [**sixtyfpsui/sixtyfps**](https://github.com/sixtyfpsui/sixtyfps): SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
