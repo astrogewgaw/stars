@@ -131,6 +131,7 @@
 
 ## CSS
 
+* [**kmaasrud/awesome-obsidian**](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [**HeRTA/FRBSTATS**](https://github.com/HeRTA/FRBSTATS): Repository for the FRBSTATS web platform.
 
 ## Cuda
@@ -377,6 +378,7 @@
 
 ## Others
 
+* [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
 * [**jive-vlbi/PolConvert**](https://github.com/jive-vlbi/PolConvert): Advanced polarization calibration of linear feeds in VLBI observations.
 * [**gwisk/gradguide**](https://github.com/gwisk/gradguide): A guide on STEM PhD admissions
 * [**bromite/bromite**](https://github.com/bromite/bromite): Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -424,6 +426,7 @@
 
 ## Python
 
+* [**Seraf-N/SinglePulseTasks**](https://github.com/Seraf-N/SinglePulseTasks): Script for detecting, dedispersing and archiving pulsar single pulses such as Giant Pulses from the Crab from baseband data without running into dedispersion-related memory issues.
 * [**rzellem/EXOTIC**](https://github.com/rzellem/EXOTIC): EXOplanet Transit Interpretation Code
 * [**jradavenport/appaloosa**](https://github.com/jradavenport/appaloosa): Python-based flare finding code for Kepler light curves.
 * [**scikit-hep/awkward-1.0**](https://github.com/scikit-hep/awkward-1.0): Manipulate JSON-like data with NumPy-like idioms.
@@ -960,6 +963,7 @@
 
 ## TeX
 
+* [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
 * [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
 * [**rodluger/showyourwork**](https://github.com/rodluger/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
