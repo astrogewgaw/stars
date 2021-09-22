@@ -17,6 +17,7 @@
 * [**C++**](#c++)
 * [**CSS**](#css)
 * [**Cuda**](#cuda)
+* [**Cython**](#cython)
 * [**Dhall**](#dhall)
 * [**Elm**](#elm)
 * [**Emacs Lisp**](#emacs-lisp)
@@ -83,6 +84,8 @@
 
 ## C++
 
+* [**podgorskiy/bimpy**](https://github.com/podgorskiy/bimpy): imgui for python
+* [**aristocratos/btop**](https://github.com/aristocratos/btop): A monitor of resources
 * [**rajatjain1997/subprocess**](https://github.com/rajatjain1997/subprocess): A C++ high level library for running shell processes
 * [**duartegroup/molfunc**](https://github.com/duartegroup/molfunc): fast functionalisation of molecules
 * [**exoplanet-dev/celerite2**](https://github.com/exoplanet-dev/celerite2): Fast & scalable Gaussian Processes in one dimension
@@ -139,6 +142,10 @@
 * [**GPU-correlators/xGPU**](https://github.com/GPU-correlators/xGPU): A GPU based FX correlator for radio astronomy
 * [**realfastvla/rfgpu**](https://github.com/realfastvla/rfgpu): GPU-based gridding and imaging library for realfast
 
+## Cython
+
+* [**pyimgui/pyimgui**](https://github.com/pyimgui/pyimgui): Cython-based Python bindings for dear imgui
+
 ## Dhall
 
 * [**dhall-lang/dhall-lang**](https://github.com/dhall-lang/dhall-lang): Maintainable configuration files
@@ -172,6 +179,7 @@
 
 ## Go
 
+* [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
 * [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, efficient spring animation library 🎼
 * [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss): Style definitions for nice terminal layouts 👄
@@ -426,6 +434,11 @@
 
 ## Python
 
+* [**samuelcolvin/pydantic**](https://github.com/samuelcolvin/pydantic): Data parsing and validation using Python type hints
+* [**sampsyo/clusterfutures**](https://github.com/sampsyo/clusterfutures): super-slick Slurm and Condor cluster execution for Python
+* [**achillesrasquinha/pipupgrade**](https://github.com/achillesrasquinha/pipupgrade): 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
+* [**achillesrasquinha/boilpy**](https://github.com/achillesrasquinha/boilpy): 📦 The Best Python Package Template in the Universe
+* [**iraf-community/pyraf**](https://github.com/iraf-community/pyraf): Command language for IRAF based on Python.
 * [**Seraf-N/SinglePulseTasks**](https://github.com/Seraf-N/SinglePulseTasks): Script for detecting, dedispersing and archiving pulsar single pulses such as Giant Pulses from the Crab from baseband data without running into dedispersion-related memory issues.
 * [**rzellem/EXOTIC**](https://github.com/rzellem/EXOTIC): EXOplanet Transit Interpretation Code
 * [**jradavenport/appaloosa**](https://github.com/jradavenport/appaloosa): Python-based flare finding code for Kepler light curves.
@@ -521,7 +534,7 @@
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
 * [**hfansion/curvefitting**](https://github.com/hfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
-* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 An economic matplotlib wrapper for making beautiful, publication-quality graphics
+* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
 * [**dantaki/vapeplot**](https://github.com/dantaki/vapeplot): matplotlib extension for vaporwave aesthetics
 * [**dhaitz/mplcyberpunk**](https://github.com/dhaitz/mplcyberpunk): "Cyberpunk style" for matplotlib plots
@@ -941,6 +954,7 @@
 
 ## Shell
 
+* [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
 * [**romkatv/powerlevel10k**](https://github.com/romkatv/powerlevel10k): A Zsh theme
