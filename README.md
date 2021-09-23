@@ -434,6 +434,9 @@
 
 ## Python
 
+* [**chriskiehl/Gooey**](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
+* [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+* [**ArtificialStellarPopulations/ArtPop**](https://github.com/ArtificialStellarPopulations/ArtPop): Building artificial galaxies one star at a time.
 * [**samuelcolvin/pydantic**](https://github.com/samuelcolvin/pydantic): Data parsing and validation using Python type hints
 * [**sampsyo/clusterfutures**](https://github.com/sampsyo/clusterfutures): super-slick Slurm and Condor cluster execution for Python
 * [**achillesrasquinha/pipupgrade**](https://github.com/achillesrasquinha/pipupgrade): 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.
