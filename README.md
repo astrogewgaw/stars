@@ -84,6 +84,7 @@
 
 ## C++
 
+* [**mir-group/flare_pp**](https://github.com/mir-group/flare_pp): A many-body extension of the FLARE code.
 * [**podgorskiy/bimpy**](https://github.com/podgorskiy/bimpy): imgui for python
 * [**aristocratos/btop**](https://github.com/aristocratos/btop): A monitor of resources
 * [**rajatjain1997/subprocess**](https://github.com/rajatjain1997/subprocess): A C++ high level library for running shell processes
@@ -248,6 +249,7 @@
 
 ## JavaScript
 
+* [**cherryng/CHIME-PSR_web-monitor**](https://github.com/cherryng/CHIME-PSR_web-monitor): d3-based web tool to monitor data quality of the CHIME/Pulsar backend
 * [**astrofrog/acknowledgment-generator**](https://github.com/astrofrog/acknowledgment-generator): Easily generate acknowledgment sections for papers
 * [**saltcorn/saltcorn**](https://github.com/saltcorn/saltcorn): Free and open source no-code application builder
 * [**grocy/grocy**](https://github.com/grocy/grocy): ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
@@ -320,6 +322,7 @@
 
 ## Jupyter Notebook
 
+* [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
 * [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
 * [**AaronWatters/jp_proxy_widget**](https://github.com/AaronWatters/jp_proxy_widget): Generic Jupyter/IPython widget implementation that will support many types of javascript libraries and interactions.
@@ -434,6 +437,10 @@
 
 ## Python
 
+* [**pypeit/PypeIt**](https://github.com/pypeit/PypeIt): The Python Spectroscopic Data Reduction Pipeline
+* [**mir-group/flare**](https://github.com/mir-group/flare): An open-source Python package for creating fast and accurate interatomic potentials.
+* [**haykh/brender_astro**](https://github.com/haykh/brender_astro): Python-based Blender module for scientific visualization
+* [**tomicapretto/flexitext**](https://github.com/tomicapretto/flexitext): Flexitext: Draw styled text in Matplotlib
 * [**chriskiehl/Gooey**](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
 * [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 * [**ArtificialStellarPopulations/ArtPop**](https://github.com/ArtificialStellarPopulations/ArtPop): Building artificial galaxies one star at a time.
