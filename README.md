@@ -437,6 +437,14 @@
 
 ## Python
 
+* [**k2bd/typen**](https://github.com/k2bd/typen): Strong Type Hints with Traits
+* [**Stewori/pytypes**](https://github.com/Stewori/pytypes): Typing-toolbox for Python 3 _and_ 2.7 w.r.t. PEP 484.
+* [**seandstewart/typical**](https://github.com/seandstewart/typical): Typical: Fast, simple, & correct data-validation using Python 3 typing.
+* [**agronholm/typeguard**](https://github.com/agronholm/typeguard): Run-time type checker for Python
+* [**beartype/beartype**](https://github.com/beartype/beartype): Unbearably fast O(1) runtime type-checking in pure Python.
+* [**ofek/pypinfo**](https://github.com/ofek/pypinfo): Easily view PyPI download statistics via Google's BigQuery.
+* [**cjolowicz/cookiecutter-hypermodern-python**](https://github.com/cjolowicz/cookiecutter-hypermodern-python): Hypermodern Python Cookiecutter
+* [**executablebooks/jupyter-book**](https://github.com/executablebooks/jupyter-book): Create beautiful, publication-quality books and documents from computational content.
 * [**pypeit/PypeIt**](https://github.com/pypeit/PypeIt): The Python Spectroscopic Data Reduction Pipeline
 * [**mir-group/flare**](https://github.com/mir-group/flare): An open-source Python package for creating fast and accurate interatomic potentials.
 * [**haykh/brender_astro**](https://github.com/haykh/brender_astro): Python-based Blender module for scientific visualization
@@ -861,6 +869,7 @@
 
 ## Rust
 
+* [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
 * [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
 * [**MoonZoon/MoonZoon**](https://github.com/MoonZoon/MoonZoon): Rust Fullstack Framework
 * [**seed-rs/seed**](https://github.com/seed-rs/seed): A Rust framework for creating web apps
