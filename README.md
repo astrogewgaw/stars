@@ -437,6 +437,9 @@
 
 ## Python
 
+* [**tiangolo/poetry-version-plugin**](https://github.com/tiangolo/poetry-version-plugin): Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
+* [**mtkennerly/poetry-dynamic-versioning**](https://github.com/mtkennerly/poetry-dynamic-versioning): Plugin for Poetry to enable dynamic versioning based on VCS tags
+* [**mtkennerly/dunamai**](https://github.com/mtkennerly/dunamai): Dynamic versioning library and CLI
 * [**k2bd/typen**](https://github.com/k2bd/typen): Strong Type Hints with Traits
 * [**Stewori/pytypes**](https://github.com/Stewori/pytypes): Typing-toolbox for Python 3 _and_ 2.7 w.r.t. PEP 484.
 * [**seandstewart/typical**](https://github.com/seandstewart/typical): Typical: Fast, simple, & correct data-validation using Python 3 typing.
