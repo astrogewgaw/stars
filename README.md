@@ -95,7 +95,6 @@
 * [**adrn/cpp-gala**](https://github.com/adrn/cpp-gala): Experimental re-implementation of Gala potential machinery in C++
 * [**nlohmann/json**](https://github.com/nlohmann/json): JSON for Modern C++
 * [**AlexandreRouma/SDRPlusPlus**](https://github.com/AlexandreRouma/SDRPlusPlus): Cross-Platform SDR Software
-* [**chowdhuryaditya/gptool**](https://github.com/chowdhuryaditya/gptool): gptool - GMRT Pulsar Tool || RFI mitigation and pulsar processing for GMRT beamformer data.
 * [**kmsmith137/simpulse**](https://github.com/kmsmith137/simpulse): C++/python library for simulating FRB's and pulsars
 * [**JedCPT/ff-flagger**](https://github.com/JedCPT/ff-flagger): *No description*
 * [**TRASAL/RFIm**](https://github.com/TRASAL/RFIm): Radio Frequency Interference (RFI) mitigation algorithms.
@@ -249,6 +248,7 @@
 
 ## JavaScript
 
+* [**jsonresume/resume-cli**](https://github.com/jsonresume/resume-cli): CLI tool to easily setup a new resume 📑
 * [**cherryng/CHIME-PSR_web-monitor**](https://github.com/cherryng/CHIME-PSR_web-monitor): d3-based web tool to monitor data quality of the CHIME/Pulsar backend
 * [**astrofrog/acknowledgment-generator**](https://github.com/astrofrog/acknowledgment-generator): Easily generate acknowledgment sections for papers
 * [**saltcorn/saltcorn**](https://github.com/saltcorn/saltcorn): Free and open source no-code application builder
@@ -292,6 +292,9 @@
 
 ## Julia
 
+* [**tlienart/Franklin.jl**](https://github.com/tlienart/Franklin.jl): (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
+* [**JunoLab/Weave.jl**](https://github.com/JunoLab/Weave.jl): Scientific reports/literate programming for Julia
+* [**rikhuijzer/Books.jl**](https://github.com/rikhuijzer/Books.jl): Create books with Julia
 * [**mcabbott/Tullio.jl**](https://github.com/mcabbott/Tullio.jl): ⅀
 * [**JuliaPlots/Plots.jl**](https://github.com/JuliaPlots/Plots.jl): Powerful convenience for Julia visualizations and data analysis
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
@@ -437,6 +440,7 @@
 
 ## Python
 
+* [**skypyproject/skypy**](https://github.com/skypyproject/skypy): SkyPy: A package for modelling the Universe.
 * [**tiangolo/poetry-version-plugin**](https://github.com/tiangolo/poetry-version-plugin): Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
 * [**mtkennerly/poetry-dynamic-versioning**](https://github.com/mtkennerly/poetry-dynamic-versioning): Plugin for Poetry to enable dynamic versioning based on VCS tags
 * [**mtkennerly/dunamai**](https://github.com/mtkennerly/dunamai): Dynamic versioning library and CLI
