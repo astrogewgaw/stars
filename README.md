@@ -164,6 +164,7 @@
 
 ## Fortran
 
+* [**DTsuna/CHIPS**](https://github.com/DTsuna/CHIPS): Open source code to unveil the Complete History of Interaction-Powered Supernovae
 * [**dullemond/radmc3d-2.0**](https://github.com/dullemond/radmc3d-2.0): *No description*
 * [**uclchem/SpectralRadex**](https://github.com/uclchem/SpectralRadex): A Python library for spectral modelling and RADEX
 * [**lmmentel/vconstr**](https://github.com/lmmentel/vconstr): A suite of programs for reconstructing the exact Kohn-Sham potentials based on accurate densities.
@@ -440,6 +441,9 @@
 
 ## Python
 
+* [**aboucaud/galcheat**](https://github.com/aboucaud/galcheat): Galaxy surveys cheatsheet
+* [**kevin218/Eureka**](https://github.com/kevin218/Eureka): Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).
+* [**boxed/mutmut**](https://github.com/boxed/mutmut): Mutation testing system
 * [**skypyproject/skypy**](https://github.com/skypyproject/skypy): SkyPy: A package for modelling the Universe.
 * [**tiangolo/poetry-version-plugin**](https://github.com/tiangolo/poetry-version-plugin): Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.
 * [**mtkennerly/poetry-dynamic-versioning**](https://github.com/mtkennerly/poetry-dynamic-versioning): Plugin for Poetry to enable dynamic versioning based on VCS tags
