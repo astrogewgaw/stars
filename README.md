@@ -326,6 +326,7 @@
 
 ## Jupyter Notebook
 
+* [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
 * [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
@@ -441,6 +442,7 @@
 
 ## Python
 
+* [**StavrosAkras/SATELLITE**](https://github.com/StavrosAkras/SATELLITE): Spectroscopic Analysis Tool for intEgraL FieLd unIt daTacubEs
 * [**aboucaud/galcheat**](https://github.com/aboucaud/galcheat): Galaxy surveys cheatsheet
 * [**kevin218/Eureka**](https://github.com/kevin218/Eureka): Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).
 * [**boxed/mutmut**](https://github.com/boxed/mutmut): Mutation testing system
