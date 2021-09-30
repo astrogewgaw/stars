@@ -84,6 +84,8 @@
 
 ## C++
 
+* [**inducer/meshpy**](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
+* [**mamba-org/mamba**](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [**mir-group/flare_pp**](https://github.com/mir-group/flare_pp): A many-body extension of the FLARE code.
 * [**podgorskiy/bimpy**](https://github.com/podgorskiy/bimpy): imgui for python
 * [**aristocratos/btop**](https://github.com/aristocratos/btop): A monitor of resources
@@ -164,6 +166,7 @@
 
 ## Fortran
 
+* [**NihanPol/PsrPopPy2**](https://github.com/NihanPol/PsrPopPy2): Now populate and survey RRATs along with pulsars!
 * [**DTsuna/CHIPS**](https://github.com/DTsuna/CHIPS): Open source code to unveil the Complete History of Interaction-Powered Supernovae
 * [**dullemond/radmc3d-2.0**](https://github.com/dullemond/radmc3d-2.0): *No description*
 * [**uclchem/SpectralRadex**](https://github.com/uclchem/SpectralRadex): A Python library for spectral modelling and RADEX
@@ -326,6 +329,7 @@
 
 ## Jupyter Notebook
 
+* [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
 * [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
 * [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
@@ -442,6 +446,16 @@
 
 ## Python
 
+* [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
+* [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
+* [**wchenastro/Mosaic**](https://github.com/wchenastro/Mosaic): *No description*
+* [**inducer/pytential**](https://github.com/inducer/pytential): Evaluate layer and volume potentials accurately. Solve integral equations.
+* [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
+* [**inducer/boxtree**](https://github.com/inducer/boxtree): Quad/octree building for FMMs in Python and OpenCL
+* [**inducer/pycuda**](https://github.com/inducer/pycuda): CUDA integration for Python, plus shiny features
+* [**inducer/pyopencl**](https://github.com/inducer/pyopencl): OpenCL integration for Python, plus shiny features
+* [**inducer/loopy**](https://github.com/inducer/loopy): A code generator for array-based code on CPUs and GPUs
+* [**Kitchi/plumber**](https://github.com/Kitchi/plumber): *No description*
 * [**StavrosAkras/SATELLITE**](https://github.com/StavrosAkras/SATELLITE): Spectroscopic Analysis Tool for intEgraL FieLd unIt daTacubEs
 * [**aboucaud/galcheat**](https://github.com/aboucaud/galcheat): Galaxy surveys cheatsheet
 * [**kevin218/Eureka**](https://github.com/kevin218/Eureka): Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).
@@ -1025,6 +1039,7 @@
 
 ## TypeScript
 
+* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 A interplanetary communication platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
