@@ -398,6 +398,7 @@
 
 ## Others
 
+* [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
 * [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
 * [**jive-vlbi/PolConvert**](https://github.com/jive-vlbi/PolConvert): Advanced polarization calibration of linear feeds in VLBI observations.
 * [**gwisk/gradguide**](https://github.com/gwisk/gradguide): A guide on STEM PhD admissions
@@ -1049,7 +1050,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
