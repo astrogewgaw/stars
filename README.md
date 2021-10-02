@@ -61,7 +61,7 @@
 * [**astrofrog/fast-histogram**](https://github.com/astrofrog/fast-histogram): :zap: Fast 1D and 2D histogram functions in Python :zap:
 * [**eddieantonio/imgcat**](https://github.com/eddieantonio/imgcat): It's like cat, but for images.
 * [**ymaan4/RFIClean**](https://github.com/ymaan4/RFIClean): Mitigation of periodic as well as narrow-band and spiky/bursty RFI from time-domain filterbank data.
-* [**AppImage/AppImageKit**](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
+* [**AppImage/AppImageKit**](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [**ahrm/sioyek**](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books.
 * [**mindriot101/rust-fitsio**](https://github.com/mindriot101/rust-fitsio): FFI wrapper around cfitsio in Rust
 * [**pydata/bottleneck**](https://github.com/pydata/bottleneck): Fast NumPy array functions written in C
@@ -228,6 +228,7 @@
 
 ## HTML
 
+* [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming lesson.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
@@ -826,7 +827,7 @@
 * [**ansible/ansible**](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [**leegao/readme2tex**](https://github.com/leegao/readme2tex): Renders TeXy Math for Github Readmes
 * [**darrenburns/pytest-clarity**](https://github.com/darrenburns/pytest-clarity): A plugin to improve the output of pytest with colourful unified diffs
-* [**dmentipl/plonk**](https://github.com/dmentipl/plonk): Smoothed particle hydrodynamics analysis and visualization with Python
+* [**dmentipl/plonk**](https://github.com/dmentipl/plonk): Smoothed particle hydrodynamics analysis and visualization with Python.
 * [**lmfit/lmfit-py**](https://github.com/lmfit/lmfit-py): Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize, and with many additional classes and methods for curve fitting.
 * [**phuijse/P4J**](https://github.com/phuijse/P4J): Periodic time series analysis tools based on information theory
 * [**servo/homu**](https://github.com/servo/homu): A bot that integrates with GitHub and your favorite continuous integration service
