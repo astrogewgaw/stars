@@ -399,6 +399,7 @@
 
 ## Others
 
+* [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
 * [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
 * [**jive-vlbi/PolConvert**](https://github.com/jive-vlbi/PolConvert): Advanced polarization calibration of linear feeds in VLBI observations.
@@ -448,6 +449,7 @@
 
 ## Python
 
+* [**scipy/scipy**](https://github.com/scipy/scipy): SciPy library main repository
 * [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
 * [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
 * [**wchenastro/Mosaic**](https://github.com/wchenastro/Mosaic): *No description*
