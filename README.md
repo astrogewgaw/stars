@@ -41,7 +41,6 @@
 * [**QML**](#qml)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
-* [**SCSS**](#scss)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
@@ -166,6 +165,10 @@
 
 ## Fortran
 
+* [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
+* [**fortran-lang/fftpack**](https://github.com/fortran-lang/fftpack): double precision version of fftpack
+* [**fortran-lang/stdlib**](https://github.com/fortran-lang/stdlib): Fortran Standard Library
+* [**fortran-lang/fpm**](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm)
 * [**NihanPol/PsrPopPy2**](https://github.com/NihanPol/PsrPopPy2): Now populate and survey RRATs along with pulsars!
 * [**DTsuna/CHIPS**](https://github.com/DTsuna/CHIPS): Open source code to unveil the Complete History of Interaction-Powered Supernovae
 * [**dullemond/radmc3d-2.0**](https://github.com/dullemond/radmc3d-2.0): *No description*
@@ -235,6 +238,7 @@
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
+* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 * [**jakobnissen/hardware_introduction**](https://github.com/jakobnissen/hardware_introduction): What scientific programmers must know about CPUs and RAM to write fast code.
 * [**swcarpentry/shell-novice**](https://github.com/swcarpentry/shell-novice): The Unix Shell
 * [**laserkelvin/yaml-resume**](https://github.com/laserkelvin/yaml-resume): A one-stop shop for academic/industry resume and CV formatting using YAML and Jinja2
@@ -399,6 +403,7 @@
 
 ## Others
 
+* [**ruta-k/uGMRTprimarybeam-CASA6**](https://github.com/ruta-k/uGMRTprimarybeam-CASA6): *No description*
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
 * [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
@@ -449,6 +454,9 @@
 
 ## Python
 
+* [**ruta-k/CAPTURE-CASA6**](https://github.com/ruta-k/CAPTURE-CASA6): *No description*
+* [**ruta-k/CAPTURE-POL**](https://github.com/ruta-k/CAPTURE-POL): A continuum imaging pipeline including polarization calibration and imaging.
+* [**takluyver/flit**](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [**scipy/scipy**](https://github.com/scipy/scipy): SciPy library main repository
 * [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
 * [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
@@ -751,7 +759,7 @@
 * [**emmanuelfonseca/PSRpy**](https://github.com/emmanuelfonseca/PSRpy): An assembled package of functions and classes designed for the analysis of pulsar-timing data.
 * [**fossasia/visdom**](https://github.com/fossasia/visdom): A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 * [**nschloe/pyfma**](https://github.com/nschloe/pyfma): Fused multiply-add (with a single rounding) for Python.
-* [**nschloe/maelstrom**](https://github.com/nschloe/maelstrom): Maelstrom, a Python tool for the numerical simulation of magnetohydrodynamics.
+* [**nschloe/maelstrom**](https://github.com/nschloe/maelstrom): Numerical simulation of magnetohydrodynamics.
 * [**nschloe/tablign**](https://github.com/nschloe/tablign): Aligns columns in your ASCII tables on the command line or in vim.
 * [**nschloe/blacktex**](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
 * [**nschloe/awesome-scientific-computing**](https://github.com/nschloe/awesome-scientific-computing): :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
@@ -900,6 +908,7 @@
 
 ## Rust
 
+* [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
 * [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
 * [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
 * [**MoonZoon/MoonZoon**](https://github.com/MoonZoon/MoonZoon): Rust Fullstack Framework
@@ -997,10 +1006,6 @@
 * [**jonasbb/pre-commit-latex-hooks**](https://github.com/jonasbb/pre-commit-latex-hooks): pre-commit hooks to improve LaTeX writing.
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-
-## SCSS
-
-* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 
 ## Shell
 
