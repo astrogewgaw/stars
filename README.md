@@ -186,6 +186,7 @@
 
 ## Go
 
+* [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
 * [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, efficient spring animation library 🎼
@@ -303,7 +304,7 @@
 
 * [**tlienart/Franklin.jl**](https://github.com/tlienart/Franklin.jl): (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 * [**JunoLab/Weave.jl**](https://github.com/JunoLab/Weave.jl): Scientific reports/literate programming for Julia
-* [**rikhuijzer/Books.jl**](https://github.com/rikhuijzer/Books.jl): Create books with Julia
+* [**JuliaBooks/Books.jl**](https://github.com/JuliaBooks/Books.jl): Create books with Julia
 * [**mcabbott/Tullio.jl**](https://github.com/mcabbott/Tullio.jl): ⅀
 * [**JuliaPlots/Plots.jl**](https://github.com/JuliaPlots/Plots.jl): Powerful convenience for Julia visualizations and data analysis
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
@@ -403,6 +404,7 @@
 
 ## Others
 
+* [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
 * [**ruta-k/uGMRTprimarybeam-CASA6**](https://github.com/ruta-k/uGMRTprimarybeam-CASA6): *No description*
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
