@@ -335,6 +335,8 @@
 
 ## Jupyter Notebook
 
+* [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
+* [**farr/Isotropy**](https://github.com/farr/Isotropy): Checking isotropy in BBH inspiral orientations.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
 * [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
@@ -1011,6 +1013,7 @@
 
 ## Shell
 
+* [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
