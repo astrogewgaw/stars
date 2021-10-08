@@ -458,6 +458,8 @@
 
 ## Python
 
+* [**seatgeek/thefuzz**](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
+* [**shriharshtendulkar/FRBSignalGeneration**](https://github.com/shriharshtendulkar/FRBSignalGeneration): Utilities for generating synthetic radio telescope data
 * [**ruta-k/CAPTURE-CASA6**](https://github.com/ruta-k/CAPTURE-CASA6): *No description*
 * [**ruta-k/CAPTURE-POL**](https://github.com/ruta-k/CAPTURE-POL): A continuum imaging pipeline including polarization calibration and imaging.
 * [**takluyver/flit**](https://github.com/takluyver/flit): Simplified packaging of Python modules
@@ -471,7 +473,7 @@
 * [**inducer/pycuda**](https://github.com/inducer/pycuda): CUDA integration for Python, plus shiny features
 * [**inducer/pyopencl**](https://github.com/inducer/pyopencl): OpenCL integration for Python, plus shiny features
 * [**inducer/loopy**](https://github.com/inducer/loopy): A code generator for array-based code on CPUs and GPUs
-* [**Kitchi/plumber**](https://github.com/Kitchi/plumber): *No description*
+* [**ARDG-NRAO/plumber**](https://github.com/ARDG-NRAO/plumber): *No description*
 * [**StavrosAkras/SATELLITE**](https://github.com/StavrosAkras/SATELLITE): Spectroscopic Analysis Tool for intEgraL FieLd unIt daTacubEs
 * [**aboucaud/galcheat**](https://github.com/aboucaud/galcheat): Galaxy surveys cheatsheet
 * [**kevin218/Eureka**](https://github.com/kevin218/Eureka): Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).
@@ -1053,6 +1055,7 @@
 
 ## TypeScript
 
+* [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for academic papers
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 A interplanetary communication platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
