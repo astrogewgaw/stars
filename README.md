@@ -140,6 +140,7 @@
 
 ## Cuda
 
+* [**ajameson/dedisp**](https://github.com/ajameson/dedisp): CUDA Based De-dispersion library
 * [**GPU-correlators/xGPU**](https://github.com/GPU-correlators/xGPU): A GPU based FX correlator for radio astronomy
 * [**realfastvla/rfgpu**](https://github.com/realfastvla/rfgpu): GPU-based gridding and imaging library for realfast
 
@@ -186,6 +187,7 @@
 
 ## Go
 
+* [**fogleman/ln**](https://github.com/fogleman/ln): 3D line art engine.
 * [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
@@ -406,6 +408,8 @@
 
 ## Others
 
+* [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
+* [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
 * [**ruta-k/uGMRTprimarybeam-CASA6**](https://github.com/ruta-k/uGMRTprimarybeam-CASA6): *No description*
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
@@ -458,6 +462,9 @@
 
 ## Python
 
+* [**nschloe/quadpy**](https://github.com/nschloe/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
+* [**ksons/ln.py**](https://github.com/ksons/ln.py): The 3D Line Art Engine for Python
+* [**out-of-cheese-error/pyln**](https://github.com/out-of-cheese-error/pyln): 3D line art engine (Python port of fogleman/ln)
 * [**seatgeek/thefuzz**](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
 * [**shriharshtendulkar/FRBSignalGeneration**](https://github.com/shriharshtendulkar/FRBSignalGeneration): Utilities for generating synthetic radio telescope data
 * [**ruta-k/CAPTURE-CASA6**](https://github.com/ruta-k/CAPTURE-CASA6): *No description*
@@ -853,7 +860,7 @@
 * [**Samreay/ChainConsumer**](https://github.com/Samreay/ChainConsumer): Corner plots, LaTeX tables and plotting walks.
 * [**pycalphad/pycalphad**](https://github.com/pycalphad/pycalphad): CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.
 * [**simonw/csvs-to-sqlite**](https://github.com/simonw/csvs-to-sqlite): Convert CSV files into a SQLite database
-* [**dbt-labs/dbt**](https://github.com/dbt-labs/dbt): dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* [**dbt-labs/dbt**](https://github.com/dbt-labs/dbt): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 * [**Hazboun6/gw_sky**](https://github.com/Hazboun6/gw_sky): Project for making gravitational wave sky maps for images and animations.
 * [**RadioAstronomySoftwareGroup/pyuvdata**](https://github.com/RadioAstronomySoftwareGroup/pyuvdata): A pythonic interface for radio astronomy interferometry data (uvfits, miriad, others)
 * [**willmcgugan/rich**](https://github.com/willmcgugan/rich): Rich is a Python library for rich text and beautiful formatting in the terminal.
