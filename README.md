@@ -289,7 +289,7 @@
 * [**planetoftheweb/rayveal**](https://github.com/planetoftheweb/rayveal): A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 * [**hakimel/reveal.js**](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 * [**carloscuesta/gitmoji**](https://github.com/carloscuesta/gitmoji): An emoji guide for your commit messages. 😜
-* [**artiebits/fake-git-history**](https://github.com/artiebits/fake-git-history): Generate a beautiful GitHub activity graph.
+* [**artiebits/fake-git-history**](https://github.com/artiebits/fake-git-history): Generate Git commits
 * [**json-editor/json-editor**](https://github.com/json-editor/json-editor): JSON Schema Based Editor
 * [**lowdefy/lowdefy**](https://github.com/lowdefy/lowdefy): An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 * [**techsyndicate/starhub**](https://github.com/techsyndicate/starhub): StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
@@ -462,6 +462,8 @@
 
 ## Python
 
+* [**mwouts/jupytext**](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
+* [**kkma89/dmcalc**](https://github.com/kkma89/dmcalc): Python code to calculate in-band dispersion measure of pulsars
 * [**nschloe/quadpy**](https://github.com/nschloe/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 * [**ksons/ln.py**](https://github.com/ksons/ln.py): The 3D Line Art Engine for Python
 * [**out-of-cheese-error/pyln**](https://github.com/out-of-cheese-error/pyln): 3D line art engine (Python port of fogleman/ln)
