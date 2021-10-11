@@ -83,6 +83,7 @@
 
 ## C++
 
+* [**svlugt/dedisp**](https://github.com/svlugt/dedisp): CUDA Based De-dispersion library
 * [**inducer/meshpy**](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 * [**mamba-org/mamba**](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [**mir-group/flare_pp**](https://github.com/mir-group/flare_pp): A many-body extension of the FLARE code.
@@ -234,6 +235,7 @@
 
 ## HTML
 
+* [**jvshields/coffeepapers**](https://github.com/jvshields/coffeepapers): *No description*
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming lesson.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
@@ -462,6 +464,9 @@
 
 ## Python
 
+* [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
+* [**sympy/sympy**](https://github.com/sympy/sympy): A computer algebra system written in pure Python
+* [**Matthias1590/ConsoleDraw**](https://github.com/Matthias1590/ConsoleDraw): A python module to update the console without flashing.
 * [**mwouts/jupytext**](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 * [**kkma89/dmcalc**](https://github.com/kkma89/dmcalc): Python code to calculate in-band dispersion measure of pulsars
 * [**nschloe/quadpy**](https://github.com/nschloe/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
