@@ -83,6 +83,7 @@
 
 ## C++
 
+* [**sxyu/watplot**](https://github.com/sxyu/watplot): Interactive waterfall plots for Breakthrough Listen data
 * [**svlugt/dedisp**](https://github.com/svlugt/dedisp): CUDA Based De-dispersion library
 * [**inducer/meshpy**](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 * [**mamba-org/mamba**](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
@@ -464,6 +465,8 @@
 
 ## Python
 
+* [**leswright1977/PySpectrometer**](https://github.com/leswright1977/PySpectrometer): Raspberry Pi Spectrometer
+* [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
 * [**sympy/sympy**](https://github.com/sympy/sympy): A computer algebra system written in pure Python
 * [**Matthias1590/ConsoleDraw**](https://github.com/Matthias1590/ConsoleDraw): A python module to update the console without flashing.
@@ -656,7 +659,6 @@
 * [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): Print matplotlib colors
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
 * [**willmcgugan/textual**](https://github.com/willmcgugan/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-* [**astrogewgaw/gcp**](https://github.com/astrogewgaw/gcp): A database of pulsars in globular clusters for koshka 😸
 * [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [**lightkurve/lightkurve**](https://github.com/lightkurve/lightkurve): A friendly package for Kepler & TESS time series analysis in Python.
@@ -733,11 +735,6 @@
 * [**almarklein/visvis**](https://github.com/almarklein/visvis): Visvis - the object oriented approach to visualization
 * [**vispy/vispy**](https://github.com/vispy/vispy): Main repository for Vispy
 * [**nanograv/enterprise_extensions**](https://github.com/nanograv/enterprise_extensions): A set of extension codes, utilities, and scripts for the enterprise PTA analysis framework.
-* [**astrogewgaw/pulsars**](https://github.com/astrogewgaw/pulsars): A database of all pulsars for koshka 😸
-* [**astrogewgaw/rrats**](https://github.com/astrogewgaw/rrats): A database of RRATs for koshka 😸
-* [**astrogewgaw/glitches**](https://github.com/astrogewgaw/glitches): A database of pulsar glitches for koshka 😸
-* [**astrogewgaw/galmsps**](https://github.com/astrogewgaw/galmsps): A database of MSPs for koshka 😸
-* [**astrogewgaw/furbies**](https://github.com/astrogewgaw/furbies): A database of FRBs for koshka 😸
 * [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**jrjohansson/enplot**](https://github.com/jrjohansson/enplot): one-line plotting tool
 * [**Morisset/pyStb99**](https://github.com/Morisset/pyStb99): pythonic interface to the Starburst99 code
@@ -1029,6 +1026,7 @@
 
 ## Shell
 
+* [**wimpysworld/quickemu**](https://github.com/wimpysworld/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
@@ -1069,6 +1067,7 @@
 
 ## TypeScript
 
+* [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for academic papers
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 A interplanetary communication platform 🚀
