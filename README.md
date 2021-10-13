@@ -26,6 +26,7 @@
 * [**Go**](#go)
 * [**HTML**](#html)
 * [**Haskell**](#haskell)
+* [**Java**](#java)
 * [**JavaScript**](#javascript)
 * [**Jsonnet**](#jsonnet)
 * [**Julia**](#julia)
@@ -261,6 +262,10 @@
 
 * [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten
 
+## Java
+
+* [**vivekvenkris/CandyJar**](https://github.com/vivekvenkris/CandyJar): Candidate Viewer for TRAPUM and MLGPS pulsar surveys with the MeerKAT telescope
+
 ## JavaScript
 
 * [**jsonresume/resume-cli**](https://github.com/jsonresume/resume-cli): CLI tool to easily setup a new resume 📑
@@ -411,6 +416,7 @@
 
 ## Others
 
+* [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
 * [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
@@ -1093,6 +1099,7 @@
 
 ## Vim script
 
+* [**sonph/onehalf**](https://github.com/sonph/onehalf): Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 * [**romeovs/creep**](https://github.com/romeovs/creep): a pretty sweet 4px wide pixel font.
 
 ## Vue
