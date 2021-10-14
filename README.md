@@ -84,6 +84,8 @@
 
 ## C++
 
+* [**epezent/implot**](https://github.com/epezent/implot): Immediate Mode Plotting
+* [**mahilab/mahi-gui**](https://github.com/mahilab/mahi-gui): Dirt Simple C++ GUI Toolkit using GLFW, ImGui, and NanoVG
 * [**sxyu/watplot**](https://github.com/sxyu/watplot): Interactive waterfall plots for Breakthrough Listen data
 * [**svlugt/dedisp**](https://github.com/svlugt/dedisp): CUDA Based De-dispersion library
 * [**inducer/meshpy**](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
@@ -190,6 +192,8 @@
 
 ## Go
 
+* [**iawia002/annie**](https://github.com/iawia002/annie): 👾 Fast and simple video download library and CLI tool written in Go
+* [**marcelja/facebook-delete**](https://github.com/marcelja/facebook-delete): Fast facebook activity deletion
 * [**fogleman/ln**](https://github.com/fogleman/ln): 3D line art engine.
 * [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
@@ -471,6 +475,11 @@
 
 ## Python
 
+* [**astrogewgaw/bynyl**](https://github.com/astrogewgaw/bynyl): Handle binary data with style 😎.
+* [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
+* [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
+* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**leswright1977/PySpectrometer**](https://github.com/leswright1977/PySpectrometer): Raspberry Pi Spectrometer
 * [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
@@ -531,7 +540,6 @@
 * [**scikit-hep/awkward-1.0**](https://github.com/scikit-hep/awkward-1.0): Manipulate JSON-like data with NumPy-like idioms.
 * [**nat/ghtop**](https://github.com/nat/ghtop): See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 * [**deepmind/tree**](https://github.com/deepmind/tree): tree is a library for working with nested data structures
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**hrshe/pulsar-analysis-package**](https://github.com/hrshe/pulsar-analysis-package): This package was developed during my time at Raman Research Institute while working with Prof Avinash Deshpande (desh). Currently, refactoring the package to make it more readable and usable while also adding some new features
 * [**fabric/patchwork**](https://github.com/fabric/patchwork): Common deployment/sysadmin operations, built on Fabric
 * [**pyinvoke/invocations**](https://github.com/pyinvoke/invocations): Reusable Invoke tasks
@@ -641,7 +649,6 @@
 * [**jupyterlite/jupyterlite**](https://github.com/jupyterlite/jupyterlite): Wasm powered Jupyter running in the browser 💡
 * [**vafaei-ar/RFI-mitigation**](https://github.com/vafaei-ar/RFI-mitigation): This repository is still under development.
 * [**piccolomo/plotext**](https://github.com/piccolomo/plotext): plotting on terminal
-* [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
 * [**pyvista/pyvista**](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * [**joerick/pyinstrument**](https://github.com/joerick/pyinstrument): 🚴 Call stack profiler for Python. Shows you why your code is slow!
 * [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically with Machine Learning
@@ -665,7 +672,6 @@
 * [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): Print matplotlib colors
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
 * [**willmcgugan/textual**](https://github.com/willmcgugan/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-* [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [**lightkurve/lightkurve**](https://github.com/lightkurve/lightkurve): A friendly package for Kepler & TESS time series analysis in Python.
 * [**quantopian/qgrid**](https://github.com/quantopian/qgrid): An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
@@ -741,7 +747,6 @@
 * [**almarklein/visvis**](https://github.com/almarklein/visvis): Visvis - the object oriented approach to visualization
 * [**vispy/vispy**](https://github.com/vispy/vispy): Main repository for Vispy
 * [**nanograv/enterprise_extensions**](https://github.com/nanograv/enterprise_extensions): A set of extension codes, utilities, and scripts for the enterprise PTA analysis framework.
-* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**jrjohansson/enplot**](https://github.com/jrjohansson/enplot): one-line plotting tool
 * [**Morisset/pyStb99**](https://github.com/Morisset/pyStb99): pythonic interface to the Starburst99 code
 * [**Morisset/pySSN**](https://github.com/Morisset/pySSN): Pythonic Spectral Synthesis for Nebulae
@@ -870,7 +875,7 @@
 * [**Samreay/ChainConsumer**](https://github.com/Samreay/ChainConsumer): Corner plots, LaTeX tables and plotting walks.
 * [**pycalphad/pycalphad**](https://github.com/pycalphad/pycalphad): CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria.
 * [**simonw/csvs-to-sqlite**](https://github.com/simonw/csvs-to-sqlite): Convert CSV files into a SQLite database
-* [**dbt-labs/dbt**](https://github.com/dbt-labs/dbt): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* [**dbt-labs/dbt-core**](https://github.com/dbt-labs/dbt-core): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 * [**Hazboun6/gw_sky**](https://github.com/Hazboun6/gw_sky): Project for making gravitational wave sky maps for images and animations.
 * [**RadioAstronomySoftwareGroup/pyuvdata**](https://github.com/RadioAstronomySoftwareGroup/pyuvdata): A pythonic interface for radio astronomy interferometry data (uvfits, miriad, others)
 * [**willmcgugan/rich**](https://github.com/willmcgugan/rich): Rich is a Python library for rich text and beautiful formatting in the terminal.
