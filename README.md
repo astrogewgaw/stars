@@ -84,6 +84,7 @@
 
 ## C++
 
+* [**Nelarius/imnodes**](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui
 * [**epezent/implot**](https://github.com/epezent/implot): Immediate Mode Plotting
 * [**mahilab/mahi-gui**](https://github.com/mahilab/mahi-gui): Dirt Simple C++ GUI Toolkit using GLFW, ImGui, and NanoVG
 * [**sxyu/watplot**](https://github.com/sxyu/watplot): Interactive waterfall plots for Breakthrough Listen data
