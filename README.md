@@ -317,6 +317,13 @@
 
 ## Julia
 
+* [**JuliaData/Tables.jl**](https://github.com/JuliaData/Tables.jl): An interface for tables in Julia
+* [**JuliaMath/FFTW.jl**](https://github.com/JuliaMath/FFTW.jl): Julia bindings to the FFTW library for fast Fourier transforms
+* [**fonsp/Pluto.jl**](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia
+* [**JuliaLang/PackageCompiler.jl**](https://github.com/JuliaLang/PackageCompiler.jl): Compile your Julia Package
+* [**JuliaPlots/StatsPlots.jl**](https://github.com/JuliaPlots/StatsPlots.jl): Statistical plotting recipes for Plots.jl
+* [**JuliaPlots/PlotlyJS.jl**](https://github.com/JuliaPlots/PlotlyJS.jl): Julia library for plotting with plotly.js
+* [**JuliaPlots/UnicodePlots.jl**](https://github.com/JuliaPlots/UnicodePlots.jl): Unicode-based scientific plotting for working in the terminal
 * [**tlienart/Franklin.jl**](https://github.com/tlienart/Franklin.jl): (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 * [**JunoLab/Weave.jl**](https://github.com/JunoLab/Weave.jl): Scientific reports/literate programming for Julia
 * [**JuliaBooks/Books.jl**](https://github.com/JuliaBooks/Books.jl): Create books with Julia
@@ -421,6 +428,7 @@
 
 ## Others
 
+* [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
 * [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
@@ -476,6 +484,8 @@
 
 ## Python
 
+* [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
+* [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
 * [**astrogewgaw/bynyl**](https://github.com/astrogewgaw/bynyl): Handle binary data with style 😎.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
