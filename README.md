@@ -84,6 +84,8 @@
 
 ## C++
 
+* [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
+* [**Cantera/cantera**](https://github.com/Cantera/cantera): Chemical kinetics, thermodynamics, and transport tool suite
 * [**Nelarius/imnodes**](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui
 * [**epezent/implot**](https://github.com/epezent/implot): Immediate Mode Plotting
 * [**mahilab/mahi-gui**](https://github.com/mahilab/mahi-gui): Dirt Simple C++ GUI Toolkit using GLFW, ImGui, and NanoVG
@@ -484,6 +486,7 @@
 
 ## Python
 
+* [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
 * [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
 * [**astrogewgaw/bynyl**](https://github.com/astrogewgaw/bynyl): Handle binary data with style 😎.
