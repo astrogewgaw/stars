@@ -84,6 +84,7 @@
 
 ## C++
 
+* [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Parallel programming for everyone.
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
 * [**Cantera/cantera**](https://github.com/Cantera/cantera): Chemical kinetics, thermodynamics, and transport tool suite
 * [**Nelarius/imnodes**](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui
@@ -195,6 +196,7 @@
 
 ## Go
 
+* [**twpayne/chezmoi**](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [**iawia002/annie**](https://github.com/iawia002/annie): 👾 Fast and simple video download library and CLI tool written in Go
 * [**marcelja/facebook-delete**](https://github.com/marcelja/facebook-delete): Fast facebook activity deletion
 * [**fogleman/ln**](https://github.com/fogleman/ln): 3D line art engine.
@@ -359,8 +361,8 @@
 
 ## Jupyter Notebook
 
+* [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
-* [**farr/Isotropy**](https://github.com/farr/Isotropy): Checking isotropy in BBH inspiral orientations.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
 * [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
@@ -486,6 +488,7 @@
 
 ## Python
 
+* [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
 * [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
