@@ -84,6 +84,9 @@
 
 ## C++
 
+* [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
+* [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
 * [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Parallel programming for everyone.
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
 * [**Cantera/cantera**](https://github.com/Cantera/cantera): Chemical kinetics, thermodynamics, and transport tool suite
@@ -277,6 +280,8 @@
 
 ## JavaScript
 
+* [**electron/electron-packager**](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
+* [**electron/electron-quick-start**](https://github.com/electron/electron-quick-start): Clone to try a simple Electron app
 * [**jsonresume/resume-cli**](https://github.com/jsonresume/resume-cli): CLI tool to easily setup a new resume 📑
 * [**cherryng/CHIME-PSR_web-monitor**](https://github.com/cherryng/CHIME-PSR_web-monitor): d3-based web tool to monitor data quality of the CHIME/Pulsar backend
 * [**astrofrog/acknowledgment-generator**](https://github.com/astrofrog/acknowledgment-generator): Easily generate acknowledgment sections for papers
@@ -488,6 +493,8 @@
 
 ## Python
 
+* [**anki-code/xonsh-cheatsheet**](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
+* [**lark-parser/lark**](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 * [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
@@ -1095,6 +1102,8 @@
 
 ## TypeScript
 
+* [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
+* [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for academic papers
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
