@@ -37,6 +37,7 @@
 * [**Nix**](#nix)
 * [**Others**](#others)
 * [**Perl**](#perl)
+* [**PureBasic**](#purebasic)
 * [**PureScript**](#purescript)
 * [**Python**](#python)
 * [**QML**](#qml)
@@ -48,9 +49,11 @@
 * [**TypeScript**](#typescript)
 * [**Vim script**](#vim-script)
 * [**Vue**](#vue)
+* [**Xonsh**](#xonsh)
 
 ## C
 
+* [**deepmind/mujoco**](https://github.com/deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * [**dnelson86/arepo**](https://github.com/dnelson86/arepo): This the public version of the moving-mesh AREPO code for large-scale structure and galaxy formation simulations.
 * [**hpjansson/chafa**](https://github.com/hpjansson/chafa): 📺🗿 Terminal graphics for the 21st century.
 * [**weltevrede/psrsalsa**](https://github.com/weltevrede/psrsalsa): PSRSALSA: A Suite of ALgorithms for Statistical Analysis of pulsar data. Please refer to the following website for dowload instructions and a tutorial:
@@ -84,6 +87,7 @@
 
 ## C++
 
+* [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
 * [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
@@ -199,6 +203,7 @@
 
 ## Go
 
+* [**direnv/direnv**](https://github.com/direnv/direnv): unclutter your .profile
 * [**twpayne/chezmoi**](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [**iawia002/annie**](https://github.com/iawia002/annie): 👾 Fast and simple video download library and CLI tool written in Go
 * [**marcelja/facebook-delete**](https://github.com/marcelja/facebook-delete): Fast facebook activity deletion
@@ -217,7 +222,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Open Source Photos App powered by Go and Google TensorFlow 🌈
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -482,6 +487,10 @@
 
 * [**cdominik/ads**](https://github.com/cdominik/ads): Command line access to a web search for physics/astronomy articles on the Astrophysical Data System
 
+## PureBasic
+
+* [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
+
 ## PureScript
 
 * [**sharkdp/insect**](https://github.com/sharkdp/insect): High precision scientific calculator with support for physical units
@@ -493,6 +502,29 @@
 
 ## Python
 
+* [**xonsh/xontrib-cookiecutter**](https://github.com/xonsh/xontrib-cookiecutter): A cookiecutter template for xontribs, a.k.a xonsh contributions
+* [**vaaaaanquish/xontrib-readable-traceback**](https://github.com/vaaaaanquish/xontrib-readable-traceback): xonsh readable traceback
+* [**DangerOnTheRanger/xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete): APT tabcomplete for the Xonsh shell
+* [**cafehaine/xontrib-xlsd**](https://github.com/cafehaine/xontrib-xlsd): xontrib-xlsd is the next gen ls command for xonsh shell, inspired by lsd.
+* [**scopatz/xontrib-kitty**](https://github.com/scopatz/xontrib-kitty): Xonsh hooks for the Kitty terminal emulator
+* [**Granitosaurus/xonsh-autoxsh**](https://github.com/Granitosaurus/xonsh-autoxsh): Automatically execute scripts for directories in Xonsh Shell.
+* [**anki-code/xontrib-prompt-starship**](https://github.com/anki-code/xontrib-prompt-starship): Starship cross-shell prompt in xonsh shell.
+* [**AstraLuma/xontrib-schedule**](https://github.com/AstraLuma/xontrib-schedule): Xonsh Task Scheduling
+* [**AstraLuma/xontrib-z**](https://github.com/AstraLuma/xontrib-z): Tracks your most used directories, based on 'frecency'.
+* [**laloch/xontrib-fzf-widgets**](https://github.com/laloch/xontrib-fzf-widgets): Set of fzf widgets for xonsh
+* [**anki-code/awesome-xonshrc**](https://github.com/anki-code/awesome-xonshrc): 👓 🐚 Awesome snippets of code for xonshrc in xonsh shell.
+* [**74th/xonsh-direnv**](https://github.com/74th/xonsh-direnv): xonsh extension for using direnv
+* [**anki-code/xontrib-argcomplete**](https://github.com/anki-code/xontrib-argcomplete): Argcomplete support to tab completion of python and xonsh scripts in xonsh shell.
+* [**anki-code/xontrib-pipeliner**](https://github.com/anki-code/xontrib-pipeliner): Let your pipe lines flow thru the Python code in xonsh.
+* [**santagada/xontrib-powerline**](https://github.com/santagada/xontrib-powerline): Powerline for Xonsh shell
+* [**anki-code/xontrib-sh**](https://github.com/anki-code/xontrib-sh): Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
+* [**anki-code/xontrib-prompt-bar**](https://github.com/anki-code/xontrib-prompt-bar): The bar prompt for xonsh shell with customizable sections and Starship support.
+* [**anki-code/xontrib-macro-lib**](https://github.com/anki-code/xontrib-macro-lib): Library of the useful macro for the xonsh shell.
+* [**anki-code/xontrib-history-encrypt**](https://github.com/anki-code/xontrib-history-encrypt): The xonsh shell history backend that encrypt the commands history file to prevent leaking sensitive data.
+* [**anki-code/xunter**](https://github.com/anki-code/xunter): Profiling for the xonsh shell based on hunter.
+* [**ionelmc/python-hunter**](https://github.com/ionelmc/python-hunter): Hunter is a flexible code tracing toolkit.
+* [**pyston/pyston**](https://github.com/pyston/pyston): A faster and highly-compatible implementation of the Python programming language.
+* [**facebookincubator/cinder**](https://github.com/facebookincubator/cinder): Instagram's performance oriented fork of CPython.
 * [**anki-code/xonsh-cheatsheet**](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 * [**lark-parser/lark**](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 * [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
@@ -521,7 +553,6 @@
 * [**takluyver/flit**](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [**scipy/scipy**](https://github.com/scipy/scipy): SciPy library main repository
 * [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
-* [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
 * [**wchenastro/Mosaic**](https://github.com/wchenastro/Mosaic): *No description*
 * [**inducer/pytential**](https://github.com/inducer/pytential): Evaluate layer and volume potentials accurately. Solve integral equations.
 * [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
@@ -960,6 +991,7 @@
 
 ## Rust
 
+* [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
 * [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
 * [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
@@ -1061,8 +1093,9 @@
 
 ## Shell
 
+* [**xxh/xxh-shell-xonsh**](https://github.com/xxh/xxh-shell-xonsh): Use xonsh wherever you go through the SSH without installation on the host.
 * [**wimpysworld/quickemu**](https://github.com/wimpysworld/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-* [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
@@ -1136,6 +1169,10 @@
 ## Vue
 
 * [**slidevjs/themes**](https://github.com/slidevjs/themes): Official themes for Slidev
+
+## Xonsh
+
+* [**dyuri/xontrib-pyenv**](https://github.com/dyuri/xontrib-pyenv): pyenv integration for xonsh
 
 </div>
 
