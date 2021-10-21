@@ -182,6 +182,7 @@
 
 ## Fortran
 
+* [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
 * [**fortran-lang/fftpack**](https://github.com/fortran-lang/fftpack): double precision version of fftpack
 * [**fortran-lang/stdlib**](https://github.com/fortran-lang/stdlib): Fortran Standard Library
@@ -331,6 +332,10 @@
 
 ## Julia
 
+* [**JuliaPluto/PlutoPDF.jl**](https://github.com/JuliaPluto/PlutoPDF.jl): Don't let your printer miss out on the fun
+* [**tkf/ThreadsX.jl**](https://github.com/tkf/ThreadsX.jl): Parallelized Base functions
+* [**JuliaGPU/KernelAbstractions.jl**](https://github.com/JuliaGPU/KernelAbstractions.jl): Heterogeneous programming in Julia
+* [**JuliaGraphs/Graphs.jl**](https://github.com/JuliaGraphs/Graphs.jl): An optimized graphs package for the Julia programming language
 * [**JuliaData/Tables.jl**](https://github.com/JuliaData/Tables.jl): An interface for tables in Julia
 * [**JuliaMath/FFTW.jl**](https://github.com/JuliaMath/FFTW.jl): Julia bindings to the FFTW library for fast Fourier transforms
 * [**fonsp/Pluto.jl**](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia
@@ -371,6 +376,7 @@
 
 ## Jupyter Notebook
 
+* [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
@@ -442,6 +448,7 @@
 
 ## Others
 
+* [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
@@ -502,6 +509,13 @@
 
 ## Python
 
+* [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
+* [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
+* [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
+* [**cookiecutter/cookiecutter**](https://github.com/cookiecutter/cookiecutter): A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+* [**anki-code/xontrib-onepath**](https://github.com/anki-code/xontrib-onepath): Associate files and directories with app or alias and run it without preceding commands in xonsh shell.
+* [**tokenizer/xontrib-output-search**](https://github.com/tokenizer/xontrib-output-search): Get identifiers, paths, URLs and words from the previous command output and use them for the next command in xonsh shell.
+* [**anki-code/xontrib-back2dir**](https://github.com/anki-code/xontrib-back2dir): Return to the most recently used directory when starting the xonsh shell.
 * [**xonsh/xontrib-cookiecutter**](https://github.com/xonsh/xontrib-cookiecutter): A cookiecutter template for xontribs, a.k.a xonsh contributions
 * [**vaaaaanquish/xontrib-readable-traceback**](https://github.com/vaaaaanquish/xontrib-readable-traceback): xonsh readable traceback
 * [**DangerOnTheRanger/xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete): APT tabcomplete for the Xonsh shell
@@ -991,6 +1005,7 @@
 
 ## Rust
 
+* [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
 * [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
 * [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
@@ -1135,6 +1150,8 @@
 
 ## TypeScript
 
+* [**Dmitriy-Shulha/obsidian-plotly**](https://github.com/Dmitriy-Shulha/obsidian-plotly): Obsidian plugin to embed Plotly charts into markdown notes.
+* [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
