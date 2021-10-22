@@ -255,7 +255,6 @@
 
 ## HTML
 
-* [**jvshields/coffeepapers**](https://github.com/jvshields/coffeepapers): *No description*
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming lesson.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
@@ -312,6 +311,7 @@
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
 * [**impress/impress.js**](https://github.com/impress/impress.js): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+* [**GenieFramework/Stipple.jl**](https://github.com/GenieFramework/Stipple.jl): The reactive UI library for interactive data applications with pure Julia.
 * [**github/catalyst**](https://github.com/github/catalyst): Catalyst is a set of patterns and techniques for developing components within a complex application.
 * [**rastapasta/mapscii**](https://github.com/rastapasta/mapscii): 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 * [**planetoftheweb/rayveal**](https://github.com/planetoftheweb/rayveal): A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
@@ -332,6 +332,7 @@
 
 ## Julia
 
+* [**JuliaPluto/PlutoTest.jl**](https://github.com/JuliaPluto/PlutoTest.jl): ✔️ Visual, reactive testing library for Julia. Time machine included.
 * [**JuliaPluto/PlutoPDF.jl**](https://github.com/JuliaPluto/PlutoPDF.jl): Don't let your printer miss out on the fun
 * [**tkf/ThreadsX.jl**](https://github.com/tkf/ThreadsX.jl): Parallelized Base functions
 * [**JuliaGPU/KernelAbstractions.jl**](https://github.com/JuliaGPU/KernelAbstractions.jl): Heterogeneous programming in Julia
@@ -355,7 +356,6 @@
 * [**GenieFramework/SearchLight.jl**](https://github.com/GenieFramework/SearchLight.jl): ORM layer for Genie.jl, the highly productive Julia web framework
 * [**GenieFramework/StippleCharts.jl**](https://github.com/GenieFramework/StippleCharts.jl): StippleCharts is a library of reactive charts for Stipple.jl.
 * [**GenieFramework/StippleUI.jl**](https://github.com/GenieFramework/StippleUI.jl): StippleUI is a library of reactive UI elements for Stipple.jl.
-* [**GenieFramework/Stipple.jl**](https://github.com/GenieFramework/Stipple.jl): The reactive UI library for interactive data applications with pure Julia.
 * [**GenieFramework/Genie.jl**](https://github.com/GenieFramework/Genie.jl): The highly productive Julia web framework
 * [**ziotom78/Healpix.jl**](https://github.com/ziotom78/Healpix.jl): Healpix library written in Julia
 * [**JuliaPlots/Makie.jl**](https://github.com/JuliaPlots/Makie.jl): High level plotting on the GPU.
@@ -376,6 +376,7 @@
 
 ## Jupyter Notebook
 
+* [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
@@ -509,6 +510,9 @@
 
 ## Python
 
+* [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
+* [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): Spotify song downloader without injecting into the windows client
+* [**AOtools/aotools**](https://github.com/AOtools/aotools): A useful set of tools for Adaptive Optics in Python
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
 * [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
 * [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
@@ -554,6 +558,7 @@
 * [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
 * [**sympy/sympy**](https://github.com/sympy/sympy): A computer algebra system written in pure Python
+* [**jvshields/coffeepapers**](https://github.com/jvshields/coffeepapers): *No description*
 * [**Matthias1590/ConsoleDraw**](https://github.com/Matthias1590/ConsoleDraw): A python module to update the console without flashing.
 * [**mwouts/jupytext**](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 * [**kkma89/dmcalc**](https://github.com/kkma89/dmcalc): Python code to calculate in-band dispersion measure of pulsars
@@ -1005,6 +1010,7 @@
 
 ## Rust
 
+* [**Dusk-Labs/dim**](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
 * [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
@@ -1166,7 +1172,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
