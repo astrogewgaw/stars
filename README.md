@@ -53,6 +53,7 @@
 
 ## C
 
+* [**tectonic-typesetting/tectonic**](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 * [**deepmind/mujoco**](https://github.com/deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * [**dnelson86/arepo**](https://github.com/dnelson86/arepo): This the public version of the moving-mesh AREPO code for large-scale structure and galaxy formation simulations.
 * [**hpjansson/chafa**](https://github.com/hpjansson/chafa): 📺🗿 Terminal graphics for the 21st century.
@@ -182,6 +183,7 @@
 
 ## Fortran
 
+* [**cpinte/mcfost**](https://github.com/cpinte/mcfost): MCFOST radiative transfer code
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
 * [**fortran-lang/fftpack**](https://github.com/fortran-lang/fftpack): double precision version of fftpack
@@ -449,6 +451,7 @@
 
 ## Others
 
+* [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
@@ -510,6 +513,9 @@
 
 ## Python
 
+* [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
+* [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
+* [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
 * [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): Spotify song downloader without injecting into the windows client
 * [**AOtools/aotools**](https://github.com/AOtools/aotools): A useful set of tools for Adaptive Optics in Python
@@ -982,7 +988,7 @@
 * [**python/typing**](https://github.com/python/typing): Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
 * [**python/cpython**](https://github.com/python/cpython): The Python programming language
 * [**hylang/hy**](https://github.com/hylang/hy): A dialect of Lisp that's embedded in Python
-* [**Tinche/cattrs**](https://github.com/Tinche/cattrs): Complex custom class converters for attrs.
+* [**python-attrs/cattrs**](https://github.com/python-attrs/cattrs): Complex custom class converters for attrs.
 * [**HypothesisWorks/hypothesis**](https://github.com/HypothesisWorks/hypothesis): Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 * [**psf/pyperf**](https://github.com/psf/pyperf): Toolkit to run Python benchmarks
 * [**python/mypy**](https://github.com/python/mypy): Optional static typing for Python 3 and 2 (PEP 484)
