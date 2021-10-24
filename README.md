@@ -35,6 +35,7 @@
 * [**Makefile**](#makefile)
 * [**Nim**](#nim)
 * [**Nix**](#nix)
+* [**OCaml**](#ocaml)
 * [**Others**](#others)
 * [**Perl**](#perl)
 * [**PureBasic**](#purebasic)
@@ -88,6 +89,7 @@
 
 ## C++
 
+* [**cylondata/cylon**](https://github.com/cylondata/cylon): Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
@@ -206,6 +208,7 @@
 
 ## Go
 
+* [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [**direnv/direnv**](https://github.com/direnv/direnv): unclutter your .profile
 * [**twpayne/chezmoi**](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [**iawia002/annie**](https://github.com/iawia002/annie): 👾 Fast and simple video download library and CLI tool written in Go
@@ -334,6 +337,12 @@
 
 ## Julia
 
+* [**JuliaStats/Distributions.jl**](https://github.com/JuliaStats/Distributions.jl): A Julia package for probability distributions and associated functions.
+* [**invenia/Mocking.jl**](https://github.com/invenia/Mocking.jl): Allows Julia function calls to be temporarily overloaded for purpose of testing
+* [**JuliaTeX/TikzGraphs.jl**](https://github.com/JuliaTeX/TikzGraphs.jl): This library generates graph layouts using the TikZ graph layout package.
+* [**JuliaTeX/TikzPictures.jl**](https://github.com/JuliaTeX/TikzPictures.jl): Creating PGF/TikZ pictures and saving them in various formats
+* [**JuliaTeX/PGFPlots.jl**](https://github.com/JuliaTeX/PGFPlots.jl): This library uses the LaTeX package pgfplots to produce plots.
+* [**KristofferC/PGFPlotsX.jl**](https://github.com/KristofferC/PGFPlotsX.jl): Plots in Julia using the PGFPlots LaTeX package
 * [**JuliaPluto/PlutoTest.jl**](https://github.com/JuliaPluto/PlutoTest.jl): ✔️ Visual, reactive testing library for Julia. Time machine included.
 * [**JuliaPluto/PlutoPDF.jl**](https://github.com/JuliaPluto/PlutoPDF.jl): Don't let your printer miss out on the fun
 * [**tkf/ThreadsX.jl**](https://github.com/tkf/ThreadsX.jl): Parallelized Base functions
@@ -449,6 +458,10 @@
 
 * [**bnikolic/casanix**](https://github.com/bnikolic/casanix): *No description*
 
+## OCaml
+
+* [**returntocorp/semgrep**](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 ## Others
 
 * [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
@@ -513,6 +526,9 @@
 
 ## Python
 
+* [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
+* [**PyGithub/PyGithub**](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
+* [**Qix-/better-exceptions**](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automatically.
 * [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
 * [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
@@ -555,7 +571,6 @@
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
 * [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
-* [**astrogewgaw/bynyl**](https://github.com/astrogewgaw/bynyl): Handle binary data with style 😎.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
@@ -580,7 +595,6 @@
 * [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
 * [**wchenastro/Mosaic**](https://github.com/wchenastro/Mosaic): *No description*
 * [**inducer/pytential**](https://github.com/inducer/pytential): Evaluate layer and volume potentials accurately. Solve integral equations.
-* [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
 * [**inducer/boxtree**](https://github.com/inducer/boxtree): Quad/octree building for FMMs in Python and OpenCL
 * [**inducer/pycuda**](https://github.com/inducer/pycuda): CUDA integration for Python, plus shiny features
 * [**inducer/pyopencl**](https://github.com/inducer/pyopencl): OpenCL integration for Python, plus shiny features
@@ -1016,6 +1030,7 @@
 
 ## Rust
 
+* [**emilk/egui**](https://github.com/emilk/egui): egui: an easy-to-use immediate mode GUI in pure Rust
 * [**Dusk-Labs/dim**](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
 * [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
@@ -1146,6 +1161,7 @@
 
 ## TeX
 
+* [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
 * [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
