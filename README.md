@@ -337,6 +337,11 @@
 
 ## Julia
 
+* [**stevengj/LaTeXStrings.jl**](https://github.com/stevengj/LaTeXStrings.jl): convenient input and display of LaTeX equation strings for the Julia language
+* [**KristofferC/OhMyREPL.jl**](https://github.com/KristofferC/OhMyREPL.jl): Syntax highlighting and other enhancements for the Julia REPL
+* [**KristofferC/TimerOutputs.jl**](https://github.com/KristofferC/TimerOutputs.jl): Formatted output of timed sections in Julia
+* [**KristofferC/NearestNeighbors.jl**](https://github.com/KristofferC/NearestNeighbors.jl): High performance nearest neighbor data structures and algorithms for Julia.
+* [**KristofferC/Crayons.jl**](https://github.com/KristofferC/Crayons.jl): Colored and styled strings for terminals.
 * [**JuliaStats/Distributions.jl**](https://github.com/JuliaStats/Distributions.jl): A Julia package for probability distributions and associated functions.
 * [**invenia/Mocking.jl**](https://github.com/invenia/Mocking.jl): Allows Julia function calls to be temporarily overloaded for purpose of testing
 * [**JuliaTeX/TikzGraphs.jl**](https://github.com/JuliaTeX/TikzGraphs.jl): This library generates graph layouts using the TikZ graph layout package.
@@ -363,7 +368,6 @@
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
 * [**mojaie/MolecularGraph.jl**](https://github.com/mojaie/MolecularGraph.jl): Graph-based molecule modeling toolkit for cheminformatics
 * [**FluxML/Zygote.jl**](https://github.com/FluxML/Zygote.jl): Intimate Affection Auditor
-* [**KristofferC/Crayons.jl**](https://github.com/KristofferC/Crayons.jl): Colored and styled strings for terminals.
 * [**GenieFramework/SearchLight.jl**](https://github.com/GenieFramework/SearchLight.jl): ORM layer for Genie.jl, the highly productive Julia web framework
 * [**GenieFramework/StippleCharts.jl**](https://github.com/GenieFramework/StippleCharts.jl): StippleCharts is a library of reactive charts for Stipple.jl.
 * [**GenieFramework/StippleUI.jl**](https://github.com/GenieFramework/StippleUI.jl): StippleUI is a library of reactive UI elements for Stipple.jl.
@@ -526,6 +530,8 @@
 
 ## Python
 
+* [**scikit-rf/scikit-rf**](https://github.com/scikit-rf/scikit-rf): RF and Microwave Engineering Scikit
+* [**hynek/structlog**](https://github.com/hynek/structlog): Structured Logging for Python
 * [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
 * [**PyGithub/PyGithub**](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [**Qix-/better-exceptions**](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automatically.
@@ -533,7 +539,7 @@
 * [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
-* [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): Spotify song downloader without injecting into the windows client
+* [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): A Spotify downloader needing only a python interpreter and ffmpeg.
 * [**AOtools/aotools**](https://github.com/AOtools/aotools): A useful set of tools for Adaptive Optics in Python
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
 * [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
