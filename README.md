@@ -89,6 +89,7 @@
 
 ## C++
 
+* [**onqtam/doctest**](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
 * [**cylondata/cylon**](https://github.com/cylondata/cylon): Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -337,6 +338,11 @@
 
 ## Julia
 
+* [**JuliaPlots/AlgebraOfGraphics.jl**](https://github.com/JuliaPlots/AlgebraOfGraphics.jl): Combine ingredients for a plot
+* [**domluna/JuliaFormatter.jl**](https://github.com/domluna/JuliaFormatter.jl): An opinionated code formatter for Julia. Plot twist - the opinion is your own.
+* [**julia-actions/julia-format**](https://github.com/julia-actions/julia-format): Github action for JuliaFormatter.jl
+* [**davibarreira/NotebookToLaTeX.jl**](https://github.com/davibarreira/NotebookToLaTeX.jl): A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
+* [**palumbom/GRASS**](https://github.com/palumbom/GRASS): A testbed for stellar granulation in exoplanet RV searches.
 * [**stevengj/LaTeXStrings.jl**](https://github.com/stevengj/LaTeXStrings.jl): convenient input and display of LaTeX equation strings for the Julia language
 * [**KristofferC/OhMyREPL.jl**](https://github.com/KristofferC/OhMyREPL.jl): Syntax highlighting and other enhancements for the Julia REPL
 * [**KristofferC/TimerOutputs.jl**](https://github.com/KristofferC/TimerOutputs.jl): Formatted output of timed sections in Julia
@@ -468,6 +474,7 @@
 
 ## Others
 
+* [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
 * [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
@@ -530,6 +537,9 @@
 
 ## Python
 
+* [**voila-dashboards/voila**](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
+* [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+* [**kerrm/godot**](https://github.com/kerrm/godot): Multi-timescale analysis with Fermi data.
 * [**scikit-rf/scikit-rf**](https://github.com/scikit-rf/scikit-rf): RF and Microwave Engineering Scikit
 * [**hynek/structlog**](https://github.com/hynek/structlog): Structured Logging for Python
 * [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
@@ -989,7 +999,7 @@
 * [**chubin/cheat.sh**](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [**ratt-ru/eidos**](https://github.com/ratt-ru/eidos): Modelling primary beams of radio astronomy antennas
 * [**ratt-ru/PyMORESANE**](https://github.com/ratt-ru/PyMORESANE): Repository for the Python version of the MORESANE deconvolution algorithm
-* [**ratt-ru/Stimela**](https://github.com/ratt-ru/Stimela): Dockerized Radio Interferometry Scripting Framework
+* [**ratt-ru/Stimela**](https://github.com/ratt-ru/Stimela): A containerized radio interferometry scripting framework
 * [**ratt-ru/CubiCal**](https://github.com/ratt-ru/CubiCal): A fast radio interferometric calibration suite.
 * [**caracal-pipeline/caracal**](https://github.com/caracal-pipeline/caracal): Containerized Automated Radio Astronomy Calibration (CARACal) pipeline
 * [**ray-project/ray**](https://github.com/ray-project/ray): An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
@@ -1036,6 +1046,8 @@
 
 ## Rust
 
+* [**Schniz/fnm**](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust
+* [**sayanarijit/xplr**](https://github.com/sayanarijit/xplr): A hackable, minimal, fast TUI file explorer
 * [**emilk/egui**](https://github.com/emilk/egui): egui: an easy-to-use immediate mode GUI in pure Rust
 * [**Dusk-Labs/dim**](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
@@ -1141,6 +1153,9 @@
 
 ## Shell
 
+* [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
+* [**ChrisTitusTech/ArchTitus**](https://github.com/ChrisTitusTech/ArchTitus): Automated Arch Linux Install
+* [**rickellis/ArchMatic**](https://github.com/rickellis/ArchMatic): Arch Linux post-installation setup and config scripts
 * [**xxh/xxh-shell-xonsh**](https://github.com/xxh/xxh-shell-xonsh): Use xonsh wherever you go through the SSH without installation on the host.
 * [**wimpysworld/quickemu**](https://github.com/wimpysworld/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
