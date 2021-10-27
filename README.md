@@ -89,6 +89,8 @@
 
 ## C++
 
+* [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
+* [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
 * [**onqtam/doctest**](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
 * [**cylondata/cylon**](https://github.com/cylondata/cylon): Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
@@ -209,6 +211,7 @@
 
 ## Go
 
+* [**wagoodman/dive**](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 * [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [**direnv/direnv**](https://github.com/direnv/direnv): unclutter your .profile
 * [**twpayne/chezmoi**](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
@@ -261,6 +264,7 @@
 
 ## HTML
 
+* [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming lesson.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
@@ -338,6 +342,7 @@
 
 ## Julia
 
+* [**JuliaData/CSV.jl**](https://github.com/JuliaData/CSV.jl): Utility library for working with CSV and other delimited files in the Julia programming language
 * [**JuliaPlots/AlgebraOfGraphics.jl**](https://github.com/JuliaPlots/AlgebraOfGraphics.jl): Combine ingredients for a plot
 * [**domluna/JuliaFormatter.jl**](https://github.com/domluna/JuliaFormatter.jl): An opinionated code formatter for Julia. Plot twist - the opinion is your own.
 * [**julia-actions/julia-format**](https://github.com/julia-actions/julia-format): Github action for JuliaFormatter.jl
@@ -397,6 +402,8 @@
 
 ## Jupyter Notebook
 
+* [**KeplerGO/kpub**](https://github.com/KeplerGO/kpub): Curate publications related to NASA's Kepler/K2 missions using the ADS API.
+* [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
 * [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
@@ -474,6 +481,7 @@
 
 ## Others
 
+* [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
 * [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
@@ -537,6 +545,15 @@
 
 ## Python
 
+* [**yymao/easyquery**](https://github.com/yymao/easyquery): Create easy-to-use Query objects that can apply on NumPy structured arrays, astropy Table, and Pandas DataFrame
+* [**kovidgoyal/kitty**](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
+* [**more-itertools/more-itertools**](https://github.com/more-itertools/more-itertools): More routines for operating on iterables, beyond itertools
+* [**03b8/ads2gephi**](https://github.com/03b8/ads2gephi): A command line tool for querying and modeling citation networks from the Astrophysical Data System (ADS) in a format compatible with Gephi
+* [**jonathansick/ads_bibdesk**](https://github.com/jonathansick/ads_bibdesk): (Unmaintained) Mac OS X service for frictionless import of NASA ADS and arXiv publications into BibDesk.
+* [**r-xue/ads2bibdesk**](https://github.com/r-xue/ads2bibdesk): ads2bibdesk helps you add astrophysics articles listed on NASA/ADS to your BibDesk database using the new ADS Developer API
+* [**pcubillos/bibmanager**](https://github.com/pcubillos/bibmanager): A BibTeX manager for LaTeX projects
+* [**nschloe/mplx**](https://github.com/nschloe/mplx): :bar_chart: Extensions for Matplotlib
+* [**yymao/adstex**](https://github.com/yymao/adstex): Automated generation of NASA ADS bibtex entries directly from citation keys in your TeX source files
 * [**voila-dashboards/voila**](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 * [**kerrm/godot**](https://github.com/kerrm/godot): Multi-timescale analysis with Fermi data.
