@@ -54,6 +54,8 @@
 
 ## C
 
+* [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
+* [**SAOImageDS9/SAOImageDS9**](https://github.com/SAOImageDS9/SAOImageDS9): SAOImage DS9 is an astronomical imaging and data visualization application.
 * [**tectonic-typesetting/tectonic**](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 * [**deepmind/mujoco**](https://github.com/deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * [**dnelson86/arepo**](https://github.com/dnelson86/arepo): This the public version of the moving-mesh AREPO code for large-scale structure and galaxy formation simulations.
@@ -342,6 +344,8 @@
 
 ## Julia
 
+* [**JuliaStats/StatsModels.jl**](https://github.com/JuliaStats/StatsModels.jl): Specifying, fitting, and evaluating statistical models in Julia
+* [**JuliaStats/StatsBase.jl**](https://github.com/JuliaStats/StatsBase.jl): Basic statistics for Julia
 * [**JuliaData/CSV.jl**](https://github.com/JuliaData/CSV.jl): Utility library for working with CSV and other delimited files in the Julia programming language
 * [**JuliaPlots/AlgebraOfGraphics.jl**](https://github.com/JuliaPlots/AlgebraOfGraphics.jl): Combine ingredients for a plot
 * [**domluna/JuliaFormatter.jl**](https://github.com/domluna/JuliaFormatter.jl): An opinionated code formatter for Julia. Plot twist - the opinion is your own.
@@ -545,6 +549,9 @@
 
 ## Python
 
+* [**agronholm/sqlacodegen**](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
+* [**agronholm/anyio**](https://github.com/agronholm/anyio): High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+* [**dulwich/dulwich**](https://github.com/dulwich/dulwich): Pure-Python Git implementation
 * [**yymao/easyquery**](https://github.com/yymao/easyquery): Create easy-to-use Query objects that can apply on NumPy structured arrays, astropy Table, and Pandas DataFrame
 * [**kovidgoyal/kitty**](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [**more-itertools/more-itertools**](https://github.com/more-itertools/more-itertools): More routines for operating on iterables, beyond itertools
