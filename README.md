@@ -54,6 +54,7 @@
 
 ## C
 
+* [**torvalds/linux**](https://github.com/torvalds/linux): Linux kernel source tree
 * [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
 * [**SAOImageDS9/SAOImageDS9**](https://github.com/SAOImageDS9/SAOImageDS9): SAOImage DS9 is an astronomical imaging and data visualization application.
 * [**tectonic-typesetting/tectonic**](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -159,6 +160,7 @@
 
 ## CSS
 
+* [**tlienart/FranklinTemplates.jl**](https://github.com/tlienart/FranklinTemplates.jl): Simple website templates for Franklin.jl
 * [**kmaasrud/awesome-obsidian**](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [**HeRTA/FRBSTATS**](https://github.com/HeRTA/FRBSTATS): Repository for the FRBSTATS web platform.
 
@@ -213,6 +215,7 @@
 
 ## Go
 
+* [**go-task/task**](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
 * [**wagoodman/dive**](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 * [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [**direnv/direnv**](https://github.com/direnv/direnv): unclutter your .profile
@@ -289,6 +292,7 @@
 
 ## Haskell
 
+* [**fosskers/aura**](https://github.com/fosskers/aura): A secure, multilingual package manager for Arch Linux and the AUR.
 * [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten
 
 ## Java
@@ -297,6 +301,7 @@
 
 ## JavaScript
 
+* [**webpro/reveal-md**](https://github.com/webpro/reveal-md): reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 * [**electron/electron-packager**](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 * [**electron/electron-quick-start**](https://github.com/electron/electron-quick-start): Clone to try a simple Electron app
 * [**jsonresume/resume-cli**](https://github.com/jsonresume/resume-cli): CLI tool to easily setup a new resume 📑
@@ -344,6 +349,9 @@
 
 ## Julia
 
+* [**JuliaMath/SpecialFunctions.jl**](https://github.com/JuliaMath/SpecialFunctions.jl): Special mathematical functions in Julia
+* [**JuliaLang/IJulia.jl**](https://github.com/JuliaLang/IJulia.jl): Julia kernel for Jupyter
+* [**JuliaDocs/Documenter.jl**](https://github.com/JuliaDocs/Documenter.jl): A documentation generator for Julia.
 * [**JuliaStats/StatsModels.jl**](https://github.com/JuliaStats/StatsModels.jl): Specifying, fitting, and evaluating statistical models in Julia
 * [**JuliaStats/StatsBase.jl**](https://github.com/JuliaStats/StatsBase.jl): Basic statistics for Julia
 * [**JuliaData/CSV.jl**](https://github.com/JuliaData/CSV.jl): Utility library for working with CSV and other delimited files in the Julia programming language
@@ -485,6 +493,7 @@
 
 ## Others
 
+* [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
 * [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
@@ -549,6 +558,11 @@
 
 ## Python
 
+* [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
+* [**pyscf/pyscf**](https://github.com/pyscf/pyscf): Python module for quantum chemistry
+* [**google/textfsm**](https://github.com/google/textfsm): Python module for parsing semi-structured text into python tables.
+* [**dmulyalin/ttp**](https://github.com/dmulyalin/ttp): Template Text Parser
+* [**r1chardj0n3s/parse**](https://github.com/r1chardj0n3s/parse): Parse strings using a specification based on the Python format() syntax.
 * [**agronholm/sqlacodegen**](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
 * [**agronholm/anyio**](https://github.com/agronholm/anyio): High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
 * [**dulwich/dulwich**](https://github.com/dulwich/dulwich): Pure-Python Git implementation
@@ -1070,6 +1084,10 @@
 
 ## Rust
 
+* [**Peltoche/lsd**](https://github.com/Peltoche/lsd): The next gen ls command
+* [**casey/just**](https://github.com/casey/just): 🤖 Just a command runner
+* [**mitsuhiko/minijinja**](https://github.com/mitsuhiko/minijinja): MiniJinja is a powerful but minimal dependency template engine for Rust
+* [**orhun/git-cliff**](https://github.com/orhun/git-cliff): A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 * [**Schniz/fnm**](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust
 * [**sayanarijit/xplr**](https://github.com/sayanarijit/xplr): A hackable, minimal, fast TUI file explorer
 * [**emilk/egui**](https://github.com/emilk/egui): egui: an easy-to-use immediate mode GUI in pure Rust
@@ -1177,6 +1195,7 @@
 
 ## Shell
 
+* [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [**ChrisTitusTech/ArchTitus**](https://github.com/ChrisTitusTech/ArchTitus): Automated Arch Linux Install
 * [**rickellis/ArchMatic**](https://github.com/rickellis/ArchMatic): Arch Linux post-installation setup and config scripts
@@ -1223,6 +1242,7 @@
 
 ## TypeScript
 
+* [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**Dmitriy-Shulha/obsidian-plotly**](https://github.com/Dmitriy-Shulha/obsidian-plotly): Obsidian plugin to embed Plotly charts into markdown notes.
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
