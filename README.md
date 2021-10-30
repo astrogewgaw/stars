@@ -107,7 +107,7 @@
 * [**epezent/implot**](https://github.com/epezent/implot): Immediate Mode Plotting
 * [**mahilab/mahi-gui**](https://github.com/mahilab/mahi-gui): Dirt Simple C++ GUI Toolkit using GLFW, ImGui, and NanoVG
 * [**sxyu/watplot**](https://github.com/sxyu/watplot): Interactive waterfall plots for Breakthrough Listen data
-* [**svlugt/dedisp**](https://github.com/svlugt/dedisp): CUDA Based De-dispersion library
+* [**svlugt/dedisp**](https://github.com/svlugt/dedisp): CUDA Based De-dispersion library. Performance improvement of dedispersion through Fourier-domain dedispersion. More information: https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202142099
 * [**inducer/meshpy**](https://github.com/inducer/meshpy): 2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)
 * [**mamba-org/mamba**](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [**mir-group/flare_pp**](https://github.com/mir-group/flare_pp): A many-body extension of the FLARE code.
@@ -349,6 +349,14 @@
 
 ## Julia
 
+* [**JuliaPy/PyCall.jl**](https://github.com/JuliaPy/PyCall.jl): Package to call Python functions from the Julia language
+* [**comonicon/Comonicon.jl**](https://github.com/comonicon/Comonicon.jl): All terminals are under my command.
+* [**carlobaldassi/ArgParse.jl**](https://github.com/carlobaldassi/ArgParse.jl): Package for parsing command-line arguments to Julia programs.
+* [**docopt/DocOpt.jl**](https://github.com/docopt/DocOpt.jl): command line arguments parser
+* [**timholy/ProgressMeter.jl**](https://github.com/timholy/ProgressMeter.jl): Progress meter for long-running computations
+* [**invenia/Memento.jl**](https://github.com/invenia/Memento.jl): A flexible logging library for Julia
+* [**invenia/PkgTemplates.jl**](https://github.com/invenia/PkgTemplates.jl): Create new Julia packages, the easy way
+* [**invenia/NamedDims.jl**](https://github.com/invenia/NamedDims.jl): For working with dimensions of arrays by name
 * [**JuliaMath/SpecialFunctions.jl**](https://github.com/JuliaMath/SpecialFunctions.jl): Special mathematical functions in Julia
 * [**JuliaLang/IJulia.jl**](https://github.com/JuliaLang/IJulia.jl): Julia kernel for Jupyter
 * [**JuliaDocs/Documenter.jl**](https://github.com/JuliaDocs/Documenter.jl): A documentation generator for Julia.
@@ -1248,7 +1256,7 @@
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
-* [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for academic papers
+* [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for documents
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 A interplanetary communication platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
