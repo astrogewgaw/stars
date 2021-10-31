@@ -44,6 +44,7 @@
 * [**QML**](#qml)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
+* [**Scala**](#scala)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
@@ -92,6 +93,7 @@
 
 ## C++
 
+* [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
 * [**onqtam/doctest**](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
@@ -501,6 +503,7 @@
 
 ## Others
 
+* [**crazyhottommy/The-world-of-faculty**](https://github.com/crazyhottommy/The-world-of-faculty): resources for faculty
 * [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
@@ -566,6 +569,8 @@
 
 ## Python
 
+* [**inducer/pudb**](https://github.com/inducer/pudb): Full-screen console debugger for Python
+* [**wesselb/lab**](https://github.com/wesselb/lab): A generic interface for linear algebra backends
 * [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
 * [**pyscf/pyscf**](https://github.com/pyscf/pyscf): Python module for quantum chemistry
 * [**google/textfsm**](https://github.com/google/textfsm): Python module for parsing semi-structured text into python tables.
@@ -1200,6 +1205,10 @@
 * [**jonasbb/pre-commit-latex-hooks**](https://github.com/jonasbb/pre-commit-latex-hooks): pre-commit hooks to improve LaTeX writing.
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+
+## Scala
+
+* [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
 
 ## Shell
 
