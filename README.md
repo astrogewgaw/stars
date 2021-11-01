@@ -32,6 +32,7 @@
 * [**Julia**](#julia)
 * [**Jupyter Notebook**](#jupyter-notebook)
 * [**Lex**](#lex)
+* [**Lua**](#lua)
 * [**Makefile**](#makefile)
 * [**Nim**](#nim)
 * [**Nix**](#nix)
@@ -93,6 +94,7 @@
 
 ## C++
 
+* [**capnproto/capnproto**](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
@@ -351,6 +353,8 @@
 
 ## Julia
 
+* [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
+* [**JuliaLinearAlgebra/Octavian.jl**](https://github.com/JuliaLinearAlgebra/Octavian.jl): Multi-threaded BLAS-like library that provides pure Julia matrix multiplication
 * [**JuliaPy/PyCall.jl**](https://github.com/JuliaPy/PyCall.jl): Package to call Python functions from the Julia language
 * [**comonicon/Comonicon.jl**](https://github.com/comonicon/Comonicon.jl): All terminals are under my command.
 * [**carlobaldassi/ArgParse.jl**](https://github.com/carlobaldassi/ArgParse.jl): Package for parsing command-line arguments to Julia programs.
@@ -485,6 +489,10 @@
 
 * [**pkubowicz/opendetex**](https://github.com/pkubowicz/opendetex): Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources
 
+## Lua
+
+* [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
+
 ## Makefile
 
 * [**Naereen/badges**](https://github.com/Naereen/badges): :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -503,6 +511,8 @@
 
 ## Others
 
+* [**msgpack/msgpack**](https://github.com/msgpack/msgpack): MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
+* [**rockerBOO/awesome-neovim**](https://github.com/rockerBOO/awesome-neovim): Collections of awesome neovim plugins.
 * [**crazyhottommy/The-world-of-faculty**](https://github.com/crazyhottommy/The-world-of-faculty): resources for faculty
 * [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -569,6 +579,8 @@
 
 ## Python
 
+* [**choderalab/perses**](https://github.com/choderalab/perses): Experiments with expanded ensembles to explore chemical space
+* [**bpython/bpython**](https://github.com/bpython/bpython): bpython - A fancy curses interface to the Python interactive interpreter
 * [**inducer/pudb**](https://github.com/inducer/pudb): Full-screen console debugger for Python
 * [**wesselb/lab**](https://github.com/wesselb/lab): A generic interface for linear algebra backends
 * [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
@@ -1290,6 +1302,9 @@
 
 ## Vim script
 
+* [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
+* [**github/copilot.vim**](https://github.com/github/copilot.vim): Neovim plugin for GitHub Copilot
+* [**neovim/neovim**](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 * [**sonph/onehalf**](https://github.com/sonph/onehalf): Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 * [**romeovs/creep**](https://github.com/romeovs/creep): a pretty sweet 4px wide pixel font.
 
