@@ -648,7 +648,7 @@
 * [**lark-parser/lark**](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 * [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
-* [**laserkelvin/gotham-catalog-pipeline**](https://github.com/laserkelvin/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
+* [**gotham-gbt/gotham-catalog-pipeline**](https://github.com/gotham-gbt/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
 * [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
@@ -938,7 +938,6 @@
 * [**laserkelvin/PyMoments**](https://github.com/laserkelvin/PyMoments): Python library for calculating molecular rotational constants from standard input formats
 * [**thepetabyteproject/burstfit**](https://github.com/thepetabyteproject/burstfit): Spectro-temporal modeling of FRBs
 * [**nicoguaro/matplotlib_styles**](https://github.com/nicoguaro/matplotlib_styles): Matplotlib style sheets allow to stylize plots easily.
-* [**CRAFT-ASKAP/craftpy**](https://github.com/CRAFT-ASKAP/craftpy): *No description*
 * [**jiffyclub/palettable**](https://github.com/jiffyclub/palettable): Color palettes for Python
 * [**davidgardenier/frbpoppy**](https://github.com/davidgardenier/frbpoppy): Fast Radio Burst Population Synthesis in Python
 * [**agronholm/sphinx-autodoc-typehints**](https://github.com/agronholm/sphinx-autodoc-typehints): Type hints support for the Sphinx autodoc extension
@@ -1109,6 +1108,7 @@
 
 ## Rust
 
+* [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**Peltoche/lsd**](https://github.com/Peltoche/lsd): The next gen ls command
 * [**casey/just**](https://github.com/casey/just): 🤖 Just a command runner
 * [**mitsuhiko/minijinja**](https://github.com/mitsuhiko/minijinja): MiniJinja is a powerful but minimal dependency template engine for Rust
