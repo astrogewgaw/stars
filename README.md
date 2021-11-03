@@ -305,6 +305,7 @@
 
 ## JavaScript
 
+* [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 * [**webpro/reveal-md**](https://github.com/webpro/reveal-md): reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 * [**electron/electron-packager**](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 * [**electron/electron-quick-start**](https://github.com/electron/electron-quick-start): Clone to try a simple Electron app
@@ -491,6 +492,7 @@
 
 ## Lua
 
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally with :LspInstall. (also supports Windows)
 * [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ## Makefile
@@ -579,6 +581,10 @@
 
 ## Python
 
+* [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
+* [**petigura/FFA**](https://github.com/petigura/FFA): FFA
+* [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Speed up your Pandas workflows by changing a single line of code
+* [**pdbpp/pdbpp**](https://github.com/pdbpp/pdbpp): pdb++, a drop-in replacement for pdb (the Python debugger)
 * [**choderalab/perses**](https://github.com/choderalab/perses): Experiments with expanded ensembles to explore chemical space
 * [**bpython/bpython**](https://github.com/bpython/bpython): bpython - A fancy curses interface to the Python interactive interpreter
 * [**inducer/pudb**](https://github.com/inducer/pudb): Full-screen console debugger for Python
@@ -879,7 +885,7 @@
 * [**astropy/ccdproc**](https://github.com/astropy/ccdproc): Astropy affiliated package for reducing optical/IR CCD data
 * [**matteobachetti/TOAextractor**](https://github.com/matteobachetti/TOAextractor): A pipeline to extract TOAs from X-ray observations of the Crab pulsar and others. Mostly for cross-calibration purposes
 * [**jelmer/ognibuild**](https://github.com/jelmer/ognibuild): Detect and invoke build systems
-* [**alopezrivera/mpl_plotter**](https://github.com/alopezrivera/mpl_plotter): Matplotlib based plotting library. Simple and effective.
+* [**alopezrivera/mpl_plotter**](https://github.com/alopezrivera/mpl_plotter): Publication-quality data representation library based on Matplotlib.
 * [**adrn/thejoker**](https://github.com/adrn/thejoker): A custom Monte Carlo sampler for the (gravitational) two-body problem
 * [**adrn/pyia**](https://github.com/adrn/pyia): a Python package for working with data from the Gaia mission
 * [**adrn/gala**](https://github.com/adrn/gala): Galactic and gravitational dynamics in Python
@@ -1108,6 +1114,7 @@
 
 ## Rust
 
+* [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**Peltoche/lsd**](https://github.com/Peltoche/lsd): The next gen ls command
 * [**casey/just**](https://github.com/casey/just): 🤖 Just a command runner
@@ -1271,6 +1278,7 @@
 
 ## TypeScript
 
+* [**wakatime/vscode-wakatime**](https://github.com/wakatime/vscode-wakatime): Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**Dmitriy-Shulha/obsidian-plotly**](https://github.com/Dmitriy-Shulha/obsidian-plotly): Obsidian plugin to embed Plotly charts into markdown notes.
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
@@ -1302,6 +1310,7 @@
 
 ## Vim script
 
+* [**wakatime/vim-wakatime**](https://github.com/wakatime/vim-wakatime): Vim plugin for automatic time tracking and metrics generated from your programming activity.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 * [**github/copilot.vim**](https://github.com/github/copilot.vim): Neovim plugin for GitHub Copilot
 * [**neovim/neovim**](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
