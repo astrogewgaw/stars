@@ -219,6 +219,7 @@
 
 ## Go
 
+* [**mailru/easyjson**](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
 * [**go-task/task**](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
 * [**wagoodman/dive**](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 * [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
@@ -354,6 +355,9 @@
 
 ## Julia
 
+* [**JuliaAnimators/Javis.jl**](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations
+* [**JuliaInterop/Cxx.jl**](https://github.com/JuliaInterop/Cxx.jl): The Julia C++ Interface
+* [**JuliaStats/Distances.jl**](https://github.com/JuliaStats/Distances.jl): A Julia package for evaluating distances (metrics) between vectors.
 * [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
 * [**JuliaLinearAlgebra/Octavian.jl**](https://github.com/JuliaLinearAlgebra/Octavian.jl): Multi-threaded BLAS-like library that provides pure Julia matrix multiplication
 * [**JuliaPy/PyCall.jl**](https://github.com/JuliaPy/PyCall.jl): Package to call Python functions from the Julia language
@@ -492,6 +496,7 @@
 
 ## Lua
 
+* [**hrsh7th/nvim-cmp**](https://github.com/hrsh7th/nvim-cmp): A completion plugin for neovim coded in Lua.
 * [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally with :LspInstall. (also supports Windows)
 * [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
@@ -581,6 +586,7 @@
 
 ## Python
 
+* [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 * [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
 * [**petigura/FFA**](https://github.com/petigura/FFA): FFA
 * [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Speed up your Pandas workflows by changing a single line of code
@@ -684,7 +690,7 @@
 * [**inducer/pycuda**](https://github.com/inducer/pycuda): CUDA integration for Python, plus shiny features
 * [**inducer/pyopencl**](https://github.com/inducer/pyopencl): OpenCL integration for Python, plus shiny features
 * [**inducer/loopy**](https://github.com/inducer/loopy): A code generator for array-based code on CPUs and GPUs
-* [**ARDG-NRAO/plumber**](https://github.com/ARDG-NRAO/plumber): *No description*
+* [**ARDG-NRAO/plumber**](https://github.com/ARDG-NRAO/plumber): Image plane polarization leakage correction for radio interferometers
 * [**StavrosAkras/SATELLITE**](https://github.com/StavrosAkras/SATELLITE): Spectroscopic Analysis Tool for intEgraL FieLd unIt daTacubEs
 * [**aboucaud/galcheat**](https://github.com/aboucaud/galcheat): Galaxy surveys cheatsheet
 * [**kevin218/Eureka**](https://github.com/kevin218/Eureka): Eureka! is a data reduction and analysis pipeline intended for time-series observations with the James Webb Space Telescope (JWST).
@@ -1114,6 +1120,7 @@
 
 ## Rust
 
+* [**neovide/neovide**](https://github.com/neovide/neovide): No Nonsense Neovim Client in Rust
 * [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**Peltoche/lsd**](https://github.com/Peltoche/lsd): The next gen ls command
