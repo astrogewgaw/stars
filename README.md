@@ -586,6 +586,9 @@
 
 ## Python
 
+* [**jobovy/galpy**](https://github.com/jobovy/galpy): Galactic Dynamics in python
+* [**RadioAstronomySoftwareGroup/pyradiosky**](https://github.com/RadioAstronomySoftwareGroup/pyradiosky): Python objects and interfaces for representing diffuse, extended and compact astrophysical radio sources
+* [**RadioAstronomySoftwareGroup/pyuvsim**](https://github.com/RadioAstronomySoftwareGroup/pyuvsim): A ultra-high precision package for simulating radio interferometers in python on compute clusters.
 * [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 * [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
 * [**petigura/FFA**](https://github.com/petigura/FFA): FFA
@@ -1095,7 +1098,7 @@
 * [**python-attrs/cattrs**](https://github.com/python-attrs/cattrs): Complex custom class converters for attrs.
 * [**HypothesisWorks/hypothesis**](https://github.com/HypothesisWorks/hypothesis): Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 * [**psf/pyperf**](https://github.com/psf/pyperf): Toolkit to run Python benchmarks
-* [**python/mypy**](https://github.com/python/mypy): Optional static typing for Python 3 and 2 (PEP 484)
+* [**python/mypy**](https://github.com/python/mypy): Optional static typing for Python
 * [**python/typeshed**](https://github.com/python/typeshed): Collection of library stubs for Python, with static types
 * [**pennucci/PulsePortraiture**](https://github.com/pennucci/PulsePortraiture): PulsePortraiture (PP): a wideband pulsar timing code written in python.  It uses an extension of Joe Taylor's FFTFIT algorithm (Taylor 1992) to simultaneously measure a phase (TOA) and dispersion measure (DM).  PSRCHIVE, lmfit, and the latest vertsions of numpy and scipy are required.
 * [**construct/construct**](https://github.com/construct/construct): Construct: Declarative data structures for python that allow symmetric parsing and building
