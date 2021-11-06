@@ -242,7 +242,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Open Source Photos App powered by Go and Google TensorFlow 🌈
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -275,7 +275,7 @@
 ## HTML
 
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
-* [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming lesson.
+* [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming with Python and CUDA.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
@@ -306,6 +306,7 @@
 
 ## JavaScript
 
+* [**square/cubism**](https://github.com/square/cubism): Cubism.js: A JavaScript library for time series visualization.
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 * [**webpro/reveal-md**](https://github.com/webpro/reveal-md): reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 * [**electron/electron-packager**](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
@@ -586,6 +587,11 @@
 
 ## Python
 
+* [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+* [**aesara-devs/aesara**](https://github.com/aesara-devs/aesara): Aesara is a Python library that allows one to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays.
+* [**astropy/pyvo**](https://github.com/astropy/pyvo): An Astropy affiliated package providing access to remote data and services of the Virtual observatory (VO) using Python.
+* [**evanocathain/Useful_RRAT_stuff**](https://github.com/evanocathain/Useful_RRAT_stuff): Useful stuff for analysing "RRAT" data
+* [**csurfer/pyheat**](https://github.com/csurfer/pyheat): pprofile + matplotlib = Python program profiled as an awesome heatmap!
 * [**jobovy/galpy**](https://github.com/jobovy/galpy): Galactic Dynamics in python
 * [**RadioAstronomySoftwareGroup/pyradiosky**](https://github.com/RadioAstronomySoftwareGroup/pyradiosky): Python objects and interfaces for representing diffuse, extended and compact astrophysical radio sources
 * [**RadioAstronomySoftwareGroup/pyuvsim**](https://github.com/RadioAstronomySoftwareGroup/pyuvsim): A ultra-high precision package for simulating radio interferometers in python on compute clusters.
@@ -1123,6 +1129,7 @@
 
 ## Rust
 
+* [**dalance/procs**](https://github.com/dalance/procs): A modern replacement for ps written in Rust
 * [**neovide/neovide**](https://github.com/neovide/neovide): No Nonsense Neovim Client in Rust
 * [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
