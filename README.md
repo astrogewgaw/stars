@@ -94,6 +94,7 @@
 
 ## C++
 
+* [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
 * [**capnproto/capnproto**](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
@@ -519,6 +520,7 @@
 
 ## Others
 
+* [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [**msgpack/msgpack**](https://github.com/msgpack/msgpack): MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [**rockerBOO/awesome-neovim**](https://github.com/rockerBOO/awesome-neovim): Collections of awesome neovim plugins.
 * [**crazyhottommy/The-world-of-faculty**](https://github.com/crazyhottommy/The-world-of-faculty): resources for faculty
@@ -587,6 +589,8 @@
 
 ## Python
 
+* [**miki725/importanize**](https://github.com/miki725/importanize): Utility for organizing Python imports using PEP8 or custom rules
+* [**pytest-dev/pluggy**](https://github.com/pytest-dev/pluggy): A minimalist production ready plugin system
 * [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 * [**aesara-devs/aesara**](https://github.com/aesara-devs/aesara): Aesara is a Python library that allows one to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays.
 * [**astropy/pyvo**](https://github.com/astropy/pyvo): An Astropy affiliated package providing access to remote data and services of the Virtual observatory (VO) using Python.
@@ -1129,6 +1133,11 @@
 
 ## Rust
 
+* [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
+* [**murarth/gumdrop**](https://github.com/murarth/gumdrop): Rust option parser with custom derive support
+* [**zesterer/ariadne**](https://github.com/zesterer/ariadne): A fancy diagnostics & error reporting crate
+* [**zesterer/chumsky**](https://github.com/zesterer/chumsky): A friendly parser combinator crate
+* [**BurntSushi/ripgrep**](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * [**dalance/procs**](https://github.com/dalance/procs): A modern replacement for ps written in Rust
 * [**neovide/neovide**](https://github.com/neovide/neovide): No Nonsense Neovim Client in Rust
 * [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
