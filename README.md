@@ -50,6 +50,7 @@
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
 * [**TypeScript**](#typescript)
+* [**Vim Snippet**](#vim-snippet)
 * [**Vim script**](#vim-script)
 * [**Vue**](#vue)
 * [**Xonsh**](#xonsh)
@@ -357,6 +358,7 @@
 
 ## Julia
 
+* [**JuliaTesting/ReferenceTests.jl**](https://github.com/JuliaTesting/ReferenceTests.jl): Utility package for comparing data against reference files
 * [**JuliaAnimators/Javis.jl**](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations
 * [**JuliaInterop/Cxx.jl**](https://github.com/JuliaInterop/Cxx.jl): The Julia C++ Interface
 * [**JuliaStats/Distances.jl**](https://github.com/JuliaStats/Distances.jl): A Julia package for evaluating distances (metrics) between vectors.
@@ -589,6 +591,8 @@
 
 ## Python
 
+* [**gillescastel/inkscape-shortcut-manager**](https://github.com/gillescastel/inkscape-shortcut-manager): Inkscape shorcut manager
+* [**gillescastel/inkscape-figures**](https://github.com/gillescastel/inkscape-figures): Inkscape figure manager
 * [**miki725/importanize**](https://github.com/miki725/importanize): Utility for organizing Python imports using PEP8 or custom rules
 * [**pytest-dev/pluggy**](https://github.com/pytest-dev/pluggy): A minimalist production ready plugin system
 * [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
@@ -725,7 +729,7 @@
 * [**haykh/brender_astro**](https://github.com/haykh/brender_astro): Python-based Blender module for scientific visualization
 * [**tomicapretto/flexitext**](https://github.com/tomicapretto/flexitext): Flexitext: Draw styled text in Matplotlib
 * [**chriskiehl/Gooey**](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
-* [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+* [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 * [**ArtificialStellarPopulations/ArtPop**](https://github.com/ArtificialStellarPopulations/ArtPop): Building artificial galaxies one star at a time.
 * [**samuelcolvin/pydantic**](https://github.com/samuelcolvin/pydantic): Data parsing and validation using Python type hints
 * [**sampsyo/clusterfutures**](https://github.com/sampsyo/clusterfutures): super-slick Slurm and Condor cluster execution for Python
@@ -1313,7 +1317,7 @@
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for documents
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
-* [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 A interplanetary communication platform 🚀
+* [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary communication platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
 * [**foambubble/foam**](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
@@ -1334,8 +1338,13 @@
 * [**renovatebot/renovate**](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows.
 * [**CARTAvis/carta-frontend**](https://github.com/CARTAvis/carta-frontend): Source code repository for the frontend component of CARTA, a new visualization tool designed for the ALMA, the VLA and the SKA pathfinders.
 
+## Vim Snippet
+
+* [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
+
 ## Vim script
 
+* [**JuliaEditorSupport/julia-vim**](https://github.com/JuliaEditorSupport/julia-vim): Vim support for Julia.
 * [**wakatime/vim-wakatime**](https://github.com/wakatime/vim-wakatime): Vim plugin for automatic time tracking and metrics generated from your programming activity.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 * [**github/copilot.vim**](https://github.com/github/copilot.vim): Neovim plugin for GitHub Copilot
