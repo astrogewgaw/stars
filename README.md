@@ -95,6 +95,8 @@
 
 ## C++
 
+* [**mawww/kakoune**](https://github.com/mawww/kakoune): mawww's experiment for a better code editor
+* [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
 * [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
 * [**capnproto/capnproto**](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
@@ -437,6 +439,7 @@
 
 ## Jupyter Notebook
 
+* [**astrozot/xnicer**](https://github.com/astrozot/xnicer): The XNICER algorithm
 * [**KeplerGO/kpub**](https://github.com/KeplerGO/kpub): Curate publications related to NASA's Kepler/K2 missions using the ADS API.
 * [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
 * [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
@@ -1137,6 +1140,8 @@
 
 ## Rust
 
+* [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
+* [**rayon-rs/rayon**](https://github.com/rayon-rs/rayon): Rayon: A data parallelism library for Rust
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
 * [**murarth/gumdrop**](https://github.com/murarth/gumdrop): Rust option parser with custom derive support
 * [**zesterer/ariadne**](https://github.com/zesterer/ariadne): A fancy diagnostics & error reporting crate
@@ -1340,6 +1345,7 @@
 
 ## Vim Snippet
 
+* [**honza/vim-snippets**](https://github.com/honza/vim-snippets): vim-snipmate default snippets (Previously snipmate-snippets)
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
 ## Vim script
