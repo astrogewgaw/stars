@@ -503,6 +503,8 @@
 
 ## Lua
 
+* [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+* [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * [**hrsh7th/nvim-cmp**](https://github.com/hrsh7th/nvim-cmp): A completion plugin for neovim coded in Lua.
 * [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally with :LspInstall. (also supports Windows)
 * [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
