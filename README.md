@@ -310,6 +310,7 @@
 
 ## JavaScript
 
+* [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
 * [**square/cubism**](https://github.com/square/cubism): Cubism.js: A JavaScript library for time series visualization.
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 * [**webpro/reveal-md**](https://github.com/webpro/reveal-md): reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
@@ -534,7 +535,6 @@
 * [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
-* [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
@@ -645,6 +645,7 @@
 * [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
 * [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
+* [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
 * [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): A Spotify downloader needing only a python interpreter and ffmpeg.
 * [**AOtools/aotools**](https://github.com/AOtools/aotools): A useful set of tools for Adaptive Optics in Python
@@ -1352,6 +1353,7 @@
 
 ## Vim script
 
+* [**wfxr/minimap.vim**](https://github.com/wfxr/minimap.vim): 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 * [**JuliaEditorSupport/julia-vim**](https://github.com/JuliaEditorSupport/julia-vim): Vim support for Julia.
 * [**wakatime/vim-wakatime**](https://github.com/wakatime/vim-wakatime): Vim plugin for automatic time tracking and metrics generated from your programming activity.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
