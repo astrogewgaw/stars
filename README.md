@@ -57,6 +57,7 @@
 
 ## C
 
+* [**kovidgoyal/html5-parser**](https://github.com/kovidgoyal/html5-parser): Fast C based HTML 5 parsing for python
 * [**torvalds/linux**](https://github.com/torvalds/linux): Linux kernel source tree
 * [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
 * [**SAOImageDS9/SAOImageDS9**](https://github.com/SAOImageDS9/SAOImageDS9): SAOImage DS9 is an astronomical imaging and data visualization application.
@@ -200,6 +201,7 @@
 
 ## Fortran
 
+* [**AndreaCaldiroli/ATES-Code**](https://github.com/AndreaCaldiroli/ATES-Code): The ATES hydrodynamics code computes the temperature, density, velocity and ionization fraction profiles of highly irradiated planetary atmospheres, along with the current, steady-state mass loss rate. ATES solves the one-dimensional Euler, mass and energy conservation equations in radial coordinates through a finite-volume scheme. The hydrodynamics module is paired with a photoionization equilibrium solver that includes cooling via bremsstrahlung, recombination and collisional excitation/ionization for the case of an atmosphere of primordial composition (i.e., pure atomic hydrogen-helium), while also accounting for advection of the different ion species.
 * [**cpinte/mcfost**](https://github.com/cpinte/mcfost): MCFOST radiative transfer code
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
@@ -223,6 +225,9 @@
 
 ## Go
 
+* [**rs/zerolog**](https://github.com/rs/zerolog): Zero Allocation JSON Logger
+* [**apex/log**](https://github.com/apex/log): Structured logging package for Go.
+* [**sirupsen/logrus**](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [**mailru/easyjson**](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
 * [**go-task/task**](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
 * [**wagoodman/dive**](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
@@ -361,6 +366,7 @@
 
 ## Julia
 
+* [**JuliaLang/Pkg.jl**](https://github.com/JuliaLang/Pkg.jl): Pkg - Package manager for the Julia programming language
 * [**JuliaTesting/ReferenceTests.jl**](https://github.com/JuliaTesting/ReferenceTests.jl): Utility package for comparing data against reference files
 * [**JuliaAnimators/Javis.jl**](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations
 * [**JuliaInterop/Cxx.jl**](https://github.com/JuliaInterop/Cxx.jl): The Julia C++ Interface
@@ -570,7 +576,7 @@
 * [**lmmentel/awesome-python-chemistry**](https://github.com/lmmentel/awesome-python-chemistry): A curated list of Python packages related to chemistry
 * [**smaret/pymcfost**](https://github.com/smaret/pymcfost): python interface to the 3D radiative transfer code mcfost
 * [**nikosarcevic/HEP-ASTRO-COSMO**](https://github.com/nikosarcevic/HEP-ASTRO-COSMO): HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
-* [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
+* [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib
 * [**JuliaMolSim/MolSim**](https://github.com/JuliaMolSim/MolSim): Registry for Molecular Simulation Packages
 * [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [**sorrycc/awesome-javascript**](https://github.com/sorrycc/awesome-javascript): 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -596,6 +602,12 @@
 
 ## Python
 
+* [**SirVer/ultisnips**](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+* [**rodluger/citeyoursoftware**](https://github.com/rodluger/citeyoursoftware): Automatically generate BibTeX citations for the software in your conda environment.
+* [**citation-file-format/cff-converter-python**](https://github.com/citation-file-format/cff-converter-python): Command line program to validate and convert CITATION.cff files.
+* [**kovidgoyal/calibre**](https://github.com/kovidgoyal/calibre): The official source code repository for the calibre ebook manager
+* [**adrn/makecite**](https://github.com/adrn/makecite): Generate latex + bibtex citation commands by looking at what packages are imported
+* [**duecredit/duecredit**](https://github.com/duecredit/duecredit): Automated collection and reporting of citations for used software/methods/datasets
 * [**gillescastel/inkscape-shortcut-manager**](https://github.com/gillescastel/inkscape-shortcut-manager): Inkscape shorcut manager
 * [**gillescastel/inkscape-figures**](https://github.com/gillescastel/inkscape-figures): Inkscape figure manager
 * [**miki725/importanize**](https://github.com/miki725/importanize): Utility for organizing Python imports using PEP8 or custom rules
@@ -877,7 +889,7 @@
 * [**mkaz/termgraph**](https://github.com/mkaz/termgraph): a python command-line tool which draws basic graphs in the terminal
 * [**nschloe/termplotlib**](https://github.com/nschloe/termplotlib): :chart_with_upwards_trend: Plotting on the command line
 * [**kroitor/asciichart**](https://github.com/kroitor/asciichart): Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
-* [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): Print matplotlib colors
+* [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): A command-line information tool written in Python 3.x to display matplotlib colors.
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
 * [**willmcgugan/textual**](https://github.com/willmcgugan/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
@@ -1139,10 +1151,14 @@
 
 ## Ruby
 
+* [**Homebrew/brew**](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [**huginn/huginn**](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## Rust
 
+* [**Morganamilo/paru**](https://github.com/Morganamilo/paru): Feature packed AUR helper
+* [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
+* [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
 * [**rayon-rs/rayon**](https://github.com/rayon-rs/rayon): Rayon: A data parallelism library for Rust
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
@@ -1269,6 +1285,12 @@
 
 ## Shell
 
+* [**picodotdev/alis**](https://github.com/picodotdev/alis): Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
+* [**ahmedelhori/install-arch**](https://github.com/ahmedelhori/install-arch): A script to automate arch linux installation
+* [**jasonmaster/ArchInstaller**](https://github.com/jasonmaster/ArchInstaller): Scripts to automate the install of Arch Linux
+* [**zambonin/arch-install**](https://github.com/zambonin/arch-install): A simple shell script to automate Arch Linux's convoluted installation.
+* [**roliboy/archer**](https://github.com/roliboy/archer): automated arch linux installer
+* [**wrzlbrmft/arch-install**](https://github.com/wrzlbrmft/arch-install): A highly configurable script automatically installing Arch Linux.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [**ChrisTitusTech/ArchTitus**](https://github.com/ChrisTitusTech/ArchTitus): Automated Arch Linux Install
