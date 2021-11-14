@@ -225,6 +225,7 @@
 
 ## Go
 
+* [**rclone/rclone**](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [**rs/zerolog**](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [**apex/log**](https://github.com/apex/log): Structured logging package for Go.
 * [**sirupsen/logrus**](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
@@ -446,6 +447,7 @@
 
 ## Jupyter Notebook
 
+* [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
 * [**astrozot/xnicer**](https://github.com/astrozot/xnicer): The XNICER algorithm
 * [**KeplerGO/kpub**](https://github.com/KeplerGO/kpub): Curate publications related to NASA's Kepler/K2 missions using the ADS API.
 * [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
@@ -510,10 +512,11 @@
 
 ## Lua
 
+* [**norcalli/snippets.nvim**](https://github.com/norcalli/snippets.nvim): *No description*
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * [**hrsh7th/nvim-cmp**](https://github.com/hrsh7th/nvim-cmp): A completion plugin for neovim coded in Lua.
-* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally with :LspInstall. (also supports Windows)
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
 * [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ## Makefile
@@ -534,6 +537,7 @@
 
 ## Others
 
+* [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [**msgpack/msgpack**](https://github.com/msgpack/msgpack): MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [**rockerBOO/awesome-neovim**](https://github.com/rockerBOO/awesome-neovim): Collections of awesome neovim plugins.
@@ -602,6 +606,7 @@
 
 ## Python
 
+* [**nschloe/tiptop**](https://github.com/nschloe/tiptop): Command-line system monitoring
 * [**SirVer/ultisnips**](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [**rodluger/citeyoursoftware**](https://github.com/rodluger/citeyoursoftware): Automatically generate BibTeX citations for the software in your conda environment.
 * [**citation-file-format/cff-converter-python**](https://github.com/citation-file-format/cff-converter-python): Command line program to validate and convert CITATION.cff files.
@@ -1285,6 +1290,7 @@
 
 ## Shell
 
+* [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**picodotdev/alis**](https://github.com/picodotdev/alis): Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
 * [**ahmedelhori/install-arch**](https://github.com/ahmedelhori/install-arch): A script to automate arch linux installation
 * [**jasonmaster/ArchInstaller**](https://github.com/jasonmaster/ArchInstaller): Scripts to automate the install of Arch Linux
@@ -1321,6 +1327,7 @@
 
 ## TeX
 
+* [**FlamingTempura/bibtex-tidy**](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files
 * [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
 * [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
@@ -1338,6 +1345,7 @@
 
 ## TypeScript
 
+* [**neoclide/coc.nvim**](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [**wakatime/vscode-wakatime**](https://github.com/wakatime/vscode-wakatime): Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**Dmitriy-Shulha/obsidian-plotly**](https://github.com/Dmitriy-Shulha/obsidian-plotly): Obsidian plugin to embed Plotly charts into markdown notes.
@@ -1370,6 +1378,7 @@
 
 ## Vim Snippet
 
+* [**neoclide/coc-snippets**](https://github.com/neoclide/coc-snippets): Snippets solution for coc.nvim
 * [**honza/vim-snippets**](https://github.com/honza/vim-snippets): vim-snipmate default snippets (Previously snipmate-snippets)
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
