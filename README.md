@@ -52,6 +52,7 @@
 * [**TypeScript**](#typescript)
 * [**Vim Snippet**](#vim-snippet)
 * [**Vim script**](#vim-script)
+* [**VimL**](#viml)
 * [**Vue**](#vue)
 * [**Xonsh**](#xonsh)
 
@@ -512,6 +513,9 @@
 
 ## Lua
 
+* [**rose-pine/neovim**](https://github.com/rose-pine/neovim): Soho vibes for Neovim
+* [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
+* [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
 * [**norcalli/snippets.nvim**](https://github.com/norcalli/snippets.nvim): *No description*
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -537,6 +541,7 @@
 
 ## Others
 
+* [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
 * [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [**msgpack/msgpack**](https://github.com/msgpack/msgpack): MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
@@ -580,7 +585,6 @@
 * [**lmmentel/awesome-python-chemistry**](https://github.com/lmmentel/awesome-python-chemistry): A curated list of Python packages related to chemistry
 * [**smaret/pymcfost**](https://github.com/smaret/pymcfost): python interface to the 3D radiative transfer code mcfost
 * [**nikosarcevic/HEP-ASTRO-COSMO**](https://github.com/nikosarcevic/HEP-ASTRO-COSMO): HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
-* [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib
 * [**JuliaMolSim/MolSim**](https://github.com/JuliaMolSim/MolSim): Registry for Molecular Simulation Packages
 * [**EbookFoundation/free-programming-books**](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [**sorrycc/awesome-javascript**](https://github.com/sorrycc/awesome-javascript): 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -606,6 +610,9 @@
 
 ## Python
 
+* [**liamconnor/radiogalsim**](https://github.com/liamconnor/radiogalsim): Simulate the microJansky radio sky to create image pairs for deconvolution
+* [**spatialaudio/nbsphinx**](https://github.com/spatialaudio/nbsphinx): :ledger: Sphinx source parser for Jupyter notebooks
+* [**sffjunkie/astral**](https://github.com/sffjunkie/astral): Python calculations for the position of the sun and moon.
 * [**nschloe/tiptop**](https://github.com/nschloe/tiptop): Command-line system monitoring
 * [**SirVer/ultisnips**](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [**rodluger/citeyoursoftware**](https://github.com/rodluger/citeyoursoftware): Automatically generate BibTeX citations for the software in your conda environment.
@@ -1039,6 +1046,7 @@
 * [**mlower/rmnest**](https://github.com/mlower/rmnest): Bayesian method for estimating standard (and generalised) rotation measures via direct fits to Stokes Q & U (& V).
 * [**holoviz/param**](https://github.com/holoviz/param): Param: Make your Python code clearer and more reliable by declaring Parameters
 * [**vivgastro/Furby**](https://github.com/vivgastro/Furby): Mock FRB generator
+* [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib
 * [**rougier/from-python-to-numpy**](https://github.com/rougier/from-python-to-numpy): An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 * [**plotly/dash**](https://github.com/plotly/dash): Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 * [**plotly/plotly.py**](https://github.com/plotly/plotly.py): The interactive graphing library for Python (includes Plotly Express) :sparkles:
@@ -1392,6 +1400,10 @@
 * [**neovim/neovim**](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 * [**sonph/onehalf**](https://github.com/sonph/onehalf): Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 * [**romeovs/creep**](https://github.com/romeovs/creep): a pretty sweet 4px wide pixel font.
+
+## VimL
+
+* [**leafo/moonscript-vim**](https://github.com/leafo/moonscript-vim): MoonScript support for vim
 
 ## Vue
 
