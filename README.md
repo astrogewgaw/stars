@@ -58,6 +58,7 @@
 
 ## C
 
+* [**RickKessler/SNANA**](https://github.com/RickKessler/SNANA): Supernova Analysis package
 * [**kovidgoyal/html5-parser**](https://github.com/kovidgoyal/html5-parser): Fast C based HTML 5 parsing for python
 * [**torvalds/linux**](https://github.com/torvalds/linux): Linux kernel source tree
 * [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
@@ -202,6 +203,7 @@
 
 ## Fortran
 
+* [**nye17/javelin**](https://github.com/nye17/javelin): JAVELIN is now live on Github! The original Bitbucket repo was terminated due to the shutdown of Mercurial services by Bitbucket.
 * [**AndreaCaldiroli/ATES-Code**](https://github.com/AndreaCaldiroli/ATES-Code): The ATES hydrodynamics code computes the temperature, density, velocity and ionization fraction profiles of highly irradiated planetary atmospheres, along with the current, steady-state mass loss rate. ATES solves the one-dimensional Euler, mass and energy conservation equations in radial coordinates through a finite-volume scheme. The hydrodynamics module is paired with a photoionization equilibrium solver that includes cooling via bremsstrahlung, recombination and collisional excitation/ionization for the case of an atmosphere of primordial composition (i.e., pure atomic hydrogen-helium), while also accounting for advection of the different ion species.
 * [**cpinte/mcfost**](https://github.com/cpinte/mcfost): MCFOST radiative transfer code
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
@@ -226,6 +228,7 @@
 
 ## Go
 
+* [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**rclone/rclone**](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [**rs/zerolog**](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [**apex/log**](https://github.com/apex/log): Structured logging package for Go.
@@ -368,6 +371,7 @@
 
 ## Julia
 
+* [**timholy/Revise.jl**](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
 * [**JuliaLang/Pkg.jl**](https://github.com/JuliaLang/Pkg.jl): Pkg - Package manager for the Julia programming language
 * [**JuliaTesting/ReferenceTests.jl**](https://github.com/JuliaTesting/ReferenceTests.jl): Utility package for comparing data against reference files
 * [**JuliaAnimators/Javis.jl**](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations
@@ -610,6 +614,10 @@
 
 ## Python
 
+* [**void4/astroheat**](https://github.com/void4/astroheat): Sky attention heatmap of submissions to astrometry.net
+* [**CorentinLouis/ILOFAR**](https://github.com/CorentinLouis/ILOFAR): Codes to read and process ILOFAR data
+* [**archlinux/archinstall**](https://github.com/archlinux/archinstall): Arch Linux installer - guided, templates etc.
+* [**rjfarmer/mesaplot**](https://github.com/rjfarmer/mesaplot): Library of python routines to read MESA ouput files and plot MESA quantites
 * [**liamconnor/radiogalsim**](https://github.com/liamconnor/radiogalsim): Simulate the microJansky radio sky to create image pairs for deconvolution
 * [**spatialaudio/nbsphinx**](https://github.com/spatialaudio/nbsphinx): :ledger: Sphinx source parser for Jupyter notebooks
 * [**sffjunkie/astral**](https://github.com/sffjunkie/astral): Python calculations for the position of the sun and moon.
@@ -1169,6 +1177,8 @@
 
 ## Rust
 
+* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Yet another remote desktop software
+* [**extrawurst/gitui**](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [**Morganamilo/paru**](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
