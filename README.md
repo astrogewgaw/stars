@@ -46,6 +46,7 @@
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
 * [**Scala**](#scala)
+* [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
@@ -58,6 +59,8 @@
 
 ## C
 
+* [**cxong/tinydir**](https://github.com/cxong/tinydir): Lightweight, portable and easy to integrate C directory and file reader
+* [**LemonBoy/bar**](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
 * [**RickKessler/SNANA**](https://github.com/RickKessler/SNANA): Supernova Analysis package
 * [**kovidgoyal/html5-parser**](https://github.com/kovidgoyal/html5-parser): Fast C based HTML 5 parsing for python
 * [**torvalds/linux**](https://github.com/torvalds/linux): Linux kernel source tree
@@ -171,6 +174,7 @@
 
 ## CSS
 
+* [**guglicap/wal-discord**](https://github.com/guglicap/wal-discord): Generate Discord css from pywal colors
 * [**tlienart/FranklinTemplates.jl**](https://github.com/tlienart/FranklinTemplates.jl): Simple website templates for Franklin.jl
 * [**kmaasrud/awesome-obsidian**](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [**HeRTA/FRBSTATS**](https://github.com/HeRTA/FRBSTATS): Repository for the FRBSTATS web platform.
@@ -228,6 +232,8 @@
 
 ## Go
 
+* [**jinzhu/copier**](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more
+* [**go-gorm/gorm**](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**rclone/rclone**](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [**rs/zerolog**](https://github.com/rs/zerolog): Zero Allocation JSON Logger
@@ -320,6 +326,7 @@
 
 ## JavaScript
 
+* [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
 * [**square/cubism**](https://github.com/square/cubism): Cubism.js: A JavaScript library for time series visualization.
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -517,6 +524,9 @@
 
 ## Lua
 
+* [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+* [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
+* [**nvim-telescope/telescope.nvim**](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick. All lua, all the time.
 * [**rose-pine/neovim**](https://github.com/rose-pine/neovim): Soho vibes for Neovim
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
@@ -614,6 +624,8 @@
 
 ## Python
 
+* [**PyCQA/isort**](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
+* [**ms-jpq/coq_nvim**](https://github.com/ms-jpq/coq_nvim): Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 * [**void4/astroheat**](https://github.com/void4/astroheat): Sky attention heatmap of submissions to astrometry.net
 * [**CorentinLouis/ILOFAR**](https://github.com/CorentinLouis/ILOFAR): Codes to read and process ILOFAR data
 * [**archlinux/archinstall**](https://github.com/archlinux/archinstall): Arch Linux installer - guided, templates etc.
@@ -1306,8 +1318,14 @@
 
 * [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
 
+## Scheme
+
+* [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter): Nvim Treesitter configurations and abstraction layer
+
 ## Shell
 
+* [**aryakaul/cli-visualizer_pywal**](https://github.com/aryakaul/cli-visualizer_pywal): 🎨🎼 - autogen color scheme from pywal for cli-visualizer
+* [**GideonWolfe/Zathura-Pywal**](https://github.com/GideonWolfe/Zathura-Pywal): 🎨📖 A script that dynamically generates a zathura colorscheme based on the current wal colors.
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**picodotdev/alis**](https://github.com/picodotdev/alis): Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
 * [**ahmedelhori/install-arch**](https://github.com/ahmedelhori/install-arch): A script to automate arch linux installation
@@ -1345,6 +1363,7 @@
 
 ## TeX
 
+* [**lervag/vimtex**](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 * [**FlamingTempura/bibtex-tidy**](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files
 * [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
@@ -1402,6 +1421,18 @@
 
 ## Vim script
 
+* [**dylanaraps/wal.vim**](https://github.com/dylanaraps/wal.vim): 🎨 A vim colorscheme for use with wal
+* [**mhinz/vim-galore**](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
+* [**prabirshrestha/asyncomplete.vim**](https://github.com/prabirshrestha/asyncomplete.vim): async completion in pure vim script for vim8 and neovim
+* [**thomasfaingnaert/vim-lsp-neosnippet**](https://github.com/thomasfaingnaert/vim-lsp-neosnippet): Language Server Protocol snippets in vim using vim-lsp and neosnippet.vim
+* [**thomasfaingnaert/vim-lsp-ultisnips**](https://github.com/thomasfaingnaert/vim-lsp-ultisnips): Language Server Protocol snippets in vim using vim-lsp and UltiSnips
+* [**prabirshrestha/vim-lsp**](https://github.com/prabirshrestha/vim-lsp): async language server protocol plugin for vim and neovim
+* [**rafi/awesome-vim-colorschemes**](https://github.com/rafi/awesome-vim-colorschemes): Collection of awesome color schemes for Neo/vim, merged for quick use.
+* [**liuchengxu/vim-which-key**](https://github.com/liuchengxu/vim-which-key): :tulip: Vim plugin that shows keybindings in popup
+* [**mhinz/vim-signify**](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
+* [**neomake/neomake**](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
+* [**mhinz/vim-startify**](https://github.com/mhinz/vim-startify): :link: The fancy start screen for Vim.
+* [**junegunn/fzf.vim**](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 * [**wfxr/minimap.vim**](https://github.com/wfxr/minimap.vim): 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 * [**JuliaEditorSupport/julia-vim**](https://github.com/JuliaEditorSupport/julia-vim): Vim support for Julia.
 * [**wakatime/vim-wakatime**](https://github.com/wakatime/vim-wakatime): Vim plugin for automatic time tracking and metrics generated from your programming activity.
