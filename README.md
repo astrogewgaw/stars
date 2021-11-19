@@ -59,6 +59,7 @@
 
 ## C
 
+* [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [**cxong/tinydir**](https://github.com/cxong/tinydir): Lightweight, portable and easy to integrate C directory and file reader
 * [**LemonBoy/bar**](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
 * [**RickKessler/SNANA**](https://github.com/RickKessler/SNANA): Supernova Analysis package
@@ -624,6 +625,10 @@
 
 ## Python
 
+* [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
+* [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
+* [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
+* [**PyO3/setuptools-rust**](https://github.com/PyO3/setuptools-rust): Setuptools plugin for Rust support
 * [**PyCQA/isort**](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
 * [**ms-jpq/coq_nvim**](https://github.com/ms-jpq/coq_nvim): Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 * [**void4/astroheat**](https://github.com/void4/astroheat): Sky attention heatmap of submissions to astrometry.net
@@ -1189,6 +1194,8 @@
 
 ## Rust
 
+* [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+* [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
 * [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Yet another remote desktop software
 * [**extrawurst/gitui**](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [**Morganamilo/paru**](https://github.com/Morganamilo/paru): Feature packed AUR helper
@@ -1421,6 +1428,7 @@
 
 ## Vim script
 
+* [**pappasam/vim-filetype-formatter**](https://github.com/pappasam/vim-filetype-formatter): Format program files in vim using your favorite command line formatter
 * [**dylanaraps/wal.vim**](https://github.com/dylanaraps/wal.vim): 🎨 A vim colorscheme for use with wal
 * [**mhinz/vim-galore**](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 * [**prabirshrestha/asyncomplete.vim**](https://github.com/prabirshrestha/asyncomplete.vim): async completion in pure vim script for vim8 and neovim
@@ -1444,6 +1452,7 @@
 
 ## VimL
 
+* [**abhishekmukherg/xonsh-vim**](https://github.com/abhishekmukherg/xonsh-vim): xonsh syntax file from vim (mostly stolen from python_vim)
 * [**leafo/moonscript-vim**](https://github.com/leafo/moonscript-vim): MoonScript support for vim
 
 ## Vue
