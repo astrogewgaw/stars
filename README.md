@@ -460,6 +460,7 @@
 
 ## Jupyter Notebook
 
+* [**steven-murray/powerbox**](https://github.com/steven-murray/powerbox): A python package for making arbitrarily structured, arbitrary-dimension boxes
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
 * [**astrozot/xnicer**](https://github.com/astrozot/xnicer): The XNICER algorithm
 * [**KeplerGO/kpub**](https://github.com/KeplerGO/kpub): Curate publications related to NASA's Kepler/K2 missions using the ADS API.
@@ -525,6 +526,7 @@
 
 ## Lua
 
+* [**Xuyuanp/scrollbar.nvim**](https://github.com/Xuyuanp/scrollbar.nvim): scrollbar for neovim
 * [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 * [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
 * [**nvim-telescope/telescope.nvim**](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick. All lua, all the time.
@@ -612,7 +614,7 @@
 
 ## PureBasic
 
-* [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Emulated halo model for prediction of the galaxy power spectrum.
+* [**JDonaldM/Matryoshka**](https://github.com/JDonaldM/Matryoshka): Neural network based emulators for the galaxy power spectrum.
 
 ## PureScript
 
@@ -625,6 +627,7 @@
 
 ## Python
 
+* [**nschloe/betterbib**](https://github.com/nschloe/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
 * [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
 * [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
@@ -1345,7 +1348,7 @@
 * [**ChrisTitusTech/ArchTitus**](https://github.com/ChrisTitusTech/ArchTitus): Automated Arch Linux Install
 * [**rickellis/ArchMatic**](https://github.com/rickellis/ArchMatic): Arch Linux post-installation setup and config scripts
 * [**xxh/xxh-shell-xonsh**](https://github.com/xxh/xxh-shell-xonsh): Use xonsh wherever you go through the SSH without installation on the host.
-* [**wimpysworld/quickemu**](https://github.com/wimpysworld/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [**quickemu-project/quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
@@ -1389,6 +1392,7 @@
 
 ## TypeScript
 
+* [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**neoclide/coc.nvim**](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [**wakatime/vscode-wakatime**](https://github.com/wakatime/vscode-wakatime): Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
