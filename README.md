@@ -1403,7 +1403,7 @@
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for documents
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
-* [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary communication platform 🚀
+* [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary microblogging platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
 * [**foambubble/foam**](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
