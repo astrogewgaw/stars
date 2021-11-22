@@ -364,7 +364,7 @@
 * [**planetoftheweb/rayveal**](https://github.com/planetoftheweb/rayveal): A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 * [**hakimel/reveal.js**](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 * [**carloscuesta/gitmoji**](https://github.com/carloscuesta/gitmoji): An emoji guide for your commit messages. 😜
-* [**artiebits/fake-git-history**](https://github.com/artiebits/fake-git-history): Generate Git commits
+* [**artiebits/fake-git-history**](https://github.com/artiebits/fake-git-history): Generate Git commits.
 * [**json-editor/json-editor**](https://github.com/json-editor/json-editor): JSON Schema Based Editor
 * [**lowdefy/lowdefy**](https://github.com/lowdefy/lowdefy): An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 * [**techsyndicate/starhub**](https://github.com/techsyndicate/starhub): StarHub - A chrome extension that tracks your GitHub stars so you don't have to.
@@ -526,6 +526,8 @@
 
 ## Lua
 
+* [**astrogewgaw/dotfiles**](https://github.com/astrogewgaw/dotfiles): This is my house, and these are my dotfiles.
+* [**luukvbaal/nnn.nvim**](https://github.com/luukvbaal/nnn.nvim): File manager for Neovim powered by nnn.
 * [**Xuyuanp/scrollbar.nvim**](https://github.com/Xuyuanp/scrollbar.nvim): scrollbar for neovim
 * [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 * [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
@@ -627,6 +629,7 @@
 
 ## Python
 
+* [**wbenny/python-graceful-shutdown**](https://github.com/wbenny/python-graceful-shutdown): Example of a Python code that implements graceful shutdown while using asyncio, threading and multiprocessing
 * [**nschloe/betterbib**](https://github.com/nschloe/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
 * [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
