@@ -36,7 +36,6 @@
 * [**Makefile**](#makefile)
 * [**Nim**](#nim)
 * [**Nix**](#nix)
-* [**OCaml**](#ocaml)
 * [**Others**](#others)
 * [**Perl**](#perl)
 * [**PureBasic**](#purebasic)
@@ -45,7 +44,6 @@
 * [**QML**](#qml)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
-* [**Scala**](#scala)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -61,10 +59,7 @@
 
 * [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [**cxong/tinydir**](https://github.com/cxong/tinydir): Lightweight, portable and easy to integrate C directory and file reader
-* [**LemonBoy/bar**](https://github.com/LemonBoy/bar): A featherweight, lemon-scented, bar based on xcb
-* [**RickKessler/SNANA**](https://github.com/RickKessler/SNANA): Supernova Analysis package
 * [**kovidgoyal/html5-parser**](https://github.com/kovidgoyal/html5-parser): Fast C based HTML 5 parsing for python
-* [**torvalds/linux**](https://github.com/torvalds/linux): Linux kernel source tree
 * [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
 * [**SAOImageDS9/SAOImageDS9**](https://github.com/SAOImageDS9/SAOImageDS9): SAOImage DS9 is an astronomical imaging and data visualization application.
 * [**tectonic-typesetting/tectonic**](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
@@ -102,15 +97,12 @@
 
 ## C++
 
-* [**mawww/kakoune**](https://github.com/mawww/kakoune): mawww's experiment for a better code editor
 * [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
 * [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
-* [**capnproto/capnproto**](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
 * [**onqtam/doctest**](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
-* [**cylondata/cylon**](https://github.com/cylondata/cylon): Cylon is a fast, scalable, distributed memory, parallel runtime with a Pandas like DataFrame.
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
@@ -208,9 +200,6 @@
 
 ## Fortran
 
-* [**nye17/javelin**](https://github.com/nye17/javelin): JAVELIN is now live on Github! The original Bitbucket repo was terminated due to the shutdown of Mercurial services by Bitbucket.
-* [**AndreaCaldiroli/ATES-Code**](https://github.com/AndreaCaldiroli/ATES-Code): The ATES hydrodynamics code computes the temperature, density, velocity and ionization fraction profiles of highly irradiated planetary atmospheres, along with the current, steady-state mass loss rate. ATES solves the one-dimensional Euler, mass and energy conservation equations in radial coordinates through a finite-volume scheme. The hydrodynamics module is paired with a photoionization equilibrium solver that includes cooling via bremsstrahlung, recombination and collisional excitation/ionization for the case of an atmosphere of primordial composition (i.e., pure atomic hydrogen-helium), while also accounting for advection of the different ion species.
-* [**cpinte/mcfost**](https://github.com/cpinte/mcfost): MCFOST radiative transfer code
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
 * [**fortran-lang/fftpack**](https://github.com/fortran-lang/fftpack): double precision version of fftpack
@@ -235,9 +224,7 @@
 
 * [**jinzhu/copier**](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more
 * [**go-gorm/gorm**](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
-* [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**rclone/rclone**](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-* [**rs/zerolog**](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [**apex/log**](https://github.com/apex/log): Structured logging package for Go.
 * [**sirupsen/logrus**](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [**mailru/easyjson**](https://github.com/mailru/easyjson): Fast JSON serializer for golang.
@@ -318,7 +305,6 @@
 
 ## Haskell
 
-* [**fosskers/aura**](https://github.com/fosskers/aura): A secure, multilingual package manager for Arch Linux and the AUR.
 * [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten
 
 ## Java
@@ -327,9 +313,9 @@
 
 ## JavaScript
 
+* [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
-* [**square/cubism**](https://github.com/square/cubism): Cubism.js: A JavaScript library for time series visualization.
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 * [**webpro/reveal-md**](https://github.com/webpro/reveal-md): reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 * [**electron/electron-packager**](https://github.com/electron/electron-packager): Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
@@ -379,13 +365,13 @@
 
 ## Julia
 
-* [**timholy/Revise.jl**](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
+* [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
 * [**JuliaLang/Pkg.jl**](https://github.com/JuliaLang/Pkg.jl): Pkg - Package manager for the Julia programming language
+* [**timholy/Revise.jl**](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
 * [**JuliaTesting/ReferenceTests.jl**](https://github.com/JuliaTesting/ReferenceTests.jl): Utility package for comparing data against reference files
 * [**JuliaAnimators/Javis.jl**](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations
 * [**JuliaInterop/Cxx.jl**](https://github.com/JuliaInterop/Cxx.jl): The Julia C++ Interface
 * [**JuliaStats/Distances.jl**](https://github.com/JuliaStats/Distances.jl): A Julia package for evaluating distances (metrics) between vectors.
-* [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
 * [**JuliaLinearAlgebra/Octavian.jl**](https://github.com/JuliaLinearAlgebra/Octavian.jl): Multi-threaded BLAS-like library that provides pure Julia matrix multiplication
 * [**JuliaPy/PyCall.jl**](https://github.com/JuliaPy/PyCall.jl): Package to call Python functions from the Julia language
 * [**comonicon/Comonicon.jl**](https://github.com/comonicon/Comonicon.jl): All terminals are under my command.
@@ -405,7 +391,6 @@
 * [**domluna/JuliaFormatter.jl**](https://github.com/domluna/JuliaFormatter.jl): An opinionated code formatter for Julia. Plot twist - the opinion is your own.
 * [**julia-actions/julia-format**](https://github.com/julia-actions/julia-format): Github action for JuliaFormatter.jl
 * [**davibarreira/NotebookToLaTeX.jl**](https://github.com/davibarreira/NotebookToLaTeX.jl): A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
-* [**palumbom/GRASS**](https://github.com/palumbom/GRASS): A testbed for stellar granulation in exoplanet RV searches.
 * [**stevengj/LaTeXStrings.jl**](https://github.com/stevengj/LaTeXStrings.jl): convenient input and display of LaTeX equation strings for the Julia language
 * [**KristofferC/OhMyREPL.jl**](https://github.com/KristofferC/OhMyREPL.jl): Syntax highlighting and other enhancements for the Julia REPL
 * [**KristofferC/TimerOutputs.jl**](https://github.com/KristofferC/TimerOutputs.jl): Formatted output of timed sections in Julia
@@ -460,10 +445,8 @@
 
 ## Jupyter Notebook
 
-* [**steven-murray/powerbox**](https://github.com/steven-murray/powerbox): A python package for making arbitrarily structured, arbitrary-dimension boxes
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
-* [**astrozot/xnicer**](https://github.com/astrozot/xnicer): The XNICER algorithm
-* [**KeplerGO/kpub**](https://github.com/KeplerGO/kpub): Curate publications related to NASA's Kepler/K2 missions using the ADS API.
+* [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
 * [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
 * [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
@@ -526,21 +509,15 @@
 
 ## Lua
 
-* [**astrogewgaw/dotfiles**](https://github.com/astrogewgaw/dotfiles): This is my house, and these are my dotfiles.
 * [**luukvbaal/nnn.nvim**](https://github.com/luukvbaal/nnn.nvim): File manager for Neovim powered by nnn.
 * [**Xuyuanp/scrollbar.nvim**](https://github.com/Xuyuanp/scrollbar.nvim): scrollbar for neovim
 * [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 * [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
 * [**nvim-telescope/telescope.nvim**](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick. All lua, all the time.
-* [**rose-pine/neovim**](https://github.com/rose-pine/neovim): Soho vibes for Neovim
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
-* [**norcalli/snippets.nvim**](https://github.com/norcalli/snippets.nvim): *No description*
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-* [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
-* [**hrsh7th/nvim-cmp**](https://github.com/hrsh7th/nvim-cmp): A completion plugin for neovim coded in Lua.
 * [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
-* [**LunarVim/LunarVim**](https://github.com/LunarVim/LunarVim): An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ## Makefile
 
@@ -554,10 +531,6 @@
 
 * [**bnikolic/casanix**](https://github.com/bnikolic/casanix): *No description*
 
-## OCaml
-
-* [**returntocorp/semgrep**](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
 ## Others
 
 * [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
@@ -568,7 +541,6 @@
 * [**crazyhottommy/The-world-of-faculty**](https://github.com/crazyhottommy/The-world-of-faculty): resources for faculty
 * [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [**fffaraz/awesome-cpp**](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [**rickellis/Arch-Linux-Install-Guide**](https://github.com/rickellis/Arch-Linux-Install-Guide): Installing Arch Linux on a LUKS Encrypted Drive using LVM, and booting with UEFI.
 * [**wbierbower/awesome-physics**](https://github.com/wbierbower/awesome-physics): 🌌 A collaborative list of awesome software for exploring Physics concepts
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
@@ -629,18 +601,19 @@
 
 ## Python
 
+* [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
+* [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+* [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
+* [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
 * [**wbenny/python-graceful-shutdown**](https://github.com/wbenny/python-graceful-shutdown): Example of a Python code that implements graceful shutdown while using asyncio, threading and multiprocessing
 * [**nschloe/betterbib**](https://github.com/nschloe/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
-* [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
-* [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
 * [**PyO3/setuptools-rust**](https://github.com/PyO3/setuptools-rust): Setuptools plugin for Rust support
 * [**PyCQA/isort**](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
 * [**ms-jpq/coq_nvim**](https://github.com/ms-jpq/coq_nvim): Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 * [**void4/astroheat**](https://github.com/void4/astroheat): Sky attention heatmap of submissions to astrometry.net
 * [**CorentinLouis/ILOFAR**](https://github.com/CorentinLouis/ILOFAR): Codes to read and process ILOFAR data
 * [**archlinux/archinstall**](https://github.com/archlinux/archinstall): Arch Linux installer - guided, templates etc.
-* [**rjfarmer/mesaplot**](https://github.com/rjfarmer/mesaplot): Library of python routines to read MESA ouput files and plot MESA quantites
 * [**liamconnor/radiogalsim**](https://github.com/liamconnor/radiogalsim): Simulate the microJansky radio sky to create image pairs for deconvolution
 * [**spatialaudio/nbsphinx**](https://github.com/spatialaudio/nbsphinx): :ledger: Sphinx source parser for Jupyter notebooks
 * [**sffjunkie/astral**](https://github.com/sffjunkie/astral): Python calculations for the position of the sun and moon.
@@ -660,26 +633,16 @@
 * [**astropy/pyvo**](https://github.com/astropy/pyvo): An Astropy affiliated package providing access to remote data and services of the Virtual observatory (VO) using Python.
 * [**evanocathain/Useful_RRAT_stuff**](https://github.com/evanocathain/Useful_RRAT_stuff): Useful stuff for analysing "RRAT" data
 * [**csurfer/pyheat**](https://github.com/csurfer/pyheat): pprofile + matplotlib = Python program profiled as an awesome heatmap!
-* [**jobovy/galpy**](https://github.com/jobovy/galpy): Galactic Dynamics in python
 * [**RadioAstronomySoftwareGroup/pyradiosky**](https://github.com/RadioAstronomySoftwareGroup/pyradiosky): Python objects and interfaces for representing diffuse, extended and compact astrophysical radio sources
 * [**RadioAstronomySoftwareGroup/pyuvsim**](https://github.com/RadioAstronomySoftwareGroup/pyuvsim): A ultra-high precision package for simulating radio interferometers in python on compute clusters.
-* [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 * [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
 * [**petigura/FFA**](https://github.com/petigura/FFA): FFA
 * [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Speed up your Pandas workflows by changing a single line of code
-* [**pdbpp/pdbpp**](https://github.com/pdbpp/pdbpp): pdb++, a drop-in replacement for pdb (the Python debugger)
-* [**choderalab/perses**](https://github.com/choderalab/perses): Experiments with expanded ensembles to explore chemical space
-* [**bpython/bpython**](https://github.com/bpython/bpython): bpython - A fancy curses interface to the Python interactive interpreter
-* [**inducer/pudb**](https://github.com/inducer/pudb): Full-screen console debugger for Python
-* [**wesselb/lab**](https://github.com/wesselb/lab): A generic interface for linear algebra backends
-* [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
 * [**pyscf/pyscf**](https://github.com/pyscf/pyscf): Python module for quantum chemistry
 * [**google/textfsm**](https://github.com/google/textfsm): Python module for parsing semi-structured text into python tables.
 * [**dmulyalin/ttp**](https://github.com/dmulyalin/ttp): Template Text Parser
 * [**r1chardj0n3s/parse**](https://github.com/r1chardj0n3s/parse): Parse strings using a specification based on the Python format() syntax.
 * [**agronholm/sqlacodegen**](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
-* [**agronholm/anyio**](https://github.com/agronholm/anyio): High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
-* [**dulwich/dulwich**](https://github.com/dulwich/dulwich): Pure-Python Git implementation
 * [**yymao/easyquery**](https://github.com/yymao/easyquery): Create easy-to-use Query objects that can apply on NumPy structured arrays, astropy Table, and Pandas DataFrame
 * [**kovidgoyal/kitty**](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [**more-itertools/more-itertools**](https://github.com/more-itertools/more-itertools): More routines for operating on iterables, beyond itertools
@@ -700,10 +663,8 @@
 * [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
 * [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
-* [**AndyTza/ermis**](https://github.com/AndyTza/ermis): toy example of injecting astrophysical transients
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
 * [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): A Spotify downloader needing only a python interpreter and ffmpeg.
-* [**AOtools/aotools**](https://github.com/AOtools/aotools): A useful set of tools for Adaptive Optics in Python
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
 * [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
 * [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
@@ -1200,25 +1161,19 @@
 
 ## Rust
 
+* [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
 * [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Yet another remote desktop software
-* [**extrawurst/gitui**](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
-* [**Morganamilo/paru**](https://github.com/Morganamilo/paru): Feature packed AUR helper
-* [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
-* [**rayon-rs/rayon**](https://github.com/rayon-rs/rayon): Rayon: A data parallelism library for Rust
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
 * [**murarth/gumdrop**](https://github.com/murarth/gumdrop): Rust option parser with custom derive support
 * [**zesterer/ariadne**](https://github.com/zesterer/ariadne): A fancy diagnostics & error reporting crate
 * [**zesterer/chumsky**](https://github.com/zesterer/chumsky): A friendly parser combinator crate
 * [**BurntSushi/ripgrep**](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * [**dalance/procs**](https://github.com/dalance/procs): A modern replacement for ps written in Rust
-* [**neovide/neovide**](https://github.com/neovide/neovide): No Nonsense Neovim Client in Rust
 * [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
-* [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
-* [**Peltoche/lsd**](https://github.com/Peltoche/lsd): The next gen ls command
 * [**casey/just**](https://github.com/casey/just): 🤖 Just a command runner
 * [**mitsuhiko/minijinja**](https://github.com/mitsuhiko/minijinja): MiniJinja is a powerful but minimal dependency template engine for Rust
 * [**orhun/git-cliff**](https://github.com/orhun/git-cliff): A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1327,29 +1282,15 @@
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 
-## Scala
-
-* [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
-
 ## Scheme
 
 * [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter): Nvim Treesitter configurations and abstraction layer
 
 ## Shell
 
-* [**aryakaul/cli-visualizer_pywal**](https://github.com/aryakaul/cli-visualizer_pywal): 🎨🎼 - autogen color scheme from pywal for cli-visualizer
-* [**GideonWolfe/Zathura-Pywal**](https://github.com/GideonWolfe/Zathura-Pywal): 🎨📖 A script that dynamically generates a zathura colorscheme based on the current wal colors.
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
-* [**picodotdev/alis**](https://github.com/picodotdev/alis): Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
-* [**ahmedelhori/install-arch**](https://github.com/ahmedelhori/install-arch): A script to automate arch linux installation
-* [**jasonmaster/ArchInstaller**](https://github.com/jasonmaster/ArchInstaller): Scripts to automate the install of Arch Linux
-* [**zambonin/arch-install**](https://github.com/zambonin/arch-install): A simple shell script to automate Arch Linux's convoluted installation.
-* [**roliboy/archer**](https://github.com/roliboy/archer): automated arch linux installer
-* [**wrzlbrmft/arch-install**](https://github.com/wrzlbrmft/arch-install): A highly configurable script automatically installing Arch Linux.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
-* [**ChrisTitusTech/ArchTitus**](https://github.com/ChrisTitusTech/ArchTitus): Automated Arch Linux Install
-* [**rickellis/ArchMatic**](https://github.com/rickellis/ArchMatic): Arch Linux post-installation setup and config scripts
 * [**xxh/xxh-shell-xonsh**](https://github.com/xxh/xxh-shell-xonsh): Use xonsh wherever you go through the SSH without installation on the host.
 * [**quickemu-project/quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1396,10 +1337,7 @@
 ## TypeScript
 
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
-* [**neoclide/coc.nvim**](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-* [**wakatime/vscode-wakatime**](https://github.com/wakatime/vscode-wakatime): Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
-* [**Dmitriy-Shulha/obsidian-plotly**](https://github.com/Dmitriy-Shulha/obsidian-plotly): Obsidian plugin to embed Plotly charts into markdown notes.
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
@@ -1429,20 +1367,15 @@
 
 ## Vim Snippet
 
-* [**neoclide/coc-snippets**](https://github.com/neoclide/coc-snippets): Snippets solution for coc.nvim
-* [**honza/vim-snippets**](https://github.com/honza/vim-snippets): vim-snipmate default snippets (Previously snipmate-snippets)
+* [**astrogewgaw/dotfiles**](https://github.com/astrogewgaw/dotfiles): This is my house, and these are my dotfiles.
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
 ## Vim script
 
-* [**pappasam/vim-filetype-formatter**](https://github.com/pappasam/vim-filetype-formatter): Format program files in vim using your favorite command line formatter
+* [**sbdchd/neoformat**](https://github.com/sbdchd/neoformat): :sparkles: A (Neo)vim plugin for formatting code.
 * [**dylanaraps/wal.vim**](https://github.com/dylanaraps/wal.vim): 🎨 A vim colorscheme for use with wal
 * [**mhinz/vim-galore**](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 * [**prabirshrestha/asyncomplete.vim**](https://github.com/prabirshrestha/asyncomplete.vim): async completion in pure vim script for vim8 and neovim
-* [**thomasfaingnaert/vim-lsp-neosnippet**](https://github.com/thomasfaingnaert/vim-lsp-neosnippet): Language Server Protocol snippets in vim using vim-lsp and neosnippet.vim
-* [**thomasfaingnaert/vim-lsp-ultisnips**](https://github.com/thomasfaingnaert/vim-lsp-ultisnips): Language Server Protocol snippets in vim using vim-lsp and UltiSnips
-* [**prabirshrestha/vim-lsp**](https://github.com/prabirshrestha/vim-lsp): async language server protocol plugin for vim and neovim
-* [**rafi/awesome-vim-colorschemes**](https://github.com/rafi/awesome-vim-colorschemes): Collection of awesome color schemes for Neo/vim, merged for quick use.
 * [**liuchengxu/vim-which-key**](https://github.com/liuchengxu/vim-which-key): :tulip: Vim plugin that shows keybindings in popup
 * [**mhinz/vim-signify**](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
 * [**neomake/neomake**](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
@@ -1450,9 +1383,6 @@
 * [**junegunn/fzf.vim**](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 * [**wfxr/minimap.vim**](https://github.com/wfxr/minimap.vim): 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 * [**JuliaEditorSupport/julia-vim**](https://github.com/JuliaEditorSupport/julia-vim): Vim support for Julia.
-* [**wakatime/vim-wakatime**](https://github.com/wakatime/vim-wakatime): Vim plugin for automatic time tracking and metrics generated from your programming activity.
-* [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
-* [**github/copilot.vim**](https://github.com/github/copilot.vim): Neovim plugin for GitHub Copilot
 * [**neovim/neovim**](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 * [**sonph/onehalf**](https://github.com/sonph/onehalf): Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 * [**romeovs/creep**](https://github.com/romeovs/creep): a pretty sweet 4px wide pixel font.
