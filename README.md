@@ -601,6 +601,7 @@
 
 ## Python
 
+* [**nschloe/deadlink**](https://github.com/nschloe/deadlink): :skull: Checks and fixes URLs in code and documentation.
 * [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
 * [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 * [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
@@ -1161,6 +1162,7 @@
 
 ## Rust
 
+* [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
