@@ -445,6 +445,7 @@
 
 ## Jupyter Notebook
 
+* [**quantumblacklabs/qbstyles**](https://github.com/quantumblacklabs/qbstyles): QuantumBlack Matplotlib styles
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
 * [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
 * [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
@@ -533,6 +534,7 @@
 
 ## Others
 
+* [**dhaitz/matplotlib-stylesheets**](https://github.com/dhaitz/matplotlib-stylesheets): Stylesheets for Matplotlib
 * [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
 * [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
@@ -584,6 +586,7 @@
 
 ## Perl
 
+* [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
 * [**cdominik/ads**](https://github.com/cdominik/ads): Command line access to a web search for physics/astronomy articles on the Astrophysical Data System
 
 ## PureBasic
@@ -601,6 +604,7 @@
 
 ## Python
 
+* [**cako/mpl_grandbudapest**](https://github.com/cako/mpl_grandbudapest): Matplotlib mpl style inspired by The Grand Budapest Hotel
 * [**nschloe/deadlink**](https://github.com/nschloe/deadlink): :skull: Checks and fixes URLs in code and documentation.
 * [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
 * [**microsoft/cascadia-code**](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -1036,7 +1040,7 @@
 * [**vallis/mc3pta**](https://github.com/vallis/mc3pta): Bayesian-inference tools for pulsar-timing-array data
 * [**vallis/libstempo**](https://github.com/vallis/libstempo): libstempo — a Python wrapper for tempo2
 * [**vhaasteren/qtip**](https://github.com/vhaasteren/qtip): Qt Interface for Pulsar timing
-* [**mlower/rmnest**](https://github.com/mlower/rmnest): Bayesian method for estimating standard (and generalised) rotation measures via direct fits to Stokes Q & U (& V).
+* [**mlower/rmnest**](https://github.com/mlower/rmnest): A standard (and generalised) rotation measures fitting package written in Python.
 * [**holoviz/param**](https://github.com/holoviz/param): Param: Make your Python code clearer and more reliable by declaring Parameters
 * [**vivgastro/Furby**](https://github.com/vivgastro/Furby): Mock FRB generator
 * [**rougier/scientific-visualization-book**](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib
@@ -1319,11 +1323,11 @@
 
 ## TeX
 
+* [**wzchen/probability_cheatsheet**](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 * [**lervag/vimtex**](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 * [**FlamingTempura/bibtex-tidy**](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files
 * [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
-* [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
 * [**rodluger/showyourwork**](https://github.com/rodluger/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
 * [**xu-cheng/texlive-action**](https://github.com/xu-cheng/texlive-action): :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
