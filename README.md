@@ -102,7 +102,7 @@
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
-* [**onqtam/doctest**](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
+* [**doctest/doctest**](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
@@ -510,6 +510,18 @@
 
 ## Lua
 
+* [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
+* [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
+* [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
+* [**lukas-reineke/indent-blankline.nvim**](https://github.com/lukas-reineke/indent-blankline.nvim): Indent guides  for Neovim
+* [**mnowotnik/noteflow.nvim**](https://github.com/mnowotnik/noteflow.nvim): Neovim plugin that streamlines taking notes
+* [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
+* [**NFrid/due.nvim**](https://github.com/NFrid/due.nvim): Neovim plugin for displaying due date.
+* [**max397574/better-escape.nvim**](https://github.com/max397574/better-escape.nvim): Escape from insert mode without delay when typing
+* [**CRAG666/code_runner.nvim**](https://github.com/CRAG666/code_runner.nvim): The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
+* [**mrjones2014/tldr.nvim**](https://github.com/mrjones2014/tldr.nvim): 🔭 A Telescope previewer for tldr-pages
+* [**sudormrfbin/cheatsheet.nvim**](https://github.com/sudormrfbin/cheatsheet.nvim): A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
 * [**luukvbaal/nnn.nvim**](https://github.com/luukvbaal/nnn.nvim): File manager for Neovim powered by nnn.
 * [**Xuyuanp/scrollbar.nvim**](https://github.com/Xuyuanp/scrollbar.nvim): scrollbar for neovim
 * [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
@@ -604,6 +616,7 @@
 
 ## Python
 
+* [**ms-jpq/chadtree**](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
 * [**cako/mpl_grandbudapest**](https://github.com/cako/mpl_grandbudapest): Matplotlib mpl style inspired by The Grand Budapest Hotel
 * [**nschloe/deadlink**](https://github.com/nschloe/deadlink): :skull: Checks and fixes URLs in code and documentation.
 * [**capitalone/datacompy**](https://github.com/capitalone/datacompy): Pandas and Spark DataFrame comparison for humans
@@ -1166,6 +1179,7 @@
 
 ## Rust
 
+* [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git and diff output
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
@@ -1378,6 +1392,10 @@
 
 ## Vim script
 
+* [**rhysd/git-messenger.vim**](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
+* [**liuchengxu/vim-better-default**](https://github.com/liuchengxu/vim-better-default): :art: Simplify your .vimrc and make the default vim better
+* [**jdhao/better-escape.vim**](https://github.com/jdhao/better-escape.vim): A plugin for escaping Vim insert mode without lagging.
+* [**lambdalisue/suda.vim**](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [**sbdchd/neoformat**](https://github.com/sbdchd/neoformat): :sparkles: A (Neo)vim plugin for formatting code.
 * [**dylanaraps/wal.vim**](https://github.com/dylanaraps/wal.vim): 🎨 A vim colorscheme for use with wal
 * [**mhinz/vim-galore**](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
