@@ -97,6 +97,7 @@
 
 ## C++
 
+* [**ryanhaining/cppitertools**](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 * [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
 * [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
 * [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
@@ -313,6 +314,7 @@
 
 ## JavaScript
 
+* [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
@@ -1179,7 +1181,7 @@
 
 ## Rust
 
-* [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git and diff output
+* [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
@@ -1356,6 +1358,7 @@
 
 ## TypeScript
 
+* [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
