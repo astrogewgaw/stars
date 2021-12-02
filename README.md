@@ -223,6 +223,8 @@
 
 ## Go
 
+* [**jesseduffield/lazynpm**](https://github.com/jesseduffield/lazynpm): terminal UI for npm
+* [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [**jinzhu/copier**](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more
 * [**go-gorm/gorm**](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [**rclone/rclone**](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -512,6 +514,7 @@
 
 ## Lua
 
+* [**stevearc/aerial.nvim**](https://github.com/stevearc/aerial.nvim): Neovim plugin for a code outline window
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 * [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -563,7 +566,6 @@
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
 * [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
-* [**ruta-k/uGMRTprimarybeam-CASA6**](https://github.com/ruta-k/uGMRTprimarybeam-CASA6): *No description*
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
 * [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
@@ -738,9 +740,10 @@
 * [**out-of-cheese-error/pyln**](https://github.com/out-of-cheese-error/pyln): 3D line art engine (Python port of fogleman/ln)
 * [**seatgeek/thefuzz**](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
 * [**shriharshtendulkar/FRBSignalGeneration**](https://github.com/shriharshtendulkar/FRBSignalGeneration): Utilities for generating synthetic radio telescope data
+* [**ruta-k/uGMRTprimarybeam-CASA6**](https://github.com/ruta-k/uGMRTprimarybeam-CASA6): *No description*
 * [**ruta-k/CAPTURE-CASA6**](https://github.com/ruta-k/CAPTURE-CASA6): *No description*
 * [**ruta-k/CAPTURE-POL**](https://github.com/ruta-k/CAPTURE-POL): A continuum imaging pipeline including polarization calibration and imaging.
-* [**takluyver/flit**](https://github.com/takluyver/flit): Simplified packaging of Python modules
+* [**pypa/flit**](https://github.com/pypa/flit): Simplified packaging of Python modules
 * [**scipy/scipy**](https://github.com/scipy/scipy): SciPy library main repository
 * [**glue-viz/glue**](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
 * [**wchenastro/Mosaic**](https://github.com/wchenastro/Mosaic): *No description*
@@ -1124,7 +1127,7 @@
 * [**RadioAstronomySoftwareGroup/pyuvdata**](https://github.com/RadioAstronomySoftwareGroup/pyuvdata): A pythonic interface for radio astronomy interferometry data (uvfits, miriad, others)
 * [**willmcgugan/rich**](https://github.com/willmcgugan/rich): Rich is a Python library for rich text and beautiful formatting in the terminal.
 * [**cython/cython**](https://github.com/cython/cython): The most widely used Python to C compiler
-* [**nanograv/PINT**](https://github.com/nanograv/PINT): PINT is not TEMPO3 -- New software for high-precision pulsar timing
+* [**nanograv/PINT**](https://github.com/nanograv/PINT): PINT is not TEMPO3 -- Software for high-precision pulsar timing
 * [**simonw/csv-diff**](https://github.com/simonw/csv-diff): Python CLI tool and library for diffing CSV and JSON files
 * [**glotzerlab/signac-dashboard**](https://github.com/glotzerlab/signac-dashboard): Rapidly visualize signac projects through a customizable dashboard interface.
 * [**glotzerlab/signac-flow**](https://github.com/glotzerlab/signac-flow): Workflow management for signac-managed data spaces.
@@ -1366,7 +1369,7 @@
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for documents
-* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A realtime Database for JavaScript Applications
+* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A client side, offline-first, reactive database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary microblogging platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
@@ -1376,7 +1379,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
