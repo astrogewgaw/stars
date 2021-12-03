@@ -312,12 +312,12 @@
 
 ## Java
 
+* [**sylvainhalle/textidote**](https://github.com/sylvainhalle/textidote): Spelling, grammar and style checking on LaTeX documents
 * [**vivekvenkris/CandyJar**](https://github.com/vivekvenkris/CandyJar): Candidate Viewer for TRAPUM and MLGPS pulsar surveys with the MeerKAT telescope
 
 ## JavaScript
 
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
-* [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -369,6 +369,7 @@
 
 ## Julia
 
+* [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
 * [**JuliaLang/Pkg.jl**](https://github.com/JuliaLang/Pkg.jl): Pkg - Package manager for the Julia programming language
 * [**timholy/Revise.jl**](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
@@ -620,6 +621,7 @@
 
 ## Python
 
+* [**datapane/datapane**](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python.
 * [**ms-jpq/chadtree**](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
 * [**cako/mpl_grandbudapest**](https://github.com/cako/mpl_grandbudapest): Matplotlib mpl style inspired by The Grand Budapest Hotel
 * [**nschloe/deadlink**](https://github.com/nschloe/deadlink): :skull: Checks and fixes URLs in code and documentation.
@@ -672,7 +674,7 @@
 * [**jonathansick/ads_bibdesk**](https://github.com/jonathansick/ads_bibdesk): (Unmaintained) Mac OS X service for frictionless import of NASA ADS and arXiv publications into BibDesk.
 * [**r-xue/ads2bibdesk**](https://github.com/r-xue/ads2bibdesk): ads2bibdesk helps you add astrophysics articles listed on NASA/ADS to your BibDesk database using the new ADS Developer API
 * [**pcubillos/bibmanager**](https://github.com/pcubillos/bibmanager): A BibTeX manager for LaTeX projects
-* [**nschloe/mplx**](https://github.com/nschloe/mplx): :bar_chart: Extensions for Matplotlib
+* [**nschloe/matplotx**](https://github.com/nschloe/matplotx): :bar_chart: Extensions for Matplotlib
 * [**yymao/adstex**](https://github.com/yymao/adstex): Automated generation of NASA ADS bibtex entries directly from citation keys in your TeX source files
 * [**voila-dashboards/voila**](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
@@ -1184,6 +1186,8 @@
 
 ## Rust
 
+* [**rust-embedded/cross**](https://github.com/rust-embedded/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
+* [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
@@ -1361,6 +1365,7 @@
 
 ## TypeScript
 
+* [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
