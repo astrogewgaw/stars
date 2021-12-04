@@ -97,6 +97,7 @@
 
 ## C++
 
+* [**xtensor-stack/xsimd**](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
 * [**ryanhaining/cppitertools**](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 * [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
 * [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
@@ -495,7 +496,6 @@
 * [**Morisset/pyCloudy**](https://github.com/Morisset/pyCloudy): Repository for the pyCloudy package
 * [**yobibyte/prettyplots**](https://github.com/yobibyte/prettyplots): Design your own matplotlib stylefile interactively
 * [**abigailStev/NICER_exploration**](https://github.com/abigailStev/NICER_exploration): Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.
-* [**kjnapier/spacerocks**](https://github.com/kjnapier/spacerocks): A suite of tools for solar system observations and dynamics.
 * [**cbouy/mols2grid**](https://github.com/cbouy/mols2grid): Interactive chemical viewer for 2D structures of small molecules
 * [**KshitijAggarwal/rfclustering**](https://github.com/KshitijAggarwal/rfclustering): Scripts used in clustering analysis of Realfast Candidates
 * [**eugeneh101/Advanced-Python**](https://github.com/eugeneh101/Advanced-Python): Code like a pro!
@@ -1006,6 +1006,7 @@
 * [**dbader/schedule**](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [**ThomasHelfer/BosonStar**](https://github.com/ThomasHelfer/BosonStar): *No description*
 * [**einsteinpy/einsteinpy**](https://github.com/einsteinpy/einsteinpy): Repository for the EinsteinPy core package :rocket:
+* [**kjnapier/spacerocks**](https://github.com/kjnapier/spacerocks): A suite of tools for solar system observations and dynamics.
 * [**hyperspy/hyperspy**](https://github.com/hyperspy/hyperspy): Multidimensional data analysis
 * [**pulsarise/SCAMP-I**](https://github.com/pulsarise/SCAMP-I): Scatter Modelling for Pulsars-I
 * [**PyLops/curvelops**](https://github.com/PyLops/curvelops): Python wrapper for CurveLab's 2D and 3D curvelet transforms
@@ -1039,7 +1040,7 @@
 * [**nschloe/tablign**](https://github.com/nschloe/tablign): Aligns columns in your ASCII tables on the command line or in vim.
 * [**nschloe/blacktex**](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
 * [**nschloe/awesome-scientific-computing**](https://github.com/nschloe/awesome-scientific-computing): :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
-* [**nschloe/perfplot**](https://github.com/nschloe/perfplot): :chart_with_upwards_trend: Performance analysis for Python
+* [**nschloe/perfplot**](https://github.com/nschloe/perfplot): :chart_with_upwards_trend: Performance analysis for Python snippets
 * [**nschloe/dufte**](https://github.com/nschloe/dufte): :chart_with_upwards_trend: Minimalistic Matplotlib style
 * [**nschloe/betterspy**](https://github.com/nschloe/betterspy): :eyes: Visualization for SciPy sparse matrices.
 * [**astropy/reproject**](https://github.com/astropy/reproject): Python-based Astronomical image reprojection :milky_way: - maintainer @astrofrog
