@@ -515,6 +515,16 @@
 
 ## Lua
 
+* [**exosite/lua-yaml**](https://github.com/exosite/lua-yaml): *No description*
+* [**notomo/gesture.nvim**](https://github.com/notomo/gesture.nvim): Mouse gesture plugin for neovim
+* [**sidebar-nvim/sidebar.nvim**](https://github.com/sidebar-nvim/sidebar.nvim): A generic and modular lua sidebar for Neovim
+* [**jbyuki/venn.nvim**](https://github.com/jbyuki/venn.nvim): Draw ASCII diagrams in Neovim
+* [**folke/twilight.nvim**](https://github.com/folke/twilight.nvim): 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
+* [**kevinhwang91/nvim-bqf**](https://github.com/kevinhwang91/nvim-bqf): Better quickfix window in Neovim, polish old quickfix window.
+* [**b3nj5m1n/kommentary**](https://github.com/b3nj5m1n/kommentary): Neovim commenting plugin, written in lua.
+* [**folke/todo-comments.nvim**](https://github.com/folke/todo-comments.nvim): ✅  Highlight, list and search todo comments in your projects
+* [**nvim-lua/plenary.nvim**](https://github.com/nvim-lua/plenary.nvim): plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+* [**rcarriga/nvim-notify**](https://github.com/rcarriga/nvim-notify): A fancy, configurable, notification manager for NeoVim
 * [**stevearc/aerial.nvim**](https://github.com/stevearc/aerial.nvim): Neovim plugin for a code outline window
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
@@ -621,6 +631,7 @@
 
 ## Python
 
+* [**dccsillag/magma-nvim**](https://github.com/dccsillag/magma-nvim): Interact with Jupyter from NeoVim.
 * [**datapane/datapane**](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python.
 * [**ms-jpq/chadtree**](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
 * [**cako/mpl_grandbudapest**](https://github.com/cako/mpl_grandbudapest): Matplotlib mpl style inspired by The Grand Budapest Hotel
@@ -1187,6 +1198,7 @@
 
 ## Rust
 
+* [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [**rust-embedded/cross**](https://github.com/rust-embedded/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
@@ -1366,6 +1378,7 @@
 
 ## TypeScript
 
+* [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
@@ -1404,6 +1417,11 @@
 
 ## Vim script
 
+* [**camspiers/animate.vim**](https://github.com/camspiers/animate.vim): A Vim Window Animation Library
+* [**camspiers/lens.vim**](https://github.com/camspiers/lens.vim): A Vim Automatic Window Resizing Plugin
+* [**APZelos/blamer.nvim**](https://github.com/APZelos/blamer.nvim): A git blame plugin for neovim inspired by VS Code's GitLens plugin
+* [**gelguy/wilder.nvim**](https://github.com/gelguy/wilder.nvim): A more adventurous wildmenu
+* [**psliwka/vim-smoothie**](https://github.com/psliwka/vim-smoothie): Smooth scrolling for Vim done right🥤
 * [**rhysd/git-messenger.vim**](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
 * [**liuchengxu/vim-better-default**](https://github.com/liuchengxu/vim-better-default): :art: Simplify your .vimrc and make the default vim better
 * [**jdhao/better-escape.vim**](https://github.com/jdhao/better-escape.vim): A plugin for escaping Vim insert mode without lagging.
