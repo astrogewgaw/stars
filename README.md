@@ -631,6 +631,10 @@
 
 ## Python
 
+* [**SciTools/cartopy**](https://github.com/SciTools/cartopy): Cartopy - a cartographic python library with matplotlib support
+* [**henrysky/milkyway_plot**](https://github.com/henrysky/milkyway_plot): A handy python package to do plotting on a face-on/edge-on/allsky map milkyway with matplotlib and bokeh
+* [**Parsl/parsl**](https://github.com/Parsl/parsl): Parsl - Parallel Scripting Library
+* [**jasonreisman/Timeline**](https://github.com/jasonreisman/Timeline): A tool for creating SVG timelines from simple JSON input.
 * [**dccsillag/magma-nvim**](https://github.com/dccsillag/magma-nvim): Interact with Jupyter from NeoVim.
 * [**datapane/datapane**](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python.
 * [**ms-jpq/chadtree**](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
