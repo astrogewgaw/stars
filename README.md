@@ -515,6 +515,7 @@
 
 ## Lua
 
+* [**lewis6991/gitsigns.nvim**](https://github.com/lewis6991/gitsigns.nvim): Git integration for buffers
 * [**exosite/lua-yaml**](https://github.com/exosite/lua-yaml): *No description*
 * [**notomo/gesture.nvim**](https://github.com/notomo/gesture.nvim): Mouse gesture plugin for neovim
 * [**sidebar-nvim/sidebar.nvim**](https://github.com/sidebar-nvim/sidebar.nvim): A generic and modular lua sidebar for Neovim
@@ -1202,6 +1203,7 @@
 
 ## Rust
 
+* [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [**rust-embedded/cross**](https://github.com/rust-embedded/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
@@ -1334,6 +1336,7 @@
 
 ## Shell
 
+* [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
@@ -1421,6 +1424,9 @@
 
 ## Vim script
 
+* [**tpope/vim-sensible**](https://github.com/tpope/vim-sensible): sensible.vim: Defaults everyone can agree on
+* [**tpope/vim-commentary**](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
+* [**tpope/vim-surround**](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 * [**camspiers/animate.vim**](https://github.com/camspiers/animate.vim): A Vim Window Animation Library
 * [**camspiers/lens.vim**](https://github.com/camspiers/lens.vim): A Vim Automatic Window Resizing Plugin
 * [**APZelos/blamer.nvim**](https://github.com/APZelos/blamer.nvim): A git blame plugin for neovim inspired by VS Code's GitLens plugin
