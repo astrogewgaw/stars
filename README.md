@@ -182,6 +182,7 @@
 
 ## Cython
 
+* [**petigura/FFA**](https://github.com/petigura/FFA): FFA
 * [**pyimgui/pyimgui**](https://github.com/pyimgui/pyimgui): Cython-based Python bindings for dear imgui
 
 ## Dhall
@@ -563,6 +564,9 @@
 
 ## Others
 
+* [**sindresorhus/awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
+* [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* [**stevemao/awesome-git-addons**](https://github.com/stevemao/awesome-git-addons): :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 * [**dhaitz/matplotlib-stylesheets**](https://github.com/dhaitz/matplotlib-stylesheets): Stylesheets for Matplotlib
 * [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
 * [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
@@ -676,7 +680,6 @@
 * [**RadioAstronomySoftwareGroup/pyradiosky**](https://github.com/RadioAstronomySoftwareGroup/pyradiosky): Python objects and interfaces for representing diffuse, extended and compact astrophysical radio sources
 * [**RadioAstronomySoftwareGroup/pyuvsim**](https://github.com/RadioAstronomySoftwareGroup/pyuvsim): A ultra-high precision package for simulating radio interferometers in python on compute clusters.
 * [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
-* [**petigura/FFA**](https://github.com/petigura/FFA): FFA
 * [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Speed up your Pandas workflows by changing a single line of code
 * [**pyscf/pyscf**](https://github.com/pyscf/pyscf): Python module for quantum chemistry
 * [**google/textfsm**](https://github.com/google/textfsm): Python module for parsing semi-structured text into python tables.
@@ -1336,6 +1339,8 @@
 
 ## Shell
 
+* [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
+* [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
@@ -1419,7 +1424,6 @@
 
 ## Vim Snippet
 
-* [**astrogewgaw/dotfiles**](https://github.com/astrogewgaw/dotfiles): This is my house, and these are my dotfiles.
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
 ## Vim script
