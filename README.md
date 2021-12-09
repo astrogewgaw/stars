@@ -225,6 +225,7 @@
 
 ## Go
 
+* [**klauspost/cpuid**](https://github.com/klauspost/cpuid): CPU feature identification for Go
 * [**jesseduffield/lazynpm**](https://github.com/jesseduffield/lazynpm): terminal UI for npm
 * [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [**jinzhu/copier**](https://github.com/jinzhu/copier): Copier for golang, copy value from struct to struct and more
@@ -516,6 +517,10 @@
 
 ## Lua
 
+* [**folke/which-key.nvim**](https://github.com/folke/which-key.nvim): 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+* [**folke/lua-dev.nvim**](https://github.com/folke/lua-dev.nvim): 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
+* [**MunifTanjim/nui.nvim**](https://github.com/MunifTanjim/nui.nvim): UI Component Library for Neovim.
+* [**VonHeikemen/searchbox.nvim**](https://github.com/VonHeikemen/searchbox.nvim): Start your search from a more comfortable place, say the upper right corner?
 * [**lewis6991/gitsigns.nvim**](https://github.com/lewis6991/gitsigns.nvim): Git integration for buffers
 * [**exosite/lua-yaml**](https://github.com/exosite/lua-yaml): *No description*
 * [**notomo/gesture.nvim**](https://github.com/notomo/gesture.nvim): Mouse gesture plugin for neovim
@@ -564,6 +569,7 @@
 
 ## Others
 
+* [**a8m/golang-cheat-sheet**](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.
 * [**sindresorhus/awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
 * [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [**stevemao/awesome-git-addons**](https://github.com/stevemao/awesome-git-addons): :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -636,6 +642,8 @@
 
 ## Python
 
+* [**jive-vlbi/casa-vlbi**](https://github.com/jive-vlbi/casa-vlbi): Scripts to assist VLBI data reduction in CASA
+* [**jzuhone/pyxsim**](https://github.com/jzuhone/pyxsim): Simulating X-ray observations from astrophysical sources.
 * [**SciTools/cartopy**](https://github.com/SciTools/cartopy): Cartopy - a cartographic python library with matplotlib support
 * [**henrysky/milkyway_plot**](https://github.com/henrysky/milkyway_plot): A handy python package to do plotting on a face-on/edge-on/allsky map milkyway with matplotlib and bokeh
 * [**Parsl/parsl**](https://github.com/Parsl/parsl): Parsl - Parallel Scripting Library
@@ -1206,6 +1214,9 @@
 
 ## Rust
 
+* [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
+* [**mitsuhiko/when**](https://github.com/mitsuhiko/when): Timezones from the command line
+* [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer): A Rust compiler front-end for IDEs
 * [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [**rust-embedded/cross**](https://github.com/rust-embedded/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -1410,7 +1421,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
