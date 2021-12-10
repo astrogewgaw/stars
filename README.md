@@ -372,6 +372,7 @@
 
 ## Julia
 
+* [**peterkovesi/PerceptualColourMaps.jl**](https://github.com/peterkovesi/PerceptualColourMaps.jl): Perceptually Uniform Colour Maps for Julia
 * [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
 * [**JuliaLang/Pkg.jl**](https://github.com/JuliaLang/Pkg.jl): Pkg - Package manager for the Julia programming language
