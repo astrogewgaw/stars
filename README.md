@@ -107,7 +107,6 @@
 * [**doctest/doctest**](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-* [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
 * [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
 * [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Parallel programming for everyone.
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
@@ -454,6 +453,7 @@
 
 ## Jupyter Notebook
 
+* [**larskuenkel/DeepPulsarNet**](https://github.com/larskuenkel/DeepPulsarNet): Finding pulsars in filterbank data using neural networks
 * [**quantumblacklabs/qbstyles**](https://github.com/quantumblacklabs/qbstyles): QuantumBlack Matplotlib styles
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
 * [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
@@ -518,6 +518,11 @@
 
 ## Lua
 
+* [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📍 A Neovim plugin that displays interactive vertical scrollbars.
+* [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
+* [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
+* [**onsails/lspkind-nvim**](https://github.com/onsails/lspkind-nvim): vscode-like pictograms for neovim lsp completion items
+* [**kosayoda/nvim-lightbulb**](https://github.com/kosayoda/nvim-lightbulb): VSCode 💡 for neovim's built-in LSP.
 * [**folke/which-key.nvim**](https://github.com/folke/which-key.nvim): 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 * [**folke/lua-dev.nvim**](https://github.com/folke/lua-dev.nvim): 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 * [**MunifTanjim/nui.nvim**](https://github.com/MunifTanjim/nui.nvim): UI Component Library for Neovim.
@@ -1246,6 +1251,7 @@
 * [**Dusk-Labs/dim**](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
 * [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
+* [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
 * [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
 * [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
 * [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
@@ -1436,10 +1442,13 @@
 
 ## Vim Snippet
 
+* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
 ## Vim script
 
+* [**junegunn/vim-easy-align**](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
+* [**mhinz/vim-sayonara**](https://github.com/mhinz/vim-sayonara): :japanese_goblin: Sane buffer/window deletion.
 * [**tpope/vim-sensible**](https://github.com/tpope/vim-sensible): sensible.vim: Defaults everyone can agree on
 * [**tpope/vim-commentary**](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
 * [**tpope/vim-surround**](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
