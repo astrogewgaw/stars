@@ -648,6 +648,8 @@
 
 ## Python
 
+* [**akleroy/phangs_imaging_scripts**](https://github.com/akleroy/phangs_imaging_scripts): CASA+python imaging and product creation scripts for PHANGS-ALMA
+* [**mnicholl/superbol**](https://github.com/mnicholl/superbol): Python program to calculate bolometric luminosities from astrophysical observations
 * [**jive-vlbi/casa-vlbi**](https://github.com/jive-vlbi/casa-vlbi): Scripts to assist VLBI data reduction in CASA
 * [**jzuhone/pyxsim**](https://github.com/jzuhone/pyxsim): Simulating X-ray observations from astrophysical sources.
 * [**SciTools/cartopy**](https://github.com/SciTools/cartopy): Cartopy - a cartographic python library with matplotlib support
@@ -1220,6 +1222,7 @@
 
 ## Rust
 
+* [**djc/askama**](https://github.com/djc/askama): Type-safe, compiled Jinja-like templates for Rust
 * [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
 * [**mitsuhiko/when**](https://github.com/mitsuhiko/when): Timezones from the command line
 * [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer): A Rust compiler front-end for IDEs
