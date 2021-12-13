@@ -648,6 +648,7 @@
 
 ## Python
 
+* [**nschloe/pytest-codeblocks**](https://github.com/nschloe/pytest-codeblocks): :page_facing_up: Test code blocks in your READMEs
 * [**akleroy/phangs_imaging_scripts**](https://github.com/akleroy/phangs_imaging_scripts): CASA+python imaging and product creation scripts for PHANGS-ALMA
 * [**mnicholl/superbol**](https://github.com/mnicholl/superbol): Python program to calculate bolometric luminosities from astrophysical observations
 * [**jive-vlbi/casa-vlbi**](https://github.com/jive-vlbi/casa-vlbi): Scripts to assist VLBI data reduction in CASA
