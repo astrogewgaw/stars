@@ -97,6 +97,8 @@
 
 ## C++
 
+* [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
+* [**MWATelescope/cotter**](https://github.com/MWATelescope/cotter): André Offringa's cotter pre-processing pipeline
 * [**xtensor-stack/xsimd**](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
 * [**ryanhaining/cppitertools**](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 * [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
@@ -175,6 +177,7 @@
 
 ## Cuda
 
+* [**MWATelescope/mwax-xGPU**](https://github.com/MWATelescope/mwax-xGPU): A GPU based FX correlator for radio astronomy
 * [**ajameson/dedisp**](https://github.com/ajameson/dedisp): CUDA Based De-dispersion library
 * [**GPU-correlators/xGPU**](https://github.com/GPU-correlators/xGPU): A GPU based FX correlator for radio astronomy
 * [**realfastvla/rfgpu**](https://github.com/realfastvla/rfgpu): GPU-based gridding and imaging library for realfast
@@ -453,6 +456,7 @@
 
 ## Jupyter Notebook
 
+* [**ska-sa/tutorials**](https://github.com/ska-sa/tutorials): IPython notebooks on various topics
 * [**larskuenkel/DeepPulsarNet**](https://github.com/larskuenkel/DeepPulsarNet): Finding pulsars in filterbank data using neural networks
 * [**quantumblacklabs/qbstyles**](https://github.com/quantumblacklabs/qbstyles): QuantumBlack Matplotlib styles
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
@@ -575,6 +579,8 @@
 
 ## Others
 
+* [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+* [**fosslife/awesome-ricing**](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [**a8m/golang-cheat-sheet**](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.
 * [**sindresorhus/awesome-nodejs**](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
 * [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -648,6 +654,7 @@
 
 ## Python
 
+* [**omry/omegaconf**](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [**nschloe/pytest-codeblocks**](https://github.com/nschloe/pytest-codeblocks): :page_facing_up: Test code blocks in your READMEs
 * [**akleroy/phangs_imaging_scripts**](https://github.com/akleroy/phangs_imaging_scripts): CASA+python imaging and product creation scripts for PHANGS-ALMA
 * [**mnicholl/superbol**](https://github.com/mnicholl/superbol): Python program to calculate bolometric luminosities from astrophysical observations
@@ -1223,6 +1230,8 @@
 
 ## Rust
 
+* [**MWATelescope/mwalib**](https://github.com/MWATelescope/mwalib): Library to read Murchison Widefield Array (MWA) raw visibilities, voltages and metadata into a common structure
+* [**MWATelescope/Birli**](https://github.com/MWATelescope/Birli): A Rust library for preprocessing tasks in the Murchison Widefield Array (MWA) data pipeline.
 * [**djc/askama**](https://github.com/djc/askama): Type-safe, compiled Jinja-like templates for Rust
 * [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
 * [**mitsuhiko/when**](https://github.com/mitsuhiko/when): Timezones from the command line
