@@ -490,7 +490,6 @@
 * [**thepetabyteproject/FRB121102**](https://github.com/thepetabyteproject/FRB121102): Results and analysis scripts for FRB121102 burst analysis.
 * [**ratt-ru/fundamentals_of_interferometry**](https://github.com/ratt-ru/fundamentals_of_interferometry): Fundamentals of Radio Interferometry and Aperture Synthesis Book
 * [**AstroLaura/GuedelPlot**](https://github.com/AstroLaura/GuedelPlot): A quick and dirty code to plot the Guedel-Benz relation and dMe, dKe and RS CVn stars from the literature.
-* [**jbusecke/xmovie**](https://github.com/jbusecke/xmovie): A simple way of creating movies from xarray objects
 * [**AstroLaura/MeerTRAP_Imaging**](https://github.com/AstroLaura/MeerTRAP_Imaging): Scripts for rapid follow-up imaging using MeerKAT raw voltages, as part of the MeerTRAP project (www.MeerTRAP.org).
 * [**AstroLaura/FRBs_in_Pulsar_Obs**](https://github.com/AstroLaura/FRBs_in_Pulsar_Obs): Determine whether any FRBs are within the MeerKAT primary beam when a pulsar is at the phase centre.
 * [**AstroLaura/FRB_SkyPositionPlot**](https://github.com/AstroLaura/FRB_SkyPositionPlot): *No description*
@@ -717,7 +716,7 @@
 * [**jonathansick/ads_bibdesk**](https://github.com/jonathansick/ads_bibdesk): (Unmaintained) Mac OS X service for frictionless import of NASA ADS and arXiv publications into BibDesk.
 * [**r-xue/ads2bibdesk**](https://github.com/r-xue/ads2bibdesk): ads2bibdesk helps you add astrophysics articles listed on NASA/ADS to your BibDesk database using the new ADS Developer API
 * [**pcubillos/bibmanager**](https://github.com/pcubillos/bibmanager): A BibTeX manager for LaTeX projects
-* [**nschloe/matplotx**](https://github.com/nschloe/matplotx): :bar_chart: Extensions for Matplotlib
+* [**nschloe/matplotx**](https://github.com/nschloe/matplotx): :bar_chart: Useful styles and extensions for Matplotlib
 * [**yymao/adstex**](https://github.com/yymao/adstex): Automated generation of NASA ADS bibtex entries directly from citation keys in your TeX source files
 * [**voila-dashboards/voila**](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
@@ -963,6 +962,7 @@
 * [**kroitor/asciichart**](https://github.com/kroitor/asciichart): Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 * [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): A command-line information tool written in Python 3.x to display matplotlib colors.
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
+* [**jbusecke/xmovie**](https://github.com/jbusecke/xmovie): A simple way of creating movies from xarray objects
 * [**willmcgugan/textual**](https://github.com/willmcgugan/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [**lightkurve/lightkurve**](https://github.com/lightkurve/lightkurve): A friendly package for Kepler & TESS time series analysis in Python.
@@ -1370,6 +1370,7 @@
 
 ## Shell
 
+* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -1455,11 +1456,11 @@
 
 ## Vim Snippet
 
-* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**gillescastel/latex-snippets**](https://github.com/gillescastel/latex-snippets): Vim + LaTeX snippets setup
 
 ## Vim script
 
+* [**nerdypepper/scientifica**](https://github.com/nerdypepper/scientifica): tall, condensed, bitmap font for geeks
 * [**junegunn/vim-easy-align**](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
 * [**mhinz/vim-sayonara**](https://github.com/mhinz/vim-sayonara): :japanese_goblin: Sane buffer/window deletion.
 * [**tpope/vim-sensible**](https://github.com/tpope/vim-sensible): sensible.vim: Defaults everyone can agree on
