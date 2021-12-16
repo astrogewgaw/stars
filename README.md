@@ -19,6 +19,7 @@
 * [**Cuda**](#cuda)
 * [**Cython**](#cython)
 * [**Dhall**](#dhall)
+* [**Dockerfile**](#dockerfile)
 * [**Elm**](#elm)
 * [**Emacs Lisp**](#emacs-lisp)
 * [**FORTRAN**](#fortran)
@@ -37,6 +38,7 @@
 * [**Nim**](#nim)
 * [**Nix**](#nix)
 * [**Others**](#others)
+* [**PHP**](#php)
 * [**Perl**](#perl)
 * [**PureBasic**](#purebasic)
 * [**PureScript**](#purescript)
@@ -97,6 +99,7 @@
 
 ## C++
 
+* [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
 * [**MWATelescope/cotter**](https://github.com/MWATelescope/cotter): André Offringa's cotter pre-processing pipeline
 * [**xtensor-stack/xsimd**](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
@@ -191,6 +194,10 @@
 
 * [**dhall-lang/dhall-lang**](https://github.com/dhall-lang/dhall-lang): Maintainable configuration files
 
+## Dockerfile
+
+* [**kelseyhightower/nocode**](https://github.com/kelseyhightower/nocode): The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
 ## Elm
 
 * [**LiaScript/LiaScript**](https://github.com/LiaScript/LiaScript): Interpreter for interactive educational content, written in an extended Markdown format...
@@ -205,6 +212,7 @@
 
 ## Fortran
 
+* [**nombac/optab**](https://github.com/nombac/optab): Public Fortran90 code package for generating ideal-gas opacity tables
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
 * [**fortran-lang/fftpack**](https://github.com/fortran-lang/fftpack): double precision version of fftpack
@@ -305,7 +313,6 @@
 * [**GetPublii/Publii**](https://github.com/GetPublii/Publii): Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 * [**NuSTARStrayCats/straycats**](https://github.com/NuSTARStrayCats/straycats): Repo for tracking the NuSTAR Straylight Catalog
 * [**laserkelvin/astrochemdis2021**](https://github.com/laserkelvin/astrochemdis2021): Talk for Astrochemistry Discussions 2021 on unknown unknown's
-* [**TeamCOMPAS/COMPAS**](https://github.com/TeamCOMPAS/COMPAS): COMPAS rapid binary population synthesis code
 * [**norment/ecrm20_escaperoom**](https://github.com/norment/ecrm20_escaperoom): Repository for an Open Science Escape Room interface originally built for the NORMENT Early-Career Researchers Meeting 2020
 * [**andybrewer/mvp**](https://github.com/andybrewer/mvp): MVP.css — Minimalist stylesheet for HTML elements
 * [**wowchemy/wowchemy-hugo-themes**](https://github.com/wowchemy/wowchemy-hugo-themes): 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
@@ -374,6 +381,7 @@
 
 ## Julia
 
+* [**andyferris/Dictionaries.jl**](https://github.com/andyferris/Dictionaries.jl): An alternative interface for dictionaries in Julia, for improved productivity and performance
 * [**peterkovesi/PerceptualColourMaps.jl**](https://github.com/peterkovesi/PerceptualColourMaps.jl): Perceptually Uniform Colour Maps for Julia
 * [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
 * [**MasonProtter/Gaius.jl**](https://github.com/MasonProtter/Gaius.jl): Divide and Conquer Linear Algebra
@@ -456,6 +464,7 @@
 
 ## Jupyter Notebook
 
+* [**FRBs/FRB**](https://github.com/FRBs/FRB): Python code related to DM calculations, estimations, and analysis
 * [**ska-sa/tutorials**](https://github.com/ska-sa/tutorials): IPython notebooks on various topics
 * [**larskuenkel/DeepPulsarNet**](https://github.com/larskuenkel/DeepPulsarNet): Finding pulsars in filterbank data using neural networks
 * [**quantumblacklabs/qbstyles**](https://github.com/quantumblacklabs/qbstyles): QuantumBlack Matplotlib styles
@@ -511,6 +520,7 @@
 * [**FRBs/PreFRBLE**](https://github.com/FRBs/PreFRBLE): PrEFRBLE: Probability Estimates for Fast Radio Burst  to obtain model Likelihood Estimates
 * [**gleitz/howdoi**](https://github.com/gleitz/howdoi): instant coding answers via the command line
 * [**dtamayo/reboundx**](https://github.com/dtamayo/reboundx): A library for adding additional forces to the REBOUND N-body integration package
+* [**TeamCOMPAS/COMPAS**](https://github.com/TeamCOMPAS/COMPAS): COMPAS rapid binary population synthesis code
 * [**PaulMcMillan-Astro/GalPot**](https://github.com/PaulMcMillan-Astro/GalPot): A stand-alone version of Dehnen's GalaxyPotential code.
 * [**benjaminpope/morphine**](https://github.com/benjaminpope/morphine): poppy derivatives
 * [**ray-project/tutorial**](https://github.com/ray-project/tutorial): *No description*
@@ -578,6 +588,7 @@
 
 ## Others
 
+* [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
 * [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 * [**fosslife/awesome-ricing**](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [**a8m/golang-cheat-sheet**](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.
@@ -633,6 +644,10 @@
 * [**CARTAvis/carta**](https://github.com/CARTAvis/carta): To CARTA users, this repo holds the CARTA release packages. Please use this repo to log bugs and feature requests. These will be triaged by the development team and prioritised as necessary in the development cycles.
 * [**jonathansick/awesome-astronomy**](https://github.com/jonathansick/awesome-astronomy): A list of awesome astronomy projects
 
+## PHP
+
+* [**nunomaduro/termwind**](https://github.com/nunomaduro/termwind): 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
+
 ## Perl
 
 * [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
@@ -653,6 +668,15 @@
 
 ## Python
 
+* [**choderalab/yank**](https://github.com/choderalab/yank): An open, extensible Python framework for GPU-accelerated alchemical free energy calculations.
+* [**raphaelvallat/pingouin**](https://github.com/raphaelvallat/pingouin): Statistical package in Python based on Pandas
+* [**bcalden/ClusterPyXT**](https://github.com/bcalden/ClusterPyXT): The Galaxy Cluster ‘Pypeline’ for X-ray Temperature Maps
+* [**skyportal/healpix-alchemy**](https://github.com/skyportal/healpix-alchemy): SQLAlchemy extensions for HEALPix spatially indexed astronomy data
+* [**dstndstn/tractor**](https://github.com/dstndstn/tractor): The Tractor: measuring astronomical sources via probabilistic inference
+* [**oimodeler/oimodeler**](https://github.com/oimodeler/oimodeler): Tools to model optical Interferometry data
+* [**utgwkk/pytest-github-actions-annotate-failures**](https://github.com/utgwkk/pytest-github-actions-annotate-failures): Pytest plugin to annotate failed tests with a workflow command for GitHub Actions
+* [**rjfarmer/mesaplot**](https://github.com/rjfarmer/mesaplot): Library of python routines to read MESA ouput files and plot MESA quantites
+* [**matplotlib/mpl-third-party**](https://github.com/matplotlib/mpl-third-party): Webpage
 * [**omry/omegaconf**](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 * [**nschloe/pytest-codeblocks**](https://github.com/nschloe/pytest-codeblocks): :page_facing_up: Test code blocks in your READMEs
 * [**akleroy/phangs_imaging_scripts**](https://github.com/akleroy/phangs_imaging_scripts): CASA+python imaging and product creation scripts for PHANGS-ALMA
@@ -1230,6 +1254,7 @@
 
 ## Rust
 
+* [**linebender/druid**](https://github.com/linebender/druid): A data-first Rust-native UI design toolkit.
 * [**MWATelescope/mwalib**](https://github.com/MWATelescope/mwalib): Library to read Murchison Widefield Array (MWA) raw visibilities, voltages and metadata into a common structure
 * [**MWATelescope/Birli**](https://github.com/MWATelescope/Birli): A Rust library for preprocessing tasks in the Murchison Widefield Array (MWA) data pipeline.
 * [**djc/askama**](https://github.com/djc/askama): Type-safe, compiled Jinja-like templates for Rust
@@ -1370,6 +1395,7 @@
 
 ## Shell
 
+* [**xero/dotfiles**](https://github.com/xero/dotfiles): ▒ rice ░░  custom linux config files
 * [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
