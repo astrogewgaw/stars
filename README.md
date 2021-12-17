@@ -464,6 +464,7 @@
 
 ## Jupyter Notebook
 
+* [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
 * [**FRBs/FRB**](https://github.com/FRBs/FRB): Python code related to DM calculations, estimations, and analysis
 * [**ska-sa/tutorials**](https://github.com/ska-sa/tutorials): IPython notebooks on various topics
 * [**larskuenkel/DeepPulsarNet**](https://github.com/larskuenkel/DeepPulsarNet): Finding pulsars in filterbank data using neural networks
@@ -1276,7 +1277,7 @@
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
 * [**murarth/gumdrop**](https://github.com/murarth/gumdrop): Rust option parser with custom derive support
 * [**zesterer/ariadne**](https://github.com/zesterer/ariadne): A fancy diagnostics & error reporting crate
-* [**zesterer/chumsky**](https://github.com/zesterer/chumsky): A friendly parser combinator crate
+* [**zesterer/chumsky**](https://github.com/zesterer/chumsky): A parser library for humans with powerful error recovery.
 * [**BurntSushi/ripgrep**](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * [**dalance/procs**](https://github.com/dalance/procs): A modern replacement for ps written in Rust
 * [**o2sh/onefetch**](https://github.com/o2sh/onefetch): Git repository summary on your terminal
