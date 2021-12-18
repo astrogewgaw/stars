@@ -99,6 +99,7 @@
 
 ## C++
 
+* [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
 * [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
 * [**MWATelescope/cotter**](https://github.com/MWATelescope/cotter): André Offringa's cotter pre-processing pipeline
@@ -381,6 +382,7 @@
 
 ## Julia
 
+* [**ssfrr/DeepDiffs.jl**](https://github.com/ssfrr/DeepDiffs.jl): Compute and pretty-print diffs for data structures like arrays and dictionaries
 * [**andyferris/Dictionaries.jl**](https://github.com/andyferris/Dictionaries.jl): An alternative interface for dictionaries in Julia, for improved productivity and performance
 * [**peterkovesi/PerceptualColourMaps.jl**](https://github.com/peterkovesi/PerceptualColourMaps.jl): Perceptually Uniform Colour Maps for Julia
 * [**laserkelvin/spectroscopy-learner**](https://github.com/laserkelvin/spectroscopy-learner): An open-sourced second-brain for molecular spectroscopy
@@ -464,6 +466,7 @@
 
 ## Jupyter Notebook
 
+* [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
 * [**FRBs/FRB**](https://github.com/FRBs/FRB): Python code related to DM calculations, estimations, and analysis
 * [**ska-sa/tutorials**](https://github.com/ska-sa/tutorials): IPython notebooks on various topics
@@ -669,6 +672,8 @@
 
 ## Python
 
+* [**bvgoncharov/enterprise_warp**](https://github.com/bvgoncharov/enterprise_warp): Pulsar timing data analysis tools. Wrapper for Enterprise. Documentation:
+* [**IanHeywood/oxkat**](https://github.com/IanHeywood/oxkat): MeerKAT calibration and imaging scripts
 * [**choderalab/yank**](https://github.com/choderalab/yank): An open, extensible Python framework for GPU-accelerated alchemical free energy calculations.
 * [**raphaelvallat/pingouin**](https://github.com/raphaelvallat/pingouin): Statistical package in Python based on Pandas
 * [**bcalden/ClusterPyXT**](https://github.com/bcalden/ClusterPyXT): The Galaxy Cluster ‘Pypeline’ for X-ray Temperature Maps
@@ -741,7 +746,7 @@
 * [**jonathansick/ads_bibdesk**](https://github.com/jonathansick/ads_bibdesk): (Unmaintained) Mac OS X service for frictionless import of NASA ADS and arXiv publications into BibDesk.
 * [**r-xue/ads2bibdesk**](https://github.com/r-xue/ads2bibdesk): ads2bibdesk helps you add astrophysics articles listed on NASA/ADS to your BibDesk database using the new ADS Developer API
 * [**pcubillos/bibmanager**](https://github.com/pcubillos/bibmanager): A BibTeX manager for LaTeX projects
-* [**nschloe/matplotx**](https://github.com/nschloe/matplotx): :bar_chart: Useful styles and extensions for Matplotlib
+* [**nschloe/matplotx**](https://github.com/nschloe/matplotx): :bar_chart: More styles and useful extensions for Matplotlib
 * [**yymao/adstex**](https://github.com/yymao/adstex): Automated generation of NASA ADS bibtex entries directly from citation keys in your TeX source files
 * [**voila-dashboards/voila**](https://github.com/voila-dashboards/voila): Voilà turns Jupyter notebooks into standalone web applications
 * [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
@@ -1255,6 +1260,18 @@
 
 ## Rust
 
+* [**xd009642/tarpaulin**](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
+* [**flamegraph-rs/flamegraph**](https://github.com/flamegraph-rs/flamegraph): Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+* [**jfrimmel/cargo-valgrind**](https://github.com/jfrimmel/cargo-valgrind): A cargo subcommand, that runs valgrind and displays its output in a helpful manner.
+* [**Riey/cargo-feature**](https://github.com/Riey/cargo-feature): Cargo plugin to manage dependency features
+* [**museun/cargo-whatfeatures**](https://github.com/museun/cargo-whatfeatures): a simple cargo plugin to get a list of features for a specific crate
+* [**the-lean-crate/cargo-diet**](https://github.com/the-lean-crate/cargo-diet): A cargo-companion to become a 'lean crate' (a member of The Lean Crate Initiative)
+* [**AndrewGaspar/cargo-mpirun**](https://github.com/AndrewGaspar/cargo-mpirun): A cargo extension similar to "cargo run" that runs the target program with mpiexec.
+* [**Keruspe/cargo-duplicates**](https://github.com/Keruspe/cargo-duplicates): A cargo subcommand for displaying when different versions of a same dependency are pulled in
+* [**boringcactus/cargo-why**](https://github.com/boringcactus/cargo-why): traces dependency paths to show why a crate was required
+* [**cbourjau/cargo-with**](https://github.com/cbourjau/cargo-with): A third-party cargo extension to run the build artifacts through tools like `gdb`
+* [**asomers/mockall**](https://github.com/asomers/mockall): A powerful mock object library for Rust
+* [**brson/stdx**](https://github.com/brson/stdx): The missing batteries of Rust
 * [**linebender/druid**](https://github.com/linebender/druid): A data-first Rust-native UI design toolkit.
 * [**MWATelescope/mwalib**](https://github.com/MWATelescope/mwalib): Library to read Murchison Widefield Array (MWA) raw visibilities, voltages and metadata into a common structure
 * [**MWATelescope/Birli**](https://github.com/MWATelescope/Birli): A Rust library for preprocessing tasks in the Murchison Widefield Array (MWA) data pipeline.
@@ -1458,7 +1475,7 @@
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
-* [**willcrichton/nota**](https://github.com/willcrichton/nota): A web framework for documents
+* [**nota-lang/nota**](https://github.com/nota-lang/nota): A document language for the browser
 * [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A client side, offline-first, reactive database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary microblogging platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
