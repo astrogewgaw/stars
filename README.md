@@ -236,6 +236,7 @@
 
 ## Go
 
+* [**erroneousboat/slack-term**](https://github.com/erroneousboat/slack-term): Slack client for your terminal
 * [**klauspost/cpuid**](https://github.com/klauspost/cpuid): CPU feature identification for Go
 * [**jesseduffield/lazynpm**](https://github.com/jesseduffield/lazynpm): terminal UI for npm
 * [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
@@ -672,6 +673,7 @@
 
 ## Python
 
+* [**noctuid/zscroll**](https://github.com/noctuid/zscroll): A text scroller for panels or terminals
 * [**bvgoncharov/enterprise_warp**](https://github.com/bvgoncharov/enterprise_warp): Pulsar timing data analysis tools. Wrapper for Enterprise. Documentation:
 * [**IanHeywood/oxkat**](https://github.com/IanHeywood/oxkat): MeerKAT calibration and imaging scripts
 * [**choderalab/yank**](https://github.com/choderalab/yank): An open, extensible Python framework for GPU-accelerated alchemical free energy calculations.
@@ -1260,6 +1262,7 @@
 
 ## Rust
 
+* [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire): A Rust library for building interactive prompts
 * [**xd009642/tarpaulin**](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
 * [**flamegraph-rs/flamegraph**](https://github.com/flamegraph-rs/flamegraph): Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 * [**jfrimmel/cargo-valgrind**](https://github.com/jfrimmel/cargo-valgrind): A cargo subcommand, that runs valgrind and displays its output in a helpful manner.
@@ -1413,6 +1416,9 @@
 
 ## Shell
 
+* [**tadly/hideIt.sh**](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
+* [**adi1090x/rofi**](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+* [**adi1090x/polybar-themes**](https://github.com/adi1090x/polybar-themes): A huge collection of polybar themes with different styles, colors and variants.
 * [**xero/dotfiles**](https://github.com/xero/dotfiles): ▒ rice ░░  custom linux config files
 * [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -1504,6 +1510,7 @@
 
 ## Vim script
 
+* [**RRethy/vim-hexokinase**](https://github.com/RRethy/vim-hexokinase): hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 * [**nerdypepper/scientifica**](https://github.com/nerdypepper/scientifica): tall, condensed, bitmap font for geeks
 * [**junegunn/vim-easy-align**](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
 * [**mhinz/vim-sayonara**](https://github.com/mhinz/vim-sayonara): :japanese_goblin: Sane buffer/window deletion.
