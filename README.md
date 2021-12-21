@@ -174,6 +174,7 @@
 
 ## CSS
 
+* [**cli-guidelines/cli-guidelines**](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * [**guglicap/wal-discord**](https://github.com/guglicap/wal-discord): Generate Discord css from pywal colors
 * [**tlienart/FranklinTemplates.jl**](https://github.com/tlienart/FranklinTemplates.jl): Simple website templates for Franklin.jl
 * [**kmaasrud/awesome-obsidian**](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
@@ -236,6 +237,7 @@
 
 ## Go
 
+* [**tvrzna/emptty**](https://github.com/tvrzna/emptty): Dead simple CLI Display Manager on TTY
 * [**erroneousboat/slack-term**](https://github.com/erroneousboat/slack-term): Slack client for your terminal
 * [**klauspost/cpuid**](https://github.com/klauspost/cpuid): CPU feature identification for Go
 * [**jesseduffield/lazynpm**](https://github.com/jesseduffield/lazynpm): terminal UI for npm
@@ -268,7 +270,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈 🎄
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -673,6 +675,10 @@
 
 ## Python
 
+* [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
+* [**beetbox/confuse**](https://github.com/beetbox/confuse): painless YAML config files for Python
+* [**beetbox/beets**](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
+* [**ForeverWintr/metafunctions**](https://github.com/ForeverWintr/metafunctions): metafunctions is a function composition library for python.
 * [**noctuid/zscroll**](https://github.com/noctuid/zscroll): A text scroller for panels or terminals
 * [**bvgoncharov/enterprise_warp**](https://github.com/bvgoncharov/enterprise_warp): Pulsar timing data analysis tools. Wrapper for Enterprise. Documentation:
 * [**IanHeywood/oxkat**](https://github.com/IanHeywood/oxkat): MeerKAT calibration and imaging scripts
@@ -1492,7 +1498,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
