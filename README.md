@@ -768,7 +768,6 @@
 * [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
-* [**Footsiefat/zspotify**](https://github.com/Footsiefat/zspotify): A Spotify downloader needing only a python interpreter and ffmpeg.
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
 * [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
 * [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
@@ -1422,6 +1421,7 @@
 
 ## Shell
 
+* [**dylanaraps/pure-sh-bible**](https://github.com/dylanaraps/pure-sh-bible): 📖 A collection of pure POSIX sh alternatives to external processes.
 * [**tadly/hideIt.sh**](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [**adi1090x/rofi**](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [**adi1090x/polybar-themes**](https://github.com/adi1090x/polybar-themes): A huge collection of polybar themes with different styles, colors and variants.
