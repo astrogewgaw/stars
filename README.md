@@ -99,6 +99,7 @@
 
 ## C++
 
+* [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
 * [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
@@ -385,6 +386,7 @@
 
 ## Julia
 
+* [**scheinerman/LatexPrint.jl**](https://github.com/scheinerman/LatexPrint.jl): Print Julia objects in a form suitable for LaTeX mathematics mode.
 * [**ssfrr/DeepDiffs.jl**](https://github.com/ssfrr/DeepDiffs.jl): Compute and pretty-print diffs for data structures like arrays and dictionaries
 * [**andyferris/Dictionaries.jl**](https://github.com/andyferris/Dictionaries.jl): An alternative interface for dictionaries in Julia, for improved productivity and performance
 * [**peterkovesi/PerceptualColourMaps.jl**](https://github.com/peterkovesi/PerceptualColourMaps.jl): Perceptually Uniform Colour Maps for Julia
@@ -595,6 +597,8 @@
 
 ## Others
 
+* [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
+* [**shriharshtendulkar/RFIND**](https://github.com/shriharshtendulkar/RFIND): Broadband RFI Localization from interferometric visibility data
 * [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
 * [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 * [**fosslife/awesome-ricing**](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
@@ -675,6 +679,8 @@
 
 ## Python
 
+* [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
+* [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
 * [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
 * [**beetbox/confuse**](https://github.com/beetbox/confuse): painless YAML config files for Python
 * [**beetbox/beets**](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
@@ -1267,6 +1273,7 @@
 
 ## Rust
 
+* [**BurntSushi/memchr**](https://github.com/BurntSushi/memchr): Optimized string search routines for Rust.
 * [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire): A Rust library for building interactive prompts
 * [**xd009642/tarpaulin**](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
 * [**flamegraph-rs/flamegraph**](https://github.com/flamegraph-rs/flamegraph): Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
@@ -1421,6 +1428,7 @@
 
 ## Shell
 
+* [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
 * [**dylanaraps/pure-sh-bible**](https://github.com/dylanaraps/pure-sh-bible): 📖 A collection of pure POSIX sh alternatives to external processes.
 * [**tadly/hideIt.sh**](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [**adi1090x/rofi**](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
