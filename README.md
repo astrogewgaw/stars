@@ -115,7 +115,7 @@
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
-* [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Parallel programming for everyone.
+* [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Productive parallel programming in "Python".
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
 * [**Cantera/cantera**](https://github.com/Cantera/cantera): Chemical kinetics, thermodynamics, and transport tool suite
 * [**Nelarius/imnodes**](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui
@@ -334,6 +334,8 @@
 
 ## JavaScript
 
+* [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript!
+* [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
@@ -386,6 +388,7 @@
 
 ## Julia
 
+* [**cjdoris/PythonCall.jl**](https://github.com/cjdoris/PythonCall.jl): Python and Julia in harmony.
 * [**scheinerman/LatexPrint.jl**](https://github.com/scheinerman/LatexPrint.jl): Print Julia objects in a form suitable for LaTeX mathematics mode.
 * [**ssfrr/DeepDiffs.jl**](https://github.com/ssfrr/DeepDiffs.jl): Compute and pretty-print diffs for data structures like arrays and dictionaries
 * [**andyferris/Dictionaries.jl**](https://github.com/andyferris/Dictionaries.jl): An alternative interface for dictionaries in Julia, for improved productivity and performance
@@ -471,6 +474,7 @@
 
 ## Jupyter Notebook
 
+* [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
 * [**FRBs/FRB**](https://github.com/FRBs/FRB): Python code related to DM calculations, estimations, and analysis
@@ -679,6 +683,8 @@
 
 ## Python
 
+* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
+* [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
 * [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
 * [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
@@ -813,7 +819,6 @@
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
-* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**leswright1977/PySpectrometer**](https://github.com/leswright1977/PySpectrometer): Raspberry Pi Spectrometer
 * [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
@@ -1273,6 +1278,7 @@
 
 ## Rust
 
+* [**veeso/tui-realm**](https://github.com/veeso/tui-realm): 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 * [**BurntSushi/memchr**](https://github.com/BurntSushi/memchr): Optimized string search routines for Rust.
 * [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire): A Rust library for building interactive prompts
 * [**xd009642/tarpaulin**](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
@@ -1503,7 +1509,7 @@
 * [**foambubble/foam**](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [**bqplot/bqplot**](https://github.com/bqplot/bqplot): Plotting library for IPython/Jupyter notebooks
 * [**jupyterlab/lumino**](https://github.com/jupyterlab/lumino): Lumino is a library for building interactive web applications
-* [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age (formerly Terminus)
+* [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
