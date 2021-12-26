@@ -115,7 +115,7 @@
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
-* [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Productive parallel programming in "Python".
+* [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python.
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
 * [**Cantera/cantera**](https://github.com/Cantera/cantera): Chemical kinetics, thermodynamics, and transport tool suite
 * [**Nelarius/imnodes**](https://github.com/Nelarius/imnodes): A small, dependency-free node editor for dear imgui
@@ -544,6 +544,7 @@
 
 ## Lua
 
+* [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 * [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📍 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
 * [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
@@ -661,6 +662,7 @@
 
 ## PHP
 
+* [**thermage/thermage**](https://github.com/thermage/thermage): Thermage provides a fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 * [**nunomaduro/termwind**](https://github.com/nunomaduro/termwind): 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 
 ## Perl
@@ -683,6 +685,7 @@
 
 ## Python
 
+* [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 * [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
@@ -1119,7 +1122,7 @@
 * [**olgabot/prettyplotlib**](https://github.com/olgabot/prettyplotlib): Painlessly create beautiful matplotlib plots.
 * [**dlakaplan/pulsarsurveyscraper**](https://github.com/dlakaplan/pulsarsurveyscraper): *No description*
 * [**tbisbas/PDFchem**](https://github.com/tbisbas/PDFchem): Estimate the average abundance of species from Av-PDFs
-* [**arrow-py/arrow**](https://github.com/arrow-py/arrow): Better dates & times for Python
+* [**arrow-py/arrow**](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
 * [**rholder/retrying**](https://github.com/rholder/retrying): Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
 * [**dcmvdbekerom/pypdfplot**](https://github.com/dcmvdbekerom/pypdfplot): Pypdfplot uses pyplot to produce plots in PDF-format with the python script and data files embedded. The plot can be edited by changing filename from .pdf to .py and running the script again.
 * [**volodia99/nonos**](https://github.com/volodia99/nonos): A tool to analyze results from idefix/pluto simulations (for protoplanetary disks more specifically)
@@ -1278,6 +1281,7 @@
 
 ## Rust
 
+* [**Canop/termimad**](https://github.com/Canop/termimad): A library to display rich (Markdown) snippets and texts in a rust terminal application
 * [**veeso/tui-realm**](https://github.com/veeso/tui-realm): 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 * [**BurntSushi/memchr**](https://github.com/BurntSushi/memchr): Optimized string search routines for Rust.
 * [**mikaelmello/inquire**](https://github.com/mikaelmello/inquire): A Rust library for building interactive prompts
@@ -1530,6 +1534,7 @@
 
 ## Vim script
 
+* [**sainnhe/gruvbox-material**](https://github.com/sainnhe/gruvbox-material): Gruvbox with Material Palette
 * [**RRethy/vim-hexokinase**](https://github.com/RRethy/vim-hexokinase): hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 * [**nerdypepper/scientifica**](https://github.com/nerdypepper/scientifica): tall, condensed, bitmap font for geeks
 * [**junegunn/vim-easy-align**](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
