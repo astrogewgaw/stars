@@ -1534,6 +1534,7 @@
 
 ## Vim script
 
+* [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 * [**sainnhe/gruvbox-material**](https://github.com/sainnhe/gruvbox-material): Gruvbox with Material Palette
 * [**RRethy/vim-hexokinase**](https://github.com/RRethy/vim-hexokinase): hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 * [**nerdypepper/scientifica**](https://github.com/nerdypepper/scientifica): tall, condensed, bitmap font for geeks
