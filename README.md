@@ -99,6 +99,7 @@
 
 ## C++
 
+* [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
 * [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
 * [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
@@ -602,6 +603,7 @@
 
 ## Others
 
+* [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 * [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
 * [**shriharshtendulkar/RFIND**](https://github.com/shriharshtendulkar/RFIND): Broadband RFI Localization from interferometric visibility data
 * [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
@@ -685,6 +687,7 @@
 
 ## Python
 
+* [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): *No description*
 * [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 * [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
@@ -1281,6 +1284,7 @@
 
 ## Rust
 
+* [**dfm/discretionary**](https://github.com/dfm/discretionary): A tiny proc macro to make all your struct fields optional
 * [**Canop/termimad**](https://github.com/Canop/termimad): A library to display rich (Markdown) snippets and texts in a rust terminal application
 * [**veeso/tui-realm**](https://github.com/veeso/tui-realm): 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 * [**BurntSushi/memchr**](https://github.com/BurntSushi/memchr): Optimized string search routines for Rust.
@@ -1438,6 +1442,7 @@
 
 ## Shell
 
+* [**zsh-users/zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
 * [**dylanaraps/pure-sh-bible**](https://github.com/dylanaraps/pure-sh-bible): 📖 A collection of pure POSIX sh alternatives to external processes.
 * [**tadly/hideIt.sh**](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
