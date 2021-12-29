@@ -100,7 +100,6 @@
 ## C++
 
 * [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
-* [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
 * [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
@@ -545,6 +544,8 @@
 
 ## Lua
 
+* [**jose-elias-alvarez/null-ls.nvim**](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+* [**tamago324/nlsp-settings.nvim**](https://github.com/tamago324/nlsp-settings.nvim): A plugin for setting Neovim LSP with JSON files
 * [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 * [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📍 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
@@ -693,6 +694,7 @@
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
 * [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
+* [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
 * [**beetbox/confuse**](https://github.com/beetbox/confuse): painless YAML config files for Python
 * [**beetbox/beets**](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
