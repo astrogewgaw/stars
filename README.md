@@ -59,6 +59,7 @@
 
 ## C
 
+* [**cmus/cmus**](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
 * [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [**cxong/tinydir**](https://github.com/cxong/tinydir): Lightweight, portable and easy to integrate C directory and file reader
 * [**kovidgoyal/html5-parser**](https://github.com/kovidgoyal/html5-parser): Fast C based HTML 5 parsing for python
@@ -100,6 +101,7 @@
 ## C++
 
 * [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
+* [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
 * [**CLIUtils/CLI11**](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * [**octobanana/peaclock**](https://github.com/octobanana/peaclock): A responsive and customizable clock, timer, and stopwatch for the terminal.
@@ -688,13 +690,20 @@
 
 ## Python
 
+* [**dsanson/termpdf.py**](https://github.com/dsanson/termpdf.py): A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
+* [**delestro/outputformater**](https://github.com/delestro/outputformater): Python library to decorate and beautify strings
+* [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
+* [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
+* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications
+* [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
+* [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
+* [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
 * [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): *No description*
 * [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 * [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
 * [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
-* [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
 * [**beetbox/confuse**](https://github.com/beetbox/confuse): painless YAML config files for Python
 * [**beetbox/beets**](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
@@ -1281,6 +1290,7 @@
 
 ## Ruby
 
+* [**red-data-tools/YouPlot**](https://github.com/red-data-tools/YouPlot): A command line tool that draw plots on the terminal.
 * [**Homebrew/brew**](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [**huginn/huginn**](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -1460,7 +1470,7 @@
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [**xxh/xxh-shell-xonsh**](https://github.com/xxh/xxh-shell-xonsh): Use xonsh wherever you go through the SSH without installation on the host.
 * [**quickemu-project/quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-* [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
 * [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
