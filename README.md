@@ -691,7 +691,7 @@
 ## Python
 
 * [**dsanson/termpdf.py**](https://github.com/dsanson/termpdf.py): A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
-* [**delestro/outputformater**](https://github.com/delestro/outputformater): Python library to decorate and beautify strings
+* [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
 * [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications
