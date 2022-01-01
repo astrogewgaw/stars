@@ -240,6 +240,7 @@
 
 ## Go
 
+* [**binwiederhier/ntfy**](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 * [**tvrzna/emptty**](https://github.com/tvrzna/emptty): Dead simple CLI Display Manager on TTY
 * [**erroneousboat/slack-term**](https://github.com/erroneousboat/slack-term): Slack client for your terminal
 * [**klauspost/cpuid**](https://github.com/klauspost/cpuid): CPU feature identification for Go
@@ -690,6 +691,13 @@
 
 ## Python
 
+* [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+* [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
+* [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
+* [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
+* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
+* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
+* [**astrogewgaw/stars**](https://github.com/astrogewgaw/stars): My GitHub stars, curated.
 * [**dsanson/termpdf.py**](https://github.com/dsanson/termpdf.py): A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
@@ -700,7 +708,6 @@
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
 * [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): *No description*
 * [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-* [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
 * [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
@@ -833,9 +840,6 @@
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**gotham-gbt/gotham-catalog-pipeline**](https://github.com/gotham-gbt/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
 * [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
-* [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
-* [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
-* [**astrogewgaw/spacetar**](https://github.com/astrogewgaw/spacetar): Space molecules in your terminal!
 * [**leswright1977/PySpectrometer**](https://github.com/leswright1977/PySpectrometer): Raspberry Pi Spectrometer
 * [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
@@ -929,7 +933,6 @@
 * [**chipmuenk/pyfda**](https://github.com/chipmuenk/pyfda): Python Filter Design Analysis Tool
 * [**theXYZT/pulsarbat**](https://github.com/theXYZT/pulsarbat): pulsarbat (PULSAR Baseband Analysis Tools) is a Python package for analysis of radio baseband observations of pulsars.
 * [**mhvk/baseband**](https://github.com/mhvk/baseband): Package to read and write radio baseband data
-* [**astrogewgaw/stars**](https://github.com/astrogewgaw/stars): My GitHub stars, curated.
 * [**pypa/setuptools**](https://github.com/pypa/setuptools): Official project repository for the Setuptools build system
 * [**hedyhli/starcli**](https://github.com/hedyhli/starcli): :sparkles: Browse trending GitHub projects from your command line
 * [**pyFFTW/pyFFTW**](https://github.com/pyFFTW/pyFFTW): A pythonic python wrapper around FFTW
@@ -1125,7 +1128,7 @@
 * [**nicoguaro/matplotlib_styles**](https://github.com/nicoguaro/matplotlib_styles): Matplotlib style sheets allow to stylize plots easily.
 * [**jiffyclub/palettable**](https://github.com/jiffyclub/palettable): Color palettes for Python
 * [**davidgardenier/frbpoppy**](https://github.com/davidgardenier/frbpoppy): Fast Radio Burst Population Synthesis in Python
-* [**agronholm/sphinx-autodoc-typehints**](https://github.com/agronholm/sphinx-autodoc-typehints): Type hints support for the Sphinx autodoc extension
+* [**tox-dev/sphinx-autodoc-typehints**](https://github.com/tox-dev/sphinx-autodoc-typehints): Type hints support for the Sphinx autodoc extension
 * [**sdispater/pendulum**](https://github.com/sdispater/pendulum): Python datetimes made easy
 * [**holoviz/hvplot**](https://github.com/holoviz/hvplot): A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
 * [**nanograv/enterprise**](https://github.com/nanograv/enterprise): ENTERPRISE (Enhanced Numerical Toolbox Enabling a Robust PulsaR Inference SuitE) is a pulsar timing analysis code, aimed at noise analysis, gravitational-wave searches, and timing model analysis.
@@ -1296,6 +1299,7 @@
 
 ## Rust
 
+* [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): A system handler to get information and interact with processes written in Rust
 * [**dfm/discretionary**](https://github.com/dfm/discretionary): A tiny proc macro to make all your struct fields optional
 * [**Canop/termimad**](https://github.com/Canop/termimad): A library to display rich (Markdown) snippets and texts in a rust terminal application
 * [**veeso/tui-realm**](https://github.com/veeso/tui-realm): 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
@@ -1406,7 +1410,7 @@
 * [**Mnwa/ms**](https://github.com/Mnwa/ms): Fast abstraction for converting human-like times into milliseconds.
 * [**rust-itertools/itertools**](https://github.com/rust-itertools/itertools): Extra iterator adaptors, iterator methods, free functions, and macros.
 * [**weld-project/weld**](https://github.com/weld-project/weld): High-performance runtime for data analytics applications
-* [**pola-rs/polars**](https://github.com/pola-rs/polars): Fast multi-threaded DataFrame library in Rust and Python
+* [**pola-rs/polars**](https://github.com/pola-rs/polars): Fast multi-threaded DataFrame library in Rust | Python | Node.js
 * [**kernelmachine/utah**](https://github.com/kernelmachine/utah): Dataframe structure and operations in Rust
 * [**rust-ndarray/ndarray**](https://github.com/rust-ndarray/ndarray): ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 * [**amv-dev/yata**](https://github.com/amv-dev/yata): Yet Another Technical Analysis library [for Rust]
