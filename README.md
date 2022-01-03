@@ -240,6 +240,9 @@
 
 ## Go
 
+* [**rivo/tview**](https://github.com/rivo/tview): Terminal UI library with rich, interactive widgets — written in Golang
+* [**rivo/uniseg**](https://github.com/rivo/uniseg): Unicode Text Segmentation for Go (or: How to Count Characters in a String)
+* [**gdamore/tcell**](https://github.com/gdamore/tcell): Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 * [**binwiederhier/ntfy**](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 * [**tvrzna/emptty**](https://github.com/tvrzna/emptty): Dead simple CLI Display Manager on TTY
 * [**erroneousboat/slack-term**](https://github.com/erroneousboat/slack-term): Slack client for your terminal
@@ -1299,6 +1302,8 @@
 
 ## Rust
 
+* [**federico-terzi/espanso**](https://github.com/federico-terzi/espanso): Cross-platform Text Expander written in Rust
+* [**elkowar/eww**](https://github.com/elkowar/eww): ElKowars wacky widgets
 * [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): A system handler to get information and interact with processes written in Rust
 * [**dfm/discretionary**](https://github.com/dfm/discretionary): A tiny proc macro to make all your struct fields optional
 * [**Canop/termimad**](https://github.com/Canop/termimad): A library to display rich (Markdown) snippets and texts in a rust terminal application
