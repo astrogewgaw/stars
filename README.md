@@ -100,6 +100,7 @@
 
 ## C++
 
+* [**rui314/mold**](https://github.com/rui314/mold): mold: A Modern Linker
 * [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
 * [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
 * [**SimonKagstrom/kcov**](https://github.com/SimonKagstrom/kcov): Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options
@@ -309,6 +310,7 @@
 
 ## HTML
 
+* [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming with Python and CUDA.
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
@@ -340,6 +342,7 @@
 
 ## JavaScript
 
+* [**khanhas/spicetify-cli**](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript!
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
@@ -612,7 +615,6 @@
 
 * [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 * [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
-* [**shriharshtendulkar/RFIND**](https://github.com/shriharshtendulkar/RFIND): Broadband RFI Localization from interferometric visibility data
 * [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
 * [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 * [**fosslife/awesome-ricing**](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
@@ -694,6 +696,7 @@
 
 ## Python
 
+* [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
@@ -709,9 +712,10 @@
 * [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
-* [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): *No description*
+* [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): A simple matplotlib wrapper that automatically scales font sizes, scatter point sizes, and line widths to be proportional to figure size.
 * [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
+* [**shriharshtendulkar/RFIND**](https://github.com/shriharshtendulkar/RFIND): Broadband RFI Localization from interferometric visibility data
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
 * [**warrickball/figures**](https://github.com/warrickball/figures): Code used to generate a series of plots I sometimes use for teaching/introductory material on stellar modelling and helio/asteroseismology.
 * [**iCHAIT/moviemon**](https://github.com/iCHAIT/moviemon): :movie_camera: Everything about your movies within the command line.
@@ -1302,6 +1306,19 @@
 
 ## Rust
 
+* [**apognu/tuigreet**](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
+* [**nix-rust/nix**](https://github.com/nix-rust/nix): Rust friendly bindings to *nix APIs
+* [**mgeisler/textwrap**](https://github.com/mgeisler/textwrap): An efficient and powerful Rust library for word wrapping text.
+* [**dtolnay/trybuild**](https://github.com/dtolnay/trybuild): Test harness for ui tests of compiler diagnostics
+* [**assert-rs/trycmd**](https://github.com/assert-rs/trycmd): Snapshot testing for a herd of CLI tests
+* [**algesten/ureq**](https://github.com/algesten/ureq): Minimal request library in rust.
+* [**utkarshkukreti/select.rs**](https://github.com/utkarshkukreti/select.rs): A Rust library to extract useful data from HTML documents, suitable for web scraping.
+* [**seanmonstar/reqwest**](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
+* [**causal-agent/scraper**](https://github.com/causal-agent/scraper): HTML parsing and querying with CSS selectors
+* [**mitsuhiko/insta**](https://github.com/mitsuhiko/insta): A snapshot testing library for rust
+* [**mitsuhiko/similar**](https://github.com/mitsuhiko/similar): A high level diffing library for rust based on diffs
+* [**gimli-rs/findshlibs**](https://github.com/gimli-rs/findshlibs): Find the shared libraries loaded in the current process with a cross platform API
+* [**mitsuhiko/procspawn**](https://github.com/mitsuhiko/procspawn): like thread::spawn but for processes
 * [**federico-terzi/espanso**](https://github.com/federico-terzi/espanso): Cross-platform Text Expander written in Rust
 * [**elkowar/eww**](https://github.com/elkowar/eww): ElKowars wacky widgets
 * [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): A system handler to get information and interact with processes written in Rust
@@ -1560,6 +1577,7 @@
 
 ## Vim script
 
+* [**metakirby5/codi.vim**](https://github.com/metakirby5/codi.vim): :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 * [**sainnhe/gruvbox-material**](https://github.com/sainnhe/gruvbox-material): Gruvbox with Material Palette
 * [**RRethy/vim-hexokinase**](https://github.com/RRethy/vim-hexokinase): hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
