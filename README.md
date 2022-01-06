@@ -765,7 +765,7 @@
 * [**liamconnor/radiogalsim**](https://github.com/liamconnor/radiogalsim): Simulate the microJansky radio sky to create image pairs for deconvolution
 * [**spatialaudio/nbsphinx**](https://github.com/spatialaudio/nbsphinx): :ledger: Sphinx source parser for Jupyter notebooks
 * [**sffjunkie/astral**](https://github.com/sffjunkie/astral): Python calculations for the position of the sun and moon.
-* [**nschloe/tiptop**](https://github.com/nschloe/tiptop): Command-line system monitoring
+* [**nschloe/tiptop**](https://github.com/nschloe/tiptop): :desktop_computer: Command-line system monitoring
 * [**SirVer/ultisnips**](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [**rodluger/citeyoursoftware**](https://github.com/rodluger/citeyoursoftware): Automatically generate BibTeX citations for the software in your conda environment.
 * [**citation-file-format/cff-converter-python**](https://github.com/citation-file-format/cff-converter-python): Command line program to validate and convert CITATION.cff files.
@@ -1038,7 +1038,7 @@
 * [**AstroBarker/mplcolors**](https://github.com/AstroBarker/mplcolors): A command-line information tool written in Python 3.x to display matplotlib colors.
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
 * [**jbusecke/xmovie**](https://github.com/jbusecke/xmovie): A simple way of creating movies from xarray objects
-* [**willmcgugan/textual**](https://github.com/willmcgugan/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+* [**Textualize/textual**](https://github.com/Textualize/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [**lightkurve/lightkurve**](https://github.com/lightkurve/lightkurve): A friendly package for Kepler & TESS time series analysis in Python.
 * [**quantopian/qgrid**](https://github.com/quantopian/qgrid): An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
@@ -1246,7 +1246,7 @@
 * [**dbt-labs/dbt-core**](https://github.com/dbt-labs/dbt-core): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 * [**Hazboun6/gw_sky**](https://github.com/Hazboun6/gw_sky): Project for making gravitational wave sky maps for images and animations.
 * [**RadioAstronomySoftwareGroup/pyuvdata**](https://github.com/RadioAstronomySoftwareGroup/pyuvdata): A pythonic interface for radio astronomy interferometry data (uvfits, miriad, others)
-* [**willmcgugan/rich**](https://github.com/willmcgugan/rich): Rich is a Python library for rich text and beautiful formatting in the terminal.
+* [**Textualize/rich**](https://github.com/Textualize/rich): Rich is a Python library for rich text and beautiful formatting in the terminal.
 * [**cython/cython**](https://github.com/cython/cython): The most widely used Python to C compiler
 * [**nanograv/PINT**](https://github.com/nanograv/PINT): PINT is not TEMPO3 -- Software for high-precision pulsar timing
 * [**simonw/csv-diff**](https://github.com/simonw/csv-diff): Python CLI tool and library for diffing CSV and JSON files
@@ -1457,7 +1457,7 @@
 * [**hashmismatch/terminal_cli.rs**](https://github.com/hashmismatch/terminal_cli.rs): Low-level Rust library for implementing terminal command line interface, like in embedded systems.
 * [**FGRibreau/spinners**](https://github.com/FGRibreau/spinners): 🛎 60+ Elegant terminal spinners for Rust
 * [**a8m/pb**](https://github.com/a8m/pb): Console progress bar for Rust
-* [**mitsuhiko/indicatif**](https://github.com/mitsuhiko/indicatif): A command line progress reporting library for Rust
+* [**console-rs/indicatif**](https://github.com/console-rs/indicatif): A command line progress reporting library for Rust
 * [**dirs-dev/dirs-sys-rs**](https://github.com/dirs-dev/dirs-sys-rs): system-level helper functions for the dirs and directories crates
 * [**dirs-dev/dirs-rs**](https://github.com/dirs-dev/dirs-rs): a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 * [**dirs-dev/directories-rs**](https://github.com/dirs-dev/directories-rs): a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
