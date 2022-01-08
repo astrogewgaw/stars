@@ -59,6 +59,7 @@
 
 ## C
 
+* [**SixByNine/sigproc**](https://github.com/SixByNine/sigproc): My version of Dunc Lorimer's public free searching software
 * [**cmus/cmus**](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
 * [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [**cxong/tinydir**](https://github.com/cxong/tinydir): Lightweight, portable and easy to integrate C directory and file reader
@@ -100,6 +101,7 @@
 
 ## C++
 
+* [**Stellarium/stellarium**](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [**rui314/mold**](https://github.com/rui314/mold): mold: A Modern Linker
 * [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
 * [**ignotur/magnetar_spectrum**](https://github.com/ignotur/magnetar_spectrum): Code to compute the spectra of magnetar after cyclotron resonant scattering
@@ -397,6 +399,23 @@
 
 ## Julia
 
+* [**JuliaGizmos/Blink.jl**](https://github.com/JuliaGizmos/Blink.jl): Web-based GUIs for Julia
+* [**JuliaGizmos/Reactive.jl**](https://github.com/JuliaGizmos/Reactive.jl): Reactive programming primitives for Julia
+* [**JuliaGizmos/WebIO.jl**](https://github.com/JuliaGizmos/WebIO.jl): A bridge between Julia and the Web.
+* [**barche/QML.jl**](https://github.com/barche/QML.jl): Build Qt5 QML interfaces for Julia programs.
+* [**JuliaGizmos/Observables.jl**](https://github.com/JuliaGizmos/Observables.jl): observable refs
+* [**JuliaAstro/SkyCoords.jl**](https://github.com/JuliaAstro/SkyCoords.jl): Astronomical coordinate systems in Julia
+* [**JuliaAstro/ERFA.jl**](https://github.com/JuliaAstro/ERFA.jl): Julia wrapper for liberfa
+* [**JuliaAstro/AstroImages.jl**](https://github.com/JuliaAstro/AstroImages.jl): Visualization of astronomical images
+* [**JuliaAstro/AstroAngles.jl**](https://github.com/JuliaAstro/AstroAngles.jl): Lightweight string parsing and representation of angles.
+* [**JuliaAstro/PulsarSearch.jl**](https://github.com/JuliaAstro/PulsarSearch.jl): Pulsar search utilities in Julia
+* [**PainterQubits/Unitful.jl**](https://github.com/PainterQubits/Unitful.jl): Physical quantities with arbitrary units
+* [**JuliaAstro/UnitfulAstro.jl**](https://github.com/JuliaAstro/UnitfulAstro.jl): An extension of Unitful.jl for astronomers.
+* [**JuliaAstro/AstroLib.jl**](https://github.com/JuliaAstro/AstroLib.jl): Bundle of small astronomical and astrophysical routines.
+* [**JuliaAstro/JPLEphemeris.jl**](https://github.com/JuliaAstro/JPLEphemeris.jl): JPL ephemerides for Julia
+* [**JuliaAstro/AstroTime.jl**](https://github.com/JuliaAstro/AstroTime.jl): Astronomical time keeping in Julia
+* [**JuliaAstro/FITSIO.jl**](https://github.com/JuliaAstro/FITSIO.jl): Flexible Image Transport System (FITS) file support for Julia
+* [**JuliaAstro/WCS.jl**](https://github.com/JuliaAstro/WCS.jl): Astronomical World Coordinate Systems library for Julia
 * [**cjdoris/PythonCall.jl**](https://github.com/cjdoris/PythonCall.jl): Python and Julia in harmony.
 * [**scheinerman/LatexPrint.jl**](https://github.com/scheinerman/LatexPrint.jl): Print Julia objects in a form suitable for LaTeX mathematics mode.
 * [**ssfrr/DeepDiffs.jl**](https://github.com/ssfrr/DeepDiffs.jl): Compute and pretty-print diffs for data structures like arrays and dictionaries
@@ -696,6 +715,7 @@
 
 ## Python
 
+* [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): *No description*
 * [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
