@@ -1614,7 +1614,7 @@
 * [**psliwka/vim-smoothie**](https://github.com/psliwka/vim-smoothie): Smooth scrolling for Vim done right🥤
 * [**rhysd/git-messenger.vim**](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
 * [**liuchengxu/vim-better-default**](https://github.com/liuchengxu/vim-better-default): :art: Simplify your .vimrc and make the default vim better
-* [**jdhao/better-escape.vim**](https://github.com/jdhao/better-escape.vim): A plugin for escaping Vim insert mode without lagging.
+* [**jdhao/better-escape.vim**](https://github.com/jdhao/better-escape.vim): A plugin for escaping insert mode without lagging.
 * [**lambdalisue/suda.vim**](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [**sbdchd/neoformat**](https://github.com/sbdchd/neoformat): :sparkles: A (Neo)vim plugin for formatting code.
 * [**dylanaraps/wal.vim**](https://github.com/dylanaraps/wal.vim): 🎨 A vim colorscheme for use with wal
