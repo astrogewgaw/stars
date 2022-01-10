@@ -447,7 +447,6 @@
 * [**JuliaPlots/AlgebraOfGraphics.jl**](https://github.com/JuliaPlots/AlgebraOfGraphics.jl): Combine ingredients for a plot
 * [**domluna/JuliaFormatter.jl**](https://github.com/domluna/JuliaFormatter.jl): An opinionated code formatter for Julia. Plot twist - the opinion is your own.
 * [**julia-actions/julia-format**](https://github.com/julia-actions/julia-format): Github action for JuliaFormatter.jl
-* [**davibarreira/NotebookToLaTeX.jl**](https://github.com/davibarreira/NotebookToLaTeX.jl): A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
 * [**stevengj/LaTeXStrings.jl**](https://github.com/stevengj/LaTeXStrings.jl): convenient input and display of LaTeX equation strings for the Julia language
 * [**KristofferC/OhMyREPL.jl**](https://github.com/KristofferC/OhMyREPL.jl): Syntax highlighting and other enhancements for the Julia REPL
 * [**KristofferC/TimerOutputs.jl**](https://github.com/KristofferC/TimerOutputs.jl): Formatted output of timed sections in Julia
@@ -1326,6 +1325,9 @@
 
 ## Rust
 
+* [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
+* [**notify-rs/notify**](https://github.com/notify-rs/notify): 🔭 Cross-platform filesystem notification library for Rust.
+* [**hannobraun/inotify-rs**](https://github.com/hannobraun/inotify-rs): Idiomatic inotify wrapper for the Rust programming language
 * [**apognu/tuigreet**](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
 * [**nix-rust/nix**](https://github.com/nix-rust/nix): Rust friendly bindings to *nix APIs
 * [**mgeisler/textwrap**](https://github.com/mgeisler/textwrap): An efficient and powerful Rust library for word wrapping text.
@@ -1543,6 +1545,7 @@
 * [**wzchen/probability_cheatsheet**](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 * [**lervag/vimtex**](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 * [**FlamingTempura/bibtex-tidy**](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files
+* [**davibarreira/NotebookToLaTeX.jl**](https://github.com/davibarreira/NotebookToLaTeX.jl): A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.
 * [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
