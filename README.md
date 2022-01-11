@@ -714,7 +714,7 @@
 
 ## Python
 
-* [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): *No description*
+* [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
 * [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
@@ -1125,7 +1125,7 @@
 * [**zclaytor/butterpy**](https://github.com/zclaytor/butterpy): Python simulations of stellar butterfly diagrams and rotational light curves
 * [**garrettj403/SciencePlots**](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific plotting
 * [**davidbrochart/nbterm**](https://github.com/davidbrochart/nbterm): Jupyter Notebooks in the terminal.
-* [**vaexio/vaex**](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+* [**vaexio/vaex**](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 * [**marcomusy/vedo**](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and Numpy
 * [**enthought/mayavi**](https://github.com/enthought/mayavi): 3D visualization of scientific data in Python
 * [**glumpy/glumpy**](https://github.com/glumpy/glumpy): Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
@@ -1325,6 +1325,7 @@
 
 ## Rust
 
+* [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
 * [**notify-rs/notify**](https://github.com/notify-rs/notify): 🔭 Cross-platform filesystem notification library for Rust.
 * [**hannobraun/inotify-rs**](https://github.com/hannobraun/inotify-rs): Idiomatic inotify wrapper for the Rust programming language
