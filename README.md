@@ -59,6 +59,7 @@
 
 ## C
 
+* [**clibs/clib**](https://github.com/clibs/clib): C package manager-ish
 * [**SixByNine/sigproc**](https://github.com/SixByNine/sigproc): My version of Dunc Lorimer's public free searching software
 * [**cmus/cmus**](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
 * [**ventoy/Ventoy**](https://github.com/ventoy/Ventoy): A new bootable USB solution.
@@ -180,6 +181,7 @@
 
 ## CSS
 
+* [**IBM/plex**](https://github.com/IBM/plex): The package of IBM’s typeface, IBM Plex.
 * [**cli-guidelines/cli-guidelines**](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * [**guglicap/wal-discord**](https://github.com/guglicap/wal-discord): Generate Discord css from pywal colors
 * [**tlienart/FranklinTemplates.jl**](https://github.com/tlienart/FranklinTemplates.jl): Simple website templates for Franklin.jl
@@ -263,7 +265,7 @@
 * [**jesseduffield/lazygit**](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [**direnv/direnv**](https://github.com/direnv/direnv): unclutter your .profile
 * [**twpayne/chezmoi**](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
-* [**iawia002/annie**](https://github.com/iawia002/annie): 👾 Fast and simple video download library and CLI tool written in Go
+* [**iawia002/lux**](https://github.com/iawia002/lux): 👾 Fast and simple video download library and CLI tool written in Go
 * [**marcelja/facebook-delete**](https://github.com/marcelja/facebook-delete): Fast facebook activity deletion
 * [**fogleman/ln**](https://github.com/fogleman/ln): 3D line art engine.
 * [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -399,6 +401,9 @@
 
 ## Julia
 
+* [**tkf/Try.jl**](https://github.com/tkf/Try.jl): Zero-overhead and debuggable error handling
+* [**JuliaCollections/DataStructures.jl**](https://github.com/JuliaCollections/DataStructures.jl): Julia implementation of Data structures
+* [**JuliaArrays/StaticArrays.jl**](https://github.com/JuliaArrays/StaticArrays.jl): Statically sized arrays for Julia
 * [**JuliaGizmos/Blink.jl**](https://github.com/JuliaGizmos/Blink.jl): Web-based GUIs for Julia
 * [**JuliaGizmos/Reactive.jl**](https://github.com/JuliaGizmos/Reactive.jl): Reactive programming primitives for Julia
 * [**JuliaGizmos/WebIO.jl**](https://github.com/JuliaGizmos/WebIO.jl): A bridge between Julia and the Web.
@@ -714,6 +719,8 @@
 
 ## Python
 
+* [**ofek/hatch**](https://github.com/ofek/hatch): Modern, extensible Python project management
+* [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
 * [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -1544,6 +1551,7 @@
 
 ## TeX
 
+* [**synercys/annotated_latex_equations**](https://github.com/synercys/annotated_latex_equations): Examples of how to create colorful, annotated equations in Latex using Tikz.
 * [**wzchen/probability_cheatsheet**](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 * [**lervag/vimtex**](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 * [**FlamingTempura/bibtex-tidy**](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files
