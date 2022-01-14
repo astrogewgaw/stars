@@ -486,7 +486,7 @@
 * [**GenieFramework/SearchLight.jl**](https://github.com/GenieFramework/SearchLight.jl): ORM layer for Genie.jl, the highly productive Julia web framework
 * [**GenieFramework/StippleCharts.jl**](https://github.com/GenieFramework/StippleCharts.jl): StippleCharts is a library of reactive charts for Stipple.jl.
 * [**GenieFramework/StippleUI.jl**](https://github.com/GenieFramework/StippleUI.jl): StippleUI is a library of reactive UI elements for Stipple.jl.
-* [**GenieFramework/Genie.jl**](https://github.com/GenieFramework/Genie.jl): The highly productive Julia web framework
+* [**GenieFramework/Genie.jl**](https://github.com/GenieFramework/Genie.jl): 🧞The highly productive Julia web framework
 * [**ziotom78/Healpix.jl**](https://github.com/ziotom78/Healpix.jl): Healpix library written in Julia
 * [**JuliaPlots/Makie.jl**](https://github.com/JuliaPlots/Makie.jl): High level plotting on the GPU.
 * [**FluxML/model-zoo**](https://github.com/FluxML/model-zoo): Please do not feed the models
@@ -959,7 +959,7 @@
 * [**PrefectHQ/prefect**](https://github.com/PrefectHQ/prefect): The easiest way to automate your data
 * [**samuelcolvin/python-devtools**](https://github.com/samuelcolvin/python-devtools): Dev tools for python
 * [**kbarbary/extinction**](https://github.com/kbarbary/extinction): Fast interstellar dust extinction laws in Python
-* [**astropy/astropy**](https://github.com/astropy/astropy): Repository for the Astropy core package
+* [**astropy/astropy**](https://github.com/astropy/astropy): Astronomy and astrophysics core library
 * [**giampaolo/psutil**](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
 * [**randolf-scholz/autokey_julia_unicode**](https://github.com/randolf-scholz/autokey_julia_unicode): Add all JuliaLang unicode abbreviations to AutoKey.
 * [**aristocratos/bpytop**](https://github.com/aristocratos/bpytop): Linux/OSX/FreeBSD resource monitor
@@ -1297,7 +1297,7 @@
 * [**pavdmyt/yaspin**](https://github.com/pavdmyt/yaspin): A lightweight terminal spinner for Python with safe pipes and redirects 🎁
 * [**tmbo/questionary**](https://github.com/tmbo/questionary): Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 * [**econchick/interrogate**](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage.
-* [**Mahdisadjadi/arxivscraper**](https://github.com/Mahdisadjadi/arxivscraper): A python module to scrape arxiv.org for specific date range and categories
+* [**Mahdisadjadi/arxivscraper**](https://github.com/Mahdisadjadi/arxivscraper): A python module to scrape arxiv.org for a date range and category
 * [**bmcguir2/astromolecule_census**](https://github.com/bmcguir2/astromolecule_census): *No description*
 * [**python/typing**](https://github.com/python/typing): Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
 * [**python/cpython**](https://github.com/python/cpython): The Python programming language
