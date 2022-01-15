@@ -46,6 +46,7 @@
 * [**QML**](#qml)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
+* [**SCSS**](#scss)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -245,6 +246,11 @@
 
 ## Go
 
+* [**charmbracelet/skate**](https://github.com/charmbracelet/skate): A personal key value store 🛼
+* [**mritd/bubbles**](https://github.com/mritd/bubbles): TUI components for Bubble Tea(Similar to the official bubbles 😊)
+* [**erikgeiser/promptkit**](https://github.com/erikgeiser/promptkit): Go prompt library
+* [**charmbracelet/wish**](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
+* [**muesli/duf**](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [**rivo/tview**](https://github.com/rivo/tview): Terminal UI library with rich, interactive widgets — written in Golang
 * [**rivo/uniseg**](https://github.com/rivo/uniseg): Unicode Text Segmentation for Go (or: How to Count Characters in a String)
 * [**gdamore/tcell**](https://github.com/gdamore/tcell): Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -323,7 +329,6 @@
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
-* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 * [**jakobnissen/hardware_introduction**](https://github.com/jakobnissen/hardware_introduction): What scientific programmers must know about CPUs and RAM to write fast code.
 * [**swcarpentry/shell-novice**](https://github.com/swcarpentry/shell-novice): The Unix Shell
 * [**laserkelvin/yaml-resume**](https://github.com/laserkelvin/yaml-resume): A one-stop shop for academic/industry resume and CV formatting using YAML and Jinja2
@@ -719,6 +724,9 @@
 
 ## Python
 
+* [**peterbrittain/asciimatics**](https://github.com/peterbrittain/asciimatics): A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+* [**JuliaPy/pyjulia**](https://github.com/JuliaPy/pyjulia): python interface to julia
+* [**aplpy/aplpy**](https://github.com/aplpy/aplpy): Astronomical Plotting Library in Python
 * [**ofek/hatch**](https://github.com/ofek/hatch): Modern, extensible Python project management
 * [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
@@ -1333,6 +1341,7 @@
 
 ## Rust
 
+* [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
 * [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
 * [**notify-rs/notify**](https://github.com/notify-rs/notify): 🔭 Cross-platform filesystem notification library for Rust.
@@ -1504,6 +1513,10 @@
 * [**jonasbb/pre-commit-latex-hooks**](https://github.com/jonasbb/pre-commit-latex-hooks): pre-commit hooks to improve LaTeX writing.
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+
+## SCSS
+
+* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 
 ## Scheme
 
