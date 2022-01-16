@@ -44,6 +44,7 @@
 * [**PureScript**](#purescript)
 * [**Python**](#python)
 * [**QML**](#qml)
+* [**Roff**](#roff)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
 * [**SCSS**](#scss)
@@ -724,6 +725,8 @@
 
 ## Python
 
+* [**cwinpy/cwinpy**](https://github.com/cwinpy/cwinpy): CW Inference in Python
+* [**cwinpy/cweqgen**](https://github.com/cwinpy/cweqgen): *No description*
 * [**peterbrittain/asciimatics**](https://github.com/peterbrittain/asciimatics): A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 * [**JuliaPy/pyjulia**](https://github.com/JuliaPy/pyjulia): python interface to julia
 * [**aplpy/aplpy**](https://github.com/aplpy/aplpy): Astronomical Plotting Library in Python
@@ -1331,6 +1334,10 @@
 ## QML
 
 * [**Swordfish90/cool-retro-term**](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
+
+## Roff
+
+* [**MESAHub/mesa**](https://github.com/MESAHub/mesa): Modules for Experiments in Stellar Astrophysics
 
 ## Ruby
 
