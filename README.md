@@ -32,6 +32,7 @@
 * [**Jsonnet**](#jsonnet)
 * [**Julia**](#julia)
 * [**Jupyter Notebook**](#jupyter-notebook)
+* [**Kotlin**](#kotlin)
 * [**Lex**](#lex)
 * [**Lua**](#lua)
 * [**Makefile**](#makefile)
@@ -247,6 +248,7 @@
 
 ## Go
 
+* [**knadh/koanf**](https://github.com/knadh/koanf): Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * [**charmbracelet/skate**](https://github.com/charmbracelet/skate): A personal key value store 🛼
 * [**mritd/bubbles**](https://github.com/mritd/bubbles): TUI components for Bubble Tea(Similar to the official bubbles 😊)
 * [**erikgeiser/promptkit**](https://github.com/erikgeiser/promptkit): Go prompt library
@@ -289,7 +291,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈 🎄
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈 ✨
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -576,6 +578,10 @@
 * [**benjaminpope/morphine**](https://github.com/benjaminpope/morphine): poppy derivatives
 * [**ray-project/tutorial**](https://github.com/ray-project/tutorial): *No description*
 
+## Kotlin
+
+* [**tachiyomiorg/tachiyomi**](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
+
 ## Lex
 
 * [**pkubowicz/opendetex**](https://github.com/pkubowicz/opendetex): Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources
@@ -725,6 +731,7 @@
 
 ## Python
 
+* [**jrnl-org/jrnl**](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
 * [**cwinpy/cwinpy**](https://github.com/cwinpy/cwinpy): CW Inference in Python
 * [**cwinpy/cweqgen**](https://github.com/cwinpy/cweqgen): *No description*
 * [**peterbrittain/asciimatics**](https://github.com/peterbrittain/asciimatics): A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
