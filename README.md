@@ -517,6 +517,7 @@
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
+* [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
 * [**FRBs/FRB**](https://github.com/FRBs/FRB): Python code related to DM calculations, estimations, and analysis
 * [**ska-sa/tutorials**](https://github.com/ska-sa/tutorials): IPython notebooks on various topics
 * [**larskuenkel/DeepPulsarNet**](https://github.com/larskuenkel/DeepPulsarNet): Finding pulsars in filterbank data using neural networks
@@ -650,7 +651,6 @@
 
 * [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 * [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
-* [**LSSTISSC/Tidalsaurus**](https://github.com/LSSTISSC/Tidalsaurus): Detecting Tidal Features to Uncover Galaxy Interactions
 * [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 * [**fosslife/awesome-ricing**](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [**a8m/golang-cheat-sheet**](https://github.com/a8m/golang-cheat-sheet): An overview of Go syntax and features.
@@ -786,7 +786,7 @@
 * [**jzuhone/pyxsim**](https://github.com/jzuhone/pyxsim): Simulating X-ray observations from astrophysical sources.
 * [**SciTools/cartopy**](https://github.com/SciTools/cartopy): Cartopy - a cartographic python library with matplotlib support
 * [**henrysky/milkyway_plot**](https://github.com/henrysky/milkyway_plot): A handy python package to do plotting on a face-on/edge-on/allsky map milkyway with matplotlib and bokeh
-* [**Parsl/parsl**](https://github.com/Parsl/parsl): Parsl - Parallel Scripting Library
+* [**Parsl/parsl**](https://github.com/Parsl/parsl): Parsl - a Python parallel scripting library
 * [**jasonreisman/Timeline**](https://github.com/jasonreisman/Timeline): A tool for creating SVG timelines from simple JSON input.
 * [**dccsillag/magma-nvim**](https://github.com/dccsillag/magma-nvim): Interact with Jupyter from NeoVim.
 * [**datapane/datapane**](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python.
@@ -1619,7 +1619,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
