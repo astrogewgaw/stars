@@ -1151,7 +1151,7 @@
 * [**garrettj403/SciencePlots**](https://github.com/garrettj403/SciencePlots): Matplotlib styles for scientific plotting
 * [**davidbrochart/nbterm**](https://github.com/davidbrochart/nbterm): Jupyter Notebooks in the terminal.
 * [**vaexio/vaex**](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
-* [**marcomusy/vedo**](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D objects based on VTK and Numpy
+* [**marcomusy/vedo**](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D data
 * [**enthought/mayavi**](https://github.com/enthought/mayavi): 3D visualization of scientific data in Python
 * [**glumpy/glumpy**](https://github.com/glumpy/glumpy): Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 * [**pyqtgraph/pyqtgraph**](https://github.com/pyqtgraph/pyqtgraph): Fast data visualization and GUI tools for scientific / engineering applications
@@ -1355,6 +1355,7 @@
 
 ## Rust
 
+* [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Flaunt how you manage your fonts!
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
 * [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
