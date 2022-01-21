@@ -592,7 +592,7 @@
 * [**jose-elias-alvarez/null-ls.nvim**](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 * [**tamago324/nlsp-settings.nvim**](https://github.com/tamago324/nlsp-settings.nvim): A plugin for setting Neovim LSP with JSON files
 * [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-* [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📍 A Neovim plugin that displays interactive vertical scrollbars.
+* [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
 * [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
 * [**onsails/lspkind-nvim**](https://github.com/onsails/lspkind-nvim): vscode-like pictograms for neovim lsp completion items
@@ -961,7 +961,7 @@
 * [**Hazboun6/hasasia**](https://github.com/Hazboun6/hasasia): Python package for calculating pulsar timing array sensitivity curves.
 * [**zoghbi-a/nicer-background**](https://github.com/zoghbi-a/nicer-background): A model for estimating NICER background using Machine Learning
 * [**healpy/healpy**](https://github.com/healpy/healpy): Python healpix maps tools
-* [**astropy/specutils**](https://github.com/astropy/specutils): An Astropy coordinated package for astronomical spectroscopy.  Maintainers: @nmearl @crawfordsm @keflavich @eteq
+* [**astropy/specutils**](https://github.com/astropy/specutils): An Astropy coordinated package for astronomical spectroscopy.  Maintainers: @nmearl @rosteen @keflavich @eteq
 * [**sirfuzzalot/textual-inputs**](https://github.com/sirfuzzalot/textual-inputs): Textual Inputs is a collection of input widgets for the Textual TUI framework.
 * [**rupertcw/pytest-performance**](https://github.com/rupertcw/pytest-performance): A simple plugin to ensure the execution of critical sections of code has not been impacted
 * [**encode/httpx**](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
@@ -1355,6 +1355,7 @@
 
 ## Rust
 
+* [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
 * [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Flaunt how you manage your fonts!
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
 * [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
