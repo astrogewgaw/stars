@@ -731,6 +731,7 @@
 
 ## Python
 
+* [**jerryvarghese1/bpsci**](https://github.com/jerryvarghese1/bpsci): 6DOF Dynamic Simulations for Blender with Python
 * [**ahuang11/ahlive**](https://github.com/ahuang11/ahlive): animate your data to life
 * [**jrnl-org/jrnl**](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
 * [**cwinpy/cwinpy**](https://github.com/cwinpy/cwinpy): CW Inference in Python
@@ -939,7 +940,7 @@
 * [**haykh/brender_astro**](https://github.com/haykh/brender_astro): Python-based Blender module for scientific visualization
 * [**tomicapretto/flexitext**](https://github.com/tomicapretto/flexitext): Flexitext: Draw styled text in Matplotlib
 * [**chriskiehl/Gooey**](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
-* [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+* [**PySimpleGUI/PySimpleGUI**](https://github.com/PySimpleGUI/PySimpleGUI): Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 * [**ArtificialStellarPopulations/ArtPop**](https://github.com/ArtificialStellarPopulations/ArtPop): Building artificial galaxies one star at a time.
 * [**samuelcolvin/pydantic**](https://github.com/samuelcolvin/pydantic): Data parsing and validation using Python type hints
 * [**sampsyo/clusterfutures**](https://github.com/sampsyo/clusterfutures): super-slick Slurm and Condor cluster execution for Python
@@ -1007,7 +1008,7 @@
 * [**abhisrkckl/pinta**](https://github.com/abhisrkckl/pinta): Data analysis pipeline for upgraded GMRT pulsar data
 * [**danxhuber/isoclassify**](https://github.com/danxhuber/isoclassify): Perform stellar classifications using isochrone grids
 * [**brohrer/taming_matplotlib**](https://github.com/brohrer/taming_matplotlib): Tutorials for getting the most out of Matplotlib
-* [**ploomber/ploomber**](https://github.com/ploomber/ploomber): Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud. ☁️
+* [**ploomber/ploomber**](https://github.com/ploomber/ploomber): The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 * [**matplotlib/matplotlib**](https://github.com/matplotlib/matplotlib): matplotlib: plotting with Python
 * [**lmmentel/zefram**](https://github.com/lmmentel/zefram): *No description*
 * [**lmmentel/pydmft**](https://github.com/lmmentel/pydmft): Python utilities for running density matrix functional theory (DMFT) quantum chemical calculations.
