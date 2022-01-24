@@ -105,6 +105,7 @@
 
 ## C++
 
+* [**mitchmickaliger/pulsarTools**](https://github.com/mitchmickaliger/pulsarTools): *No description*
 * [**Stellarium/stellarium**](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [**rui314/mold**](https://github.com/rui314/mold): mold: A Modern Linker
 * [**dpilger26/NumCpp**](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
@@ -248,6 +249,7 @@
 
 ## Go
 
+* [**alecthomas/kong**](https://github.com/alecthomas/kong): Kong is a command-line parser for Go
 * [**knadh/koanf**](https://github.com/knadh/koanf): Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * [**charmbracelet/skate**](https://github.com/charmbracelet/skate): A personal key value store 🛼
 * [**mritd/bubbles**](https://github.com/mritd/bubbles): TUI components for Bubble Tea(Similar to the official bubbles 😊)
@@ -1357,6 +1359,8 @@
 
 ## Rust
 
+* [**Stebalien/tempfile**](https://github.com/Stebalien/tempfile): Temporary file library for rust
+* [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
 * [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Flaunt how you manage your fonts!
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
@@ -1406,7 +1410,7 @@
 * [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer): A Rust compiler front-end for IDEs
 * [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
-* [**rust-embedded/cross**](https://github.com/rust-embedded/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
+* [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
@@ -1443,7 +1447,7 @@
 * [**jpochyla/psst**](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 * [**sixtyfpsui/sixtyfps**](https://github.com/sixtyfpsui/sixtyfps): SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 * [**mitsuhiko/dialoguer**](https://github.com/mitsuhiko/dialoguer): Rust utility library for nice command line prompts and similar things
-* [**mitsuhiko/console**](https://github.com/mitsuhiko/console): A rust console and terminal abstraction
+* [**console-rs/console**](https://github.com/console-rs/console): A rust console and terminal abstraction
 * [**David-OConnor/pyflow**](https://github.com/David-OConnor/pyflow): An installation and dependency system for Python
 * [**pyros2097/rust-embed**](https://github.com/pyros2097/rust-embed): Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 * [**al-jshen/compute**](https://github.com/al-jshen/compute): Scientific and statistical computing with Rust.
@@ -1542,6 +1546,7 @@
 
 ## Shell
 
+* [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
 * [**zsh-users/zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
 * [**dylanaraps/pure-sh-bible**](https://github.com/dylanaraps/pure-sh-bible): 📖 A collection of pure POSIX sh alternatives to external processes.
