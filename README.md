@@ -591,6 +591,8 @@
 
 ## Lua
 
+* [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
+* [**LinArcX/telescope-command-palette.nvim**](https://github.com/LinArcX/telescope-command-palette.nvim): Create key-bindings and watch them with telescope :telescope:
 * [**jose-elias-alvarez/null-ls.nvim**](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 * [**tamago324/nlsp-settings.nvim**](https://github.com/tamago324/nlsp-settings.nvim): A plugin for setting Neovim LSP with JSON files
 * [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
@@ -733,6 +735,8 @@
 
 ## Python
 
+* [**bretthandrews/flexce**](https://github.com/bretthandrews/flexce): A flexible Chemical Evolution model in python
+* [**larskuenkel/pca_forest_cleaner**](https://github.com/larskuenkel/pca_forest_cleaner): RFI removal tool for pulsar archives using the Isolation Forest Algorithm
 * [**jerryvarghese1/bpsci**](https://github.com/jerryvarghese1/bpsci): 6DOF Dynamic Simulations for Blender with Python
 * [**ahuang11/ahlive**](https://github.com/ahuang11/ahlive): animate your data to life
 * [**jrnl-org/jrnl**](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
@@ -756,7 +760,7 @@
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
-* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications
+* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications.
 * [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
@@ -1628,7 +1632,7 @@
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
-* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+* [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
