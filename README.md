@@ -735,6 +735,7 @@
 
 ## Python
 
+* [**matplotlib/matplotview**](https://github.com/matplotlib/matplotview): A library for creating lightweight views of matplotlib axes.
 * [**bretthandrews/flexce**](https://github.com/bretthandrews/flexce): A flexible Chemical Evolution model in python
 * [**larskuenkel/pca_forest_cleaner**](https://github.com/larskuenkel/pca_forest_cleaner): RFI removal tool for pulsar archives using the Isolation Forest Algorithm
 * [**jerryvarghese1/bpsci**](https://github.com/jerryvarghese1/bpsci): 6DOF Dynamic Simulations for Blender with Python
@@ -1363,6 +1364,7 @@
 
 ## Rust
 
+* [**XAMPPRocky/octocrab**](https://github.com/XAMPPRocky/octocrab): A modern, extensible GitHub API Client for Rust.
 * [**Stebalien/tempfile**](https://github.com/Stebalien/tempfile): Temporary file library for rust
 * [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
@@ -1612,6 +1614,7 @@
 
 ## TypeScript
 
+* [**calendso/calendso**](https://github.com/calendso/calendso): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
@@ -1650,6 +1653,7 @@
 
 ## Vim script
 
+* [**mg979/vim-visual-multi**](https://github.com/mg979/vim-visual-multi): Multiple cursors plugin for vim/neovim
 * [**metakirby5/codi.vim**](https://github.com/metakirby5/codi.vim): :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 * [**sainnhe/gruvbox-material**](https://github.com/sainnhe/gruvbox-material): Gruvbox with Material Palette
