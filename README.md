@@ -48,7 +48,6 @@
 * [**Roff**](#roff)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
-* [**SCSS**](#scss)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -334,6 +333,7 @@
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
+* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 * [**jakobnissen/hardware_introduction**](https://github.com/jakobnissen/hardware_introduction): What scientific programmers must know about CPUs and RAM to write fast code.
 * [**swcarpentry/shell-novice**](https://github.com/swcarpentry/shell-novice): The Unix Shell
 * [**laserkelvin/yaml-resume**](https://github.com/laserkelvin/yaml-resume): A one-stop shop for academic/industry resume and CV formatting using YAML and Jinja2
@@ -653,6 +653,7 @@
 
 ## Others
 
+* [**markusschanta/awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter): A curated list of awesome Jupyter projects, libraries and resources
 * [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 * [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
 * [**jeremysanders/awesome-dataviz**](https://github.com/jeremysanders/awesome-dataviz): :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
@@ -1541,10 +1542,6 @@
 * [**jonasbb/pre-commit-latex-hooks**](https://github.com/jonasbb/pre-commit-latex-hooks): pre-commit hooks to improve LaTeX writing.
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-
-## SCSS
-
-* [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 
 ## Scheme
 
