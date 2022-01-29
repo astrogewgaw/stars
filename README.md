@@ -248,6 +248,8 @@
 
 ## Go
 
+* [**toolctl/toolctl**](https://github.com/toolctl/toolctl): The tool to control your tools
+* [**johnkerl/miller**](https://github.com/johnkerl/miller): Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [**alecthomas/kong**](https://github.com/alecthomas/kong): Kong is a command-line parser for Go
 * [**knadh/koanf**](https://github.com/knadh/koanf): Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * [**charmbracelet/skate**](https://github.com/charmbracelet/skate): A personal key value store 🛼
@@ -653,6 +655,7 @@
 
 ## Others
 
+* [**egeerardyn/awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX): Curated list of LaTeX awesomeness
 * [**markusschanta/awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter): A curated list of awesome Jupyter projects, libraries and resources
 * [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 * [**dylanaraps/writing-a-tui-in-bash**](https://github.com/dylanaraps/writing-a-tui-in-bash): How to write a TUI in BASH
@@ -736,6 +739,11 @@
 
 ## Python
 
+* [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
+* [**asciimoo/exrex**](https://github.com/asciimoo/exrex): Irregular methods on regular expressions
+* [**joke2k/faker**](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you.
+* [**Goldziher/pydantic-factories**](https://github.com/Goldziher/pydantic-factories): Pydantic based mock data generation
+* [**Textualize/rich-cli**](https://github.com/Textualize/rich-cli): Rich-cli is a command line toolbox for fancy output in the terminal
 * [**matplotlib/matplotview**](https://github.com/matplotlib/matplotview): A library for creating lightweight views of matplotlib axes.
 * [**bretthandrews/flexce**](https://github.com/bretthandrews/flexce): A flexible Chemical Evolution model in python
 * [**larskuenkel/pca_forest_cleaner**](https://github.com/larskuenkel/pca_forest_cleaner): RFI removal tool for pulsar archives using the Isolation Forest Algorithm
@@ -762,7 +770,7 @@
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
-* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications.
+* [**bczsalba/PyTermGUI**](https://github.com/bczsalba/PyTermGUI): A simple yet powerful TUI framework for your Python (3.7+) applications.
 * [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
