@@ -61,6 +61,7 @@
 
 ## C
 
+* [**abhisrkckl/ugmrt2fil**](https://github.com/abhisrkckl/ugmrt2fil): Convert uGMRT raw data files to sigproc-filterbank format.
 * [**clibs/clib**](https://github.com/clibs/clib): C package manager-ish
 * [**SixByNine/sigproc**](https://github.com/SixByNine/sigproc): My version of Dunc Lorimer's public free searching software
 * [**cmus/cmus**](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
@@ -739,6 +740,8 @@
 
 ## Python
 
+* [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
+* [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
 * [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**asciimoo/exrex**](https://github.com/asciimoo/exrex): Irregular methods on regular expressions
 * [**joke2k/faker**](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you.
@@ -1447,7 +1450,7 @@
 * [**orhun/git-cliff**](https://github.com/orhun/git-cliff): A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 * [**Schniz/fnm**](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust
 * [**sayanarijit/xplr**](https://github.com/sayanarijit/xplr): A hackable, minimal, fast TUI file explorer
-* [**emilk/egui**](https://github.com/emilk/egui): egui: an easy-to-use immediate mode GUI in pure Rust
+* [**emilk/egui**](https://github.com/emilk/egui): egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 * [**Dusk-Labs/dim**](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [**BurntSushi/rust-csv**](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
 * [**ajeetdsouza/zoxide**](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
