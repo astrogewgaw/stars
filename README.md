@@ -414,6 +414,12 @@
 
 ## Julia
 
+* [**JuliaSIMD/LoopVectorization.jl**](https://github.com/JuliaSIMD/LoopVectorization.jl): Macro(s) for vectorizing loops.
+* [**MechanicalRabbit/FunSQL.jl**](https://github.com/MechanicalRabbit/FunSQL.jl): Julia library for compositional construction of SQL queries
+* [**lazarusA/BeautifulMakie**](https://github.com/lazarusA/BeautifulMakie): https://lazarusa.github.io/BeautifulMakie/
+* [**JuliaArrays/AxisArrays.jl**](https://github.com/JuliaArrays/AxisArrays.jl): Performant arrays where each dimension can have a named axis with values
+* [**rafaqz/DimensionalData.jl**](https://github.com/rafaqz/DimensionalData.jl): Named dimensions and indexing for julia arrays and other data
+* [**rikhuijzer/Skans.jl**](https://github.com/rikhuijzer/Skans.jl): Monitor web pages and get notified when a page has changed
 * [**tkf/Try.jl**](https://github.com/tkf/Try.jl): Zero-overhead and debuggable error handling
 * [**JuliaCollections/DataStructures.jl**](https://github.com/JuliaCollections/DataStructures.jl): Julia implementation of Data structures
 * [**JuliaArrays/StaticArrays.jl**](https://github.com/JuliaArrays/StaticArrays.jl): Statically sized arrays for Julia
@@ -519,6 +525,7 @@
 
 ## Jupyter Notebook
 
+* [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
@@ -623,7 +630,7 @@
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 * [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
+* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
 * [**lukas-reineke/indent-blankline.nvim**](https://github.com/lukas-reineke/indent-blankline.nvim): Indent guides  for Neovim
 * [**mnowotnik/noteflow.nvim**](https://github.com/mnowotnik/noteflow.nvim): Neovim plugin that streamlines taking notes
 * [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
@@ -1622,6 +1629,7 @@
 
 ## TypeScript
 
+* [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calendso/calendso**](https://github.com/calendso/calendso): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
