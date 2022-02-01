@@ -185,6 +185,7 @@
 
 ## CSS
 
+* [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * [**IBM/plex**](https://github.com/IBM/plex): The package of IBM’s typeface, IBM Plex.
 * [**cli-guidelines/cli-guidelines**](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 * [**guglicap/wal-discord**](https://github.com/guglicap/wal-discord): Generate Discord css from pywal colors
@@ -414,6 +415,14 @@
 
 ## Julia
 
+* [**JuliaIO/JSON.jl**](https://github.com/JuliaIO/JSON.jl): JSON parsing and printing
+* [**korsbo/Latexify.jl**](https://github.com/korsbo/Latexify.jl): Convert julia objects to LaTeX equations, arrays or other environments.
+* [**JuliaIO/HDF5.jl**](https://github.com/JuliaIO/HDF5.jl): Save and load data in the HDF5 file format from Julia
+* [**JuliaGraphics/Luxor.jl**](https://github.com/JuliaGraphics/Luxor.jl): Simple drawings using vector graphics; Cairo "for tourists!"
+* [**JuliaCI/BenchmarkTools.jl**](https://github.com/JuliaCI/BenchmarkTools.jl): A benchmarking framework for the Julia language
+* [**tkf/Maybe.jl**](https://github.com/tkf/Maybe.jl): Optional value handling for Julia
+* [**GiovineItalia/Gadfly.jl**](https://github.com/GiovineItalia/Gadfly.jl): Crafty statistical graphics for Julia.
+* [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**JuliaSIMD/LoopVectorization.jl**](https://github.com/JuliaSIMD/LoopVectorization.jl): Macro(s) for vectorizing loops.
 * [**MechanicalRabbit/FunSQL.jl**](https://github.com/MechanicalRabbit/FunSQL.jl): Julia library for compositional construction of SQL queries
 * [**lazarusA/BeautifulMakie**](https://github.com/lazarusA/BeautifulMakie): https://lazarusa.github.io/BeautifulMakie/
@@ -1630,7 +1639,7 @@
 ## TypeScript
 
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
-* [**calendso/calendso**](https://github.com/calendso/calendso): Scheduling infrastructure for absolutely everyone.
+* [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
@@ -1669,6 +1678,7 @@
 
 ## Vim script
 
+* [**kdheepak/JuliaFormatter.vim**](https://github.com/kdheepak/JuliaFormatter.vim): A (n)vim plugin for formatting Julia code using JuliaFormatter.jl.
 * [**mg979/vim-visual-multi**](https://github.com/mg979/vim-visual-multi): Multiple cursors plugin for vim/neovim
 * [**metakirby5/codi.vim**](https://github.com/metakirby5/codi.vim): :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
