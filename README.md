@@ -185,6 +185,7 @@
 
 ## CSS
 
+* [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * [**IBM/plex**](https://github.com/IBM/plex): The package of IBM’s typeface, IBM Plex.
 * [**cli-guidelines/cli-guidelines**](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -361,7 +362,7 @@
 ## JavaScript
 
 * [**khanhas/spicetify-cli**](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-* [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript!
+* [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
@@ -756,6 +757,7 @@
 
 ## Python
 
+* [**giganano/VICE**](https://github.com/giganano/VICE): A python package designed to run numerical simulations of galactic chemical evolution
 * [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
 * [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
 * [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
@@ -1392,6 +1394,8 @@
 
 ## Rust
 
+* [**dginev/ar5iv**](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
+* [**BurntSushi/walkdir**](https://github.com/BurntSushi/walkdir): Rust library for walking directories recursively.
 * [**XAMPPRocky/octocrab**](https://github.com/XAMPPRocky/octocrab): A modern, extensible GitHub API Client for Rust.
 * [**Stebalien/tempfile**](https://github.com/Stebalien/tempfile): Temporary file library for rust
 * [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
