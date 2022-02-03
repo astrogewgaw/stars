@@ -14,6 +14,7 @@
 <div align="justify">
 
 * [**C**](#c)
+* [**C#**](#c#)
 * [**C++**](#c++)
 * [**CSS**](#css)
 * [**Cuda**](#cuda)
@@ -71,7 +72,6 @@
 * [**dankamongmen/notcurses**](https://github.com/dankamongmen/notcurses): blingful character graphics/TUI library. definitely not curses.
 * [**SAOImageDS9/SAOImageDS9**](https://github.com/SAOImageDS9/SAOImageDS9): SAOImage DS9 is an astronomical imaging and data visualization application.
 * [**tectonic-typesetting/tectonic**](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-* [**deepmind/mujoco**](https://github.com/deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * [**dnelson86/arepo**](https://github.com/dnelson86/arepo): This the public version of the moving-mesh AREPO code for large-scale structure and galaxy formation simulations.
 * [**hpjansson/chafa**](https://github.com/hpjansson/chafa): 📺🗿 Terminal graphics for the 21st century.
 * [**weltevrede/psrsalsa**](https://github.com/weltevrede/psrsalsa): PSRSALSA: A Suite of ALgorithms for Statistical Analysis of pulsar data. Please refer to the following website for dowload instructions and a tutorial:
@@ -102,6 +102,10 @@
 * [**namhyung/uftrace**](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust
 * [**esheldon/fitsio**](https://github.com/esheldon/fitsio): A python package for FITS input/output wrapping cfitsio
 * [**scottransom/presto**](https://github.com/scottransom/presto): Open source pulsar search and analysis toolkit
+
+## C#
+
+* [**deepmind/mujoco**](https://github.com/deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ## C++
 
@@ -757,6 +761,7 @@
 
 ## Python
 
+* [**fluiddyn/transonic**](https://github.com/fluiddyn/transonic): :rocket: Make your Python code fly at transonic speeds!
 * [**giganano/VICE**](https://github.com/giganano/VICE): A python package designed to run numerical simulations of galactic chemical evolution
 * [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
 * [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
