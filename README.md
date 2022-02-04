@@ -62,6 +62,7 @@
 
 ## C
 
+* [**mwh/dragon**](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [**abhisrkckl/ugmrt2fil**](https://github.com/abhisrkckl/ugmrt2fil): Convert uGMRT raw data files to sigproc-filterbank format.
 * [**clibs/clib**](https://github.com/clibs/clib): C package manager-ish
 * [**SixByNine/sigproc**](https://github.com/SixByNine/sigproc): My version of Dunc Lorimer's public free searching software
@@ -761,6 +762,15 @@
 
 ## Python
 
+* [**SL-RU/ranger_udisk_menu**](https://github.com/SL-RU/ranger_udisk_menu): This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
+* [**alexanderjeurissen/ranger_devicons**](https://github.com/alexanderjeurissen/ranger_devicons): Ranger plugin that adds file glyphs / icon support to Ranger
+* [**yxngh/ranger-gitplug**](https://github.com/yxngh/ranger-gitplug): Github integration for ranger file manager
+* [**laggardkernel/ranger-fzf-marks**](https://github.com/laggardkernel/ranger-fzf-marks): Ranger plugin to manage bookmarks with fzf
+* [**cdump/ranger-devicons2**](https://github.com/cdump/ranger-devicons2): *No description*
+* [**maximtrp/ranger-cmus**](https://github.com/maximtrp/ranger-cmus): Ranger Plugin for Integration with Cmus Audio Player
+* [**maximtrp/ranger-archives**](https://github.com/maximtrp/ranger-archives): Ranger Plugin for Creating and Extracting Archives
+* [**ericdill/depfinder**](https://github.com/ericdill/depfinder): Find all the unique imports in your library
+* [**caronc/apprise**](https://github.com/caronc/apprise): Apprise - Push Notifications that work with just about every platform!
 * [**fluiddyn/transonic**](https://github.com/fluiddyn/transonic): :rocket: Make your Python code fly at transonic speeds!
 * [**giganano/VICE**](https://github.com/giganano/VICE): A python package designed to run numerical simulations of galactic chemical evolution
 * [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
@@ -1687,6 +1697,8 @@
 
 ## Vim script
 
+* [**Lokaltog/neoranger**](https://github.com/Lokaltog/neoranger): Simple ranger wrapper for neovim.
+* [**francoiscabrol/ranger.vim**](https://github.com/francoiscabrol/ranger.vim): Ranger integration in vim and neovim
 * [**kdheepak/JuliaFormatter.vim**](https://github.com/kdheepak/JuliaFormatter.vim): A (n)vim plugin for formatting Julia code using JuliaFormatter.jl.
 * [**mg979/vim-visual-multi**](https://github.com/mg979/vim-visual-multi): Multiple cursors plugin for vim/neovim
 * [**metakirby5/codi.vim**](https://github.com/metakirby5/codi.vim): :notebook_with_decorative_cover: The interactive scratchpad for hackers.
