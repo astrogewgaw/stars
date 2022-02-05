@@ -421,6 +421,7 @@
 
 ## Julia
 
+* [**tshort/StaticCompiler.jl**](https://github.com/tshort/StaticCompiler.jl): Compiles Julia code to a standalone library (experimental)
 * [**JuliaIO/JSON.jl**](https://github.com/JuliaIO/JSON.jl): JSON parsing and printing
 * [**korsbo/Latexify.jl**](https://github.com/korsbo/Latexify.jl): Convert julia objects to LaTeX equations, arrays or other environments.
 * [**JuliaIO/HDF5.jl**](https://github.com/JuliaIO/HDF5.jl): Save and load data in the HDF5 file format from Julia
@@ -762,6 +763,8 @@
 
 ## Python
 
+* [**liiight/notifiers**](https://github.com/liiight/notifiers): The easy way to send notifications
+* [**ceccopierangiolieugenio/pyTermTk**](https://github.com/ceccopierangiolieugenio/pyTermTk): Python Terminal Toolkit
 * [**SL-RU/ranger_udisk_menu**](https://github.com/SL-RU/ranger_udisk_menu): This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
 * [**alexanderjeurissen/ranger_devicons**](https://github.com/alexanderjeurissen/ranger_devicons): Ranger plugin that adds file glyphs / icon support to Ranger
 * [**yxngh/ranger-gitplug**](https://github.com/yxngh/ranger-gitplug): Github integration for ranger file manager
@@ -1657,6 +1660,7 @@
 
 ## TypeScript
 
+* [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
