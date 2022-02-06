@@ -256,6 +256,7 @@
 
 ## Go
 
+* [**Jguer/yay**](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [**toolctl/toolctl**](https://github.com/toolctl/toolctl): The tool to control your tools
 * [**johnkerl/miller**](https://github.com/johnkerl/miller): Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [**alecthomas/kong**](https://github.com/alecthomas/kong): Kong is a command-line parser for Go
@@ -421,6 +422,9 @@
 
 ## Julia
 
+* [**JuliaWeb/HTTP.jl**](https://github.com/JuliaWeb/HTTP.jl): HTTP for Julia
+* [**JuliaComputing/HTTPDownloads.jl**](https://github.com/JuliaComputing/HTTPDownloads.jl): Use Downloads.jl as a backend for HTTP.jl
+* [**cjdoris/CondaPkg.jl**](https://github.com/cjdoris/CondaPkg.jl): Add Conda dependencies to your Julia project
 * [**tshort/StaticCompiler.jl**](https://github.com/tshort/StaticCompiler.jl): Compiles Julia code to a standalone library (experimental)
 * [**JuliaIO/JSON.jl**](https://github.com/JuliaIO/JSON.jl): JSON parsing and printing
 * [**korsbo/Latexify.jl**](https://github.com/korsbo/Latexify.jl): Convert julia objects to LaTeX equations, arrays or other environments.
@@ -763,6 +767,7 @@
 
 ## Python
 
+* [**pytest-dev/pytest**](https://github.com/pytest-dev/pytest): The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 * [**liiight/notifiers**](https://github.com/liiight/notifiers): The easy way to send notifications
 * [**ceccopierangiolieugenio/pyTermTk**](https://github.com/ceccopierangiolieugenio/pyTermTk): Python Terminal Toolkit
 * [**SL-RU/ranger_udisk_menu**](https://github.com/SL-RU/ranger_udisk_menu): This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
@@ -1418,7 +1423,6 @@
 * [**Stebalien/tempfile**](https://github.com/Stebalien/tempfile): Temporary file library for rust
 * [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
-* [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Flaunt how you manage your fonts!
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
 * [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
