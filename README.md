@@ -256,6 +256,10 @@
 
 ## Go
 
+* [**karrick/godirwalk**](https://github.com/karrick/godirwalk): Fast directory traversal for Golang
+* [**shurcooL/githubv4**](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
+* [**gregjones/httpcache**](https://github.com/gregjones/httpcache): A Transport for http.Client that will cache responses according to the HTTP RFC
+* [**goreleaser/fileglob**](https://github.com/goreleaser/fileglob): A file globbing library.
 * [**Jguer/yay**](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [**toolctl/toolctl**](https://github.com/toolctl/toolctl): The tool to control your tools
 * [**johnkerl/miller**](https://github.com/johnkerl/miller): Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -422,6 +426,14 @@
 
 ## Julia
 
+* [**JuliaFolds/LazyGroupBy.jl**](https://github.com/JuliaFolds/LazyGroupBy.jl): Lazy, parallelizable and composable group-by operations
+* [**JuliaFolds/FGenerators.jl**](https://github.com/JuliaFolds/FGenerators.jl): @yield-based syntax for iterating over collections—foldl for humans™
+* [**JuliaFolds/GeneratorsX.jl**](https://github.com/JuliaFolds/GeneratorsX.jl): iterate and foldl for humans™
+* [**JuliaFolds/SplittablesBase.jl**](https://github.com/JuliaFolds/SplittablesBase.jl): a simple API for parallel computation on collections
+* [**JuliaFolds/FoldsCUDA.jl**](https://github.com/JuliaFolds/FoldsCUDA.jl): Data-parallelism on CUDA using Transducers.jl and for loops (FLoops.jl)
+* [**JuliaFolds/FoldsThreads.jl**](https://github.com/JuliaFolds/FoldsThreads.jl): Extra threaded executors for JuliaFolds/*.jl
+* [**JuliaFolds/FLoops.jl**](https://github.com/JuliaFolds/FLoops.jl): Fast sequential, threaded, and distributed for-loops for Julia—fold for humans™
+* [**JuliaFolds/Transducers.jl**](https://github.com/JuliaFolds/Transducers.jl): Efficient transducers for Julia
 * [**JuliaWeb/HTTP.jl**](https://github.com/JuliaWeb/HTTP.jl): HTTP for Julia
 * [**JuliaComputing/HTTPDownloads.jl**](https://github.com/JuliaComputing/HTTPDownloads.jl): Use Downloads.jl as a backend for HTTP.jl
 * [**cjdoris/CondaPkg.jl**](https://github.com/cjdoris/CondaPkg.jl): Add Conda dependencies to your Julia project
@@ -767,6 +779,9 @@
 
 ## Python
 
+* [**dry-python/lambdas**](https://github.com/dry-python/lambdas): Write short and fully-typed lambdas where you need them.
+* [**dry-python/classes**](https://github.com/dry-python/classes): Smart, pythonic, ad-hoc, typed polymorphism for Python
+* [**dry-python/returns**](https://github.com/dry-python/returns): Make your functions return something meaningful, typed, and safe!
 * [**pytest-dev/pytest**](https://github.com/pytest-dev/pytest): The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 * [**liiight/notifiers**](https://github.com/liiight/notifiers): The easy way to send notifications
 * [**ceccopierangiolieugenio/pyTermTk**](https://github.com/ceccopierangiolieugenio/pyTermTk): Python Terminal Toolkit
@@ -1664,6 +1679,7 @@
 
 ## TypeScript
 
+* [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): :octocat: GitHub Action for GoReleaser
 * [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
