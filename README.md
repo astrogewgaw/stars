@@ -256,6 +256,7 @@
 
 ## Go
 
+* [**kr/pretty**](https://github.com/kr/pretty): Pretty printing for Go values
 * [**karrick/godirwalk**](https://github.com/karrick/godirwalk): Fast directory traversal for Golang
 * [**shurcooL/githubv4**](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 * [**gregjones/httpcache**](https://github.com/gregjones/httpcache): A Transport for http.Client that will cache responses according to the HTTP RFC
@@ -825,7 +826,7 @@
 * [**astrogewgaw/pataka**](https://github.com/astrogewgaw/pataka): Simulating cosmic fireworks 💻 💥 !
 * [**astrogewgaw/priwo**](https://github.com/astrogewgaw/priwo): I/O for common pulsar data formats
 * [**astrogewgaw/stars**](https://github.com/astrogewgaw/stars): My GitHub stars, curated.
-* [**dsanson/termpdf.py**](https://github.com/dsanson/termpdf.py): A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
+* [**dsanson/termpdf.py**](https://github.com/dsanson/termpdf.py): A graphical pdf and epub reader that works inside the kitty terminal
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
