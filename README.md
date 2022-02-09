@@ -534,7 +534,7 @@
 * [**JuliaPlots/Plots.jl**](https://github.com/JuliaPlots/Plots.jl): Powerful convenience for Julia visualizations and data analysis
 * [**JuliaData/DataFrames.jl**](https://github.com/JuliaData/DataFrames.jl): In-memory tabular data in Julia
 * [**mojaie/MolecularGraph.jl**](https://github.com/mojaie/MolecularGraph.jl): Graph-based molecule modeling toolkit for cheminformatics
-* [**FluxML/Zygote.jl**](https://github.com/FluxML/Zygote.jl): Intimate Affection Auditor
+* [**FluxML/Zygote.jl**](https://github.com/FluxML/Zygote.jl): 21st century AD
 * [**GenieFramework/SearchLight.jl**](https://github.com/GenieFramework/SearchLight.jl): ORM layer for Genie.jl, the highly productive Julia web framework
 * [**GenieFramework/StippleCharts.jl**](https://github.com/GenieFramework/StippleCharts.jl): StippleCharts is a library of reactive charts for Stipple.jl.
 * [**GenieFramework/StippleUI.jl**](https://github.com/GenieFramework/StippleUI.jl): StippleUI is a library of reactive UI elements for Stipple.jl.
@@ -634,6 +634,7 @@
 
 ## Lua
 
+* [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
 * [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 * [**LinArcX/telescope-command-palette.nvim**](https://github.com/LinArcX/telescope-command-palette.nvim): Create key-bindings and watch them with telescope :telescope:
 * [**jose-elias-alvarez/null-ls.nvim**](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -780,6 +781,7 @@
 
 ## Python
 
+* [**cjdrake/gvmagic**](https://github.com/cjdrake/gvmagic): Graphviz IPython magic commands
 * [**dry-python/lambdas**](https://github.com/dry-python/lambdas): Write short and fully-typed lambdas where you need them.
 * [**dry-python/classes**](https://github.com/dry-python/classes): Smart, pythonic, ad-hoc, typed polymorphism for Python
 * [**dry-python/returns**](https://github.com/dry-python/returns): Make your functions return something meaningful, typed, and safe!
@@ -1521,7 +1523,7 @@
 * [**thedodd/trunk**](https://github.com/thedodd/trunk): Build, bundle & ship your Rust WASM application to the web.
 * [**nannou-org/nannou**](https://github.com/nannou-org/nannou): A Creative Coding Framework for Rust.
 * [**jpochyla/psst**](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
-* [**sixtyfpsui/sixtyfps**](https://github.com/sixtyfpsui/sixtyfps): SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+* [**slint-ui/slint**](https://github.com/slint-ui/slint): Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 * [**mitsuhiko/dialoguer**](https://github.com/mitsuhiko/dialoguer): Rust utility library for nice command line prompts and similar things
 * [**console-rs/console**](https://github.com/console-rs/console): A rust console and terminal abstraction
 * [**David-OConnor/pyflow**](https://github.com/David-OConnor/pyflow): An installation and dependency system for Python
@@ -1659,6 +1661,8 @@
 
 ## TeX
 
+* [**rchurchley/beamercolortheme-owl**](https://github.com/rchurchley/beamercolortheme-owl): A Beamer colour theme that maximizes visibility in dark and unfavourable conditions
+* [**anishathalye/auriga**](https://github.com/anishathalye/auriga): Auriga is a minimalist LaTeX beamer presentation theme 📽
 * [**synercys/annotated_latex_equations**](https://github.com/synercys/annotated_latex_equations): Examples of how to create colorful, annotated equations in Latex using Tikz.
 * [**wzchen/probability_cheatsheet**](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability.
 * [**lervag/vimtex**](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
@@ -1680,6 +1684,7 @@
 
 ## TypeScript
 
+* [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): :octocat: GitHub Action for GoReleaser
 * [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
