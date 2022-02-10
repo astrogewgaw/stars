@@ -62,6 +62,7 @@
 
 ## C
 
+* [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**mwh/dragon**](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [**abhisrkckl/ugmrt2fil**](https://github.com/abhisrkckl/ugmrt2fil): Convert uGMRT raw data files to sigproc-filterbank format.
 * [**clibs/clib**](https://github.com/clibs/clib): C package manager-ish
@@ -427,6 +428,9 @@
 
 ## Julia
 
+* [**rafaqz/Mixers.jl**](https://github.com/rafaqz/Mixers.jl): Julia mixin macros. Mixed, not stirred
+* [**rjplevin/Classes.jl**](https://github.com/rjplevin/Classes.jl): A simple, Julian approach to inheritance of structure and methods
+* [**marius311/CompositeStructs.jl**](https://github.com/marius311/CompositeStructs.jl): *No description*
 * [**JuliaFolds/LazyGroupBy.jl**](https://github.com/JuliaFolds/LazyGroupBy.jl): Lazy, parallelizable and composable group-by operations
 * [**JuliaFolds/FGenerators.jl**](https://github.com/JuliaFolds/FGenerators.jl): @yield-based syntax for iterating over collections—foldl for humans™
 * [**JuliaFolds/GeneratorsX.jl**](https://github.com/JuliaFolds/GeneratorsX.jl): iterate and foldl for humans™
@@ -781,6 +785,10 @@
 
 ## Python
 
+* [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
+* [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
+* [**flexxui/flexx**](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
+* [**dddomodossola/remi**](https://github.com/dddomodossola/remi): Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 * [**cjdrake/gvmagic**](https://github.com/cjdrake/gvmagic): Graphviz IPython magic commands
 * [**dry-python/lambdas**](https://github.com/dry-python/lambdas): Write short and fully-typed lambdas where you need them.
 * [**dry-python/classes**](https://github.com/dry-python/classes): Smart, pythonic, ad-hoc, typed polymorphism for Python
@@ -1435,6 +1443,7 @@
 
 ## Rust
 
+* [**JuliaLang/juliaup**](https://github.com/JuliaLang/juliaup): Julia installer and version multiplexer
 * [**dginev/ar5iv**](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [**BurntSushi/walkdir**](https://github.com/BurntSushi/walkdir): Rust library for walking directories recursively.
 * [**XAMPPRocky/octocrab**](https://github.com/XAMPPRocky/octocrab): A modern, extensible GitHub API Client for Rust.
@@ -1620,6 +1629,7 @@
 
 ## Shell
 
+* [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
 * [**zsh-users/zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
@@ -1727,6 +1737,7 @@
 
 ## Vim script
 
+* [**matze/vim-move**](https://github.com/matze/vim-move): Plugin to move lines and selections up and down
 * [**Lokaltog/neoranger**](https://github.com/Lokaltog/neoranger): Simple ranger wrapper for neovim.
 * [**francoiscabrol/ranger.vim**](https://github.com/francoiscabrol/ranger.vim): Ranger integration in vim and neovim
 * [**kdheepak/JuliaFormatter.vim**](https://github.com/kdheepak/JuliaFormatter.vim): A (n)vim plugin for formatting Julia code using JuliaFormatter.jl.
