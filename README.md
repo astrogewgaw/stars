@@ -257,6 +257,8 @@
 
 ## Go
 
+* [**muesli/reflow**](https://github.com/muesli/reflow): A collection of (ANSI-sequence aware) text reflow operations & algorithms
+* [**sahilm/fuzzy**](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 * [**kr/pretty**](https://github.com/kr/pretty): Pretty printing for Go values
 * [**karrick/godirwalk**](https://github.com/karrick/godirwalk): Fast directory traversal for Golang
 * [**shurcooL/githubv4**](https://github.com/shurcooL/githubv4): Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
@@ -341,6 +343,7 @@
 
 ## HTML
 
+* [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming with Python and CUDA.
@@ -428,6 +431,8 @@
 
 ## Julia
 
+* [**JuliaArrays/StructArrays.jl**](https://github.com/JuliaArrays/StructArrays.jl): Efficient implementation of struct arrays in Julia
+* [**jlapeyre/IsApprox.jl**](https://github.com/jlapeyre/IsApprox.jl): Interface for approximate and exact equality
 * [**rafaqz/Mixers.jl**](https://github.com/rafaqz/Mixers.jl): Julia mixin macros. Mixed, not stirred
 * [**rjplevin/Classes.jl**](https://github.com/rjplevin/Classes.jl): A simple, Julian approach to inheritance of structure and methods
 * [**marius311/CompositeStructs.jl**](https://github.com/marius311/CompositeStructs.jl): *No description*
@@ -562,6 +567,7 @@
 
 ## Jupyter Notebook
 
+* [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
@@ -668,7 +674,7 @@
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 * [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 * [**lukas-reineke/indent-blankline.nvim**](https://github.com/lukas-reineke/indent-blankline.nvim): Indent guides  for Neovim
 * [**mnowotnik/noteflow.nvim**](https://github.com/mnowotnik/noteflow.nvim): Neovim plugin that streamlines taking notes
 * [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
@@ -785,6 +791,8 @@
 
 ## Python
 
+* [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+* [**bwhmather/ssort**](https://github.com/bwhmather/ssort): Tool for sorting top level statements in python files
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 * [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
 * [**flexxui/flexx**](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
@@ -1443,6 +1451,11 @@
 
 ## Rust
 
+* [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
+* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+* [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
+* [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+* [**johnthagen/min-sized-rust**](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
 * [**JuliaLang/juliaup**](https://github.com/JuliaLang/juliaup): Julia installer and version multiplexer
 * [**dginev/ar5iv**](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [**BurntSushi/walkdir**](https://github.com/BurntSushi/walkdir): Rust library for walking directories recursively.
@@ -1694,6 +1707,7 @@
 
 ## TypeScript
 
+* [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): :octocat: GitHub Action for GoReleaser
 * [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
@@ -1701,7 +1715,7 @@
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
-* [**tamagui/tamagui**](https://github.com/tamagui/tamagui): create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
+* [**tamagui/tamagui**](https://github.com/tamagui/tamagui): Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
@@ -1724,7 +1738,7 @@
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
 * [**vega/voyager**](https://github.com/vega/voyager): Visualization Tool for Data Exploration
-* [**maartenbreddels/ipyvolume**](https://github.com/maartenbreddels/ipyvolume): 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+* [**widgetti/ipyvolume**](https://github.com/widgetti/ipyvolume): 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 * [**microsoft/vscode**](https://github.com/microsoft/vscode): Visual Studio Code
 * [**utterance/utterances**](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
 * [**darekkay/dashboard**](https://github.com/darekkay/dashboard): Customizable personal dashboard and startpage
