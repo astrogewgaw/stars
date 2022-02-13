@@ -257,6 +257,9 @@
 
 ## Go
 
+* [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
+* [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+* [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A table component for the Bubble Tea framework
 * [**muesli/reflow**](https://github.com/muesli/reflow): A collection of (ANSI-sequence aware) text reflow operations & algorithms
 * [**sahilm/fuzzy**](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 * [**kr/pretty**](https://github.com/kr/pretty): Pretty printing for Go values
@@ -376,6 +379,7 @@
 
 ## JavaScript
 
+* [**dfm/arxivist**](https://github.com/dfm/arxivist): This browser extension reorders the listings at arXiv.org based on your browsing history
 * [**khanhas/spicetify-cli**](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
@@ -791,6 +795,8 @@
 
 ## Python
 
+* [**jarun/buku**](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
+* [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
 * [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 * [**bwhmather/ssort**](https://github.com/bwhmather/ssort): Tool for sorting top level statements in python files
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
