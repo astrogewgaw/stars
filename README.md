@@ -435,6 +435,9 @@
 
 ## Julia
 
+* [**aditya-sengupta/wordle-solver**](https://github.com/aditya-sengupta/wordle-solver): Solves the word game Wordle by maximizing differential entropy of guesses
+* [**tkf/InteractiveCodeSearch.jl**](https://github.com/tkf/InteractiveCodeSearch.jl): Interactively search Julia code from terminal
+* [**JuliaTesting/Aqua.jl**](https://github.com/JuliaTesting/Aqua.jl): Auto QUality Assurance for Julia packages
 * [**JuliaArrays/StructArrays.jl**](https://github.com/JuliaArrays/StructArrays.jl): Efficient implementation of struct arrays in Julia
 * [**jlapeyre/IsApprox.jl**](https://github.com/jlapeyre/IsApprox.jl): Interface for approximate and exact equality
 * [**rafaqz/Mixers.jl**](https://github.com/rafaqz/Mixers.jl): Julia mixin macros. Mixed, not stirred
@@ -772,6 +775,7 @@
 
 ## PHP
 
+* [**astralapp/astral**](https://github.com/astralapp/astral): Organize Your GitHub Stars With Ease
 * [**thermage/thermage**](https://github.com/thermage/thermage): Thermage provides a fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 * [**nunomaduro/termwind**](https://github.com/nunomaduro/termwind): 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 
@@ -1450,6 +1454,7 @@
 
 ## Ruby
 
+* [**Textualize/homebrew-rich**](https://github.com/Textualize/homebrew-rich): Homebrew tap for Rich
 * [**inukshuk/anystyle**](https://github.com/inukshuk/anystyle): Fast and smart citation reference parsing
 * [**red-data-tools/YouPlot**](https://github.com/red-data-tools/YouPlot): A command line tool that draw plots on the terminal.
 * [**Homebrew/brew**](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
