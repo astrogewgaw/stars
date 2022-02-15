@@ -565,7 +565,6 @@
 * [**JuliaMolSim/JuLIP.jl**](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 * [**JuliaMolSim/ASE.jl**](https://github.com/JuliaMolSim/ASE.jl): Julia Bindings for Atomic Simulation Environment
 * [**JuliaMolSim/Libxc.jl**](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
-* [**JuliaMolSim/Molly.jl**](https://github.com/JuliaMolSim/Molly.jl): Molecular simulation in Julia
 * [**JuliaMolSim/DFTK.jl**](https://github.com/JuliaMolSim/DFTK.jl): Density-functional toolkit
 * [**FluxML/Flux.jl**](https://github.com/FluxML/Flux.jl): Relax! Flux is the ML library that doesn't make you tensor
 * [**JuliaDynamics/DrWatson.jl**](https://github.com/JuliaDynamics/DrWatson.jl): The perfect sidekick to your scientific inquiries
@@ -698,7 +697,7 @@
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
 
 ## Makefile
 
@@ -799,6 +798,7 @@
 
 ## Python
 
+* [**phfaist/pylatexenc**](https://github.com/phfaist/pylatexenc): Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
 * [**jarun/buku**](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
 * [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -1762,6 +1762,8 @@
 
 ## Vim script
 
+* [**junegunn/goyo.vim**](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
+* [**junegunn/limelight.vim**](https://github.com/junegunn/limelight.vim): :flashlight: All the world's indeed a stage and we are merely players
 * [**matze/vim-move**](https://github.com/matze/vim-move): Plugin to move lines and selections up and down
 * [**Lokaltog/neoranger**](https://github.com/Lokaltog/neoranger): Simple ranger wrapper for neovim.
 * [**francoiscabrol/ranger.vim**](https://github.com/francoiscabrol/ranger.vim): Ranger integration in vim and neovim
