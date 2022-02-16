@@ -257,6 +257,7 @@
 
 ## Go
 
+* [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
 * [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 * [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A table component for the Bubble Tea framework
@@ -1462,6 +1463,7 @@
 
 ## Rust
 
+* [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 * [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
@@ -1713,7 +1715,7 @@
 * [**mcnees/LaTeX-Graph-Paper**](https://github.com/mcnees/LaTeX-Graph-Paper): Make your own quadrille, graph, hex, etc paper! Uses the pgf/TikZ package for LaTeX, which should be part of any modern TeX installation.
 * [**varenius/salsa**](https://github.com/varenius/salsa): Code developed for the 2.3m radio telescopes SALSA in Onsala, Sweden
 * [**lalider/tufte-latex-thesis**](https://github.com/lalider/tufte-latex-thesis): A Tufte-style LaTeX thesis template
-* [**OttoStruve/muler**](https://github.com/OttoStruve/muler): A Python package for working with pipeline-produced data from IGRINS and HPF
+* [**OttoStruve/muler**](https://github.com/OttoStruve/muler): A Python package for working with pipeline-produced spectra from IGRINS, HPF, and Keck NIRSPEC
 * [**FRBs/astropath**](https://github.com/FRBs/astropath): *No description*
 
 ## TypeScript
