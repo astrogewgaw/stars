@@ -698,7 +698,7 @@
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 
 ## Makefile
 
@@ -714,6 +714,7 @@
 
 ## Others
 
+* [**penk/penkesu**](https://github.com/penk/penkesu): Penkesu Computer - A Homebrew Retro-style Handheld PC
 * [**egeerardyn/awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX): Curated list of LaTeX awesomeness
 * [**markusschanta/awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter): A curated list of awesome Jupyter projects, libraries and resources
 * [**prathyvsh/category-theory-resources**](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
