@@ -257,6 +257,9 @@
 
 ## Go
 
+* [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub API
+* [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
+* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs!
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
 * [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
@@ -436,6 +439,13 @@
 
 ## Julia
 
+* [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
+* [**tonyhffong/TermWin.jl**](https://github.com/tonyhffong/TermWin.jl): ncurses based data navigators
+* [**ronisbr/TextUserInterfaces.jl**](https://github.com/ronisbr/TextUserInterfaces.jl): Text user interfaces for Julia
+* [**ronisbr/TerminalPager.jl**](https://github.com/ronisbr/TerminalPager.jl): Pure Julia implementation of the command less
+* [**ronisbr/PrettyTables.jl**](https://github.com/ronisbr/PrettyTables.jl): Print data in formatted tables.
+* [**JuliaGPU/DaggerGPU.jl**](https://github.com/JuliaGPU/DaggerGPU.jl): GPU integrations for Dagger.jl
+* [**JuliaParallel/Dagger.jl**](https://github.com/JuliaParallel/Dagger.jl): A framework for out-of-core and parallel execution
 * [**aditya-sengupta/wordle-solver**](https://github.com/aditya-sengupta/wordle-solver): Solves the word game Wordle by maximizing differential entropy of guesses
 * [**tkf/InteractiveCodeSearch.jl**](https://github.com/tkf/InteractiveCodeSearch.jl): Interactively search Julia code from terminal
 * [**JuliaTesting/Aqua.jl**](https://github.com/JuliaTesting/Aqua.jl): Auto QUality Assurance for Julia packages
