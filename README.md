@@ -350,6 +350,7 @@
 
 ## HTML
 
+* [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
@@ -439,6 +440,7 @@
 
 ## Julia
 
+* [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
 * [**tonyhffong/TermWin.jl**](https://github.com/tonyhffong/TermWin.jl): ncurses based data navigators
 * [**ronisbr/TextUserInterfaces.jl**](https://github.com/ronisbr/TextUserInterfaces.jl): Text user interfaces for Julia
@@ -1474,6 +1476,7 @@
 
 ## Rust
 
+* [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
