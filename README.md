@@ -257,6 +257,7 @@
 
 ## Go
 
+* [**bashbunni/project-management**](https://github.com/bashbunni/project-management): A basic CLI for regularly updating your project's status
 * [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub API
 * [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs!
@@ -586,6 +587,7 @@
 
 ## Jupyter Notebook
 
+* [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
@@ -693,7 +695,7 @@
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 * [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 * [**lukas-reineke/indent-blankline.nvim**](https://github.com/lukas-reineke/indent-blankline.nvim): Indent guides  for Neovim
 * [**mnowotnik/noteflow.nvim**](https://github.com/mnowotnik/noteflow.nvim): Neovim plugin that streamlines taking notes
 * [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
@@ -812,6 +814,9 @@
 
 ## Python
 
+* [**nicoddemus/pytest-rich**](https://github.com/nicoddemus/pytest-rich): pytest + rich integration (proof of concept)
+* [**rossjjennings/psrfits**](https://github.com/rossjjennings/psrfits): Tools for reading and manipulating pulsar observations in the PSRFITS file format (https://www.atnf.csiro.au/research/pulsar/psrfits_definition/PsrfitsDocumentation.html).
+* [**ewels/rich-click**](https://github.com/ewels/rich-click): Format click help output nicely with rich.
 * [**phfaist/pylatexenc**](https://github.com/phfaist/pylatexenc): Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
 * [**jarun/buku**](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
