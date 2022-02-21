@@ -191,6 +191,7 @@
 
 ## CSS
 
+* [**braver/programmingfonts**](https://github.com/braver/programmingfonts): Test drive programming fonts online
 * [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * [**IBM/plex**](https://github.com/IBM/plex): The package of IBM’s typeface, IBM Plex.
@@ -257,6 +258,10 @@
 
 ## Go
 
+* [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
+* [**meowgorithm/defaults**](https://github.com/meowgorithm/defaults): Enforce default values on structs in Go
+* [**irevenko/what-anime-cli**](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal
+* [**muesli/gamut**](https://github.com/muesli/gamut): Go package to generate and manage color palettes & schemes 🎨
 * [**bashbunni/project-management**](https://github.com/bashbunni/project-management): A basic CLI for regularly updating your project's status
 * [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub API
 * [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
@@ -877,7 +882,7 @@
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
-* [**bczsalba/PyTermGUI**](https://github.com/bczsalba/PyTermGUI): A simple yet powerful TUI framework for your Python (3.7+) applications.
+* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A simple yet powerful TUI framework for your Python (3.7+) applications.
 * [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
@@ -983,7 +988,7 @@
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
 * [**gwastro/pycbc**](https://github.com/gwastro/pycbc): Core package to analyze gravitational-wave data, find signals, and study their parameters. This package was used in the first direct detection of gravitational waves (GW150914), and is used in the ongoing analysis of LIGO/Virgo data.
 * [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
-* [**cookiecutter/cookiecutter**](https://github.com/cookiecutter/cookiecutter): A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+* [**cookiecutter/cookiecutter**](https://github.com/cookiecutter/cookiecutter): A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [**anki-code/xontrib-onepath**](https://github.com/anki-code/xontrib-onepath): Associate files and directories with app or alias and run it without preceding commands in xonsh shell.
 * [**tokenizer/xontrib-output-search**](https://github.com/tokenizer/xontrib-output-search): Get identifiers, paths, URLs and words from the previous command output and use them for the next command in xonsh shell.
 * [**anki-code/xontrib-back2dir**](https://github.com/anki-code/xontrib-back2dir): Return to the most recently used directory when starting the xonsh shell.
