@@ -819,6 +819,8 @@
 
 ## Python
 
+* [**mopidy/mopidy**](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
+* [**patrick-kidger/mkposters**](https://github.com/patrick-kidger/mkposters): Make posters from Markdown files.
 * [**nicoddemus/pytest-rich**](https://github.com/nicoddemus/pytest-rich): pytest + rich integration (proof of concept)
 * [**rossjjennings/psrfits**](https://github.com/rossjjennings/psrfits): Tools for reading and manipulating pulsar observations in the PSRFITS file format (https://www.atnf.csiro.au/research/pulsar/psrfits_definition/PsrfitsDocumentation.html).
 * [**ewels/rich-click**](https://github.com/ewels/rich-click): Format click help output nicely with rich.
@@ -1486,6 +1488,7 @@
 
 ## Rust
 
+* [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer in Rust
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
@@ -1744,9 +1747,11 @@
 
 ## TypeScript
 
+* [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+* [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
-* [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): :octocat: GitHub Action for GoReleaser
+* [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): GitHub Action for GoReleaser
 * [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
