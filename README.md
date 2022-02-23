@@ -87,7 +87,6 @@
 * [**AppImage/AppImageKit**](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [**ahrm/sioyek**](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books.
 * [**mindriot101/rust-fitsio**](https://github.com/mindriot101/rust-fitsio): FFI wrapper around cfitsio in Rust
-* [**pydata/bottleneck**](https://github.com/pydata/bottleneck): Fast NumPy array functions written in C
 * [**jarun/nnn**](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 * [**liberfa/erfa**](https://github.com/liberfa/erfa): Essential Routines for Fundamental Astronomy. Maintainers: @eteq @mhvk @sergiopasra
 * [**altdesktop/playerctl**](https://github.com/altdesktop/playerctl): 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -420,7 +419,7 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
+* [**google/zx**](https://github.com/google/zx): Replace Bash with JavaScript
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -1215,6 +1214,7 @@
 * [**t-makaro/animatplot**](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
 * [**jbusecke/xmovie**](https://github.com/jbusecke/xmovie): A simple way of creating movies from xarray objects
 * [**Textualize/textual**](https://github.com/Textualize/textual): Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+* [**pydata/bottleneck**](https://github.com/pydata/bottleneck): Fast NumPy array functions written in C
 * [**deepjyoti30/ytmdl**](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 * [**lightkurve/lightkurve**](https://github.com/lightkurve/lightkurve): A friendly package for Kepler & TESS time series analysis in Python.
 * [**quantopian/qgrid**](https://github.com/quantopian/qgrid): An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
@@ -1683,6 +1683,7 @@
 ## Shell
 
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
+* [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
 * [**zsh-users/zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [**dylanaraps/pfetch**](https://github.com/dylanaraps/pfetch): 🐧 A pretty system information tool written in POSIX sh.
@@ -1750,7 +1751,6 @@
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
-* [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): GitHub Action for GoReleaser
 * [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
