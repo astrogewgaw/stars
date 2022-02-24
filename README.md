@@ -49,6 +49,7 @@
 * [**Roff**](#roff)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
+* [**SCSS**](#scss)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -257,6 +258,7 @@
 
 ## Go
 
+* [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
 * [**meowgorithm/defaults**](https://github.com/meowgorithm/defaults): Enforce default values on structs in Go
 * [**irevenko/what-anime-cli**](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal
@@ -375,7 +377,6 @@
 * [**laserkelvin/astrochemdis2021**](https://github.com/laserkelvin/astrochemdis2021): Talk for Astrochemistry Discussions 2021 on unknown unknown's
 * [**norment/ecrm20_escaperoom**](https://github.com/norment/ecrm20_escaperoom): Repository for an Open Science Escape Room interface originally built for the NORMENT Early-Career Researchers Meeting 2020
 * [**andybrewer/mvp**](https://github.com/andybrewer/mvp): MVP.css — Minimalist stylesheet for HTML elements
-* [**wowchemy/wowchemy-hugo-themes**](https://github.com/wowchemy/wowchemy-hugo-themes): 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 * [**twintproject/twint-explorer**](https://github.com/twintproject/twint-explorer): TWINT Graph Visualizer
 
 ## Haskell
@@ -591,6 +592,7 @@
 
 ## Jupyter Notebook
 
+* [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
@@ -673,7 +675,7 @@
 * [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 * [**LinArcX/telescope-command-palette.nvim**](https://github.com/LinArcX/telescope-command-palette.nvim): Create key-bindings and watch them with telescope :telescope:
 * [**jose-elias-alvarez/null-ls.nvim**](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-* [**tamago324/nlsp-settings.nvim**](https://github.com/tamago324/nlsp-settings.nvim): A plugin for setting Neovim LSP with JSON files
+* [**tamago324/nlsp-settings.nvim**](https://github.com/tamago324/nlsp-settings.nvim): A plugin for setting Neovim LSP with JSON or YAML files
 * [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 * [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
@@ -818,6 +820,7 @@
 
 ## Python
 
+* [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
 * [**mopidy/mopidy**](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [**patrick-kidger/mkposters**](https://github.com/patrick-kidger/mkposters): Make posters from Markdown files.
 * [**nicoddemus/pytest-rich**](https://github.com/nicoddemus/pytest-rich): pytest + rich integration (proof of concept)
@@ -1488,6 +1491,7 @@
 
 ## Rust
 
+* [**XAMPPRocky/tokei**](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 * [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer in Rust
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
@@ -1676,6 +1680,10 @@
 * [**starship/starship**](https://github.com/starship/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 * [**alacritty/alacritty**](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 
+## SCSS
+
+* [**wowchemy/wowchemy-hugo-themes**](https://github.com/wowchemy/wowchemy-hugo-themes): 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+
 ## Scheme
 
 * [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter): Nvim Treesitter configurations and abstraction layer
@@ -1725,6 +1733,8 @@
 
 ## TeX
 
+* [**ViniciusBRodrigues/simple-tufte-beamer**](https://github.com/ViniciusBRodrigues/simple-tufte-beamer): Simple and minimalistic beamer template using Tufte-LaTeX style
+* [**mossr/julia-tufte-beamer**](https://github.com/mossr/julia-tufte-beamer): Tufte-style beamer template with Julia integration
 * [**rchurchley/beamercolortheme-owl**](https://github.com/rchurchley/beamercolortheme-owl): A Beamer colour theme that maximizes visibility in dark and unfavourable conditions
 * [**anishathalye/auriga**](https://github.com/anishathalye/auriga): Auriga is a minimalist LaTeX beamer presentation theme 📽
 * [**synercys/annotated_latex_equations**](https://github.com/synercys/annotated_latex_equations): Examples of how to create colorful, annotated equations in Latex using Tikz.
