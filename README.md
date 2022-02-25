@@ -258,6 +258,8 @@
 
 ## Go
 
+* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Simple CLI Command Trees in Go
+* [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
 * [**meowgorithm/defaults**](https://github.com/meowgorithm/defaults): Enforce default values on structs in Go
@@ -1491,6 +1493,7 @@
 
 ## Rust
 
+* [**Nukesor/pueue**](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
 * [**XAMPPRocky/tokei**](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 * [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer in Rust
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
@@ -1803,6 +1806,7 @@
 
 ## Vim script
 
+* [**vimwiki/vimwiki**](https://github.com/vimwiki/vimwiki): Personal Wiki for Vim
 * [**junegunn/goyo.vim**](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
 * [**junegunn/limelight.vim**](https://github.com/junegunn/limelight.vim): :flashlight: All the world's indeed a stage and we are merely players
 * [**matze/vim-move**](https://github.com/matze/vim-move): Plugin to move lines and selections up and down
