@@ -393,7 +393,7 @@
 ## JavaScript
 
 * [**dfm/arxivist**](https://github.com/dfm/arxivist): This browser extension reorders the listings at arXiv.org based on your browsing history
-* [**khanhas/spicetify-cli**](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+* [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
