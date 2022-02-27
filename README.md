@@ -258,6 +258,8 @@
 
 ## Go
 
+* [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
+* [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
 * [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Simple CLI Command Trees in Go
 * [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
@@ -392,6 +394,7 @@
 
 ## JavaScript
 
+* [**migueravila/Bento**](https://github.com/migueravila/Bento): 🍱 The minimalist, elegant and hackable startpage.
 * [**dfm/arxivist**](https://github.com/dfm/arxivist): This browser extension reorders the listings at arXiv.org based on your browsing history
 * [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
@@ -448,6 +451,7 @@
 
 ## Julia
 
+* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
 * [**tonyhffong/TermWin.jl**](https://github.com/tonyhffong/TermWin.jl): ncurses based data navigators
@@ -822,6 +826,8 @@
 
 ## Python
 
+* [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
+* [**mhardcastle/radioflux**](https://github.com/mhardcastle/radioflux): Measuring radio flux density with ds9
 * [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
 * [**mopidy/mopidy**](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [**patrick-kidger/mkposters**](https://github.com/patrick-kidger/mkposters): Make posters from Markdown files.
