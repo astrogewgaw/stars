@@ -826,6 +826,8 @@
 
 ## Python
 
+* [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): tmp
+* [**vivgastro/Furby_injector**](https://github.com/vivgastro/Furby_injector): *No description*
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
 * [**mhardcastle/radioflux**](https://github.com/mhardcastle/radioflux): Measuring radio flux density with ds9
 * [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
@@ -1536,7 +1538,7 @@
 * [**mitsuhiko/procspawn**](https://github.com/mitsuhiko/procspawn): like thread::spawn but for processes
 * [**federico-terzi/espanso**](https://github.com/federico-terzi/espanso): Cross-platform Text Expander written in Rust
 * [**elkowar/eww**](https://github.com/elkowar/eww): ElKowars wacky widgets
-* [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): A system handler to get information and interact with processes written in Rust
+* [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): Cross-platform library to fetch system information
 * [**dfm/discretionary**](https://github.com/dfm/discretionary): A tiny proc macro to make all your struct fields optional
 * [**Canop/termimad**](https://github.com/Canop/termimad): A library to display rich (Markdown) snippets and texts in a rust terminal application
 * [**veeso/tui-realm**](https://github.com/veeso/tui-realm): 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
@@ -1865,7 +1867,7 @@
 
 ## Xonsh
 
-* [**dyuri/xontrib-pyenv**](https://github.com/dyuri/xontrib-pyenv): pyenv integration for xonsh
+* [**dyuri/xontrib-langenv**](https://github.com/dyuri/xontrib-langenv): pyenv integration for xonsh
 
 </div>
 
