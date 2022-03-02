@@ -41,6 +41,7 @@
 * [**Nix**](#nix)
 * [**Others**](#others)
 * [**PHP**](#php)
+* [**Pascal**](#pascal)
 * [**Perl**](#perl)
 * [**PureBasic**](#purebasic)
 * [**PureScript**](#purescript)
@@ -270,7 +271,7 @@
 * [**bashbunni/project-management**](https://github.com/bashbunni/project-management): A basic CLI for regularly updating your project's status
 * [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub API
 * [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
-* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs!
+* [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs 🐱 !
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
 * [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
@@ -362,7 +363,6 @@
 ## HTML
 
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
-* [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
 * [**carpentries-incubator/lesson-gpu-programming**](https://github.com/carpentries-incubator/lesson-gpu-programming): GPU Programming with Python and CUDA.
@@ -806,6 +806,10 @@
 * [**thermage/thermage**](https://github.com/thermage/thermage): Thermage provides a fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 * [**nunomaduro/termwind**](https://github.com/nunomaduro/termwind): 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 
+## Pascal
+
+* [**transmission-remote-gui/transgui**](https://github.com/transmission-remote-gui/transgui): 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
+
 ## Perl
 
 * [**gvwilson/12-design**](https://github.com/gvwilson/12-design): Ten Quick Software Design Tips for Data Scientists
@@ -826,6 +830,8 @@
 
 ## Python
 
+* [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
+* [**nschloe/texparse**](https://github.com/nschloe/texparse): Simple LaTeX parser.
 * [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): tmp
 * [**vivgastro/Furby_injector**](https://github.com/vivgastro/Furby_injector): *No description*
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
@@ -840,6 +846,7 @@
 * [**jarun/buku**](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
 * [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+* [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
 * [**bwhmather/ssort**](https://github.com/bwhmather/ssort): Tool for sorting top level statements in python files
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 * [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
