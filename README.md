@@ -64,6 +64,8 @@
 
 ## C
 
+* [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
+* [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**mwh/dragon**](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [**abhisrkckl/ugmrt2fil**](https://github.com/abhisrkckl/ugmrt2fil): Convert uGMRT raw data files to sigproc-filterbank format.
@@ -259,6 +261,7 @@
 
 ## Go
 
+* [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
 * [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
 * [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Simple CLI Command Trees in Go
@@ -451,6 +454,7 @@
 
 ## Julia
 
+* [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
 * [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
@@ -632,7 +636,7 @@
 * [**farr/Astrostatistics**](https://github.com/farr/Astrostatistics): A romp through the field of modern astrostatistics.
 * [**agoose77/literary**](https://github.com/agoose77/literary): Literate Python package development with Jupyter
 * [**eblur/pyxsis**](https://github.com/eblur/pyxsis): Python code for manipulating high resolution X-ray spectra
-* [**daniestevez/gr-satellites**](https://github.com/daniestevez/gr-satellites): GNU Radio decoders for several Amateur satellites
+* [**daniestevez/gr-satellites**](https://github.com/daniestevez/gr-satellites): GNU Radio decoder for Amateur satellites
 * [**lmmentel/srbogrid**](https://github.com/lmmentel/srbogrid): Space-Reduced Bond-Order grid for diatomics
 * [**KshitijAggarwal/banded_repeater_analysis**](https://github.com/KshitijAggarwal/banded_repeater_analysis): Estimating incompleteness due to banded repeaters
 * [**paulray/NICERsoft**](https://github.com/paulray/NICERsoft): Analysis software for the NICER mission
