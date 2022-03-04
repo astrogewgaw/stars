@@ -114,6 +114,7 @@
 
 ## C++
 
+* [**NVIDIA/cutlass**](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
 * [**mitchmickaliger/pulsarTools**](https://github.com/mitchmickaliger/pulsarTools): *No description*
 * [**Stellarium/stellarium**](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [**rui314/mold**](https://github.com/rui314/mold): mold: A Modern Linker
@@ -454,6 +455,7 @@
 
 ## Julia
 
+* [**kiranshila/RadioTransients.jl**](https://github.com/kiranshila/RadioTransients.jl): Toolkit for working with astronomical radio transients in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
 * [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
@@ -744,6 +746,7 @@
 
 ## Others
 
+* [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
 * [**penk/penkesu**](https://github.com/penk/penkesu): Penkesu Computer - A Homebrew Retro-style Handheld PC
 * [**egeerardyn/awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX): Curated list of LaTeX awesomeness
 * [**markusschanta/awesome-jupyter**](https://github.com/markusschanta/awesome-jupyter): A curated list of awesome Jupyter projects, libraries and resources
@@ -1512,6 +1515,7 @@
 
 ## Rust
 
+* [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
 * [**Nukesor/pueue**](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
 * [**XAMPPRocky/tokei**](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 * [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer in Rust
