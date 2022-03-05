@@ -114,6 +114,8 @@
 
 ## C++
 
+* [**SoftwareForScience/pulsar-cpp**](https://github.com/SoftwareForScience/pulsar-cpp): Cpp rewrite of the sigproc project
+* [**abhisrkckl/GWecc**](https://github.com/abhisrkckl/GWecc): GWecc is a C++ code that computes the pulsar timing array (PTA) signals induced by eccentric supermassive binaries.
 * [**NVIDIA/cutlass**](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
 * [**mitchmickaliger/pulsarTools**](https://github.com/mitchmickaliger/pulsarTools): *No description*
 * [**Stellarium/stellarium**](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
@@ -262,10 +264,11 @@
 
 ## Go
 
+* [**zmb3/spotify**](https://github.com/zmb3/spotify): A Go wrapper for the Spotify Web API
 * [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
 * [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
-* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Simple CLI Command Trees in Go
+* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Dominate the Command Line
 * [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
@@ -279,7 +282,7 @@
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
 * [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
-* [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A table component for the Bubble Tea framework
+* [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A customizable, interactive table component for the Bubble Tea framework
 * [**muesli/reflow**](https://github.com/muesli/reflow): A collection of (ANSI-sequence aware) text reflow operations & algorithms
 * [**sahilm/fuzzy**](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 * [**kr/pretty**](https://github.com/kr/pretty): Pretty printing for Go values
@@ -604,6 +607,7 @@
 
 ## Jupyter Notebook
 
+* [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
 * [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
@@ -683,6 +687,7 @@
 
 ## Lua
 
+* [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A small, documented, and featureful neovim starter config
 * [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
 * [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 * [**LinArcX/telescope-command-palette.nvim**](https://github.com/LinArcX/telescope-command-palette.nvim): Create key-bindings and watch them with telescope :telescope:
@@ -837,6 +842,7 @@
 
 ## Python
 
+* [**0xCoto/PSR-Toolkit**](https://github.com/0xCoto/PSR-Toolkit): 📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...
 * [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
 * [**nschloe/texparse**](https://github.com/nschloe/texparse): Simple LaTeX parser.
 * [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): tmp
@@ -1716,6 +1722,7 @@
 
 ## Shell
 
+* [**z-shell/fast-syntax-highlighting**](https://github.com/z-shell/fast-syntax-highlighting): Feature-rich Syntax Highlighting for Zsh.
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
