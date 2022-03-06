@@ -264,6 +264,9 @@
 
 ## Go
 
+* [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
+* [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
+* [**fogleman/primitive**](https://github.com/fogleman/primitive): Reproducing images with geometric primitives.
 * [**zmb3/spotify**](https://github.com/zmb3/spotify): A Go wrapper for the Spotify Web API
 * [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
@@ -458,6 +461,10 @@
 
 ## Julia
 
+* [**JuliaMath/IrrationalConstants.jl**](https://github.com/JuliaMath/IrrationalConstants.jl): defines additional irrationals
+* [**JuliaMath/DoubleFloats.jl**](https://github.com/JuliaMath/DoubleFloats.jl): math with more good bits
+* [**JuliaMath/IntervalSets.jl**](https://github.com/JuliaMath/IntervalSets.jl): Interval Sets for Julia
+* [**org-arl/InteractiveViz.jl**](https://github.com/org-arl/InteractiveViz.jl): Interactive visualization tools for Julia
 * [**kiranshila/RadioTransients.jl**](https://github.com/kiranshila/RadioTransients.jl): Toolkit for working with astronomical radio transients in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
 * [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
@@ -842,6 +849,7 @@
 
 ## Python
 
+* [**tobgu/pyrthon**](https://github.com/tobgu/pyrthon): Literal support for Pyrsistent data structures in Python
 * [**0xCoto/PSR-Toolkit**](https://github.com/0xCoto/PSR-Toolkit): 📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...
 * [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
 * [**nschloe/texparse**](https://github.com/nschloe/texparse): Simple LaTeX parser.
