@@ -264,6 +264,7 @@
 
 ## Go
 
+* [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
 * [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
 * [**fogleman/primitive**](https://github.com/fogleman/primitive): Reproducing images with geometric primitives.
@@ -461,6 +462,10 @@
 
 ## Julia
 
+* [**kiranshila/NOVAS.jl**](https://github.com/kiranshila/NOVAS.jl): Naval Observatory Vector Astronomy Software - Reimplemented in Julia
+* [**JuliaPhysics/Measurements.jl**](https://github.com/JuliaPhysics/Measurements.jl): Error propagation calculator and library for physical measurements.  It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.
+* [**JuliaTime/TimeZones.jl**](https://github.com/JuliaTime/TimeZones.jl): IANA time zone database access for the Julia programming language
+* [**tkf/JuliaCLI.jl**](https://github.com/tkf/JuliaCLI.jl): *No description*
 * [**JuliaMath/IrrationalConstants.jl**](https://github.com/JuliaMath/IrrationalConstants.jl): defines additional irrationals
 * [**JuliaMath/DoubleFloats.jl**](https://github.com/JuliaMath/DoubleFloats.jl): math with more good bits
 * [**JuliaMath/IntervalSets.jl**](https://github.com/JuliaMath/IntervalSets.jl): Interval Sets for Julia
@@ -849,6 +854,8 @@
 
 ## Python
 
+* [**stsievert/python-drawnow**](https://github.com/stsievert/python-drawnow): MATLAB-like drawnow to easily update a figure
+* [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
 * [**tobgu/pyrthon**](https://github.com/tobgu/pyrthon): Literal support for Pyrsistent data structures in Python
 * [**0xCoto/PSR-Toolkit**](https://github.com/0xCoto/PSR-Toolkit): 📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...
 * [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
@@ -1529,6 +1536,7 @@
 
 ## Rust
 
+* [**cds-astro/fitsrs**](https://github.com/cds-astro/fitsrs): FITS reader lib implemented in pure Rust with nom crate
 * [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
 * [**Nukesor/pueue**](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
 * [**XAMPPRocky/tokei**](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
