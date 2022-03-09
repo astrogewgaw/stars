@@ -197,6 +197,7 @@
 
 ## CSS
 
+* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
 * [**braver/programmingfonts**](https://github.com/braver/programmingfonts): Test drive programming fonts online
 * [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -209,6 +210,9 @@
 
 ## Cuda
 
+* [**KAdamek/GPU_mean_and_stdev**](https://github.com/KAdamek/GPU_mean_and_stdev): GPU accelerated library for calculation of mean and standard deviation
+* [**KAdamek/GPU_Overlap-and-save_convolution**](https://github.com/KAdamek/GPU_Overlap-and-save_convolution): Shared memory overlap-and-save method for NVIDIA GPUs using CUDA
+* [**KAdamek/SMFFT**](https://github.com/KAdamek/SMFFT): fast Fourier transform on GPU in shared memory for AstroAccelerate project
 * [**MWATelescope/mwax-xGPU**](https://github.com/MWATelescope/mwax-xGPU): A GPU based FX correlator for radio astronomy
 * [**ajameson/dedisp**](https://github.com/ajameson/dedisp): CUDA Based De-dispersion library
 * [**GPU-correlators/xGPU**](https://github.com/GPU-correlators/xGPU): A GPU based FX correlator for radio astronomy
@@ -472,7 +476,6 @@
 * [**org-arl/InteractiveViz.jl**](https://github.com/org-arl/InteractiveViz.jl): Interactive visualization tools for Julia
 * [**kiranshila/RadioTransients.jl**](https://github.com/kiranshila/RadioTransients.jl): Toolkit for working with astronomical radio transients in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
-* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
 * [**tonyhffong/TermWin.jl**](https://github.com/tonyhffong/TermWin.jl): ncurses based data navigators
@@ -854,6 +857,7 @@
 
 ## Python
 
+* [**man-group/notebooker**](https://github.com/man-group/notebooker): Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 * [**stsievert/python-drawnow**](https://github.com/stsievert/python-drawnow): MATLAB-like drawnow to easily update a figure
 * [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
 * [**tobgu/pyrthon**](https://github.com/tobgu/pyrthon): Literal support for Pyrsistent data structures in Python
@@ -1027,7 +1031,7 @@
 * [**kerrm/godot**](https://github.com/kerrm/godot): Multi-timescale analysis with Fermi data.
 * [**scikit-rf/scikit-rf**](https://github.com/scikit-rf/scikit-rf): RF and Microwave Engineering Scikit
 * [**hynek/structlog**](https://github.com/hynek/structlog): Structured Logging for Python
-* [**zerothi/sisl**](https://github.com/zerothi/sisl): Scientific Python toolbox for large scale tight-binding and electronic structure calculations (DFT and NEGF analysis)
+* [**zerothi/sisl**](https://github.com/zerothi/sisl): Electronic structure Python package for post analysis and large scale tight-binding DFT/NEGF calculations
 * [**PyGithub/PyGithub**](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [**Qix-/better-exceptions**](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automatically.
 * [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
