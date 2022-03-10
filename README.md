@@ -268,6 +268,7 @@
 
 ## Go
 
+* [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
 * [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
@@ -466,6 +467,9 @@
 
 ## Julia
 
+* [**fredrikekre/Literate.jl**](https://github.com/fredrikekre/Literate.jl): Simple package for literate programming in Julia
+* [**JuliaArrays/LazyArrays.jl**](https://github.com/JuliaArrays/LazyArrays.jl): Lazy arrays and linear algebra in Julia
+* [**JuliaArrays/MappedArrays.jl**](https://github.com/JuliaArrays/MappedArrays.jl): Lazy in-place transformations of arrays
 * [**kiranshila/NOVAS.jl**](https://github.com/kiranshila/NOVAS.jl): Naval Observatory Vector Astronomy Software - Reimplemented in Julia
 * [**JuliaPhysics/Measurements.jl**](https://github.com/JuliaPhysics/Measurements.jl): Error propagation calculator and library for physical measurements.  It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.
 * [**JuliaTime/TimeZones.jl**](https://github.com/JuliaTime/TimeZones.jl): IANA time zone database access for the Julia programming language
@@ -606,7 +610,6 @@
 * [**GenieFramework/Genie.jl**](https://github.com/GenieFramework/Genie.jl): 🧞The highly productive Julia web framework
 * [**ziotom78/Healpix.jl**](https://github.com/ziotom78/Healpix.jl): Healpix library written in Julia
 * [**JuliaPlots/Makie.jl**](https://github.com/JuliaPlots/Makie.jl): High level plotting on the GPU.
-* [**FluxML/model-zoo**](https://github.com/FluxML/model-zoo): Please do not feed the models
 * [**laserkelvin/SpecTools.jl**](https://github.com/laserkelvin/SpecTools.jl): Library for performing spectroscopic analysis in Julia
 * [**JuliaMolSim/MolSimReg.jl**](https://github.com/JuliaMolSim/MolSimReg.jl): Management of LibAtoms Julia registry
 * [**JuliaMolSim/NeighbourLists.jl**](https://github.com/JuliaMolSim/NeighbourLists.jl): neighbour list for particle simulations based on matscipy
@@ -883,7 +886,7 @@
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 * [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
 * [**flexxui/flexx**](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
-* [**dddomodossola/remi**](https://github.com/dddomodossola/remi): Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
+* [**rawpython/remi**](https://github.com/rawpython/remi): Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 * [**cjdrake/gvmagic**](https://github.com/cjdrake/gvmagic): Graphviz IPython magic commands
 * [**dry-python/lambdas**](https://github.com/dry-python/lambdas): Write short and fully-typed lambdas where you need them.
 * [**dry-python/classes**](https://github.com/dry-python/classes): Smart, pythonic, ad-hoc, typed polymorphism for Python
