@@ -268,6 +268,7 @@
 
 ## Go
 
+* [**qax-os/excelize**](https://github.com/qax-os/excelize): Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 * [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
@@ -467,6 +468,8 @@
 
 ## Julia
 
+* [**iskyd/Validator.jl**](https://github.com/iskyd/Validator.jl): A library of string validators and sanitizers.
+* [**JuliaAstro/VOTables.jl**](https://github.com/JuliaAstro/VOTables.jl): A Tables.jl-based implementation of the VOTable standard
 * [**fredrikekre/Literate.jl**](https://github.com/fredrikekre/Literate.jl): Simple package for literate programming in Julia
 * [**JuliaArrays/LazyArrays.jl**](https://github.com/JuliaArrays/LazyArrays.jl): Lazy arrays and linear algebra in Julia
 * [**JuliaArrays/MappedArrays.jl**](https://github.com/JuliaArrays/MappedArrays.jl): Lazy in-place transformations of arrays
@@ -860,6 +863,9 @@
 
 ## Python
 
+* [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
+* [**ranieremenezes/easyFermi**](https://github.com/ranieremenezes/easyFermi): The easiest way to analyze Fermi-LAT data
+* [**airspeed-velocity/asv**](https://github.com/airspeed-velocity/asv): Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 * [**man-group/notebooker**](https://github.com/man-group/notebooker): Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
 * [**stsievert/python-drawnow**](https://github.com/stsievert/python-drawnow): MATLAB-like drawnow to easily update a figure
 * [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
