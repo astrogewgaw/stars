@@ -468,6 +468,7 @@
 
 ## Julia
 
+* [**JuliaArrays/ShiftedArrays.jl**](https://github.com/JuliaArrays/ShiftedArrays.jl): Lazy shifted arrays for data analysis in Julia
 * [**iskyd/Validator.jl**](https://github.com/iskyd/Validator.jl): A library of string validators and sanitizers.
 * [**JuliaAstro/VOTables.jl**](https://github.com/JuliaAstro/VOTables.jl): A Tables.jl-based implementation of the VOTable standard
 * [**fredrikekre/Literate.jl**](https://github.com/fredrikekre/Literate.jl): Simple package for literate programming in Julia
