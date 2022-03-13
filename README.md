@@ -245,6 +245,7 @@
 
 ## Fortran
 
+* [**mdmaas/julia-numpy-fortran-test**](https://github.com/mdmaas/julia-numpy-fortran-test): Comparing Julia vs Numpy vs Fortran for performance and code simplicity
 * [**nombac/optab**](https://github.com/nombac/optab): Public Fortran90 code package for generating ideal-gas opacity tables
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
@@ -411,6 +412,7 @@
 
 ## JavaScript
 
+* [**fregante/GhostText**](https://github.com/fregante/GhostText): 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 * [**migueravila/Bento**](https://github.com/migueravila/Bento): 🍱 The minimalist, elegant and hackable startpage.
 * [**dfm/arxivist**](https://github.com/dfm/arxivist): This browser extension reorders the listings at arXiv.org based on your browsing history
 * [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -468,6 +470,34 @@
 
 ## Julia
 
+* [**vtjnash/Glob.jl**](https://github.com/vtjnash/Glob.jl): Posix-compliant file name pattern matching
+* [**JuliaParallel/DistributedArrays.jl**](https://github.com/JuliaParallel/DistributedArrays.jl): Distributed Arrays in Julia
+* [**jheinen/GR.jl**](https://github.com/jheinen/GR.jl): Plotting for Julia based on GR, a framework for visualisation applications
+* [**JuliaSIMD/VectorizedStatistics.jl**](https://github.com/JuliaSIMD/VectorizedStatistics.jl): Fast, LoopVectorization.jl-based summary statistics
+* [**JuliaPhysics/PhysicalConstants.jl**](https://github.com/JuliaPhysics/PhysicalConstants.jl): Collection of fundamental physical constants with uncertainties.  It supports arbitrary-precision constants
+* [**JuliaImages/ImageInTerminal.jl**](https://github.com/JuliaImages/ImageInTerminal.jl): Julia package for displaying images in the terminal using ANSI colors and Unicode characters
+* [**sambitdash/PDFIO.jl**](https://github.com/sambitdash/PDFIO.jl): PDF Reader Library for Native Julia.
+* [**MichaelHatherly/InteractiveErrors.jl**](https://github.com/MichaelHatherly/InteractiveErrors.jl): Interactive error messages for the Julia REPL.
+* [**JuliaData/JuliaDB.jl**](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
+* [**JuliaData/Parsers.jl**](https://github.com/JuliaData/Parsers.jl): fast parsing machinery for basic types in Julia
+* [**JuliaData/IndexedTables.jl**](https://github.com/JuliaData/IndexedTables.jl): Flexible tables with ordered indices
+* [**JuliaCollections/IterTools.jl**](https://github.com/JuliaCollections/IterTools.jl): Common functional iterator patterns
+* [**JuliaArrays/BlockArrays.jl**](https://github.com/JuliaArrays/BlockArrays.jl): BlockArrays for Julia
+* [**JuliaCI/Coverage.jl**](https://github.com/JuliaCI/Coverage.jl): Take Julia code coverage and memory allocation results, do useful things with them
+* [**JuliaDSP/Wavelets.jl**](https://github.com/JuliaDSP/Wavelets.jl): A Julia package for fast discrete wavelet transforms and utilities
+* [**omlins/ParallelStencil.jl**](https://github.com/omlins/ParallelStencil.jl): Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs
+* [**JuliaGraphics/Winston.jl**](https://github.com/JuliaGraphics/Winston.jl): 2D plotting for Julia
+* [**JuliaStats/HypothesisTests.jl**](https://github.com/JuliaStats/HypothesisTests.jl): Hypothesis tests for Julia
+* [**oxinabox/Pipe.jl**](https://github.com/oxinabox/Pipe.jl): An enhancement to julia piping syntax
+* [**MikeInnes/Lazy.jl**](https://github.com/MikeInnes/Lazy.jl): I was gonna maintain this package, but then I got high
+* [**jkrumbiegel/Chain.jl**](https://github.com/jkrumbiegel/Chain.jl): A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
+* [**julia-vscode/LanguageServer.jl**](https://github.com/julia-vscode/LanguageServer.jl): An implementation of the Microsoft Language Server Protocol for the Julia language.
+* [**JuliaDSP/DSP.jl**](https://github.com/JuliaDSP/DSP.jl): Filter design, periodograms, window functions, and other digital signal processing functionality
+* [**IntelLabs/ParallelAccelerator.jl**](https://github.com/IntelLabs/ParallelAccelerator.jl): The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs
+* [**mauro3/Parameters.jl**](https://github.com/mauro3/Parameters.jl): Types with default field values, keyword constructors and (un-)pack macros
+* [**JuliaPy/PyPlot.jl**](https://github.com/JuliaPy/PyPlot.jl): Plotting for Julia based on matplotlib.pyplot
+* [**joshday/OnlineStats.jl**](https://github.com/joshday/OnlineStats.jl): ⚡ Single-pass algorithms for statistics
+* [**cloud-oak/ProgressBars.jl**](https://github.com/cloud-oak/ProgressBars.jl): A Julia clone of https://pypi.python.org/pypi/tqdm
 * [**JuliaArrays/ShiftedArrays.jl**](https://github.com/JuliaArrays/ShiftedArrays.jl): Lazy shifted arrays for data analysis in Julia
 * [**iskyd/Validator.jl**](https://github.com/iskyd/Validator.jl): A library of string validators and sanitizers.
 * [**JuliaAstro/VOTables.jl**](https://github.com/JuliaAstro/VOTables.jl): A Tables.jl-based implementation of the VOTable standard
@@ -864,6 +894,7 @@
 
 ## Python
 
+* [**johnnychen94/jill.py**](https://github.com/johnnychen94/jill.py): A cross-platform installer for the Julia programming language
 * [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 * [**ranieremenezes/easyFermi**](https://github.com/ranieremenezes/easyFermi): The easiest way to analyze Fermi-LAT data
 * [**airspeed-velocity/asv**](https://github.com/airspeed-velocity/asv): Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
