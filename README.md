@@ -269,7 +269,7 @@
 
 ## Go
 
-* [**qax-os/excelize**](https://github.com/qax-os/excelize): Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+* [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 * [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
@@ -470,6 +470,9 @@
 
 ## Julia
 
+* [**JuliaDebug/Infiltrator.jl**](https://github.com/JuliaDebug/Infiltrator.jl): No-overhead breakpoints in Julia
+* [**JuliaDebug/Debugger.jl**](https://github.com/JuliaDebug/Debugger.jl): Julia debugger
+* [**JuliaDebug/Cthulhu.jl**](https://github.com/JuliaDebug/Cthulhu.jl): The slow descent into madness
 * [**vtjnash/Glob.jl**](https://github.com/vtjnash/Glob.jl): Posix-compliant file name pattern matching
 * [**JuliaParallel/DistributedArrays.jl**](https://github.com/JuliaParallel/DistributedArrays.jl): Distributed Arrays in Julia
 * [**jheinen/GR.jl**](https://github.com/jheinen/GR.jl): Plotting for Julia based on GR, a framework for visualisation applications
@@ -894,6 +897,8 @@
 
 ## Python
 
+* [**neutrinoceros/wxc**](https://github.com/neutrinoceros/wxc): A command line tool to query source code from your current Python env
+* [**achael/eht-imaging**](https://github.com/achael/eht-imaging): Imaging, analysis, and simulation software for radio interferometry
 * [**johnnychen94/jill.py**](https://github.com/johnnychen94/jill.py): A cross-platform installer for the Julia programming language
 * [**gto76/python-cheatsheet**](https://github.com/gto76/python-cheatsheet): Comprehensive Python Cheatsheet
 * [**ranieremenezes/easyFermi**](https://github.com/ranieremenezes/easyFermi): The easiest way to analyze Fermi-LAT data
@@ -905,7 +910,7 @@
 * [**0xCoto/PSR-Toolkit**](https://github.com/0xCoto/PSR-Toolkit): 📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...
 * [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
 * [**nschloe/texparse**](https://github.com/nschloe/texparse): Simple LaTeX parser.
-* [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): tmp
+* [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): Python 3 and actively maintained version of the mock FRB simulation (`Furby`) package
 * [**vivgastro/Furby_injector**](https://github.com/vivgastro/Furby_injector): *No description*
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
 * [**mhardcastle/radioflux**](https://github.com/mhardcastle/radioflux): Measuring radio flux density with ds9
