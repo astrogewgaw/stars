@@ -47,7 +47,6 @@
 * [**PureScript**](#purescript)
 * [**Python**](#python)
 * [**QML**](#qml)
-* [**Roff**](#roff)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
 * [**SCSS**](#scss)
@@ -246,6 +245,7 @@
 ## Fortran
 
 * [**mdmaas/julia-numpy-fortran-test**](https://github.com/mdmaas/julia-numpy-fortran-test): Comparing Julia vs Numpy vs Fortran for performance and code simplicity
+* [**MESAHub/mesa**](https://github.com/MESAHub/mesa): Modules for Experiments in Stellar Astrophysics
 * [**nombac/optab**](https://github.com/nombac/optab): Public Fortran90 code package for generating ideal-gas opacity tables
 * [**uclchem/UCLCHEM**](https://github.com/uclchem/UCLCHEM): UCLCHEM - A gas-grain chemical code for Astrochemistry.
 * [**fortran-lang/test-drive**](https://github.com/fortran-lang/test-drive): The simple testing framework
@@ -269,6 +269,7 @@
 
 ## Go
 
+* [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 * [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
@@ -412,6 +413,9 @@
 
 ## JavaScript
 
+* [**danvk/dygraphs**](https://github.com/danvk/dygraphs): Interactive visualizations of time series using JavaScript and the HTML canvas tag
+* [**shutterstock/rickshaw**](https://github.com/shutterstock/rickshaw): JavaScript toolkit for creating interactive real-time graphs
+* [**flot/flot**](https://github.com/flot/flot): Attractive JavaScript charts for jQuery
 * [**fregante/GhostText**](https://github.com/fregante/GhostText): 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 * [**migueravila/Bento**](https://github.com/migueravila/Bento): 🍱 The minimalist, elegant and hackable startpage.
 * [**dfm/arxivist**](https://github.com/dfm/arxivist): This browser extension reorders the listings at arXiv.org based on your browsing history
@@ -444,7 +448,7 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [**google/zx**](https://github.com/google/zx): Replace Bash with JavaScript
+* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts 🐚🔥🔥
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -470,6 +474,8 @@
 
 ## Julia
 
+* [**JuliaComputing/Cobweb.jl**](https://github.com/JuliaComputing/Cobweb.jl): 🕸️ Cobble together web content in Julia
+* [**JuliaComputing/DataSets.jl**](https://github.com/JuliaComputing/DataSets.jl): *No description*
 * [**JuliaDebug/Infiltrator.jl**](https://github.com/JuliaDebug/Infiltrator.jl): No-overhead breakpoints in Julia
 * [**JuliaDebug/Debugger.jl**](https://github.com/JuliaDebug/Debugger.jl): Julia debugger
 * [**JuliaDebug/Cthulhu.jl**](https://github.com/JuliaDebug/Cthulhu.jl): The slow descent into madness
@@ -806,6 +812,7 @@
 
 ## Others
 
+* [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
 * [**penk/penkesu**](https://github.com/penk/penkesu): Penkesu Computer - A Homebrew Retro-style Handheld PC
 * [**egeerardyn/awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX): Curated list of LaTeX awesomeness
@@ -897,6 +904,10 @@
 
 ## Python
 
+* [**thepetabyteproject/arts**](https://github.com/thepetabyteproject/arts): Accurate Radio Transient Statistics
+* [**josephwkania/jess**](https://github.com/josephwkania/jess): Python based Radio Frequency Interference Mitigation Routines
+* [**wasi-master/typesplainer**](https://github.com/wasi-master/typesplainer): A Python type explainer!
+* [**nla-group/classix**](https://github.com/nla-group/classix): 🐝 Fast and explainable clustering based on sorting
 * [**neutrinoceros/wxc**](https://github.com/neutrinoceros/wxc): A command line tool to query source code from your current Python env
 * [**achael/eht-imaging**](https://github.com/achael/eht-imaging): Imaging, analysis, and simulation software for radio interferometry
 * [**johnnychen94/jill.py**](https://github.com/johnnychen94/jill.py): A cross-platform installer for the Julia programming language
@@ -1572,10 +1583,6 @@
 
 * [**Swordfish90/cool-retro-term**](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 
-## Roff
-
-* [**MESAHub/mesa**](https://github.com/MESAHub/mesa): Modules for Experiments in Stellar Astrophysics
-
 ## Ruby
 
 * [**Textualize/homebrew-rich**](https://github.com/Textualize/homebrew-rich): Homebrew tap for Rich
@@ -1857,6 +1864,7 @@
 
 ## TypeScript
 
+* [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
