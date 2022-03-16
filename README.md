@@ -63,6 +63,7 @@
 
 ## C
 
+* [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
 * [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
 * [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
@@ -113,6 +114,7 @@
 
 ## C++
 
+* [**telegraphic/tcc**](https://github.com/telegraphic/tcc): *No description*
 * [**SoftwareForScience/pulsar-cpp**](https://github.com/SoftwareForScience/pulsar-cpp): Cpp rewrite of the sigproc project
 * [**abhisrkckl/GWecc**](https://github.com/abhisrkckl/GWecc): GWecc is a C++ code that computes the pulsar timing array (PTA) signals induced by eccentric supermassive binaries.
 * [**NVIDIA/cutlass**](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
@@ -269,6 +271,7 @@
 
 ## Go
 
+* [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 * [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
@@ -448,7 +451,7 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts 🐚🔥🔥
+* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts 🔥🔥🔥
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -474,6 +477,9 @@
 
 ## Julia
 
+* [**JuliaStats/StatsFuns.jl**](https://github.com/JuliaStats/StatsFuns.jl): Mathematical functions related to statistics.
+* [**JuliaStats/LogExpFunctions.jl**](https://github.com/JuliaStats/LogExpFunctions.jl): Julia package for various special functions based on `log` and `exp`.
+* [**MydonSolutions/GuppiRaw.jl**](https://github.com/MydonSolutions/GuppiRaw.jl): A reader and writer of GUPPI RAW files.
 * [**JuliaComputing/Cobweb.jl**](https://github.com/JuliaComputing/Cobweb.jl): 🕸️ Cobble together web content in Julia
 * [**JuliaComputing/DataSets.jl**](https://github.com/JuliaComputing/DataSets.jl): *No description*
 * [**JuliaDebug/Infiltrator.jl**](https://github.com/JuliaDebug/Infiltrator.jl): No-overhead breakpoints in Julia
@@ -687,6 +693,7 @@
 * [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
+* [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
 * [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
@@ -838,7 +845,6 @@
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
-* [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
@@ -866,6 +872,7 @@
 * [**freereadorg/awesome-libgen**](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [**jlevy/the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [**lmmentel/awesome-python-chemistry**](https://github.com/lmmentel/awesome-python-chemistry): A curated list of Python packages related to chemistry
+* [**texworld/blacktex**](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
 * [**smaret/pymcfost**](https://github.com/smaret/pymcfost): python interface to the 3D radiative transfer code mcfost
 * [**nikosarcevic/HEP-ASTRO-COSMO**](https://github.com/nikosarcevic/HEP-ASTRO-COSMO): HEP/Astroparticle/Astrophysics/Cosmology open source packages. Community effort. Physics people, unite!
 * [**JuliaMolSim/MolSim**](https://github.com/JuliaMolSim/MolSim): Registry for Molecular Simulation Packages
@@ -904,6 +911,7 @@
 
 ## Python
 
+* [**d0c-s4vage/lookatme**](https://github.com/d0c-s4vage/lookatme): An interactive, terminal-based markdown presenter
 * [**thepetabyteproject/arts**](https://github.com/thepetabyteproject/arts): Accurate Radio Transient Statistics
 * [**josephwkania/jess**](https://github.com/josephwkania/jess): Python based Radio Frequency Interference Mitigation Routines
 * [**wasi-master/typesplainer**](https://github.com/wasi-master/typesplainer): A Python type explainer!
@@ -920,7 +928,6 @@
 * [**tobgu/pyrthon**](https://github.com/tobgu/pyrthon): Literal support for Pyrsistent data structures in Python
 * [**0xCoto/PSR-Toolkit**](https://github.com/0xCoto/PSR-Toolkit): 📡 An easy-to-use Pulsar Toolkit for Pulsar Astronomy...
 * [**executablebooks/sphinx-panels**](https://github.com/executablebooks/sphinx-panels): A sphinx extension for creating panels in a grid layout
-* [**nschloe/texparse**](https://github.com/nschloe/texparse): Simple LaTeX parser.
 * [**vivgastro/Furby_p3**](https://github.com/vivgastro/Furby_p3): Python 3 and actively maintained version of the mock FRB simulation (`Furby`) package
 * [**vivgastro/Furby_injector**](https://github.com/vivgastro/Furby_injector): *No description*
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
@@ -1038,7 +1045,7 @@
 * [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
 * [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
 * [**wbenny/python-graceful-shutdown**](https://github.com/wbenny/python-graceful-shutdown): Example of a Python code that implements graceful shutdown while using asyncio, threading and multiprocessing
-* [**nschloe/betterbib**](https://github.com/nschloe/betterbib): :green_book: Update BibTeX files with info from online resources.
+* [**texworld/betterbib**](https://github.com/texworld/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
 * [**PyO3/setuptools-rust**](https://github.com/PyO3/setuptools-rust): Setuptools plugin for Rust support
 * [**PyCQA/isort**](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
@@ -1295,7 +1302,7 @@
 * [**maxisi/ringdown**](https://github.com/maxisi/ringdown): Bayesian analysis of black hole ringdowns.
 * [**holoviz/holoviz**](https://github.com/holoviz/holoviz): High-level tools to simplify visualization in Python.
 * [**JohannesBuchner/snowline**](https://github.com/JohannesBuchner/snowline): Fit and compare complex models quickly. Laplace Approximation, Variational Bayes, Importance Sampling.
-* [**nschloe/tikzplotlib**](https://github.com/nschloe/tikzplotlib): :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
+* [**texworld/tikzplotlib**](https://github.com/texworld/tikzplotlib): :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 * [**jupyterlite/jupyterlite**](https://github.com/jupyterlite/jupyterlite): Wasm powered Jupyter running in the browser 💡
 * [**vafaei-ar/RFI-mitigation**](https://github.com/vafaei-ar/RFI-mitigation): This repository is still under development.
 * [**piccolomo/plotext**](https://github.com/piccolomo/plotext): plotting on terminal
@@ -1441,7 +1448,6 @@
 * [**nschloe/pyfma**](https://github.com/nschloe/pyfma): Fused multiply-add (with a single rounding) for Python.
 * [**nschloe/maelstrom**](https://github.com/nschloe/maelstrom): Numerical simulation of magnetohydrodynamics.
 * [**nschloe/tablign**](https://github.com/nschloe/tablign): Aligns columns in your ASCII tables on the command line or in vim.
-* [**nschloe/blacktex**](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
 * [**nschloe/awesome-scientific-computing**](https://github.com/nschloe/awesome-scientific-computing): :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 * [**nschloe/perfplot**](https://github.com/nschloe/perfplot): :chart_with_upwards_trend: Performance analysis for Python snippets
 * [**nschloe/dufte**](https://github.com/nschloe/dufte): :chart_with_upwards_trend: Minimalistic Matplotlib style
