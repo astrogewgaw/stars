@@ -114,6 +114,7 @@
 
 ## C++
 
+* [**wjakob/nanobind**](https://github.com/wjakob/nanobind): nanobind — Seamless operability between C++17 and Python
 * [**telegraphic/tcc**](https://github.com/telegraphic/tcc): *No description*
 * [**SoftwareForScience/pulsar-cpp**](https://github.com/SoftwareForScience/pulsar-cpp): Cpp rewrite of the sigproc project
 * [**abhisrkckl/GWecc**](https://github.com/abhisrkckl/GWecc): GWecc is a C++ code that computes the pulsar timing array (PTA) signals induced by eccentric supermassive binaries.
@@ -477,6 +478,7 @@
 
 ## Julia
 
+* [**pc2/GPUInspector.jl**](https://github.com/pc2/GPUInspector.jl): Inspecting GPUs with Julia
 * [**JuliaStats/StatsFuns.jl**](https://github.com/JuliaStats/StatsFuns.jl): Mathematical functions related to statistics.
 * [**JuliaStats/LogExpFunctions.jl**](https://github.com/JuliaStats/LogExpFunctions.jl): Julia package for various special functions based on `log` and `exp`.
 * [**MydonSolutions/GuppiRaw.jl**](https://github.com/MydonSolutions/GuppiRaw.jl): A reader and writer of GUPPI RAW files.
@@ -755,6 +757,7 @@
 
 ## Lua
 
+* [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A small, documented, and featureful neovim starter config
 * [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
 * [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
@@ -911,10 +914,12 @@
 
 ## Python
 
+* [**malinoff/structures**](https://github.com/malinoff/structures): Declarative binary data builder and parser: simple, fast, extensible
+* [**wlav/cppyy**](https://github.com/wlav/cppyy): *No description*
 * [**d0c-s4vage/lookatme**](https://github.com/d0c-s4vage/lookatme): An interactive, terminal-based markdown presenter
 * [**thepetabyteproject/arts**](https://github.com/thepetabyteproject/arts): Accurate Radio Transient Statistics
 * [**josephwkania/jess**](https://github.com/josephwkania/jess): Python based Radio Frequency Interference Mitigation Routines
-* [**wasi-master/typesplainer**](https://github.com/wasi-master/typesplainer): A Python type explainer!
+* [**typesplainer/typesplainer**](https://github.com/typesplainer/typesplainer): A Python type explainer!
 * [**nla-group/classix**](https://github.com/nla-group/classix): 🐝 Fast and explainable clustering based on sorting
 * [**neutrinoceros/wxc**](https://github.com/neutrinoceros/wxc): A command line tool to query source code from your current Python env
 * [**achael/eht-imaging**](https://github.com/achael/eht-imaging): Imaging, analysis, and simulation software for radio interferometry
@@ -1599,6 +1604,7 @@
 
 ## Rust
 
+* [**arijit79/minus**](https://github.com/arijit79/minus): A small, asynchronous paging library for Rust
 * [**cds-astro/fitsrs**](https://github.com/cds-astro/fitsrs): FITS reader lib implemented in pure Rust with nom crate
 * [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
 * [**Nukesor/pueue**](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
@@ -1870,6 +1876,7 @@
 
 ## TypeScript
 
+* [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
