@@ -63,6 +63,7 @@
 
 ## C
 
+* [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): *No description*
 * [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
 * [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
 * [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
@@ -114,6 +115,7 @@
 
 ## C++
 
+* [**grasph/wrapit**](https://github.com/grasph/wrapit): Automatization of C++--Julia wrapper generation
 * [**wjakob/nanobind**](https://github.com/wjakob/nanobind): nanobind — Seamless operability between C++17 and Python
 * [**telegraphic/tcc**](https://github.com/telegraphic/tcc): *No description*
 * [**SoftwareForScience/pulsar-cpp**](https://github.com/SoftwareForScience/pulsar-cpp): Cpp rewrite of the sigproc project
@@ -452,7 +454,7 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts 🔥🔥🔥
+* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -478,6 +480,8 @@
 
 ## Julia
 
+* [**rofinn/FilePathsBase.jl**](https://github.com/rofinn/FilePathsBase.jl): Filesystem path types in julia
+* [**JuliaInterop/CxxWrap.jl**](https://github.com/JuliaInterop/CxxWrap.jl): Package to make C++ libraries available in Julia
 * [**pc2/GPUInspector.jl**](https://github.com/pc2/GPUInspector.jl): Inspecting GPUs with Julia
 * [**JuliaStats/StatsFuns.jl**](https://github.com/JuliaStats/StatsFuns.jl): Mathematical functions related to statistics.
 * [**JuliaStats/LogExpFunctions.jl**](https://github.com/JuliaStats/LogExpFunctions.jl): Julia package for various special functions based on `log` and `exp`.
@@ -914,6 +918,8 @@
 
 ## Python
 
+* [**TezRomacH/python-package-template**](https://github.com/TezRomacH/python-package-template): 🚀 Your next Python package needs a bleeding-edge project structure.
+* [**scikit-hep/uproot-browser**](https://github.com/scikit-hep/uproot-browser): *No description*
 * [**malinoff/structures**](https://github.com/malinoff/structures): Declarative binary data builder and parser: simple, fast, extensible
 * [**wlav/cppyy**](https://github.com/wlav/cppyy): *No description*
 * [**d0c-s4vage/lookatme**](https://github.com/d0c-s4vage/lookatme): An interactive, terminal-based markdown presenter
