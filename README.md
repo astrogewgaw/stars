@@ -274,6 +274,7 @@
 
 ## Go
 
+* [**evan-buss/openbooks**](https://github.com/evan-buss/openbooks): Search and Download eBooks
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLSX) files.
@@ -387,6 +388,7 @@
 
 ## HTML
 
+* [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [**snakemake/snakemake**](https://github.com/snakemake/snakemake): This is the development home of the workflow management system Snakemake. For general information, see
@@ -918,6 +920,8 @@
 
 ## Python
 
+* [**dewberryants/asciiMol**](https://github.com/dewberryants/asciiMol): Curses based ASCII molecule viewer for linux terminals.
+* [**yuchenlin/rebiber**](https://github.com/yuchenlin/rebiber): A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
 * [**TezRomacH/python-package-template**](https://github.com/TezRomacH/python-package-template): 🚀 Your next Python package needs a bleeding-edge project structure.
 * [**scikit-hep/uproot-browser**](https://github.com/scikit-hep/uproot-browser): *No description*
 * [**malinoff/structures**](https://github.com/malinoff/structures): Declarative binary data builder and parser: simple, fast, extensible
