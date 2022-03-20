@@ -274,6 +274,7 @@
 
 ## Go
 
+* [**MarvinJWendt/testza**](https://github.com/MarvinJWendt/testza): Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
 * [**evan-buss/openbooks**](https://github.com/evan-buss/openbooks): Search and Download eBooks
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
