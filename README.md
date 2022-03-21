@@ -63,11 +63,11 @@
 
 ## C
 
+* [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): *No description*
 * [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
 * [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
 * [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
-* [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**mwh/dragon**](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [**abhisrkckl/ugmrt2fil**](https://github.com/abhisrkckl/ugmrt2fil): Convert uGMRT raw data files to sigproc-filterbank format.
 * [**clibs/clib**](https://github.com/clibs/clib): C package manager-ish
@@ -483,6 +483,16 @@
 
 ## Julia
 
+* [**cjdoris/LogarithmicNumbers.jl**](https://github.com/cjdoris/LogarithmicNumbers.jl): A logarithmic number system for Julia.
+* [**JuliaArrays/OffsetArrays.jl**](https://github.com/JuliaArrays/OffsetArrays.jl): Fortran-like arrays with arbitrary, zero or negative starting indices.
+* [**JuliaArrays/StackViews.jl**](https://github.com/JuliaArrays/StackViews.jl): no more 🐱🐱
+* [**JuliaArrays/HybridArrays.jl**](https://github.com/JuliaArrays/HybridArrays.jl): Arrays with both statically and dynamically sized axes in Julia
+* [**JuliaArrays/ElasticArrays.jl**](https://github.com/JuliaArrays/ElasticArrays.jl): Resizeable multi-dimensional arrays for Julia
+* [**JuliaArrays/TiledIteration.jl**](https://github.com/JuliaArrays/TiledIteration.jl): Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code
+* [**JuliaArrays/FFTViews.jl**](https://github.com/JuliaArrays/FFTViews.jl): Julia package for fast fourier transforms and periodic views
+* [**JuliaArrays/PaddedViews.jl**](https://github.com/JuliaArrays/PaddedViews.jl): Add virtual padding to the edges of an array
+* [**kiranshila/FDMT.jl**](https://github.com/kiranshila/FDMT.jl): Fast Dispersion Measure Transform implemented in Julia
+* [**andreasKroepelin/ExtremeFloats.jl**](https://github.com/andreasKroepelin/ExtremeFloats.jl): High-precision floating point arithmetic with a large range of exponents
 * [**rofinn/FilePathsBase.jl**](https://github.com/rofinn/FilePathsBase.jl): Filesystem path types in julia
 * [**JuliaInterop/CxxWrap.jl**](https://github.com/JuliaInterop/CxxWrap.jl): Package to make C++ libraries available in Julia
 * [**pc2/GPUInspector.jl**](https://github.com/pc2/GPUInspector.jl): Inspecting GPUs with Julia
@@ -702,7 +712,6 @@
 * [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
-* [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
 * [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
@@ -802,7 +811,7 @@
 * [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
 * [**NFrid/due.nvim**](https://github.com/NFrid/due.nvim): Neovim plugin for displaying due date.
 * [**max397574/better-escape.nvim**](https://github.com/max397574/better-escape.nvim): Escape from insert mode without delay when typing
-* [**CRAG666/code_runner.nvim**](https://github.com/CRAG666/code_runner.nvim): The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
+* [**CRAG666/code_runner.nvim**](https://github.com/CRAG666/code_runner.nvim): Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
 * [**mrjones2014/tldr.nvim**](https://github.com/mrjones2014/tldr.nvim): 🔭 A Telescope previewer for tldr-pages
 * [**sudormrfbin/cheatsheet.nvim**](https://github.com/sudormrfbin/cheatsheet.nvim): A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
 * [**luukvbaal/nnn.nvim**](https://github.com/luukvbaal/nnn.nvim): File manager for Neovim powered by nnn.
@@ -921,6 +930,7 @@
 
 ## Python
 
+* [**kelvindecosta/picharsso**](https://github.com/kelvindecosta/picharsso): :art: A utility for converting images to text art.
 * [**dewberryants/asciiMol**](https://github.com/dewberryants/asciiMol): Curses based ASCII molecule viewer for linux terminals.
 * [**yuchenlin/rebiber**](https://github.com/yuchenlin/rebiber): A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
 * [**TezRomacH/python-package-template**](https://github.com/TezRomacH/python-package-template): 🚀 Your next Python package needs a bleeding-edge project structure.
@@ -1163,6 +1173,7 @@
 * [**mwouts/jupytext**](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 * [**kkma89/dmcalc**](https://github.com/kkma89/dmcalc): Python code to calculate in-band dispersion measure of pulsars
 * [**nschloe/quadpy**](https://github.com/nschloe/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
+* [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**ksons/ln.py**](https://github.com/ksons/ln.py): The 3D Line Art Engine for Python
 * [**out-of-cheese-error/pyln**](https://github.com/out-of-cheese-error/pyln): 3D line art engine (Python port of fogleman/ln)
 * [**seatgeek/thefuzz**](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
@@ -1395,7 +1406,7 @@
 * [**telegraphic/pygdsm**](https://github.com/telegraphic/pygdsm): Python interface to Global Diffuse Sky Modesl (GDSM) for the radio sky between 10 MHz - 5 THz
 * [**abatten/fruitbat**](https://github.com/abatten/fruitbat): A fast radio burst (FRB) redshift estimation package written in Python.
 * [**telegraphic/hickle**](https://github.com/telegraphic/hickle): a HDF5-based python pickle replacement
-* [**joouha/euporie**](https://github.com/joouha/euporie): Euporie is a text-based user interface for running and editing Jupyter notebooks
+* [**joouha/euporie**](https://github.com/joouha/euporie): Jupyter notebooks in the terminal
 * [**veusz/veusz**](https://github.com/veusz/veusz): Veusz scientific plotting application
 * [**rougier/matplotlib-3d**](https://github.com/rougier/matplotlib-3d): Experimental 3D axis for matplotlib
 * [**BezuidenhoutMC/SeeKAT**](https://github.com/BezuidenhoutMC/SeeKAT): A wrapper for the Mosaic MeerKAT tiling code that localises a source detected in multiple interferometer beams.
@@ -1897,7 +1908,7 @@
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
-* [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): Easily query, script, and visualize data from every database, file, and API.
+* [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): App to easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
