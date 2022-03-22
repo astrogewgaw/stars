@@ -1829,7 +1829,7 @@
 
 ## Shell
 
-* [**z-shell/fast-syntax-highlighting**](https://github.com/z-shell/fast-syntax-highlighting): Feature-rich Syntax Highlighting for Zsh.
+* [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): Feature-rich Syntax Highlighting for Zsh.
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
