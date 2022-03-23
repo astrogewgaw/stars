@@ -1414,7 +1414,7 @@
 * [**pydoit/doit**](https://github.com/pydoit/doit): task management & automation tool
 * [**pyinvoke/invoke**](https://github.com/pyinvoke/invoke): Pythonic task management & command execution.
 * [**zclaytor/kiauhoku**](https://github.com/zclaytor/kiauhoku): Python utilities for stellar model grid interpolation
-* [**theacodes/nox**](https://github.com/theacodes/nox): Flexible test automation for Python
+* [**wntrblm/nox**](https://github.com/wntrblm/nox): Flexible test automation for Python
 * [**zclaytor/prot**](https://github.com/zclaytor/prot): Python tools for time-series frequency analysis, particularly for stellar rotational light curves.
 * [**rodluger/starry**](https://github.com/rodluger/starry): Tools for mapping stars and planets.
 * [**bottlepy/bottle**](https://github.com/bottlepy/bottle): bottle.py is a fast and simple micro-framework for python web-applications.
