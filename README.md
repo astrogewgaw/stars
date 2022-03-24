@@ -483,6 +483,7 @@
 
 ## Julia
 
+* [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**cjdoris/LogarithmicNumbers.jl**](https://github.com/cjdoris/LogarithmicNumbers.jl): A logarithmic number system for Julia.
 * [**JuliaArrays/OffsetArrays.jl**](https://github.com/JuliaArrays/OffsetArrays.jl): Fortran-like arrays with arbitrary, zero or negative starting indices.
 * [**JuliaArrays/StackViews.jl**](https://github.com/JuliaArrays/StackViews.jl): no more 🐱🐱
@@ -583,7 +584,6 @@
 * [**JuliaCI/BenchmarkTools.jl**](https://github.com/JuliaCI/BenchmarkTools.jl): A benchmarking framework for the Julia language
 * [**tkf/Maybe.jl**](https://github.com/tkf/Maybe.jl): Optional value handling for Julia
 * [**GiovineItalia/Gadfly.jl**](https://github.com/GiovineItalia/Gadfly.jl): Crafty statistical graphics for Julia.
-* [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**JuliaSIMD/LoopVectorization.jl**](https://github.com/JuliaSIMD/LoopVectorization.jl): Macro(s) for vectorizing loops.
 * [**MechanicalRabbit/FunSQL.jl**](https://github.com/MechanicalRabbit/FunSQL.jl): Julia library for compositional construction of SQL queries
 * [**lazarusA/BeautifulMakie**](https://github.com/lazarusA/BeautifulMakie): https://lazarusa.github.io/BeautifulMakie/
@@ -924,7 +924,7 @@
 * [**sharkdp/insect**](https://github.com/sharkdp/insect): High precision scientific calculator with support for physical units
 * [**sharkdp/purescript-bigints**](https://github.com/sharkdp/purescript-bigints): Arbitrary length integers for PureScript
 * [**sharkdp/purescript-pairs**](https://github.com/sharkdp/purescript-pairs): Datatype and functions for pairs of values
-* [**sharkdp/purescript-colors**](https://github.com/sharkdp/purescript-colors): Convert, manipulate, analyze, blend, color scales, color schemes
+* [**purescript-contrib/purescript-colors**](https://github.com/purescript-contrib/purescript-colors): Convert, manipulate, analyze, blend, color scales, color schemes
 * [**sharkdp/purescript-decimals**](https://github.com/sharkdp/purescript-decimals): Arbitrary precision numbers for PureScript
 * [**sharkdp/purescript-quantities**](https://github.com/sharkdp/purescript-quantities): Physical quantities and units
 
