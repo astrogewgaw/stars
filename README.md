@@ -134,7 +134,7 @@
 * [**ryanhaining/cppitertools**](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 * [**ggerganov/imtui**](https://github.com/ggerganov/imtui): ImTui: Immediate Mode Text-based User Interface C++ Library
 * [**fmtlib/fmt**](https://github.com/fmtlib/fmt): A modern formatting library
-* [**nschloe/pygalmesh**](https://github.com/nschloe/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
+* [**meshpro/pygalmesh**](https://github.com/meshpro/pygalmesh): :spider_web: A Python interface to CGAL's meshing tools
 * [**brndnmtthws/conky**](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
 * [**doctest/doctest**](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
@@ -288,7 +288,7 @@
 * [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
 * [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
-* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai! Dominate the Command Line
+* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai™ Command Compositor
 * [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
@@ -483,6 +483,10 @@
 
 ## Julia
 
+* [**aviatesk/JET.jl**](https://github.com/aviatesk/JET.jl): An experimental code analyzer for Julia, no need for additional type annotations
+* [**timholy/SnoopCompile.jl**](https://github.com/timholy/SnoopCompile.jl): Making packages work faster with more extensive precompilation
+* [**kimikage/ProfileSVG.jl**](https://github.com/kimikage/ProfileSVG.jl): Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
+* [**giordano/PkgCleanup.jl**](https://github.com/giordano/PkgCleanup.jl): *No description*
 * [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**cjdoris/LogarithmicNumbers.jl**](https://github.com/cjdoris/LogarithmicNumbers.jl): A logarithmic number system for Julia.
 * [**JuliaArrays/OffsetArrays.jl**](https://github.com/JuliaArrays/OffsetArrays.jl): Fortran-like arrays with arbitrary, zero or negative starting indices.
@@ -693,6 +697,8 @@
 
 ## Jupyter Notebook
 
+* [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
+* [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the ST.py file.
 * [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
 * [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
@@ -930,6 +936,8 @@
 
 ## Python
 
+* [**jlvdb/astropandas**](https://github.com/jlvdb/astropandas): Tools to expand on pandas functionality for astronomical operations
+* [**paw-lu/nbpreview**](https://github.com/paw-lu/nbpreview): A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 * [**kelvindecosta/picharsso**](https://github.com/kelvindecosta/picharsso): :art: A utility for converting images to text art.
 * [**dewberryants/asciiMol**](https://github.com/dewberryants/asciiMol): Curses based ASCII molecule viewer for linux terminals.
 * [**yuchenlin/rebiber**](https://github.com/yuchenlin/rebiber): A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
@@ -1163,7 +1171,7 @@
 * [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
 * [**gwpy/gwpy**](https://github.com/gwpy/gwpy): Package for analysing and characterising gravitational wave data in python
 * [**gotham-gbt/gotham-catalog-pipeline**](https://github.com/gotham-gbt/gotham-catalog-pipeline): YAML repository and CI pipeline for cataloguing spectroscopic data used in the GOTHAM
-* [**nschloe/pygmsh**](https://github.com/nschloe/pygmsh): :spider_web: Gmsh for Python
+* [**meshpro/pygmsh**](https://github.com/meshpro/pygmsh): :spider_web: Gmsh for Python
 * [**leswright1977/PySpectrometer**](https://github.com/leswright1977/PySpectrometer): Raspberry Pi Spectrometer
 * [**khuyentran1401/rich-dataframe**](https://github.com/khuyentran1401/rich-dataframe): Create animated and pretty Pandas Dataframe
 * [**Chakazul/Lenia**](https://github.com/Chakazul/Lenia): Lenia - Mathematical Life Forms
