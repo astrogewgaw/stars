@@ -176,7 +176,7 @@
 * [**skramm/homog2d**](https://github.com/skramm/homog2d): C++ 2D geometry library, handles points, lines, planar transformations (and other primitives), using homogeneous coordinates
 * [**hoffstadt/DearPyGui**](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [**tuplex/tuplex**](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
-* [**typesense/typesense**](https://github.com/typesense/typesense): Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
+* [**typesense/typesense**](https://github.com/typesense/typesense): Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 * [**glotzerlab/fresnel**](https://github.com/glotzerlab/fresnel): Publication quality path tracing in real time.
 * [**glotzerlab/freud**](https://github.com/glotzerlab/freud): Powerful, efficient particle trajectory analysis in scientific Python.
 * [**bobfang1992/pytomlpp**](https://github.com/bobfang1992/pytomlpp): A python wrapper for tomlplusplus
@@ -844,6 +844,7 @@
 
 ## Others
 
+* [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
 * [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
 * [**penk/penkesu**](https://github.com/penk/penkesu): Penkesu Computer - A Homebrew Retro-style Handheld PC
@@ -858,6 +859,7 @@
 * [**alebcay/awesome-shell**](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [**stevemao/awesome-git-addons**](https://github.com/stevemao/awesome-git-addons): :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 * [**dhaitz/matplotlib-stylesheets**](https://github.com/dhaitz/matplotlib-stylesheets): Stylesheets for Matplotlib
+* [**texworld/betterbib**](https://github.com/texworld/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
 * [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
 * [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
@@ -936,6 +938,9 @@
 
 ## Python
 
+* [**slavfox/Cozette**](https://github.com/slavfox/Cozette): A bitmap programming font optimized for coziness 💜
+* [**ful1e5/Bibata_Cursor**](https://github.com/ful1e5/Bibata_Cursor): Opensource, compact, and material-designed cursor set.
+* [**gajjarv/PulsarSearch**](https://github.com/gajjarv/PulsarSearch): *No description*
 * [**jlvdb/astropandas**](https://github.com/jlvdb/astropandas): Tools to expand on pandas functionality for astronomical operations
 * [**paw-lu/nbpreview**](https://github.com/paw-lu/nbpreview): A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 * [**kelvindecosta/picharsso**](https://github.com/kelvindecosta/picharsso): :art: A utility for converting images to text art.
@@ -1079,7 +1084,6 @@
 * [**nschloe/npx**](https://github.com/nschloe/npx): Some useful extensions for NumPy
 * [**nschloe/scipyx**](https://github.com/nschloe/scipyx): SciPy fixes and extensions
 * [**wbenny/python-graceful-shutdown**](https://github.com/wbenny/python-graceful-shutdown): Example of a Python code that implements graceful shutdown while using asyncio, threading and multiprocessing
-* [**texworld/betterbib**](https://github.com/texworld/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**eugenesvk/xontrib-homebrew**](https://github.com/eugenesvk/xontrib-homebrew): Add Homebrew's shell environment to xonsh shell on macOS/Linux
 * [**PyO3/setuptools-rust**](https://github.com/PyO3/setuptools-rust): Setuptools plugin for Rust support
 * [**PyCQA/isort**](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
@@ -1881,6 +1885,8 @@
 
 ## TeX
 
+* [**sisl/juliaplots.sty**](https://github.com/sisl/juliaplots.sty): A latex package for displaying plots made in Julia
+* [**Tufte-LaTeX/tufte-latex**](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books
 * [**ViniciusBRodrigues/simple-tufte-beamer**](https://github.com/ViniciusBRodrigues/simple-tufte-beamer): Simple and minimalistic beamer template using Tufte-LaTeX style
 * [**mossr/julia-tufte-beamer**](https://github.com/mossr/julia-tufte-beamer): Tufte-style beamer template with Julia integration
 * [**rchurchley/beamercolortheme-owl**](https://github.com/rchurchley/beamercolortheme-owl): A Beamer colour theme that maximizes visibility in dark and unfavourable conditions
