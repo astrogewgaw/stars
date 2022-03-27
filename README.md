@@ -274,6 +274,7 @@
 
 ## Go
 
+* [**oz/tz**](https://github.com/oz/tz): 🌐 A time zone helper
 * [**MarvinJWendt/testza**](https://github.com/MarvinJWendt/testza): Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
 * [**evan-buss/openbooks**](https://github.com/evan-buss/openbooks): Search and Download eBooks
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
@@ -779,6 +780,7 @@
 
 ## Lua
 
+* [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 * [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A small, documented, and featureful neovim starter config
 * [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
