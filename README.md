@@ -552,7 +552,7 @@
 * [**JuliaMath/DoubleFloats.jl**](https://github.com/JuliaMath/DoubleFloats.jl): math with more good bits
 * [**JuliaMath/IntervalSets.jl**](https://github.com/JuliaMath/IntervalSets.jl): Interval Sets for Julia
 * [**org-arl/InteractiveViz.jl**](https://github.com/org-arl/InteractiveViz.jl): Interactive visualization tools for Julia
-* [**kiranshila/RadioTransients.jl**](https://github.com/kiranshila/RadioTransients.jl): Toolkit for working with astronomical radio transients in Julia
+* [**kiranshila/SIGPROC.jl**](https://github.com/kiranshila/SIGPROC.jl): Toolkit for working with astronomical radio transients in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
