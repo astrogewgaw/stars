@@ -423,6 +423,7 @@
 
 ## JavaScript
 
+* [**hendricius/pizza-dough**](https://github.com/hendricius/pizza-dough): This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [**danvk/dygraphs**](https://github.com/danvk/dygraphs): Interactive visualizations of time series using JavaScript and the HTML canvas tag
 * [**shutterstock/rickshaw**](https://github.com/shutterstock/rickshaw): JavaScript toolkit for creating interactive real-time graphs
 * [**flot/flot**](https://github.com/flot/flot): Attractive JavaScript charts for jQuery
