@@ -485,6 +485,7 @@
 
 ## Julia
 
+* [**JuliaLabs/Cassette.jl**](https://github.com/JuliaLabs/Cassette.jl): Overdub Your Julia Code
 * [**aviatesk/JET.jl**](https://github.com/aviatesk/JET.jl): An experimental code analyzer for Julia, no need for additional type annotations
 * [**timholy/SnoopCompile.jl**](https://github.com/timholy/SnoopCompile.jl): Making packages work faster with more extensive precompilation
 * [**kimikage/ProfileSVG.jl**](https://github.com/kimikage/ProfileSVG.jl): Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
@@ -1641,6 +1642,7 @@
 
 ## Rust
 
+* [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
 * [**arijit79/minus**](https://github.com/arijit79/minus): A small, asynchronous paging library for Rust
 * [**cds-astro/fitsrs**](https://github.com/cds-astro/fitsrs): FITS reader lib implemented in pure Rust with nom crate
 * [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
