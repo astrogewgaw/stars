@@ -404,7 +404,6 @@
 * [**h-enk/doks**](https://github.com/h-enk/doks): Hugo theme helping you build modern documentation websites.
 * [**jakobnissen/hardware_introduction**](https://github.com/jakobnissen/hardware_introduction): What scientific programmers must know about CPUs and RAM to write fast code.
 * [**swcarpentry/shell-novice**](https://github.com/swcarpentry/shell-novice): The Unix Shell
-* [**laserkelvin/yaml-resume**](https://github.com/laserkelvin/yaml-resume): A one-stop shop for academic/industry resume and CV formatting using YAML and Jinja2
 * [**GetPublii/Publii**](https://github.com/GetPublii/Publii): Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 * [**NuSTARStrayCats/straycats**](https://github.com/NuSTARStrayCats/straycats): Repo for tracking the NuSTAR Straylight Catalog
 * [**laserkelvin/astrochemdis2021**](https://github.com/laserkelvin/astrochemdis2021): Talk for Astrochemistry Discussions 2021 on unknown unknown's
@@ -485,6 +484,7 @@
 
 ## Julia
 
+* [**sl-solution/InMemoryDatasets.jl**](https://github.com/sl-solution/InMemoryDatasets.jl): Multithreaded package for working with tabular data in Julia
 * [**JuliaLabs/Cassette.jl**](https://github.com/JuliaLabs/Cassette.jl): Overdub Your Julia Code
 * [**aviatesk/JET.jl**](https://github.com/aviatesk/JET.jl): An experimental code analyzer for Julia, no need for additional type annotations
 * [**timholy/SnoopCompile.jl**](https://github.com/timholy/SnoopCompile.jl): Making packages work faster with more extensive precompilation
@@ -876,6 +876,7 @@
 * [**opsdisk/the_cyber_plumbers_handbook**](https://github.com/opsdisk/the_cyber_plumbers_handbook): Free copy of The Cyber Plumber's Handbook
 * [**gully/awesome-astrodata**](https://github.com/gully/awesome-astrodata): Awesome list for astronomy data and resources for self-learning
 * [**adriennefriend/imposter-syndrome-disclaimer**](https://github.com/adriennefriend/imposter-syndrome-disclaimer): Invitation to contribute by acknowledging our humanity
+* [**sigma-py/quadpy**](https://github.com/sigma-py/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 * [**jasonwebb/morphogenesis-resources**](https://github.com/jasonwebb/morphogenesis-resources): Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
 * [**machiav3lli/alt3rnative**](https://github.com/machiav3lli/alt3rnative): Resources of knowledge and tools from and for the digital world.
 * [**rothgar/awesome-tuis**](https://github.com/rothgar/awesome-tuis): List of projects that provide terminal user interfaces
@@ -1141,7 +1142,7 @@
 * [**PyGithub/PyGithub**](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3
 * [**Qix-/better-exceptions**](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automatically.
 * [**pallets/click**](https://github.com/pallets/click): Python composable command line interface toolkit
-* [**nschloe/accupy**](https://github.com/nschloe/accupy): :dart: Accurate sums and dot products for Python.
+* [**sigma-py/accupy**](https://github.com/sigma-py/accupy): :dart: Accurate sums and dot products for Python.
 * [**nschloe/cplot**](https://github.com/nschloe/cplot): :rainbow: Plot complex functions
 * [**regro/rever**](https://github.com/regro/rever): Releaser of Versions
 * [**asdf-format/asdf**](https://github.com/asdf-format/asdf): ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data
@@ -1188,7 +1189,6 @@
 * [**Matthias1590/ConsoleDraw**](https://github.com/Matthias1590/ConsoleDraw): A python module to update the console without flashing.
 * [**mwouts/jupytext**](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 * [**kkma89/dmcalc**](https://github.com/kkma89/dmcalc): Python code to calculate in-band dispersion measure of pulsars
-* [**nschloe/quadpy**](https://github.com/nschloe/quadpy): :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 * [**aabdurrouf/piXedfit**](https://github.com/aabdurrouf/piXedfit): piXedfit is a Python package designed for analyzing spatially resolved SEDs of galaxies
 * [**ksons/ln.py**](https://github.com/ksons/ln.py): The 3D Line Art Engine for Python
 * [**out-of-cheese-error/pyln**](https://github.com/out-of-cheese-error/pyln): 3D line art engine (Python port of fogleman/ln)
@@ -1890,6 +1890,7 @@
 
 ## TeX
 
+* [**astrogewgaw/whyjulia**](https://github.com/astrogewgaw/whyjulia): Proposal to adopt Julia for the GHRSS survey codebase.
 * [**sisl/juliaplots.sty**](https://github.com/sisl/juliaplots.sty): A latex package for displaying plots made in Julia
 * [**Tufte-LaTeX/tufte-latex**](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books
 * [**ViniciusBRodrigues/simple-tufte-beamer**](https://github.com/ViniciusBRodrigues/simple-tufte-beamer): Simple and minimalistic beamer template using Tufte-LaTeX style
