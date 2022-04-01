@@ -289,7 +289,7 @@
 * [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
 * [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
-* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Bonzai™ Command Compositor
+* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Go Bonzai™ command compositor, meticulously manicured monoliths, on any device
 * [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
@@ -484,6 +484,7 @@
 
 ## Julia
 
+* [**JunoLab/Traceur.jl**](https://github.com/JunoLab/Traceur.jl): *No description*
 * [**sl-solution/InMemoryDatasets.jl**](https://github.com/sl-solution/InMemoryDatasets.jl): Multithreaded package for working with tabular data in Julia
 * [**JuliaLabs/Cassette.jl**](https://github.com/JuliaLabs/Cassette.jl): Overdub Your Julia Code
 * [**aviatesk/JET.jl**](https://github.com/aviatesk/JET.jl): An experimental code analyzer for Julia, no need for additional type annotations
