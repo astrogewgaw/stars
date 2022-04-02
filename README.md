@@ -289,7 +289,7 @@
 * [**calyptia/go-bubble-table**](https://github.com/calyptia/go-bubble-table): TUI table component for Bubbletea.
 * [**muesli/ansi**](https://github.com/muesli/ansi): Raw ANSI sequence helpers
 * [**muesli/termenv**](https://github.com/muesli/termenv): Advanced ANSI style & color support for your terminal applications
-* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): Go Bonzai™ command compositor, meticulously manicured monoliths, on any device
+* [**rwxrob/bonzai**](https://github.com/rwxrob/bonzai): 🌳 Go Bonzai™ Composite Commander, meticulously manicured monolith and multicall binaries, built from imported composite commands, on any device, with recursive, light-weight tab completion, and colorful embedded documentation from terminal or local web browser. Replace messy collections of shell scripts ported to clean Go.
 * [**tidwall/gjson**](https://github.com/tidwall/gjson): Get JSON values quickly - JSON parser for Go
 * [**76creates/stickers**](https://github.com/76creates/stickers): Building blocks for charmbracelet/lipgloss 👾
 * [**karan/joe**](https://github.com/karan/joe): :running: A .gitignore magician in your command line
@@ -491,7 +491,6 @@
 * [**timholy/SnoopCompile.jl**](https://github.com/timholy/SnoopCompile.jl): Making packages work faster with more extensive precompilation
 * [**kimikage/ProfileSVG.jl**](https://github.com/kimikage/ProfileSVG.jl): Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
 * [**giordano/PkgCleanup.jl**](https://github.com/giordano/PkgCleanup.jl): *No description*
-* [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**cjdoris/LogarithmicNumbers.jl**](https://github.com/cjdoris/LogarithmicNumbers.jl): A logarithmic number system for Julia.
 * [**JuliaArrays/OffsetArrays.jl**](https://github.com/JuliaArrays/OffsetArrays.jl): Fortran-like arrays with arbitrary, zero or negative starting indices.
 * [**JuliaArrays/StackViews.jl**](https://github.com/JuliaArrays/StackViews.jl): no more 🐱🐱
@@ -759,7 +758,7 @@
 * [**Morisset/pyCloudy**](https://github.com/Morisset/pyCloudy): Repository for the pyCloudy package
 * [**yobibyte/prettyplots**](https://github.com/yobibyte/prettyplots): Design your own matplotlib stylefile interactively
 * [**abigailStev/NICER_exploration**](https://github.com/abigailStev/NICER_exploration): Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.
-* [**cbouy/mols2grid**](https://github.com/cbouy/mols2grid): Interactive chemical viewer for 2D structures of small molecules
+* [**cbouy/mols2grid**](https://github.com/cbouy/mols2grid): Interactive molecule viewer for 2D structures
 * [**KshitijAggarwal/rfclustering**](https://github.com/KshitijAggarwal/rfclustering): Scripts used in clustering analysis of Realfast Candidates
 * [**eugeneh101/Advanced-Python**](https://github.com/eugeneh101/Advanced-Python): Code like a pro!
 * [**Zafiirah13/FRBID**](https://github.com/Zafiirah13/FRBID): MeerKAT Fast Radio Burst Intelligent Distinguisher using Deep Learning
@@ -944,11 +943,13 @@
 
 ## Python
 
+* [**PAHFIT/pahfit**](https://github.com/PAHFIT/pahfit): Model Decomposition for Near- to Mid-Infrared Spectroscopy of Astronomical Sources
 * [**slavfox/Cozette**](https://github.com/slavfox/Cozette): A bitmap programming font optimized for coziness 💜
 * [**ful1e5/Bibata_Cursor**](https://github.com/ful1e5/Bibata_Cursor): Opensource, compact, and material-designed cursor set.
 * [**gajjarv/PulsarSearch**](https://github.com/gajjarv/PulsarSearch): *No description*
 * [**jlvdb/astropandas**](https://github.com/jlvdb/astropandas): Tools to expand on pandas functionality for astronomical operations
 * [**paw-lu/nbpreview**](https://github.com/paw-lu/nbpreview): A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
+* [**astrogewgaw/DeDisp.jl**](https://github.com/astrogewgaw/DeDisp.jl): Dedispersion, implemented in Julia.
 * [**kelvindecosta/picharsso**](https://github.com/kelvindecosta/picharsso): :art: A utility for converting images to text art.
 * [**dewberryants/asciiMol**](https://github.com/dewberryants/asciiMol): Curses based ASCII molecule viewer for linux terminals.
 * [**yuchenlin/rebiber**](https://github.com/yuchenlin/rebiber): A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
@@ -1327,7 +1328,7 @@
 * [**nschloe/fontman**](https://github.com/nschloe/fontman): Manage and update your installed fonts.
 * [**mwilliamson/python-vendorize**](https://github.com/mwilliamson/python-vendorize): Vendorize packages from PyPI
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
-* [**hfansion/curvefitting**](https://github.com/hfansion/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
+* [**jadulose/curvefitting**](https://github.com/jadulose/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
 * [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
