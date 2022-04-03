@@ -279,7 +279,7 @@
 * [**evan-buss/openbooks**](https://github.com/evan-buss/openbooks): Search and Download eBooks
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
-* [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLSX) files.
+* [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 * [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
@@ -484,6 +484,22 @@
 
 ## Julia
 
+* [**JuliaData/TableOperations.jl**](https://github.com/JuliaData/TableOperations.jl): Common table operations on Tables.jl interface implementations
+* [**JuliaStats/TimeSeries.jl**](https://github.com/JuliaStats/TimeSeries.jl): Time series toolkit for Julia
+* [**queryverse/Query.jl**](https://github.com/queryverse/Query.jl): Query almost anything in julia
+* [**queryverse/IterableTables.jl**](https://github.com/queryverse/IterableTables.jl): Implementations of the TableTraits.jl interface for various packages
+* [**queryverse/ExcelFiles.jl**](https://github.com/queryverse/ExcelFiles.jl): FileIO.jl integration for Excel files
+* [**queryverse/CSVFiles.jl**](https://github.com/queryverse/CSVFiles.jl): FileIO.jl integration for CSV files
+* [**JuliaIO/Tar.jl**](https://github.com/JuliaIO/Tar.jl): TAR files: create, list, extract them in pure Julia
+* [**JuliaWeb/HttpCommon.jl**](https://github.com/JuliaWeb/HttpCommon.jl): Types and helper functions for dealing with the HTTP in Julia
+* [**JuliaIO/EzXML.jl**](https://github.com/JuliaIO/EzXML.jl): XML/HTML handling tools for primates
+* [**JuliaWeb/GitHub.jl**](https://github.com/JuliaWeb/GitHub.jl): A Julia package for interfacing with GitHub
+* [**JuliaCollections/AbstractTrees.jl**](https://github.com/JuliaCollections/AbstractTrees.jl): Abstract julia interfaces for working with trees
+* [**Algocircle/Cascadia.jl**](https://github.com/Algocircle/Cascadia.jl): A CSS Selector library in Julia
+* [**JuliaWeb/Gumbo.jl**](https://github.com/JuliaWeb/Gumbo.jl): Julia wrapper around Google's gumbo C library for parsing HTML
+* [**JuliaData/DataFramesMeta.jl**](https://github.com/JuliaData/DataFramesMeta.jl): Metaprogramming tools for DataFrames
+* [**nalimilan/FreqTables.jl**](https://github.com/nalimilan/FreqTables.jl): Frequency tables in Julia
+* [**JuliaData/CategoricalArrays.jl**](https://github.com/JuliaData/CategoricalArrays.jl): Arrays for working with categorical data (both nominal and ordinal)
 * [**JunoLab/Traceur.jl**](https://github.com/JunoLab/Traceur.jl): *No description*
 * [**sl-solution/InMemoryDatasets.jl**](https://github.com/sl-solution/InMemoryDatasets.jl): Multithreaded package for working with tabular data in Julia
 * [**JuliaLabs/Cassette.jl**](https://github.com/JuliaLabs/Cassette.jl): Overdub Your Julia Code
@@ -700,6 +716,7 @@
 
 ## Jupyter Notebook
 
+* [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
 * [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the ST.py file.
 * [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
