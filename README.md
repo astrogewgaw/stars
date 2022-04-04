@@ -775,7 +775,6 @@
 * [**Morisset/pyCloudy**](https://github.com/Morisset/pyCloudy): Repository for the pyCloudy package
 * [**yobibyte/prettyplots**](https://github.com/yobibyte/prettyplots): Design your own matplotlib stylefile interactively
 * [**abigailStev/NICER_exploration**](https://github.com/abigailStev/NICER_exploration): Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.
-* [**cbouy/mols2grid**](https://github.com/cbouy/mols2grid): Interactive molecule viewer for 2D structures
 * [**KshitijAggarwal/rfclustering**](https://github.com/KshitijAggarwal/rfclustering): Scripts used in clustering analysis of Realfast Candidates
 * [**eugeneh101/Advanced-Python**](https://github.com/eugeneh101/Advanced-Python): Code like a pro!
 * [**Zafiirah13/FRBID**](https://github.com/Zafiirah13/FRBID): MeerKAT Fast Radio Burst Intelligent Distinguisher using Deep Learning
@@ -960,6 +959,8 @@
 
 ## Python
 
+* [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
+* [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
 * [**PAHFIT/pahfit**](https://github.com/PAHFIT/pahfit): Model Decomposition for Near- to Mid-Infrared Spectroscopy of Astronomical Sources
 * [**slavfox/Cozette**](https://github.com/slavfox/Cozette): A bitmap programming font optimized for coziness 💜
 * [**ful1e5/Bibata_Cursor**](https://github.com/ful1e5/Bibata_Cursor): Opensource, compact, and material-designed cursor set.
@@ -1500,6 +1501,7 @@
 * [**olgabot/prettyplotlib**](https://github.com/olgabot/prettyplotlib): Painlessly create beautiful matplotlib plots.
 * [**dlakaplan/pulsarsurveyscraper**](https://github.com/dlakaplan/pulsarsurveyscraper): *No description*
 * [**tbisbas/PDFchem**](https://github.com/tbisbas/PDFchem): Estimate the average abundance of species from Av-PDFs
+* [**cbouy/mols2grid**](https://github.com/cbouy/mols2grid): Interactive molecule viewer for 2D structures
 * [**arrow-py/arrow**](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
 * [**rholder/retrying**](https://github.com/rholder/retrying): Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
 * [**dcmvdbekerom/pypdfplot**](https://github.com/dcmvdbekerom/pypdfplot): Pypdfplot uses pyplot to produce plots in PDF-format with the python script and data files embedded. The plot can be edited by changing filename from .pdf to .py and running the script again.
