@@ -274,6 +274,7 @@
 
 ## Go
 
+* [**zyedidia/micro**](https://github.com/zyedidia/micro): A modern and intuitive terminal-based text editor
 * [**oz/tz**](https://github.com/oz/tz): 🌐 A time zone helper
 * [**MarvinJWendt/testza**](https://github.com/MarvinJWendt/testza): Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
 * [**evan-buss/openbooks**](https://github.com/evan-buss/openbooks): Search and Download eBooks
@@ -390,6 +391,7 @@
 
 ## HTML
 
+* [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -422,6 +424,7 @@
 
 ## JavaScript
 
+* [**vizzuhq/vizzu-lib**](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
 * [**hendricius/pizza-dough**](https://github.com/hendricius/pizza-dough): This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [**danvk/dygraphs**](https://github.com/danvk/dygraphs): Interactive visualizations of time series using JavaScript and the HTML canvas tag
 * [**shutterstock/rickshaw**](https://github.com/shutterstock/rickshaw): JavaScript toolkit for creating interactive real-time graphs
@@ -718,7 +721,7 @@
 
 * [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
-* [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the ST.py file.
+* [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the folder called "scattering".
 * [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
 * [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
