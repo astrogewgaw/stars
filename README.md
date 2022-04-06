@@ -274,6 +274,9 @@
 
 ## Go
 
+* [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
+* [**knipferrc/bubbletea-starter**](https://github.com/knipferrc/bubbletea-starter): Starting point for a bubbletea app
+* [**knipferrc/teacup**](https://github.com/knipferrc/teacup): A collection of bubbles and utilities for bubbletea applications
 * [**zyedidia/micro**](https://github.com/zyedidia/micro): A modern and intuitive terminal-based text editor
 * [**oz/tz**](https://github.com/oz/tz): 🌐 A time zone helper
 * [**MarvinJWendt/testza**](https://github.com/MarvinJWendt/testza): Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
@@ -1914,6 +1917,7 @@
 
 ## TeX
 
+* [**mossr/julia-mono-listings**](https://github.com/mossr/julia-mono-listings): LaTeX listings style for Julia and Unicode support for the JuliaMono font
 * [**astrogewgaw/whyjulia**](https://github.com/astrogewgaw/whyjulia): Proposal to adopt Julia for the GHRSS survey codebase.
 * [**sisl/juliaplots.sty**](https://github.com/sisl/juliaplots.sty): A latex package for displaying plots made in Julia
 * [**Tufte-LaTeX/tufte-latex**](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books
