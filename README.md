@@ -611,7 +611,7 @@
 * [**JuliaIO/HDF5.jl**](https://github.com/JuliaIO/HDF5.jl): Save and load data in the HDF5 file format from Julia
 * [**JuliaGraphics/Luxor.jl**](https://github.com/JuliaGraphics/Luxor.jl): Simple drawings using vector graphics; Cairo "for tourists!"
 * [**JuliaCI/BenchmarkTools.jl**](https://github.com/JuliaCI/BenchmarkTools.jl): A benchmarking framework for the Julia language
-* [**tkf/Maybe.jl**](https://github.com/tkf/Maybe.jl): Optional value handling for Julia
+* [**JuliaPreludes/Maybe.jl**](https://github.com/JuliaPreludes/Maybe.jl): Optional value handling for Julia
 * [**GiovineItalia/Gadfly.jl**](https://github.com/GiovineItalia/Gadfly.jl): Crafty statistical graphics for Julia.
 * [**JuliaSIMD/LoopVectorization.jl**](https://github.com/JuliaSIMD/LoopVectorization.jl): Macro(s) for vectorizing loops.
 * [**MechanicalRabbit/FunSQL.jl**](https://github.com/MechanicalRabbit/FunSQL.jl): Julia library for compositional construction of SQL queries
@@ -619,7 +619,7 @@
 * [**JuliaArrays/AxisArrays.jl**](https://github.com/JuliaArrays/AxisArrays.jl): Performant arrays where each dimension can have a named axis with values
 * [**rafaqz/DimensionalData.jl**](https://github.com/rafaqz/DimensionalData.jl): Named dimensions and indexing for julia arrays and other data
 * [**rikhuijzer/Skans.jl**](https://github.com/rikhuijzer/Skans.jl): Monitor web pages and get notified when a page has changed
-* [**tkf/Try.jl**](https://github.com/tkf/Try.jl): Zero-overhead and debuggable error handling
+* [**JuliaPreludes/Try.jl**](https://github.com/JuliaPreludes/Try.jl): Zero-overhead and debuggable error handling
 * [**JuliaCollections/DataStructures.jl**](https://github.com/JuliaCollections/DataStructures.jl): Julia implementation of Data structures
 * [**JuliaArrays/StaticArrays.jl**](https://github.com/JuliaArrays/StaticArrays.jl): Statically sized arrays for Julia
 * [**JuliaGizmos/Blink.jl**](https://github.com/JuliaGizmos/Blink.jl): Web-based GUIs for Julia
@@ -1579,7 +1579,7 @@
 * [**agronholm/apscheduler**](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [**SiggiGue/hdfdict**](https://github.com/SiggiGue/hdfdict): Helps h5py to dump and load dictionaries.
 * [**AstraZeneca/kallisto**](https://github.com/AstraZeneca/kallisto): Efficiently calculate 3D-atomic/molecular features for quantitative structure-activity relationship approaches.
-* [**archivy/archivy**](https://github.com/archivy/archivy): Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
+* [**archivy/archivy**](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [**astropy/astroquery**](https://github.com/astropy/astroquery): Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz and @ceb8
 * [**jensengroup/xyz2mol**](https://github.com/jensengroup/xyz2mol): Converts an xyz file to an RDKit mol object
 * [**textext/textext**](https://github.com/textext/textext): Re-editable LaTeX graphics for Inkscape
