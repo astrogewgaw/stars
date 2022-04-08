@@ -115,6 +115,7 @@
 
 ## C++
 
+* [**flameshot-org/flameshot**](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [**grasph/wrapit**](https://github.com/grasph/wrapit): Automatization of C++--Julia wrapper generation
 * [**wjakob/nanobind**](https://github.com/wjakob/nanobind): nanobind — Seamless operability between C++17 and Python
 * [**telegraphic/tcc**](https://github.com/telegraphic/tcc): *No description*
@@ -201,7 +202,7 @@
 
 ## CSS
 
-* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Playing with terminal utilities in Julia
+* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Julia library for stylized terminal output
 * [**braver/programmingfonts**](https://github.com/braver/programmingfonts): Test drive programming fonts online
 * [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -1200,7 +1201,7 @@
 * [**anki-code/xunter**](https://github.com/anki-code/xunter): Profiling for the xonsh shell based on hunter.
 * [**ionelmc/python-hunter**](https://github.com/ionelmc/python-hunter): Hunter is a flexible code tracing toolkit.
 * [**pyston/pyston**](https://github.com/pyston/pyston): A faster and highly-compatible implementation of the Python programming language.
-* [**facebookincubator/cinder**](https://github.com/facebookincubator/cinder): Instagram's performance oriented fork of CPython.
+* [**facebookincubator/cinder**](https://github.com/facebookincubator/cinder): Cinder is Meta's internal performance-oriented production version of CPython.
 * [**anki-code/xonsh-cheatsheet**](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 * [**lark-parser/lark**](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 * [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains): more easily searchable list of explains playlist
