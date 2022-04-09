@@ -491,6 +491,9 @@
 
 ## Julia
 
+* [**JuliaTPU/XLA.jl**](https://github.com/JuliaTPU/XLA.jl): Julia on TPUs
+* [**JuliaLang/DelimitedFiles.jl**](https://github.com/JuliaLang/DelimitedFiles.jl): A package for reading and writing files with delimited values (Originally a Julia stdlib)
+* [**JuliaFolds/ParallelMagics.jl**](https://github.com/JuliaFolds/ParallelMagics.jl): Safe parallelism using compiler analysis
 * [**JuliaData/TableOperations.jl**](https://github.com/JuliaData/TableOperations.jl): Common table operations on Tables.jl interface implementations
 * [**JuliaStats/TimeSeries.jl**](https://github.com/JuliaStats/TimeSeries.jl): Time series toolkit for Julia
 * [**queryverse/Query.jl**](https://github.com/queryverse/Query.jl): Query almost anything in julia
@@ -723,6 +726,7 @@
 
 ## Jupyter Notebook
 
+* [**pharaofranz/fundamentals_of_interferometry**](https://github.com/pharaofranz/fundamentals_of_interferometry): Fundamentals of Radio Interferometry and Aperture Synthesis Book
 * [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
 * [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the folder called "scattering".
@@ -966,6 +970,8 @@
 
 ## Python
 
+* [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
+* [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
 * [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
 * [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
 * [**PAHFIT/pahfit**](https://github.com/PAHFIT/pahfit): Model Decomposition for Near- to Mid-Infrared Spectroscopy of Astronomical Sources
