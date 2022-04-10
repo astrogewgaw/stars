@@ -395,7 +395,6 @@
 
 ## HTML
 
-* [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -970,8 +969,10 @@
 
 ## Python
 
+* [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
 * [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
+* [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
 * [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
 * [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
 * [**PAHFIT/pahfit**](https://github.com/PAHFIT/pahfit): Model Decomposition for Near- to Mid-Infrared Spectroscopy of Astronomical Sources
@@ -1557,7 +1558,7 @@
 * [**FRBs/pulsars**](https://github.com/FRBs/pulsars): Code (Python) and files related to Pulsars with emphasis on FRB research
 * [**FRBs/sigpyproc3**](https://github.com/FRBs/sigpyproc3): Python3 version of Ewan Barr's sigpyproc library
 * [**ytdl-org/youtube-dl**](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-* [**seebye/ueberzug**](https://github.com/seebye/ueberzug): ueberzug is a command line util which allows to display images in combination with X11
+* [**seebye/ueberzug**](https://github.com/seebye/ueberzug): ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/Troubleshooting/119e30f331799b30fb9594db29740685cb09425b
 * [**trailofbits/graphtage**](https://github.com/trailofbits/graphtage): A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 * [**Jammy2211/PyAutoLens**](https://github.com/Jammy2211/PyAutoLens): PyAutoLens: Open Source Strong Gravitational Lensing
 * [**MathInspector/MathInspector**](https://github.com/MathInspector/MathInspector): A visual programing environment for scientific computing with python
@@ -1955,7 +1956,7 @@
 
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
-* [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+* [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): GitHub Action for GoReleaser
