@@ -115,6 +115,7 @@
 
 ## C++
 
+* [**vslavik/diff-pdf**](https://github.com/vslavik/diff-pdf): A simple tool for visually comparing two PDF files
 * [**flameshot-org/flameshot**](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [**grasph/wrapit**](https://github.com/grasph/wrapit): Automatization of C++--Julia wrapper generation
 * [**wjakob/nanobind**](https://github.com/wjakob/nanobind): nanobind — Seamless operability between C++17 and Python
@@ -275,6 +276,7 @@
 
 ## Go
 
+* [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
 * [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
 * [**knipferrc/bubbletea-starter**](https://github.com/knipferrc/bubbletea-starter): Starting point for a bubbletea app
 * [**knipferrc/teacup**](https://github.com/knipferrc/teacup): A collection of bubbles and utilities for bubbletea applications
@@ -427,6 +429,7 @@
 
 ## JavaScript
 
+* [**gillescastel/instant-reference**](https://github.com/gillescastel/instant-reference): Instant Pdf Referencing
 * [**vizzuhq/vizzu-lib**](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
 * [**hendricius/pizza-dough**](https://github.com/hendricius/pizza-dough): This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [**danvk/dygraphs**](https://github.com/danvk/dygraphs): Interactive visualizations of time series using JavaScript and the HTML canvas tag
@@ -438,6 +441,7 @@
 * [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
+* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
@@ -490,6 +494,8 @@
 
 ## Julia
 
+* [**JuliaStats/Clustering.jl**](https://github.com/JuliaStats/Clustering.jl): A Julia package for data clustering
+* [**JuliaStats/StatsKit.jl**](https://github.com/JuliaStats/StatsKit.jl): Convenience meta-package to load essential packages for statistics
 * [**JuliaTPU/XLA.jl**](https://github.com/JuliaTPU/XLA.jl): Julia on TPUs
 * [**JuliaLang/DelimitedFiles.jl**](https://github.com/JuliaLang/DelimitedFiles.jl): A package for reading and writing files with delimited values (Originally a Julia stdlib)
 * [**JuliaFolds/ParallelMagics.jl**](https://github.com/JuliaFolds/ParallelMagics.jl): Safe parallelism using compiler analysis
@@ -1677,6 +1683,7 @@
 
 ## Rust
 
+* [**pacak/bpaf**](https://github.com/pacak/bpaf): Command line parser with applicative interface
 * [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
 * [**arijit79/minus**](https://github.com/arijit79/minus): A small, asynchronous paging library for Rust
 * [**cds-astro/fitsrs**](https://github.com/cds-astro/fitsrs): FITS reader lib implemented in pure Rust with nom crate
@@ -1892,7 +1899,6 @@
 * [**adi1090x/rofi**](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [**adi1090x/polybar-themes**](https://github.com/adi1090x/polybar-themes): A huge collection of polybar themes with different styles, colors and variants.
 * [**xero/dotfiles**](https://github.com/xero/dotfiles): ▒ rice ░░  custom linux config files
-* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
