@@ -276,6 +276,7 @@
 
 ## Go
 
+* [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
 * [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
 * [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
 * [**knipferrc/bubbletea-starter**](https://github.com/knipferrc/bubbletea-starter): Starting point for a bubbletea app
@@ -497,7 +498,7 @@
 * [**JuliaStats/Clustering.jl**](https://github.com/JuliaStats/Clustering.jl): A Julia package for data clustering
 * [**JuliaStats/StatsKit.jl**](https://github.com/JuliaStats/StatsKit.jl): Convenience meta-package to load essential packages for statistics
 * [**JuliaTPU/XLA.jl**](https://github.com/JuliaTPU/XLA.jl): Julia on TPUs
-* [**JuliaLang/DelimitedFiles.jl**](https://github.com/JuliaLang/DelimitedFiles.jl): A package for reading and writing files with delimited values (Originally a Julia stdlib)
+* [**JuliaData/DelimitedFiles.jl**](https://github.com/JuliaData/DelimitedFiles.jl): A package for reading and writing files with delimited values (Originally a Julia stdlib)
 * [**JuliaFolds/ParallelMagics.jl**](https://github.com/JuliaFolds/ParallelMagics.jl): Safe parallelism using compiler analysis
 * [**JuliaData/TableOperations.jl**](https://github.com/JuliaData/TableOperations.jl): Common table operations on Tables.jl interface implementations
 * [**JuliaStats/TimeSeries.jl**](https://github.com/JuliaStats/TimeSeries.jl): Time series toolkit for Julia
@@ -731,6 +732,7 @@
 
 ## Jupyter Notebook
 
+* [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**pharaofranz/fundamentals_of_interferometry**](https://github.com/pharaofranz/fundamentals_of_interferometry): Fundamentals of Radio Interferometry and Aperture Synthesis Book
 * [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
@@ -880,6 +882,7 @@
 
 ## Others
 
+* [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
 * [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
