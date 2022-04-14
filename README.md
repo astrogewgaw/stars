@@ -455,7 +455,6 @@
 * [**astrofrog/acknowledgment-generator**](https://github.com/astrofrog/acknowledgment-generator): Easily generate acknowledgment sections for papers
 * [**saltcorn/saltcorn**](https://github.com/saltcorn/saltcorn): Free and open source no-code application builder
 * [**grocy/grocy**](https://github.com/grocy/grocy): ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-* [**ageller/Firefly**](https://github.com/ageller/Firefly): A WebGL interactive particle viewer
 * [**nbremer/figuresinthesky**](https://github.com/nbremer/figuresinthesky): How current & past cultures across the World have seen their myths and legends in the stars
 * [**TRASAL/frbcat-web**](https://github.com/TRASAL/frbcat-web): FRBCat web
 * [**BetterDiscord/BetterDiscord**](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
@@ -495,6 +494,7 @@
 
 ## Julia
 
+* [**stevengj/PythonPlot.jl**](https://github.com/stevengj/PythonPlot.jl): Plotting for Julia based on matplotlib.pyplot
 * [**JuliaStats/Clustering.jl**](https://github.com/JuliaStats/Clustering.jl): A Julia package for data clustering
 * [**JuliaStats/StatsKit.jl**](https://github.com/JuliaStats/StatsKit.jl): Convenience meta-package to load essential packages for statistics
 * [**JuliaTPU/XLA.jl**](https://github.com/JuliaTPU/XLA.jl): Julia on TPUs
@@ -732,6 +732,8 @@
 
 ## Jupyter Notebook
 
+* [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
+* [**Hazboun6/data_analysis_tutorial**](https://github.com/Hazboun6/data_analysis_tutorial): A tutorial for Bayesian Inference to do data analysis
 * [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**pharaofranz/fundamentals_of_interferometry**](https://github.com/pharaofranz/fundamentals_of_interferometry): Fundamentals of Radio Interferometry and Aperture Synthesis Book
 * [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
@@ -771,6 +773,7 @@
 * [**marceloprates/prettymaps**](https://github.com/marceloprates/prettymaps): A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 * [**farr/Astrostatistics**](https://github.com/farr/Astrostatistics): A romp through the field of modern astrostatistics.
 * [**agoose77/literary**](https://github.com/agoose77/literary): Literate Python package development with Jupyter
+* [**ageller/Firefly**](https://github.com/ageller/Firefly): A WebGL interactive particle viewer
 * [**eblur/pyxsis**](https://github.com/eblur/pyxsis): Python code for manipulating high resolution X-ray spectra
 * [**daniestevez/gr-satellites**](https://github.com/daniestevez/gr-satellites): GNU Radio decoder for Amateur satellites
 * [**lmmentel/srbogrid**](https://github.com/lmmentel/srbogrid): Space-Reduced Bond-Order grid for diatomics
@@ -882,6 +885,7 @@
 
 ## Others
 
+* [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
 * [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
 * [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
@@ -978,6 +982,8 @@
 
 ## Python
 
+* [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
+* [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century!
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
 * [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
@@ -1752,7 +1758,7 @@
 * [**djc/askama**](https://github.com/djc/askama): Type-safe, compiled Jinja-like templates for Rust
 * [**leftwm/leftwm**](https://github.com/leftwm/leftwm): LeftWM - A tiling window manager for Adventurers
 * [**mitsuhiko/when**](https://github.com/mitsuhiko/when): Timezones from the command line
-* [**rust-analyzer/rust-analyzer**](https://github.com/rust-analyzer/rust-analyzer): A Rust compiler front-end for IDEs
+* [**rust-lang/rust-analyzer**](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 * [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
