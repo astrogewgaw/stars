@@ -277,6 +277,7 @@
 ## Go
 
 * [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
+* [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
 * [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
 * [**knipferrc/bubbletea-starter**](https://github.com/knipferrc/bubbletea-starter): Starting point for a bubbletea app
@@ -430,6 +431,7 @@
 
 ## JavaScript
 
+* [**MichaelHatherly/Publish.jl**](https://github.com/MichaelHatherly/Publish.jl): A universal document authoring package for Julia.
 * [**gillescastel/instant-reference**](https://github.com/gillescastel/instant-reference): Instant Pdf Referencing
 * [**vizzuhq/vizzu-lib**](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
 * [**hendricius/pizza-dough**](https://github.com/hendricius/pizza-dough): This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
@@ -886,7 +888,6 @@
 ## Others
 
 * [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
-* [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
 * [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
@@ -983,7 +984,7 @@
 ## Python
 
 * [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
-* [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century!
+* [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
 * [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
@@ -1800,7 +1801,7 @@
 * [**mitsuhiko/dialoguer**](https://github.com/mitsuhiko/dialoguer): Rust utility library for nice command line prompts and similar things
 * [**console-rs/console**](https://github.com/console-rs/console): A rust console and terminal abstraction
 * [**David-OConnor/pyflow**](https://github.com/David-OConnor/pyflow): An installation and dependency system for Python
-* [**pyros2097/rust-embed**](https://github.com/pyros2097/rust-embed): Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+* [**pyrossh/rust-embed**](https://github.com/pyrossh/rust-embed): Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 * [**al-jshen/compute**](https://github.com/al-jshen/compute): Scientific and statistical computing with Rust.
 * [**tree-sitter/tree-sitter**](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools
 * [**rust-phf/rust-phf**](https://github.com/rust-phf/rust-phf): Compile time static maps for Rust
