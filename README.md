@@ -276,6 +276,7 @@
 
 ## Go
 
+* [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
 * [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
 * [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
@@ -762,7 +763,7 @@
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
-* [**cgobat/Be-star-binaries**](https://github.com/cgobat/Be-star-binaries): Seeking to identify and understand Be stars in (x-ray) binary systems.
+* [**cgobat/XDBS**](https://github.com/cgobat/XDBS): Seeking to identify and understand Be stars in (x-ray) binary systems.
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
 * [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
@@ -983,6 +984,7 @@
 
 ## Python
 
+* [**pmaupin/pdfrw**](https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
 * [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
 * [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
@@ -1098,7 +1100,7 @@
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
 * [**andrewcharlesjones/plottify**](https://github.com/andrewcharlesjones/plottify): A simple matplotlib wrapper that automatically scales font sizes, scatter point sizes, and line widths to be proportional to figure size.
-* [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): :see_no_evil: Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+* [**PabloLec/RecoverPy**](https://github.com/PabloLec/RecoverPy): Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 * [**StingraySoftware/stingray**](https://github.com/StingraySoftware/stingray): Anything can happen in the next half hour (including spectral timing made easy)!
 * [**shriharshtendulkar/RFIND**](https://github.com/shriharshtendulkar/RFIND): Broadband RFI Localization from interferometric visibility data
 * [**LeviBorodenko/primify**](https://github.com/LeviBorodenko/primify): Embed any image into a prime number.
@@ -1307,7 +1309,7 @@
 * [**encode/httpx**](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [**peterniuzai/FAST_FRB**](https://github.com/peterniuzai/FAST_FRB): FAST FRB offline Pipeline. This Pipeline can do a search using 21 GPU nodes simultaneously, each with 2 RTX2080 GPU cards.
 * [**MJTemple/qsogen**](https://github.com/MJTemple/qsogen): Model quasar SEDs
-* [**bbilly1/tubearchivist**](https://github.com/bbilly1/tubearchivist): Your self hosted YouTube media server
+* [**tubearchivist/tubearchivist**](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
 * [**PyCQA/pydocstyle**](https://github.com/PyCQA/pydocstyle): docstring style checker
 * [**psheehan/pdspy**](https://github.com/psheehan/pdspy): pdspy: MCMC for Monte Carlo Dust Radiative Transfer Modeling
 * [**pwaller/pyfiglet**](https://github.com/pwaller/pyfiglet): An implementation of figlet written in Python
