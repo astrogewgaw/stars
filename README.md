@@ -432,6 +432,7 @@
 
 ## JavaScript
 
+* [**victrme/Bonjourr**](https://github.com/victrme/Bonjourr): Minimalist & lightweight startpage inspired by iOS
 * [**MichaelHatherly/Publish.jl**](https://github.com/MichaelHatherly/Publish.jl): A universal document authoring package for Julia.
 * [**gillescastel/instant-reference**](https://github.com/gillescastel/instant-reference): Instant Pdf Referencing
 * [**vizzuhq/vizzu-lib**](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
@@ -2025,7 +2026,7 @@
 * [**matze/vim-move**](https://github.com/matze/vim-move): Plugin to move lines and selections up and down
 * [**Lokaltog/neoranger**](https://github.com/Lokaltog/neoranger): Simple ranger wrapper for neovim.
 * [**francoiscabrol/ranger.vim**](https://github.com/francoiscabrol/ranger.vim): Ranger integration in vim and neovim
-* [**kdheepak/JuliaFormatter.vim**](https://github.com/kdheepak/JuliaFormatter.vim): A (n)vim plugin for formatting Julia code using JuliaFormatter.jl.
+* [**kdheepak/JuliaFormatter.vim**](https://github.com/kdheepak/JuliaFormatter.vim): A (N)Vim plugin for formatting Julia code using JuliaFormatter.jl.
 * [**mg979/vim-visual-multi**](https://github.com/mg979/vim-visual-multi): Multiple cursors plugin for vim/neovim
 * [**metakirby5/codi.vim**](https://github.com/metakirby5/codi.vim): :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 * [**Rigellute/rigel**](https://github.com/Rigellute/rigel): 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
