@@ -985,6 +985,7 @@
 
 ## Python
 
+* [**josephwkania/will**](https://github.com/josephwkania/will): Weighted Injector of Luminous Lighthouses
 * [**pmaupin/pdfrw**](https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
 * [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
 * [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
@@ -1901,6 +1902,7 @@
 
 ## Shell
 
+* [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli): A cli tool to browse and play anime
 * [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): Feature-rich Syntax Highlighting for Zsh.
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
