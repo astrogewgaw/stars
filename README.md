@@ -801,7 +801,6 @@
 * [**yobibyte/prettyplots**](https://github.com/yobibyte/prettyplots): Design your own matplotlib stylefile interactively
 * [**abigailStev/NICER_exploration**](https://github.com/abigailStev/NICER_exploration): Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.
 * [**KshitijAggarwal/rfclustering**](https://github.com/KshitijAggarwal/rfclustering): Scripts used in clustering analysis of Realfast Candidates
-* [**eugeneh101/Advanced-Python**](https://github.com/eugeneh101/Advanced-Python): Code like a pro!
 * [**Zafiirah13/FRBID**](https://github.com/Zafiirah13/FRBID): MeerKAT Fast Radio Burst Intelligent Distinguisher using Deep Learning
 * [**danielreardon/scintools**](https://github.com/danielreardon/scintools): Tools for analysing of pulsar scintillations
 * [**rxn4chemistry/rxn_yields**](https://github.com/rxn4chemistry/rxn_yields): Code complementing our manuscript on the prediction of chemical reaction yields (https://iopscience.iop.org/article/10.1088/2632-2153/abc81d) and data augmentation strategies (https://doi.org/10.26434/chemrxiv.13286741).
@@ -835,7 +834,7 @@
 * [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
 * [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
-* [**onsails/lspkind-nvim**](https://github.com/onsails/lspkind-nvim): vscode-like pictograms for neovim lsp completion items
+* [**onsails/lspkind.nvim**](https://github.com/onsails/lspkind.nvim): vscode-like pictograms for neovim lsp completion items
 * [**kosayoda/nvim-lightbulb**](https://github.com/kosayoda/nvim-lightbulb): VSCode 💡 for neovim's built-in LSP.
 * [**folke/which-key.nvim**](https://github.com/folke/which-key.nvim): 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 * [**folke/lua-dev.nvim**](https://github.com/folke/lua-dev.nvim): 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -1981,7 +1980,7 @@
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): GitHub Action for GoReleaser
-* [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Technical documentation that just works
+* [**squidfunk/mkdocs-material**](https://github.com/squidfunk/mkdocs-material): Documentation that simply works
 * [**nextui-org/nextui**](https://github.com/nextui-org/nextui): 🚀   Beautiful, fast and modern React UI library.
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
