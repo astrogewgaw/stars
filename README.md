@@ -984,6 +984,7 @@
 
 ## Python
 
+* [**Zac-HD/shed**](https://github.com/Zac-HD/shed): `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 * [**josephwkania/will**](https://github.com/josephwkania/will): Weighted Injector of Luminous Lighthouses
 * [**pmaupin/pdfrw**](https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
 * [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
