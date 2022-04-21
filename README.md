@@ -55,6 +55,7 @@
 * [**Singularity**](#singularity)
 * [**TeX**](#tex)
 * [**TypeScript**](#typescript)
+* [**Vala**](#vala)
 * [**Vim Snippet**](#vim-snippet)
 * [**Vim script**](#vim-script)
 * [**VimL**](#viml)
@@ -498,6 +499,7 @@
 
 ## Julia
 
+* [**kiranshila/Mimir.jl**](https://github.com/kiranshila/Mimir.jl): A radio transient detection and processing pipeline
 * [**stevengj/PythonPlot.jl**](https://github.com/stevengj/PythonPlot.jl): Plotting for Julia based on matplotlib.pyplot
 * [**JuliaStats/Clustering.jl**](https://github.com/JuliaStats/Clustering.jl): A Julia package for data clustering
 * [**JuliaStats/StatsKit.jl**](https://github.com/JuliaStats/StatsKit.jl): Convenience meta-package to load essential packages for statistics
@@ -744,7 +746,6 @@
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
 * [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the folder called "scattering".
 * [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
-* [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
@@ -1031,6 +1032,7 @@
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
 * [**mhardcastle/radioflux**](https://github.com/mhardcastle/radioflux): Measuring radio flux density with ds9
 * [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
+* [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**mopidy/mopidy**](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [**patrick-kidger/mkposters**](https://github.com/patrick-kidger/mkposters): Make posters from Markdown files.
 * [**nicoddemus/pytest-rich**](https://github.com/nicoddemus/pytest-rich): pytest + rich integration (proof of concept)
@@ -2015,6 +2017,10 @@
 * [**darekkay/dashboard**](https://github.com/darekkay/dashboard): Customizable personal dashboard and startpage
 * [**renovatebot/renovate**](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows.
 * [**CARTAvis/carta-frontend**](https://github.com/CARTAvis/carta-frontend): Source code repository for the frontend component of CARTA, a new visualization tool designed for the ALMA, the VLA and the SKA pathfinders.
+
+## Vala
+
+* [**phw/peek**](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Snippet
 
