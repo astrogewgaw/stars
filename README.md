@@ -433,6 +433,7 @@
 
 ## JavaScript
 
+* [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
 * [**victrme/Bonjourr**](https://github.com/victrme/Bonjourr): Minimalist & lightweight startpage inspired by iOS
 * [**MichaelHatherly/Publish.jl**](https://github.com/MichaelHatherly/Publish.jl): A universal document authoring package for Julia.
 * [**gillescastel/instant-reference**](https://github.com/gillescastel/instant-reference): Instant Pdf Referencing
@@ -499,6 +500,8 @@
 
 ## Julia
 
+* [**cihga39871/Pipelines.jl**](https://github.com/cihga39871/Pipelines.jl): A lightweight Julia package for computational pipelines and workflows.
+* [**cihga39871/JobSchedulers.jl**](https://github.com/cihga39871/JobSchedulers.jl): A Julia-based job scheduler and workload manager inspired by Slurm and PBS.
 * [**kiranshila/Mimir.jl**](https://github.com/kiranshila/Mimir.jl): A radio transient detection and processing pipeline
 * [**stevengj/PythonPlot.jl**](https://github.com/stevengj/PythonPlot.jl): Plotting for Julia based on matplotlib.pyplot
 * [**JuliaStats/Clustering.jl**](https://github.com/JuliaStats/Clustering.jl): A Julia package for data clustering
@@ -823,6 +826,7 @@
 
 ## Lua
 
+* [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
 * [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 * [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A small, documented, and featureful neovim starter config
@@ -985,6 +989,7 @@
 
 ## Python
 
+* [**bloomberg/memray**](https://github.com/bloomberg/memray): Memray is a memory profiler for Python
 * [**Zac-HD/shed**](https://github.com/Zac-HD/shed): `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 * [**josephwkania/will**](https://github.com/josephwkania/will): Weighted Injector of Luminous Lighthouses
 * [**pmaupin/pdfrw**](https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
@@ -1699,6 +1704,7 @@
 
 ## Rust
 
+* [**pythonspeed/filprofiler**](https://github.com/pythonspeed/filprofiler): A Python memory profiler for data processing and scientific computing applications
 * [**pacak/bpaf**](https://github.com/pacak/bpaf): Command line parser with applicative interface
 * [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
 * [**arijit79/minus**](https://github.com/arijit79/minus): A small, asynchronous paging library for Rust
