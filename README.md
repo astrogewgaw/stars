@@ -116,6 +116,7 @@
 
 ## C++
 
+* [**LibreSprite/LibreSprite**](https://github.com/LibreSprite/LibreSprite): Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * [**vslavik/diff-pdf**](https://github.com/vslavik/diff-pdf): A simple tool for visually comparing two PDF files
 * [**flameshot-org/flameshot**](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 * [**grasph/wrapit**](https://github.com/grasph/wrapit): Automatization of C++--Julia wrapper generation
@@ -358,7 +359,7 @@
 * [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
-* [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, efficient spring animation library 🎼
+* [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, physics-based animation library 🎼
 * [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss): Style definitions for nice terminal layouts 👄
 * [**muesli/beehive**](https://github.com/muesli/beehive): A flexible event/agent & automation system with lots of bees 🐝
 * [**nektos/act**](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
@@ -1696,6 +1697,7 @@
 
 ## Ruby
 
+* [**dewyze/vim-tada**](https://github.com/dewyze/vim-tada): Todo manager for tasks, projects, or whatever!
 * [**Textualize/homebrew-rich**](https://github.com/Textualize/homebrew-rich): Homebrew tap for Rich
 * [**inukshuk/anystyle**](https://github.com/inukshuk/anystyle): Fast and smart citation reference parsing
 * [**red-data-tools/YouPlot**](https://github.com/red-data-tools/YouPlot): A command line tool that draw plots on the terminal.
