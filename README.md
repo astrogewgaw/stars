@@ -39,6 +39,7 @@
 * [**Makefile**](#makefile)
 * [**Nim**](#nim)
 * [**Nix**](#nix)
+* [**OCaml**](#ocaml)
 * [**Others**](#others)
 * [**PHP**](#php)
 * [**Pascal**](#pascal)
@@ -501,6 +502,7 @@
 
 ## Julia
 
+* [**astrogewgaw/Noisy.jl**](https://github.com/astrogewgaw/Noisy.jl): Simulating power law noise in Julia.
 * [**cihga39871/Pipelines.jl**](https://github.com/cihga39871/Pipelines.jl): A lightweight Julia package for computational pipelines and workflows.
 * [**cihga39871/JobSchedulers.jl**](https://github.com/cihga39871/JobSchedulers.jl): A Julia-based job scheduler and workload manager inspired by Slurm and PBS.
 * [**kiranshila/Mimir.jl**](https://github.com/kiranshila/Mimir.jl): A radio transient detection and processing pipeline
@@ -891,6 +893,10 @@
 ## Nix
 
 * [**bnikolic/casanix**](https://github.com/bnikolic/casanix): *No description*
+
+## OCaml
+
+* [**janestreet/magic-trace**](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing
 
 ## Others
 
