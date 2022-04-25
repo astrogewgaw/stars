@@ -17,6 +17,7 @@
 * [**C#**](#c#)
 * [**C++**](#c++)
 * [**CSS**](#css)
+* [**Clojure**](#clojure)
 * [**Cuda**](#cuda)
 * [**Cython**](#cython)
 * [**Dhall**](#dhall)
@@ -217,6 +218,10 @@
 * [**kmaasrud/awesome-obsidian**](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [**HeRTA/FRBSTATS**](https://github.com/HeRTA/FRBSTATS): Repository for the FRBSTATS web platform.
 
+## Clojure
+
+* [**kiranshila/Doplarr**](https://github.com/kiranshila/Doplarr): An *arr request bot for Discord
+
 ## Cuda
 
 * [**KAdamek/GPU_mean_and_stdev**](https://github.com/KAdamek/GPU_mean_and_stdev): GPU accelerated library for calculation of mean and standard deviation
@@ -279,6 +284,7 @@
 
 ## Go
 
+* [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
 * [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
 * [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
 * [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
@@ -435,6 +441,7 @@
 
 ## JavaScript
 
+* [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
 * [**victrme/Bonjourr**](https://github.com/victrme/Bonjourr): Minimalist & lightweight startpage inspired by iOS
 * [**MichaelHatherly/Publish.jl**](https://github.com/MichaelHatherly/Publish.jl): A universal document authoring package for Julia.
@@ -502,6 +509,7 @@
 
 ## Julia
 
+* [**JuliaGraphs/GraphPlot.jl**](https://github.com/JuliaGraphs/GraphPlot.jl): Graph visualization for Julia.
 * [**astrogewgaw/Noisy.jl**](https://github.com/astrogewgaw/Noisy.jl): Simulating power law noise in Julia.
 * [**cihga39871/Pipelines.jl**](https://github.com/cihga39871/Pipelines.jl): A lightweight Julia package for computational pipelines and workflows.
 * [**cihga39871/JobSchedulers.jl**](https://github.com/cihga39871/JobSchedulers.jl): A Julia-based job scheduler and workload manager inspired by Slurm and PBS.
@@ -996,6 +1004,8 @@
 
 ## Python
 
+* [**guilatrova/tryceratops**](https://github.com/guilatrova/tryceratops): A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
+* [**regebro/pyroma**](https://github.com/regebro/pyroma): Rate your Python packages package friendliness
 * [**bloomberg/memray**](https://github.com/bloomberg/memray): Memray is a memory profiler for Python
 * [**Zac-HD/shed**](https://github.com/Zac-HD/shed): `shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++
 * [**josephwkania/will**](https://github.com/josephwkania/will): Weighted Injector of Luminous Lighthouses
@@ -1179,7 +1189,7 @@
 * [**miki725/importanize**](https://github.com/miki725/importanize): Utility for organizing Python imports using PEP8 or custom rules
 * [**pytest-dev/pluggy**](https://github.com/pytest-dev/pluggy): A minimalist production ready plugin system
 * [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
-* [**aesara-devs/aesara**](https://github.com/aesara-devs/aesara): Aesara is a Python library that allows one to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays.
+* [**aesara-devs/aesara**](https://github.com/aesara-devs/aesara): Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.
 * [**astropy/pyvo**](https://github.com/astropy/pyvo): An Astropy affiliated package providing access to remote data and services of the Virtual observatory (VO) using Python.
 * [**evanocathain/Useful_RRAT_stuff**](https://github.com/evanocathain/Useful_RRAT_stuff): Useful stuff for analysing "RRAT" data
 * [**csurfer/pyheat**](https://github.com/csurfer/pyheat): pprofile + matplotlib = Python program profiled as an awesome heatmap!
