@@ -224,6 +224,7 @@
 
 ## Cuda
 
+* [**ewanbarr/dedisp**](https://github.com/ewanbarr/dedisp): Multi-GPU version of Ben Barsdell's GPU dedispersion library
 * [**KAdamek/GPU_mean_and_stdev**](https://github.com/KAdamek/GPU_mean_and_stdev): GPU accelerated library for calculation of mean and standard deviation
 * [**KAdamek/GPU_Overlap-and-save_convolution**](https://github.com/KAdamek/GPU_Overlap-and-save_convolution): Shared memory overlap-and-save method for NVIDIA GPUs using CUDA
 * [**KAdamek/SMFFT**](https://github.com/KAdamek/SMFFT): fast Fourier transform on GPU in shared memory for AstroAccelerate project
@@ -509,6 +510,7 @@
 
 ## Julia
 
+* [**rikhuijzer/PrecompileSignatures.jl**](https://github.com/rikhuijzer/PrecompileSignatures.jl): Generate precompile directives by reading method signatures
 * [**JuliaGraphs/GraphPlot.jl**](https://github.com/JuliaGraphs/GraphPlot.jl): Graph visualization for Julia.
 * [**astrogewgaw/Noisy.jl**](https://github.com/astrogewgaw/Noisy.jl): Simulating power law noise in Julia.
 * [**cihga39871/Pipelines.jl**](https://github.com/cihga39871/Pipelines.jl): A lightweight Julia package for computational pipelines and workflows.
@@ -606,7 +608,7 @@
 * [**JuliaMath/DoubleFloats.jl**](https://github.com/JuliaMath/DoubleFloats.jl): math with more good bits
 * [**JuliaMath/IntervalSets.jl**](https://github.com/JuliaMath/IntervalSets.jl): Interval Sets for Julia
 * [**org-arl/InteractiveViz.jl**](https://github.com/org-arl/InteractiveViz.jl): Interactive visualization tools for Julia
-* [**kiranshila/SIGPROC.jl**](https://github.com/kiranshila/SIGPROC.jl): Toolkit for working with astronomical radio transients in Julia
+* [**kiranshila/SIGPROC.jl**](https://github.com/kiranshila/SIGPROC.jl): Toolkit for working with astronomical radio transients in the SIGPROC Filterbank format in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
@@ -837,6 +839,7 @@
 
 ## Lua
 
+* [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
 * [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
 * [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 * [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
@@ -1188,7 +1191,7 @@
 * [**gillescastel/inkscape-figures**](https://github.com/gillescastel/inkscape-figures): Inkscape figure manager
 * [**miki725/importanize**](https://github.com/miki725/importanize): Utility for organizing Python imports using PEP8 or custom rules
 * [**pytest-dev/pluggy**](https://github.com/pytest-dev/pluggy): A minimalist production ready plugin system
-* [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+* [**pdfarranger/pdfarranger**](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 * [**aesara-devs/aesara**](https://github.com/aesara-devs/aesara): Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.
 * [**astropy/pyvo**](https://github.com/astropy/pyvo): An Astropy affiliated package providing access to remote data and services of the Virtual observatory (VO) using Python.
 * [**evanocathain/Useful_RRAT_stuff**](https://github.com/evanocathain/Useful_RRAT_stuff): Useful stuff for analysing "RRAT" data
@@ -2001,6 +2004,7 @@
 
 ## TypeScript
 
+* [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
