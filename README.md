@@ -118,6 +118,7 @@
 
 ## C++
 
+* [**mosra/magnum**](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
 * [**LibreSprite/LibreSprite**](https://github.com/LibreSprite/LibreSprite): Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * [**vslavik/diff-pdf**](https://github.com/vslavik/diff-pdf): A simple tool for visually comparing two PDF files
 * [**flameshot-org/flameshot**](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -490,7 +491,6 @@
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
 * [**impress/impress.js**](https://github.com/impress/impress.js): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 * [**GenieFramework/Stipple.jl**](https://github.com/GenieFramework/Stipple.jl): The reactive UI library for interactive data applications with pure Julia.
-* [**github/catalyst**](https://github.com/github/catalyst): Catalyst is a set of patterns and techniques for developing components within a complex application.
 * [**rastapasta/mapscii**](https://github.com/rastapasta/mapscii): 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 * [**planetoftheweb/rayveal**](https://github.com/planetoftheweb/rayveal): A markdown first presentation framework. Based on reveal.js with preinstalled plugins, light Bootstrap and sweet extras.
 * [**hakimel/reveal.js**](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
@@ -911,6 +911,7 @@
 
 ## Others
 
+* [**tiimgreen/github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
 * [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
@@ -2039,6 +2040,7 @@
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
 * [**vega/voyager**](https://github.com/vega/voyager): Visualization Tool for Data Exploration
+* [**github/catalyst**](https://github.com/github/catalyst): Catalyst is a set of patterns and techniques for developing components within a complex application.
 * [**widgetti/ipyvolume**](https://github.com/widgetti/ipyvolume): 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 * [**microsoft/vscode**](https://github.com/microsoft/vscode): Visual Studio Code
 * [**utterance/utterances**](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
