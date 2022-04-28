@@ -286,6 +286,7 @@
 
 ## Go
 
+* [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 * [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
 * [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
 * [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
@@ -813,7 +814,6 @@
 * [**eleanorlutz/western_constellations_atlas_of_space**](https://github.com/eleanorlutz/western_constellations_atlas_of_space): Code, data, and instructions to map every star you can see from Earth
 * [**telegraphic/pfb_introduction**](https://github.com/telegraphic/pfb_introduction): An interactive introduction to the polyphase filterbank technique for radio astronomy spectrometers
 * [**UCBerkeleySETI/hyperseti**](https://github.com/UCBerkeleySETI/hyperseti): *No description*
-* [**ntellis/spectroseti**](https://github.com/ntellis/spectroseti): *No description*
 * [**Morisset/pyCloudy**](https://github.com/Morisset/pyCloudy): Repository for the pyCloudy package
 * [**yobibyte/prettyplots**](https://github.com/yobibyte/prettyplots): Design your own matplotlib stylefile interactively
 * [**abigailStev/NICER_exploration**](https://github.com/abigailStev/NICER_exploration): Software tools for quicklook data products to explore astronomy data from the NICER X-ray Timing Instrument.
@@ -1875,7 +1875,7 @@
 * [**saresend/Gust**](https://github.com/saresend/Gust): A small charting/visualization tool and partial vega implementation for Rust
 * [**milliams/plotlib**](https://github.com/milliams/plotlib): Data plotting library for Rust
 * [**igiagkiozis/plotly**](https://github.com/igiagkiozis/plotly): Plotly for Rust
-* [**38/plotters**](https://github.com/38/plotters): A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+* [**plotters-rs/plotters**](https://github.com/plotters-rs/plotters): A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 * [**chronotope/chrono**](https://github.com/chronotope/chrono): Date and time library for Rust
 * [**Mnwa/ms**](https://github.com/Mnwa/ms): Fast abstraction for converting human-like times into milliseconds.
 * [**rust-itertools/itertools**](https://github.com/rust-itertools/itertools): Extra iterator adaptors, iterator methods, free functions, and macros.
@@ -1992,7 +1992,7 @@
 * [**JuliaTeX/BibTeX.jl**](https://github.com/JuliaTeX/BibTeX.jl): *No description*
 * [**astropah/newsletter**](https://github.com/astropah/newsletter): Monthly newsletter building pipeline
 * [**rctatman/bib_to_csv**](https://github.com/rctatman/bib_to_csv): Convert .bib files to .csv files
-* [**rodluger/showyourwork**](https://github.com/rodluger/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
+* [**showyourwork/showyourwork**](https://github.com/showyourwork/showyourwork): Fully reproducible, open source scientific articles in LaTeX.
 * [**xu-cheng/texlive-action**](https://github.com/xu-cheng/texlive-action): :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 * [**kourgeorge/arxiv-style**](https://github.com/kourgeorge/arxiv-style): A Latex style and template for paper preprints (based on NIPS style)
 * [**anishathalye/gemini**](https://github.com/anishathalye/gemini): Gemini is a modern LaTex beamerposter theme 🖼
