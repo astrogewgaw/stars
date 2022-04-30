@@ -289,7 +289,7 @@
 * [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 * [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
 * [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
-* [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): View Wikipedia articles through the CLI
+* [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): 📗 View Wikipedia articles through the CLI
 * [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
 * [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
@@ -319,7 +319,7 @@
 * [**irevenko/what-anime-cli**](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal
 * [**muesli/gamut**](https://github.com/muesli/gamut): Go package to generate and manage color palettes & schemes 🎨
 * [**bashbunni/project-management**](https://github.com/bashbunni/project-management): A basic CLI for regularly updating your project's status
-* [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub API
+* [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub v3 API
 * [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs 🐱 !
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
@@ -380,7 +380,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): Photos App powered by Go and Google TensorFlow 🌈 ✨
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -839,6 +839,7 @@
 
 ## Lua
 
+* [**nvim-telescope/telescope-github.nvim**](https://github.com/nvim-telescope/telescope-github.nvim): Integration with github cli
 * [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
 * [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
 * [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -1738,7 +1739,7 @@
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 * [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
 * [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 * [**johnthagen/min-sized-rust**](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
