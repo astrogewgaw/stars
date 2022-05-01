@@ -511,6 +511,9 @@
 
 ## Julia
 
+* [**JuliaRegistries/Registrator.jl**](https://github.com/JuliaRegistries/Registrator.jl): Julia package registration bot
+* [**JuliaPackaging/Preferences.jl**](https://github.com/JuliaPackaging/Preferences.jl): Project Preferences Package
+* [**JuliaPackaging/Scratch.jl**](https://github.com/JuliaPackaging/Scratch.jl): Scratch spaces for all your persistent mutable data needs
 * [**rikhuijzer/PrecompileSignatures.jl**](https://github.com/rikhuijzer/PrecompileSignatures.jl): Generate precompile directives by reading method signatures
 * [**JuliaGraphs/GraphPlot.jl**](https://github.com/JuliaGraphs/GraphPlot.jl): Graph visualization for Julia.
 * [**astrogewgaw/Noisy.jl**](https://github.com/astrogewgaw/Noisy.jl): Simulating power law noise in Julia.
@@ -1009,6 +1012,8 @@
 
 ## Python
 
+* [**tcassanelli/pywpf**](https://github.com/tcassanelli/pywpf): The purpose of this program is to see the effectivity and efficiency that a PCA folding analysis has compared to the Epoch Folding, which is the standard used for pulsar period computations.
+* [**matplotlib/pytest-mpl**](https://github.com/matplotlib/pytest-mpl): A pytest plugin to facilitate image comparison for Matplotlib figures
 * [**guilatrova/tryceratops**](https://github.com/guilatrova/tryceratops): A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
 * [**regebro/pyroma**](https://github.com/regebro/pyroma): Rate your Python packages package friendliness
 * [**bloomberg/memray**](https://github.com/bloomberg/memray): Memray is a memory profiler for Python
@@ -1760,7 +1765,7 @@
 * [**mgeisler/textwrap**](https://github.com/mgeisler/textwrap): An efficient and powerful Rust library for word wrapping text.
 * [**dtolnay/trybuild**](https://github.com/dtolnay/trybuild): Test harness for ui tests of compiler diagnostics
 * [**assert-rs/trycmd**](https://github.com/assert-rs/trycmd): Snapshot testing for a herd of CLI tests
-* [**algesten/ureq**](https://github.com/algesten/ureq): Minimal request library in rust.
+* [**algesten/ureq**](https://github.com/algesten/ureq): A simple, safe HTTP client
 * [**utkarshkukreti/select.rs**](https://github.com/utkarshkukreti/select.rs): A Rust library to extract useful data from HTML documents, suitable for web scraping.
 * [**seanmonstar/reqwest**](https://github.com/seanmonstar/reqwest): An easy and powerful Rust HTTP Client
 * [**causal-agent/scraper**](https://github.com/causal-agent/scraper): HTML parsing and querying with CSS selectors
