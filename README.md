@@ -758,6 +758,7 @@
 
 ## Jupyter Notebook
 
+* [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
 * [**Hazboun6/data_analysis_tutorial**](https://github.com/Hazboun6/data_analysis_tutorial): A tutorial for Bayesian Inference to do data analysis
 * [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
@@ -1012,6 +1013,7 @@
 
 ## Python
 
+* [**pytest-dev/pytest-randomly**](https://github.com/pytest-dev/pytest-randomly): :game_die: Pytest plugin to randomly order tests and control random.seed
 * [**tcassanelli/pywpf**](https://github.com/tcassanelli/pywpf): The purpose of this program is to see the effectivity and efficiency that a PCA folding analysis has compared to the Epoch Folding, which is the standard used for pulsar period computations.
 * [**matplotlib/pytest-mpl**](https://github.com/matplotlib/pytest-mpl): A pytest plugin to facilitate image comparison for Matplotlib figures
 * [**guilatrova/tryceratops**](https://github.com/guilatrova/tryceratops): A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).
