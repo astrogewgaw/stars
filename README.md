@@ -66,6 +66,7 @@
 
 ## C
 
+* [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): *No description*
 * [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
@@ -1013,6 +1014,7 @@
 
 ## Python
 
+* [**KenzieNimmo/tps**](https://github.com/KenzieNimmo/tps): Transient phase space diagram as seen in Nimmo et al. 2021 (https://arxiv.org/pdf/2105.11446.pdf), heavily inspired by Evan Keane's TPS code.
 * [**pytest-dev/pytest-randomly**](https://github.com/pytest-dev/pytest-randomly): :game_die: Pytest plugin to randomly order tests and control random.seed
 * [**tcassanelli/pywpf**](https://github.com/tcassanelli/pywpf): The purpose of this program is to see the effectivity and efficiency that a PCA folding analysis has compared to the Epoch Folding, which is the standard used for pulsar period computations.
 * [**matplotlib/pytest-mpl**](https://github.com/matplotlib/pytest-mpl): A pytest plugin to facilitate image comparison for Matplotlib figures
