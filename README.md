@@ -287,6 +287,7 @@
 
 ## Go
 
+* [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 * [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
 * [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
