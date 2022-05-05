@@ -119,6 +119,7 @@
 
 ## C++
 
+* [**Clemapfel/jluna**](https://github.com/Clemapfel/jluna): Julia <-> C++ Wrapper with Focus on Safety, Elegance, and Ease of Use
 * [**mosra/magnum**](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
 * [**LibreSprite/LibreSprite**](https://github.com/LibreSprite/LibreSprite): Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 * [**vslavik/diff-pdf**](https://github.com/vslavik/diff-pdf): A simple tool for visually comparing two PDF files
@@ -226,6 +227,7 @@
 
 ## Cuda
 
+* [**miguelcarcamov/gpuvmem**](https://github.com/miguelcarcamov/gpuvmem): GPU Framework for Radio Astronomical Image Synthesis
 * [**ewanbarr/dedisp**](https://github.com/ewanbarr/dedisp): Multi-GPU version of Ben Barsdell's GPU dedispersion library
 * [**KAdamek/GPU_mean_and_stdev**](https://github.com/KAdamek/GPU_mean_and_stdev): GPU accelerated library for calculation of mean and standard deviation
 * [**KAdamek/GPU_Overlap-and-save_convolution**](https://github.com/KAdamek/GPU_Overlap-and-save_convolution): Shared memory overlap-and-save method for NVIDIA GPUs using CUDA
@@ -262,6 +264,7 @@
 
 ## Fortran
 
+* [**samb8s/PsrPopPy**](https://github.com/samb8s/PsrPopPy): Python implementation of PSRPOP, designed to be run from the command line or from Python scripts/interpreter
 * [**mdmaas/julia-numpy-fortran-test**](https://github.com/mdmaas/julia-numpy-fortran-test): Comparing Julia vs Numpy vs Fortran for performance and code simplicity
 * [**MESAHub/mesa**](https://github.com/MESAHub/mesa): Modules for Experiments in Stellar Astrophysics
 * [**nombac/optab**](https://github.com/nombac/optab): Public Fortran90 code package for generating ideal-gas opacity tables
@@ -382,7 +385,7 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -446,6 +449,8 @@
 
 ## JavaScript
 
+* [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): *No description*
 * [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
 * [**victrme/Bonjourr**](https://github.com/victrme/Bonjourr): Minimalist & lightweight startpage inspired by iOS
@@ -769,6 +774,7 @@
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
 * [**SihaoCheng/scattering_transform**](https://github.com/SihaoCheng/scattering_transform): A webpage for the scattering transform. To calculate, you just need the folder called "scattering".
 * [**devanshkv/pysigproc**](https://github.com/devanshkv/pysigproc): Simple pure-python3 module for working with filerbank (aka Sigproc) format files.
+* [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
@@ -881,7 +887,7 @@
 * [**kyazdani42/nvim-tree.lua**](https://github.com/kyazdani42/nvim-tree.lua): A file explorer tree for neovim written in lua
 * [**folke/lsp-colors.nvim**](https://github.com/folke/lsp-colors.nvim): 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
 * [**folke/trouble.nvim**](https://github.com/folke/trouble.nvim): 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
+* [**NvChad/NvChad**](https://github.com/NvChad/NvChad): An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
 * [**lukas-reineke/indent-blankline.nvim**](https://github.com/lukas-reineke/indent-blankline.nvim): Indent guides  for Neovim
 * [**mnowotnik/noteflow.nvim**](https://github.com/mnowotnik/noteflow.nvim): Neovim plugin that streamlines taking notes
 * [**hkupty/daedalus.nvim**](https://github.com/hkupty/daedalus.nvim): In order to call great APIs, we need great API clients.
@@ -1015,6 +1021,11 @@
 
 ## Python
 
+* [**pdfminer/pdfminer.six**](https://github.com/pdfminer/pdfminer.six): Community maintained fork of pdfminer - we fathom PDF
+* [**jsvine/pdfplumber**](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+* [**lukasschwab/arxiv.py**](https://github.com/lukasschwab/arxiv.py): Python wrapper for the arXiv API
+* [**asottile/dead**](https://github.com/asottile/dead): dead simple python dead code detection
+* [**HeloiseS/hoki**](https://github.com/HeloiseS/hoki): Bridging the gap between observation and theory
 * [**KenzieNimmo/tps**](https://github.com/KenzieNimmo/tps): Transient phase space diagram as seen in Nimmo et al. 2021 (https://arxiv.org/pdf/2105.11446.pdf), heavily inspired by Evan Keane's TPS code.
 * [**pytest-dev/pytest-randomly**](https://github.com/pytest-dev/pytest-randomly): :game_die: Pytest plugin to randomly order tests and control random.seed
 * [**tcassanelli/pywpf**](https://github.com/tcassanelli/pywpf): The purpose of this program is to see the effectivity and efficiency that a PCA folding analysis has compared to the Epoch Folding, which is the standard used for pulsar period computations.
@@ -1068,7 +1079,6 @@
 * [**vivgastro/Furby_injector**](https://github.com/vivgastro/Furby_injector): *No description*
 * [**samuelcolvin/dirty-equals**](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals.
 * [**mhardcastle/radioflux**](https://github.com/mhardcastle/radioflux): Measuring radio flux density with ds9
-* [**LSSTDESC/skyproj**](https://github.com/LSSTDESC/skyproj): Sky mapping with matplotlib and PROJ
 * [**gdesvignes/Precess**](https://github.com/gdesvignes/Precess): Set of tools to model the precession in pulsar polarisation data
 * [**mopidy/mopidy**](https://github.com/mopidy/mopidy): Mopidy is an extensible music server written in Python
 * [**patrick-kidger/mkposters**](https://github.com/patrick-kidger/mkposters): Make posters from Markdown files.
