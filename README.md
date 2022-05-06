@@ -290,6 +290,7 @@
 
 ## Go
 
+* [**dsnet/try**](https://github.com/dsnet/try): Simplified error handling in Go
 * [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 * [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
@@ -417,6 +418,7 @@
 
 ## HTML
 
+* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): *No description*
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -450,7 +452,6 @@
 ## JavaScript
 
 * [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): *No description*
 * [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
 * [**victrme/Bonjourr**](https://github.com/victrme/Bonjourr): Minimalist & lightweight startpage inspired by iOS
@@ -1341,7 +1342,7 @@
 * [**Seraf-N/SinglePulseTasks**](https://github.com/Seraf-N/SinglePulseTasks): Script for detecting, dedispersing and archiving pulsar single pulses such as Giant Pulses from the Crab from baseband data without running into dedispersion-related memory issues.
 * [**rzellem/EXOTIC**](https://github.com/rzellem/EXOTIC): EXOplanet Transit Interpretation Code
 * [**jradavenport/appaloosa**](https://github.com/jradavenport/appaloosa): Python-based flare finding code for Kepler light curves.
-* [**scikit-hep/awkward-1.0**](https://github.com/scikit-hep/awkward-1.0): Manipulate JSON-like data with NumPy-like idioms.
+* [**scikit-hep/awkward**](https://github.com/scikit-hep/awkward): Manipulate JSON-like data with NumPy-like idioms.
 * [**nat/ghtop**](https://github.com/nat/ghtop): See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 * [**deepmind/tree**](https://github.com/deepmind/tree): tree is a library for working with nested data structures
 * [**hrshe/pulsar-analysis-package**](https://github.com/hrshe/pulsar-analysis-package): This package was developed during my time at Raman Research Institute while working with Prof Avinash Deshpande (desh). Currently, refactoring the package to make it more readable and usable while also adding some new features
