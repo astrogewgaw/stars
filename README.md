@@ -290,6 +290,10 @@
 
 ## Go
 
+* [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
+* [**BetaPictoris/dict**](https://github.com/BetaPictoris/dict): 📔 View the dictionary through the CLI
+* [**jon4hz/tmpdir**](https://github.com/jon4hz/tmpdir): a garbage collector for tmp directories
+* [**1xyz/pryrite**](https://github.com/1xyz/pryrite): Pryrite, interactively execute shell code blocks in a markdown file
 * [**dsnet/try**](https://github.com/dsnet/try): Simplified error handling in Go
 * [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
@@ -769,7 +773,6 @@
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
 * [**Hazboun6/data_analysis_tutorial**](https://github.com/Hazboun6/data_analysis_tutorial): A tutorial for Bayesian Inference to do data analysis
-* [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**pharaofranz/fundamentals_of_interferometry**](https://github.com/pharaofranz/fundamentals_of_interferometry): Fundamentals of Radio Interferometry and Aperture Synthesis Book
 * [**bkamins/Julia-DataFrames-Tutorial**](https://github.com/bkamins/Julia-DataFrames-Tutorial): A tutorial on Julia DataFrames package
 * [**Firionus/FastRunningMedian.jl**](https://github.com/Firionus/FastRunningMedian.jl): Efficient running median for Julia
@@ -925,6 +928,7 @@
 
 ## Others
 
+* [**taowen/awesome-html**](https://github.com/taowen/awesome-html): collection of "html over the wire" libraries
 * [**tiimgreen/github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
@@ -1022,6 +1026,7 @@
 
 ## Python
 
+* [**google-research/arxiv-latex-cleaner**](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 * [**pdfminer/pdfminer.six**](https://github.com/pdfminer/pdfminer.six): Community maintained fork of pdfminer - we fathom PDF
 * [**jsvine/pdfplumber**](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 * [**lukasschwab/arxiv.py**](https://github.com/lukasschwab/arxiv.py): Python wrapper for the arXiv API
@@ -1039,6 +1044,7 @@
 * [**pmaupin/pdfrw**](https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
 * [**ledatelescope/bifrost**](https://github.com/ledatelescope/bifrost): A stream processing framework for high-throughput applications.
 * [**wasi-master/fastero**](https://github.com/wasi-master/fastero): Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
+* [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
 * [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
