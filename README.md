@@ -455,6 +455,7 @@
 
 ## JavaScript
 
+* [**resume/resume.github.com**](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 * [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
@@ -928,6 +929,7 @@
 
 ## Others
 
+* [**RocketRace/setver**](https://github.com/RocketRace/setver): Setaceous Versioning, the revolutionary new way to maintain software
 * [**taowen/awesome-html**](https://github.com/taowen/awesome-html): collection of "html over the wire" libraries
 * [**tiimgreen/github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
@@ -1138,7 +1140,7 @@
 * [**peterbrittain/asciimatics**](https://github.com/peterbrittain/asciimatics): A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 * [**JuliaPy/pyjulia**](https://github.com/JuliaPy/pyjulia): python interface to julia
 * [**aplpy/aplpy**](https://github.com/aplpy/aplpy): Astronomical Plotting Library in Python
-* [**ofek/hatch**](https://github.com/ofek/hatch): Modern, extensible Python project management
+* [**pypa/hatch**](https://github.com/pypa/hatch): Modern, extensible Python project management
 * [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
 * [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
