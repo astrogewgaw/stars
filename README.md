@@ -856,6 +856,7 @@
 
 ## Lua
 
+* [**ldelossa/gh.nvim**](https://github.com/ldelossa/gh.nvim): Github integration powered by litee.nvim
 * [**nvim-telescope/telescope-github.nvim**](https://github.com/nvim-telescope/telescope-github.nvim): Integration with github cli
 * [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
 * [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1028,6 +1029,7 @@
 
 ## Python
 
+* [**cjdoris/pyjuliapkg**](https://github.com/cjdoris/pyjuliapkg): Manage your Julia dependencies from Python
 * [**google-research/arxiv-latex-cleaner**](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 * [**pdfminer/pdfminer.six**](https://github.com/pdfminer/pdfminer.six): Community maintained fork of pdfminer - we fathom PDF
 * [**jsvine/pdfplumber**](https://github.com/jsvine/pdfplumber): Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
@@ -2137,6 +2139,7 @@
 
 ## Vue
 
+* [**Lissy93/dashy**](https://github.com/Lissy93/dashy): 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 * [**slidevjs/themes**](https://github.com/slidevjs/themes): Official themes for Slidev
 
 ## Xonsh
