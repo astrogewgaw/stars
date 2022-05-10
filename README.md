@@ -455,6 +455,7 @@
 
 ## JavaScript
 
+* [**JulienMaille/dribbblish-dynamic-theme**](https://github.com/JulienMaille/dribbblish-dynamic-theme): A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 * [**resume/resume.github.com**](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 * [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
@@ -856,7 +857,7 @@
 
 ## Lua
 
-* [**ldelossa/gh.nvim**](https://github.com/ldelossa/gh.nvim): Github integration powered by litee.nvim
+* [**ldelossa/gh.nvim**](https://github.com/ldelossa/gh.nvim): A fully featured GitHub integration for performing code reviews in Neovim.
 * [**nvim-telescope/telescope-github.nvim**](https://github.com/nvim-telescope/telescope-github.nvim): Integration with github cli
 * [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
 * [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1029,6 +1030,7 @@
 
 ## Python
 
+* [**bjodah/chempy**](https://github.com/bjodah/chempy): ⚗ A package useful for chemistry written in Python
 * [**cjdoris/pyjuliapkg**](https://github.com/cjdoris/pyjuliapkg): Manage your Julia dependencies from Python
 * [**google-research/arxiv-latex-cleaner**](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 * [**pdfminer/pdfminer.six**](https://github.com/pdfminer/pdfminer.six): Community maintained fork of pdfminer - we fathom PDF
