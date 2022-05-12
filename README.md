@@ -525,6 +525,7 @@
 
 ## Julia
 
+* [**kiranshila/BipBuffers.jl**](https://github.com/kiranshila/BipBuffers.jl): lock-free circular buffers with contiguous reservations
 * [**JuliaRegistries/Registrator.jl**](https://github.com/JuliaRegistries/Registrator.jl): Julia package registration bot
 * [**JuliaPackaging/Preferences.jl**](https://github.com/JuliaPackaging/Preferences.jl): Project Preferences Package
 * [**JuliaPackaging/Scratch.jl**](https://github.com/JuliaPackaging/Scratch.jl): Scratch spaces for all your persistent mutable data needs
@@ -772,6 +773,8 @@
 
 ## Jupyter Notebook
 
+* [**sterinaldi/figaro**](https://github.com/sterinaldi/figaro): Fast Inference for GW Astronomy, Research and Observations
+* [**johnmyleswhite/julia_tutorials**](https://github.com/johnmyleswhite/julia_tutorials): Tutorials on Julia topics
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
 * [**Hazboun6/data_analysis_tutorial**](https://github.com/Hazboun6/data_analysis_tutorial): A tutorial for Bayesian Inference to do data analysis
@@ -1030,6 +1033,7 @@
 
 ## Python
 
+* [**carpentries-incubator/docker-introduction**](https://github.com/carpentries-incubator/docker-introduction): Reproducible Computational Environments using Containers
 * [**bjodah/chempy**](https://github.com/bjodah/chempy): ⚗ A package useful for chemistry written in Python
 * [**cjdoris/pyjuliapkg**](https://github.com/cjdoris/pyjuliapkg): Manage your Julia dependencies from Python
 * [**google-research/arxiv-latex-cleaner**](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
@@ -1760,6 +1764,7 @@
 
 ## Rust
 
+* [**jamesmunns/bbqueue**](https://github.com/jamesmunns/bbqueue): A SPSC, lockless, no_std, thread safe, queue, based on BipBuffers
 * [**pythonspeed/filprofiler**](https://github.com/pythonspeed/filprofiler): A Python memory profiler for data processing and scientific computing applications
 * [**pacak/bpaf**](https://github.com/pacak/bpaf): Command line parser with applicative interface
 * [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
@@ -2010,6 +2015,7 @@
 
 ## TeX
 
+* [**alexpovel/latex-cookbook**](https://github.com/alexpovel/latex-cookbook): A comprehensive LaTeX template with examples for theses, books and more, employing the 'latest and greatest' (UTF8, glossaries, fonts, ...). The PDF artifact is built using CI/CD.
 * [**mossr/julia-mono-listings**](https://github.com/mossr/julia-mono-listings): LaTeX listings style for Julia and Unicode support for the JuliaMono font
 * [**astrogewgaw/whyjulia**](https://github.com/astrogewgaw/whyjulia): Proposal to adopt Julia for the GHRSS survey codebase.
 * [**sisl/juliaplots.sty**](https://github.com/sisl/juliaplots.sty): A latex package for displaying plots made in Julia
