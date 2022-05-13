@@ -119,6 +119,7 @@
 
 ## C++
 
+* [**NVIDIA/gdrcopy**](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 * [**Clemapfel/jluna**](https://github.com/Clemapfel/jluna): Julia <-> C++ Wrapper with Focus on Safety, Elegance, and Ease of Use
 * [**mosra/magnum**](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
 * [**LibreSprite/LibreSprite**](https://github.com/LibreSprite/LibreSprite): Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -299,7 +300,7 @@
 * [**orlangure/gocovsh**](https://github.com/orlangure/gocovsh): Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 * [**mowshon/moviego**](https://github.com/mowshon/moviego): MovieGo is a Golang library for video editing.
 * [**elewis787/boa**](https://github.com/elewis787/boa): A Cobra command styled usage and help component powered by bubbletea
-* [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): 📗 View Wikipedia articles through the CLI
+* [**BetaPictoris/wiki**](https://github.com/BetaPictoris/wiki): 📗 Read Wikipedia articles through the CLI
 * [**bashbunni/SSHlisten**](https://github.com/bashbunni/SSHlisten): Lightweight Information Sharing Terminal Encyclopedia Nerd over SSH. Share and rate different resources from the community on the command line
 * [**alecthomas/assert**](https://github.com/alecthomas/assert): A simple assertion library using Go generics
 * [**knipferrc/fm**](https://github.com/knipferrc/fm): A terminal based file manager
@@ -572,7 +573,7 @@
 * [**JuliaArrays/TiledIteration.jl**](https://github.com/JuliaArrays/TiledIteration.jl): Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code
 * [**JuliaArrays/FFTViews.jl**](https://github.com/JuliaArrays/FFTViews.jl): Julia package for fast fourier transforms and periodic views
 * [**JuliaArrays/PaddedViews.jl**](https://github.com/JuliaArrays/PaddedViews.jl): Add virtual padding to the edges of an array
-* [**kiranshila/FDMT.jl**](https://github.com/kiranshila/FDMT.jl): Fast Dispersion Measure Transform implemented in Julia
+* [**kiranshila/FastDMTransform.jl**](https://github.com/kiranshila/FastDMTransform.jl): Fast Dispersion Measure Transform implemented in Julia
 * [**andreasKroepelin/ExtremeFloats.jl**](https://github.com/andreasKroepelin/ExtremeFloats.jl): High-precision floating point arithmetic with a large range of exponents
 * [**rofinn/FilePathsBase.jl**](https://github.com/rofinn/FilePathsBase.jl): Filesystem path types in julia
 * [**JuliaInterop/CxxWrap.jl**](https://github.com/JuliaInterop/CxxWrap.jl): Package to make C++ libraries available in Julia
@@ -1842,7 +1843,7 @@
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
-* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Yet another remote desktop software
+* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone!
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
