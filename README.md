@@ -52,6 +52,7 @@
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
 * [**SCSS**](#scss)
+* [**Sass**](#sass)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -456,6 +457,7 @@
 
 ## JavaScript
 
+* [**hiroppy/fusuma**](https://github.com/hiroppy/fusuma): ✍️Fusuma makes slides with Markdown easily.
 * [**JulienMaille/dribbblish-dynamic-theme**](https://github.com/JulienMaille/dribbblish-dynamic-theme): A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 * [**resume/resume.github.com**](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -935,6 +937,7 @@
 
 ## Others
 
+* [**me-shaon/GLWTPL**](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [**RocketRace/setver**](https://github.com/RocketRace/setver): Setaceous Versioning, the revolutionary new way to maintain software
 * [**taowen/awesome-html**](https://github.com/taowen/awesome-html): collection of "html over the wire" libraries
 * [**tiimgreen/github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
@@ -1034,6 +1037,7 @@
 
 ## Python
 
+* [**pradyunsg/sphinx-inline-tabs**](https://github.com/pradyunsg/sphinx-inline-tabs): Add inline tabbed content to your Sphinx documentation. (actively maintained although extremely stable)
 * [**carpentries-incubator/docker-introduction**](https://github.com/carpentries-incubator/docker-introduction): Reproducible Computational Environments using Containers
 * [**bjodah/chempy**](https://github.com/bjodah/chempy): ⚗ A package useful for chemistry written in Python
 * [**cjdoris/pyjuliapkg**](https://github.com/cjdoris/pyjuliapkg): Manage your Julia dependencies from Python
@@ -1843,7 +1847,7 @@
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
-* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone!
+* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
@@ -1966,6 +1970,10 @@
 
 * [**wowchemy/wowchemy-hugo-themes**](https://github.com/wowchemy/wowchemy-hugo-themes): 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 
+## Sass
+
+* [**pradyunsg/furo**](https://github.com/pradyunsg/furo): A clean customizable documentation theme for Sphinx
+
 ## Scheme
 
 * [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter): Nvim Treesitter configurations and abstraction layer
@@ -2078,7 +2086,7 @@
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
-* [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
+* [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
 * [**vega/voyager**](https://github.com/vega/voyager): Visualization Tool for Data Exploration
 * [**github/catalyst**](https://github.com/github/catalyst): Catalyst is a set of patterns and techniques for developing components within a complex application.
@@ -2099,6 +2107,7 @@
 
 ## Vim script
 
+* [**tpope/vim-eunuch**](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [**vimwiki/vimwiki**](https://github.com/vimwiki/vimwiki): Personal Wiki for Vim
 * [**junegunn/goyo.vim**](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
 * [**junegunn/limelight.vim**](https://github.com/junegunn/limelight.vim): :flashlight: All the world's indeed a stage and we are merely players
