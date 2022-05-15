@@ -225,6 +225,7 @@
 
 ## Clojure
 
+* [**tonsky/FiraCode**](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [**kiranshila/Doplarr**](https://github.com/kiranshila/Doplarr): An *arr request bot for Discord
 
 ## Cuda
@@ -457,6 +458,8 @@
 
 ## JavaScript
 
+* [**Rich-Harris/degit**](https://github.com/Rich-Harris/degit): Straightforward project scaffolding
+* [**dzello/reveal-hugo**](https://github.com/dzello/reveal-hugo): 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 * [**hiroppy/fusuma**](https://github.com/hiroppy/fusuma): ✍️Fusuma makes slides with Markdown easily.
 * [**JulienMaille/dribbblish-dynamic-theme**](https://github.com/JulienMaille/dribbblish-dynamic-theme): A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
 * [**resume/resume.github.com**](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
@@ -477,7 +480,6 @@
 * [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
-* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
@@ -528,6 +530,9 @@
 
 ## Julia
 
+* [**JuliaApproximation/FastTransforms.jl**](https://github.com/JuliaApproximation/FastTransforms.jl): :rocket: Julia package for fast orthogonal polynomial transforms :snowboarder:
+* [**JuliaDSP/FourierTransforms.jl**](https://github.com/JuliaDSP/FourierTransforms.jl): Fourier transforms written in Julia
+* [**JuliaDSP/Deconvolution.jl**](https://github.com/JuliaDSP/Deconvolution.jl): A Julia package for deconvolution of digital signals
 * [**kiranshila/BipBuffers.jl**](https://github.com/kiranshila/BipBuffers.jl): lock-free circular buffers with contiguous reservations
 * [**JuliaRegistries/Registrator.jl**](https://github.com/JuliaRegistries/Registrator.jl): Julia package registration bot
 * [**JuliaPackaging/Preferences.jl**](https://github.com/JuliaPackaging/Preferences.jl): Project Preferences Package
@@ -1377,7 +1382,7 @@
 * [**zoghbi-a/nicer-background**](https://github.com/zoghbi-a/nicer-background): A model for estimating NICER background using Machine Learning
 * [**healpy/healpy**](https://github.com/healpy/healpy): Python healpix maps tools
 * [**astropy/specutils**](https://github.com/astropy/specutils): An Astropy coordinated package for astronomical spectroscopy.  Maintainers: @nmearl @rosteen @keflavich @eteq
-* [**sirfuzzalot/textual-inputs**](https://github.com/sirfuzzalot/textual-inputs): Textual Inputs is a collection of input widgets for the Textual TUI framework.
+* [**sirfuzzalot/textual-inputs**](https://github.com/sirfuzzalot/textual-inputs): Textual Inputs is a collection of input widgets for the Textual TUI framework 🔡
 * [**rupertcw/pytest-performance**](https://github.com/rupertcw/pytest-performance): A simple plugin to ensure the execution of critical sections of code has not been impacted
 * [**encode/httpx**](https://github.com/encode/httpx): A next generation HTTP client for Python. 🦋
 * [**peterniuzai/FAST_FRB**](https://github.com/peterniuzai/FAST_FRB): FAST FRB offline Pipeline. This Pipeline can do a search using 21 GPU nodes simultaneously, each with 2 RTX2080 GPU cards.
@@ -1769,6 +1774,7 @@
 
 ## Rust
 
+* [**H-M-H/Weylus**](https://github.com/H-M-H/Weylus): Use your tablet as graphic tablet/touch screen on your computer.
 * [**jamesmunns/bbqueue**](https://github.com/jamesmunns/bbqueue): A SPSC, lockless, no_std, thread safe, queue, based on BipBuffers
 * [**pythonspeed/filprofiler**](https://github.com/pythonspeed/filprofiler): A Python memory profiler for data processing and scientific computing applications
 * [**pacak/bpaf**](https://github.com/pacak/bpaf): Command line parser with applicative interface
@@ -1992,6 +1998,7 @@
 * [**adi1090x/rofi**](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [**adi1090x/polybar-themes**](https://github.com/adi1090x/polybar-themes): A huge collection of polybar themes with different styles, colors and variants.
 * [**xero/dotfiles**](https://github.com/xero/dotfiles): ▒ rice ░░  custom linux config files
+* [**astrogewgaw/dotty**](https://github.com/astrogewgaw/dotty): My dotfiles, managed.
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
