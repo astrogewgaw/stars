@@ -571,7 +571,7 @@
 * [**aviatesk/JET.jl**](https://github.com/aviatesk/JET.jl): An experimental code analyzer for Julia, no need for additional type annotations
 * [**timholy/SnoopCompile.jl**](https://github.com/timholy/SnoopCompile.jl): Making packages work faster with more extensive precompilation
 * [**kimikage/ProfileSVG.jl**](https://github.com/kimikage/ProfileSVG.jl): Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
-* [**giordano/PkgCleanup.jl**](https://github.com/giordano/PkgCleanup.jl): *No description*
+* [**giordano/PkgCleanup.jl**](https://github.com/giordano/PkgCleanup.jl): Cleanup unused Julia environments and artifacts
 * [**cjdoris/LogarithmicNumbers.jl**](https://github.com/cjdoris/LogarithmicNumbers.jl): A logarithmic number system for Julia.
 * [**JuliaArrays/OffsetArrays.jl**](https://github.com/JuliaArrays/OffsetArrays.jl): Fortran-like arrays with arbitrary, zero or negative starting indices.
 * [**JuliaArrays/StackViews.jl**](https://github.com/JuliaArrays/StackViews.jl): no more 🐱🐱
@@ -781,6 +781,7 @@
 
 ## Jupyter Notebook
 
+* [**christianhbye/croissant**](https://github.com/christianhbye/croissant): *No description*
 * [**sterinaldi/figaro**](https://github.com/sterinaldi/figaro): Fast Inference for GW Astronomy, Research and Observations
 * [**johnmyleswhite/julia_tutorials**](https://github.com/johnmyleswhite/julia_tutorials): Tutorials on Julia topics
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
@@ -942,6 +943,7 @@
 
 ## Others
 
+* [**Envoy-VC/Badges-for-GitHub**](https://github.com/Envoy-VC/Badges-for-GitHub): A Curated list of Badges used in GitHub
 * [**me-shaon/GLWTPL**](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [**RocketRace/setver**](https://github.com/RocketRace/setver): Setaceous Versioning, the revolutionary new way to maintain software
 * [**taowen/awesome-html**](https://github.com/taowen/awesome-html): collection of "html over the wire" libraries
@@ -1042,6 +1044,7 @@
 
 ## Python
 
+* [**danielgatis/rembg**](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background.
 * [**pradyunsg/sphinx-inline-tabs**](https://github.com/pradyunsg/sphinx-inline-tabs): Add inline tabbed content to your Sphinx documentation. (actively maintained although extremely stable)
 * [**carpentries-incubator/docker-introduction**](https://github.com/carpentries-incubator/docker-introduction): Reproducible Computational Environments using Containers
 * [**bjodah/chempy**](https://github.com/bjodah/chempy): ⚗ A package useful for chemistry written in Python
