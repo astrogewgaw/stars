@@ -120,6 +120,7 @@
 
 ## C++
 
+* [**eschnett/beamforming**](https://github.com/eschnett/beamforming): Experiment with beam forming algorithms for CHORD
 * [**NVIDIA/gdrcopy**](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 * [**Clemapfel/jluna**](https://github.com/Clemapfel/jluna): Julia <-> C++ Wrapper with Focus on Safety, Elegance, and Ease of Use
 * [**mosra/magnum**](https://github.com/mosra/magnum): Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -425,7 +426,7 @@
 
 ## HTML
 
-* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): *No description*
+* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -530,6 +531,11 @@
 
 ## Julia
 
+* [**eschnett/Persist.jl**](https://github.com/eschnett/Persist.jl): Persistent jobs
+* [**eschnett/SIMD.jl**](https://github.com/eschnett/SIMD.jl): Explicit SIMD vector operations for Julia
+* [**eschnett/CxxInterface.jl**](https://github.com/eschnett/CxxInterface.jl): Create Julia interfaces to C++ libraries
+* [**JuliaMath/Polynomials.jl**](https://github.com/JuliaMath/Polynomials.jl): Polynomial manipulations in Julia
+* [**JuliaMath/Interpolations.jl**](https://github.com/JuliaMath/Interpolations.jl): Fast, continuous interpolation of discrete datasets in Julia
 * [**JuliaApproximation/FastTransforms.jl**](https://github.com/JuliaApproximation/FastTransforms.jl): :rocket: Julia package for fast orthogonal polynomial transforms :snowboarder:
 * [**JuliaDSP/FourierTransforms.jl**](https://github.com/JuliaDSP/FourierTransforms.jl): Fourier transforms written in Julia
 * [**JuliaDSP/Deconvolution.jl**](https://github.com/JuliaDSP/Deconvolution.jl): A Julia package for deconvolution of digital signals
@@ -943,6 +949,7 @@
 
 ## Others
 
+* [**penk/MainboardTerminal**](https://github.com/penk/MainboardTerminal): A Retro-style Computer with a Modern Core
 * [**Envoy-VC/Badges-for-GitHub**](https://github.com/Envoy-VC/Badges-for-GitHub): A Curated list of Badges used in GitHub
 * [**me-shaon/GLWTPL**](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [**RocketRace/setver**](https://github.com/RocketRace/setver): Setaceous Versioning, the revolutionary new way to maintain software
@@ -1044,6 +1051,8 @@
 
 ## Python
 
+* [**pyscript/pyscript-cli**](https://github.com/pyscript/pyscript-cli): A CLI for PyScript
+* [**akshaysuresh1/rtps**](https://github.com/akshaysuresh1/rtps): Generate phase space diagram of radio transients.
 * [**danielgatis/rembg**](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background.
 * [**pradyunsg/sphinx-inline-tabs**](https://github.com/pradyunsg/sphinx-inline-tabs): Add inline tabbed content to your Sphinx documentation. (actively maintained although extremely stable)
 * [**carpentries-incubator/docker-introduction**](https://github.com/carpentries-incubator/docker-introduction): Reproducible Computational Environments using Containers
@@ -1120,7 +1129,7 @@
 * [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
 * [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 * [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
-* [**bwhmather/ssort**](https://github.com/bwhmather/ssort): Tool for sorting top level statements in python files
+* [**bwhmather/ssort**](https://github.com/bwhmather/ssort): The python source code sorted
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 * [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
 * [**flexxui/flexx**](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
