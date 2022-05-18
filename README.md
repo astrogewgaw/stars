@@ -531,6 +531,7 @@
 
 ## Julia
 
+* [**ptiede/VIDA.jl**](https://github.com/ptiede/VIDA.jl): EHT Image domain analysis through template matching.
 * [**eschnett/Persist.jl**](https://github.com/eschnett/Persist.jl): Persistent jobs
 * [**eschnett/SIMD.jl**](https://github.com/eschnett/SIMD.jl): Explicit SIMD vector operations for Julia
 * [**eschnett/CxxInterface.jl**](https://github.com/eschnett/CxxInterface.jl): Create Julia interfaces to C++ libraries
@@ -787,8 +788,9 @@
 
 ## Jupyter Notebook
 
+* [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
+* [**executablebooks/MyST-NB**](https://github.com/executablebooks/MyST-NB): Parse and execute ipynb files in Sphinx
 * [**christianhbye/croissant**](https://github.com/christianhbye/croissant): *No description*
-* [**sterinaldi/figaro**](https://github.com/sterinaldi/figaro): Fast Inference for GW Astronomy, Research and Observations
 * [**johnmyleswhite/julia_tutorials**](https://github.com/johnmyleswhite/julia_tutorials): Tutorials on Julia topics
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
@@ -949,6 +951,8 @@
 
 ## Others
 
+* [**jrevels/YASGuide**](https://github.com/jrevels/YASGuide): Yet Another Style Guide For Julia
+* [**SciML/SciMLStyle**](https://github.com/SciML/SciMLStyle): A style guide for stylish Julia developers
 * [**penk/MainboardTerminal**](https://github.com/penk/MainboardTerminal): A Retro-style Computer with a Modern Core
 * [**Envoy-VC/Badges-for-GitHub**](https://github.com/Envoy-VC/Badges-for-GitHub): A Curated list of Badges used in GitHub
 * [**me-shaon/GLWTPL**](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
@@ -1051,11 +1055,13 @@
 
 ## Python
 
+* [**executablebooks/MyST-Parser**](https://github.com/executablebooks/MyST-Parser): An extended commonmark compliant parser, with bridges to docutils/sphinx
 * [**pyscript/pyscript-cli**](https://github.com/pyscript/pyscript-cli): A CLI for PyScript
 * [**akshaysuresh1/rtps**](https://github.com/akshaysuresh1/rtps): Generate phase space diagram of radio transients.
 * [**danielgatis/rembg**](https://github.com/danielgatis/rembg): Rembg is a tool to remove images background.
 * [**pradyunsg/sphinx-inline-tabs**](https://github.com/pradyunsg/sphinx-inline-tabs): Add inline tabbed content to your Sphinx documentation. (actively maintained although extremely stable)
 * [**carpentries-incubator/docker-introduction**](https://github.com/carpentries-incubator/docker-introduction): Reproducible Computational Environments using Containers
+* [**sterinaldi/figaro**](https://github.com/sterinaldi/figaro): Fast Inference for GW Astronomy, Research and Observations
 * [**bjodah/chempy**](https://github.com/bjodah/chempy): ⚗ A package useful for chemistry written in Python
 * [**cjdoris/pyjuliapkg**](https://github.com/cjdoris/pyjuliapkg): Manage your Julia dependencies from Python
 * [**google-research/arxiv-latex-cleaner**](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
