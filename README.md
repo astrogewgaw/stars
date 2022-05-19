@@ -531,6 +531,7 @@
 
 ## Julia
 
+* [**jipolanco/PencilFFTs.jl**](https://github.com/jipolanco/PencilFFTs.jl): Fast Fourier transforms of MPI-distributed Julia arrays
 * [**ptiede/VIDA.jl**](https://github.com/ptiede/VIDA.jl): EHT Image domain analysis through template matching.
 * [**eschnett/Persist.jl**](https://github.com/eschnett/Persist.jl): Persistent jobs
 * [**eschnett/SIMD.jl**](https://github.com/eschnett/SIMD.jl): Explicit SIMD vector operations for Julia
@@ -1135,7 +1136,7 @@
 * [**nbedos/termtosvg**](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations
 * [**httpie/httpie**](https://github.com/httpie/httpie): As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 * [**wjm41/molplotly**](https://github.com/wjm41/molplotly): add-on to plotly which show molecule images on mouseover!
-* [**bwhmather/ssort**](https://github.com/bwhmather/ssort): The python source code sorted
+* [**bwhmather/ssort**](https://github.com/bwhmather/ssort): Tool for automatically sorting python statements within a module
 * [**pypyr/pypyr**](https://github.com/pypyr/pypyr): pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 * [**idom-team/idom**](https://github.com/idom-team/idom): Create highly interactive web pages purely in Python
 * [**flexxui/flexx**](https://github.com/flexxui/flexx): Write desktop and web apps in pure Python
@@ -1179,7 +1180,7 @@
 * [**pypa/hatch**](https://github.com/pypa/hatch): Modern, extensible Python project management
 * [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
-* [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
+* [**aiiie/cram**](https://github.com/aiiie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
@@ -1300,7 +1301,7 @@
 * [**anki-code/xontrib-onepath**](https://github.com/anki-code/xontrib-onepath): Associate files and directories with app or alias and run it without preceding commands in xonsh shell.
 * [**tokenizer/xontrib-output-search**](https://github.com/tokenizer/xontrib-output-search): Get identifiers, paths, URLs and words from the previous command output and use them for the next command in xonsh shell.
 * [**anki-code/xontrib-back2dir**](https://github.com/anki-code/xontrib-back2dir): Return to the most recently used directory when starting the xonsh shell.
-* [**xonsh/xontrib-cookiecutter**](https://github.com/xonsh/xontrib-cookiecutter): A cookiecutter template for xontribs, a.k.a xonsh contributions
+* [**xonsh/xontrib-template**](https://github.com/xonsh/xontrib-template): A cookiecutter template for xontribs, a.k.a xonsh contributions
 * [**vaaaaanquish/xontrib-readable-traceback**](https://github.com/vaaaaanquish/xontrib-readable-traceback): xonsh readable traceback
 * [**DangerOnTheRanger/xonsh-apt-tabcomplete**](https://github.com/DangerOnTheRanger/xonsh-apt-tabcomplete): APT tabcomplete for the Xonsh shell
 * [**cafehaine/xontrib-xlsd**](https://github.com/cafehaine/xontrib-xlsd): xontrib-xlsd is the next gen ls command for xonsh shell, inspired by lsd.
