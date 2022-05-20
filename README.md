@@ -531,6 +531,7 @@
 
 ## Julia
 
+* [**hyrodium/BasicBSpline.jl**](https://github.com/hyrodium/BasicBSpline.jl): Basic (mathematical) operations for B-spline functions and related things with julia
 * [**jipolanco/PencilFFTs.jl**](https://github.com/jipolanco/PencilFFTs.jl): Fast Fourier transforms of MPI-distributed Julia arrays
 * [**ptiede/VIDA.jl**](https://github.com/ptiede/VIDA.jl): EHT Image domain analysis through template matching.
 * [**eschnett/Persist.jl**](https://github.com/eschnett/Persist.jl): Persistent jobs
@@ -1056,6 +1057,8 @@
 
 ## Python
 
+* [**ajalt/fuckitpy**](https://github.com/ajalt/fuckitpy): The Python error steamroller.
+* [**fidelity/spock**](https://github.com/fidelity/spock): spock is a framework that helps manage complex parameter configurations during research and development of Python applications
 * [**executablebooks/MyST-Parser**](https://github.com/executablebooks/MyST-Parser): An extended commonmark compliant parser, with bridges to docutils/sphinx
 * [**pyscript/pyscript-cli**](https://github.com/pyscript/pyscript-cli): A CLI for PyScript
 * [**akshaysuresh1/rtps**](https://github.com/akshaysuresh1/rtps): Generate phase space diagram of radio transients.
