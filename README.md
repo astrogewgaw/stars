@@ -213,7 +213,6 @@
 
 ## CSS
 
-* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Julia library for stylized terminal output
 * [**braver/programmingfonts**](https://github.com/braver/programmingfonts): Test drive programming fonts online
 * [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -646,6 +645,7 @@
 * [**org-arl/InteractiveViz.jl**](https://github.com/org-arl/InteractiveViz.jl): Interactive visualization tools for Julia
 * [**kiranshila/SIGPROC.jl**](https://github.com/kiranshila/SIGPROC.jl): Toolkit for working with astronomical radio transients in the SIGPROC Filterbank format in Julia
 * [**kdheepak/TerminalUserInterfaces.jl**](https://github.com/kdheepak/TerminalUserInterfaces.jl): Terminal User Interfaces in Julia.
+* [**FedeClaudi/Term.jl**](https://github.com/FedeClaudi/Term.jl): Julia library for stylized terminal output
 * [**shashi/FileTrees.jl**](https://github.com/shashi/FileTrees.jl): Parallel file processing made easy
 * [**ronisbr/PrettyNumbers.jl**](https://github.com/ronisbr/PrettyNumbers.jl): Pretty print numbers in Julia.
 * [**tonyhffong/TermWin.jl**](https://github.com/tonyhffong/TermWin.jl): ncurses based data navigators
@@ -953,6 +953,8 @@
 
 ## Others
 
+* [**writing-resources/awesome-scientific-writing**](https://github.com/writing-resources/awesome-scientific-writing): :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
+* [**heartly/awesome-writing-tools**](https://github.com/heartly/awesome-writing-tools): A curated list of awesome tools for improving written communication
 * [**jrevels/YASGuide**](https://github.com/jrevels/YASGuide): Yet Another Style Guide For Julia
 * [**SciML/SciMLStyle**](https://github.com/SciML/SciMLStyle): A style guide for stylish Julia developers
 * [**penk/MainboardTerminal**](https://github.com/penk/MainboardTerminal): A Retro-style Computer with a Modern Core
@@ -1057,6 +1059,7 @@
 
 ## Python
 
+* [**citation-file-format/citation-file-format**](https://github.com/citation-file-format/citation-file-format): The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 * [**ajalt/fuckitpy**](https://github.com/ajalt/fuckitpy): The Python error steamroller.
 * [**fidelity/spock**](https://github.com/fidelity/spock): spock is a framework that helps manage complex parameter configurations during research and development of Python applications
 * [**executablebooks/MyST-Parser**](https://github.com/executablebooks/MyST-Parser): An extended commonmark compliant parser, with bridges to docutils/sphinx
@@ -1760,7 +1763,7 @@
 * [**econchick/interrogate**](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage.
 * [**Mahdisadjadi/arxivscraper**](https://github.com/Mahdisadjadi/arxivscraper): A python module to scrape arxiv.org for a date range and category
 * [**bmcguir2/astromolecule_census**](https://github.com/bmcguir2/astromolecule_census): *No description*
-* [**python/typing**](https://github.com/python/typing): Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
+* [**python/typing**](https://github.com/python/typing): Python static typing home. Hosts the documentation and a user help forum.
 * [**python/cpython**](https://github.com/python/cpython): The Python programming language
 * [**hylang/hy**](https://github.com/hylang/hy): A dialect of Lisp that's embedded in Python
 * [**python-attrs/cattrs**](https://github.com/python-attrs/cattrs): Complex custom class converters for attrs.
