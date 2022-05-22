@@ -49,6 +49,7 @@
 * [**PureScript**](#purescript)
 * [**Python**](#python)
 * [**QML**](#qml)
+* [**R**](#r)
 * [**Ruby**](#ruby)
 * [**Rust**](#rust)
 * [**SCSS**](#scss)
@@ -530,6 +531,7 @@
 
 ## Julia
 
+* [**JuliaIO/MultifileArrays.jl**](https://github.com/JuliaIO/MultifileArrays.jl): Create a higher-dimensional array from lazily-loaded slices in separate files
 * [**hyrodium/BasicBSpline.jl**](https://github.com/hyrodium/BasicBSpline.jl): Basic (mathematical) operations for B-spline functions and related things with julia
 * [**jipolanco/PencilFFTs.jl**](https://github.com/jipolanco/PencilFFTs.jl): Fast Fourier transforms of MPI-distributed Julia arrays
 * [**ptiede/VIDA.jl**](https://github.com/ptiede/VIDA.jl): EHT Image domain analysis through template matching.
@@ -722,7 +724,7 @@
 * [**JuliaStats/Distances.jl**](https://github.com/JuliaStats/Distances.jl): A Julia package for evaluating distances (metrics) between vectors.
 * [**JuliaLinearAlgebra/Octavian.jl**](https://github.com/JuliaLinearAlgebra/Octavian.jl): Multi-threaded BLAS-like library that provides pure Julia matrix multiplication
 * [**JuliaPy/PyCall.jl**](https://github.com/JuliaPy/PyCall.jl): Package to call Python functions from the Julia language
-* [**comonicon/Comonicon.jl**](https://github.com/comonicon/Comonicon.jl): All terminals are under my command.
+* [**comonicon/Comonicon.jl**](https://github.com/comonicon/Comonicon.jl): Your best CLI generator in JuliaLang
 * [**carlobaldassi/ArgParse.jl**](https://github.com/carlobaldassi/ArgParse.jl): Package for parsing command-line arguments to Julia programs.
 * [**docopt/DocOpt.jl**](https://github.com/docopt/DocOpt.jl): command line arguments parser
 * [**timholy/ProgressMeter.jl**](https://github.com/timholy/ProgressMeter.jl): Progress meter for long-running computations
@@ -958,7 +960,7 @@
 * [**jrevels/YASGuide**](https://github.com/jrevels/YASGuide): Yet Another Style Guide For Julia
 * [**SciML/SciMLStyle**](https://github.com/SciML/SciMLStyle): A style guide for stylish Julia developers
 * [**penk/MainboardTerminal**](https://github.com/penk/MainboardTerminal): A Retro-style Computer with a Modern Core
-* [**Envoy-VC/Badges-for-GitHub**](https://github.com/Envoy-VC/Badges-for-GitHub): A Curated list of Badges used in GitHub
+* [**Envoy-VC/awesome-badges**](https://github.com/Envoy-VC/awesome-badges): 😎 A curated list of GitHub badges for your next  project
 * [**me-shaon/GLWTPL**](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [**RocketRace/setver**](https://github.com/RocketRace/setver): Setaceous Versioning, the revolutionary new way to maintain software
 * [**taowen/awesome-html**](https://github.com/taowen/awesome-html): collection of "html over the wire" libraries
@@ -1788,6 +1790,10 @@
 
 * [**Swordfish90/cool-retro-term**](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 
+## R
+
+* [**BlakeRMills/MetBrewer**](https://github.com/BlakeRMills/MetBrewer): Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
+
 ## Ruby
 
 * [**dewyze/vim-tada**](https://github.com/dewyze/vim-tada): Todo manager for tasks, projects, or whatever!
@@ -1813,7 +1819,7 @@
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
+* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 * [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
 * [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 * [**johnthagen/min-sized-rust**](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
@@ -2098,7 +2104,7 @@
 * [**calcom/cal.com**](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [**yuki-yano/fzf-preview.vim**](https://github.com/yuki-yano/fzf-preview.vim): The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): App to easily query, script, and visualize data from every database, file, and API.
-* [**tamagui/tamagui**](https://github.com/tamagui/tamagui): Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
+* [**tamagui/tamagui**](https://github.com/tamagui/tamagui): Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
 * [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
