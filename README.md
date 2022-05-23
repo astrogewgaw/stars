@@ -260,6 +260,7 @@
 
 ## Emacs Lisp
 
+* [**rougier/org-imenu**](https://github.com/rougier/org-imenu): org imenu filtering
 * [**cdominik/mu2tex**](https://github.com/cdominik/mu2tex): Convert ASCII representation of units, numbers and molecule names to LaTeX
 
 ## FORTRAN
@@ -531,6 +532,8 @@
 
 ## Julia
 
+* [**mkitti/ArrayAllocators.jl**](https://github.com/mkitti/ArrayAllocators.jl): Allocate arrays with malloc, calloc, or on NUMA nodes
+* [**JuliaMath/NFFT.jl**](https://github.com/JuliaMath/NFFT.jl): Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)
 * [**JuliaIO/MultifileArrays.jl**](https://github.com/JuliaIO/MultifileArrays.jl): Create a higher-dimensional array from lazily-loaded slices in separate files
 * [**hyrodium/BasicBSpline.jl**](https://github.com/hyrodium/BasicBSpline.jl): Basic (mathematical) operations for B-spline functions and related things with julia
 * [**jipolanco/PencilFFTs.jl**](https://github.com/jipolanco/PencilFFTs.jl): Fast Fourier transforms of MPI-distributed Julia arrays
