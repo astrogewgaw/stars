@@ -791,6 +791,7 @@
 
 ## Jupyter Notebook
 
+* [**MorganWaddy/barb**](https://github.com/MorganWaddy/barb): A Bayesian rate estimation python package for FRBs
 * [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
 * [**executablebooks/MyST-NB**](https://github.com/executablebooks/MyST-NB): Parse and execute ipynb files in Sphinx
 * [**christianhbye/croissant**](https://github.com/christianhbye/croissant): *No description*
@@ -1060,6 +1061,9 @@
 
 ## Python
 
+* [**nanograv/pulsar-clock-corrections**](https://github.com/nanograv/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
+* [**flekschas/jupyter-scatter**](https://github.com/flekschas/jupyter-scatter): Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!
+* [**bitprophet/releases**](https://github.com/bitprophet/releases): A powerful Sphinx changelog-generating extension.
 * [**citation-file-format/citation-file-format**](https://github.com/citation-file-format/citation-file-format): The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 * [**ajalt/fuckitpy**](https://github.com/ajalt/fuckitpy): The Python error steamroller.
 * [**fidelity/spock**](https://github.com/fidelity/spock): spock is a framework that helps manage complex parameter configurations during research and development of Python applications
@@ -1808,7 +1812,7 @@
 * [**jamesmunns/bbqueue**](https://github.com/jamesmunns/bbqueue): A SPSC, lockless, no_std, thread safe, queue, based on BipBuffers
 * [**pythonspeed/filprofiler**](https://github.com/pythonspeed/filprofiler): A Python memory profiler for data processing and scientific computing applications
 * [**pacak/bpaf**](https://github.com/pacak/bpaf): Command line parser with applicative interface
-* [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a diff that understands syntax 🟥🟩
+* [**Wilfred/difftastic**](https://github.com/Wilfred/difftastic): a structural diff that understands syntax 🟥🟩
 * [**arijit79/minus**](https://github.com/arijit79/minus): A small, asynchronous paging library for Rust
 * [**cds-astro/fitsrs**](https://github.com/cds-astro/fitsrs): FITS reader lib implemented in pure Rust with nom crate
 * [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
