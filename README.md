@@ -256,7 +256,7 @@
 
 ## Emacs Lisp
 
-* [**rougier/org-imenu**](https://github.com/rougier/org-imenu): org imenu filtering
+* [**rougier/org-imenu**](https://github.com/rougier/org-imenu): org-mode side menu with filtering capability
 * [**cdominik/mu2tex**](https://github.com/cdominik/mu2tex): Convert ASCII representation of units, numbers and molecule names to LaTeX
 
 ## FORTRAN
@@ -528,6 +528,7 @@
 
 ## Julia
 
+* [**JuliaFolds/Folds.jl**](https://github.com/JuliaFolds/Folds.jl): A unified interface for sequential, threaded, and distributed fold
 * [**mkitti/ArrayAllocators.jl**](https://github.com/mkitti/ArrayAllocators.jl): Allocate arrays with malloc, calloc, or on NUMA nodes
 * [**JuliaMath/NFFT.jl**](https://github.com/JuliaMath/NFFT.jl): Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)
 * [**JuliaIO/MultifileArrays.jl**](https://github.com/JuliaIO/MultifileArrays.jl): Create a higher-dimensional array from lazily-loaded slices in separate files
@@ -1061,6 +1062,7 @@
 
 ## Python
 
+* [**CIRADA-Tools/RMTable**](https://github.com/CIRADA-Tools/RMTable): Code to read/write tables of rotation measures following the proposed standard.
 * [**nanograv/pulsar-clock-corrections**](https://github.com/nanograv/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
 * [**flekschas/jupyter-scatter**](https://github.com/flekschas/jupyter-scatter): Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!
 * [**bitprophet/releases**](https://github.com/bitprophet/releases): A powerful Sphinx changelog-generating extension.
@@ -1887,7 +1889,7 @@
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
-* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
@@ -2020,6 +2022,8 @@
 
 ## Shell
 
+* [**astrogewgaw/tochky**](https://github.com/astrogewgaw/tochky): Мои точки | My dots
+* [**turquoise-hexagon/cherry**](https://github.com/turquoise-hexagon/cherry): another bitmap font
 * [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli): A cli tool to browse and play anime
 * [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): Feature-rich Syntax Highlighting for Zsh.
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
@@ -2043,7 +2047,7 @@
 * [**quickemu-project/quickemu**](https://github.com/quickemu-project/quickemu): Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 * [**ohmyzsh/ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [**aristocratos/bashtop**](https://github.com/aristocratos/bashtop): Linux/OSX/FreeBSD resource monitor
-* [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): Spotify Connect client for the Raspberry Pi that Just Works™
+* [**dtcooper/raspotify**](https://github.com/dtcooper/raspotify): A Spotify Connect client that mostly Just Works™
 * [**bb010g/betterdiscordctl**](https://github.com/bb010g/betterdiscordctl): A utility for managing BetterDiscord on Linux.
 * [**romkatv/powerlevel10k**](https://github.com/romkatv/powerlevel10k): A Zsh theme
 * [**pypa/manylinux**](https://github.com/pypa/manylinux): Python wheels that work on any linux (almost)
