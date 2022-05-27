@@ -67,6 +67,7 @@
 
 ## C
 
+* [**evanocathain/Useful_FRB_stuff**](https://github.com/evanocathain/Useful_FRB_stuff): Useful Codes and Scripts for FRB Analyses
 * [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): *No description*
@@ -291,6 +292,7 @@
 
 ## Go
 
+* [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
 * [**BetaPictoris/dict**](https://github.com/BetaPictoris/dict): 📔 View the dictionary through the CLI
 * [**jon4hz/tmpdir**](https://github.com/jon4hz/tmpdir): a garbage collector for tmp directories
@@ -423,7 +425,6 @@
 
 ## HTML
 
-* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -528,6 +529,10 @@
 
 ## Julia
 
+* [**tecosaur/HelpfulErrors.jl**](https://github.com/tecosaur/HelpfulErrors.jl): *No description*
+* [**tpapp/DefaultApplication.jl**](https://github.com/tpapp/DefaultApplication.jl): Julia package for opening a file with the default application determined by the OS.
+* [**cjdoris/MicroMamba.jl**](https://github.com/cjdoris/MicroMamba.jl): Julia interface to the MicroMamba package manager.
+* [**cjdoris/Bokeh.jl**](https://github.com/cjdoris/Bokeh.jl): Interactive plotting made easy
 * [**JuliaFolds/Folds.jl**](https://github.com/JuliaFolds/Folds.jl): A unified interface for sequential, threaded, and distributed fold
 * [**mkitti/ArrayAllocators.jl**](https://github.com/mkitti/ArrayAllocators.jl): Allocate arrays with malloc, calloc, or on NUMA nodes
 * [**JuliaMath/NFFT.jl**](https://github.com/JuliaMath/NFFT.jl): Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)
@@ -1062,6 +1067,7 @@
 
 ## Python
 
+* [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * [**CIRADA-Tools/RMTable**](https://github.com/CIRADA-Tools/RMTable): Code to read/write tables of rotation measures following the proposed standard.
 * [**nanograv/pulsar-clock-corrections**](https://github.com/nanograv/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
 * [**flekschas/jupyter-scatter**](https://github.com/flekschas/jupyter-scatter): Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!
@@ -2099,6 +2105,7 @@
 
 ## TypeScript
 
+* [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
