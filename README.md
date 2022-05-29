@@ -529,6 +529,7 @@
 
 ## Julia
 
+* [**JuliaPlots/MakieTeX.jl**](https://github.com/JuliaPlots/MakieTeX.jl): TeX integration in Makie
 * [**tecosaur/HelpfulErrors.jl**](https://github.com/tecosaur/HelpfulErrors.jl): *No description*
 * [**tpapp/DefaultApplication.jl**](https://github.com/tpapp/DefaultApplication.jl): Julia package for opening a file with the default application determined by the OS.
 * [**cjdoris/MicroMamba.jl**](https://github.com/cjdoris/MicroMamba.jl): Julia interface to the MicroMamba package manager.
@@ -1067,6 +1068,8 @@
 
 ## Python
 
+* [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
+* [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * [**CIRADA-Tools/RMTable**](https://github.com/CIRADA-Tools/RMTable): Code to read/write tables of rotation measures following the proposed standard.
 * [**nanograv/pulsar-clock-corrections**](https://github.com/nanograv/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
@@ -2105,6 +2108,7 @@
 
 ## TypeScript
 
+* [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
@@ -2159,6 +2163,7 @@
 
 ## Vim script
 
+* [**untitled-ai/jupyter_ascending.vim**](https://github.com/untitled-ai/jupyter_ascending.vim): Vim plugin to interact with jupyter_ascending
 * [**tpope/vim-eunuch**](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [**vimwiki/vimwiki**](https://github.com/vimwiki/vimwiki): Personal Wiki for Vim
 * [**junegunn/goyo.vim**](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
@@ -2209,6 +2214,7 @@
 
 ## Vue
 
+* [**shaunabanana/intrigue**](https://github.com/shaunabanana/intrigue): Organize literature into ideas, fast.
 * [**Lissy93/dashy**](https://github.com/Lissy93/dashy): 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 * [**slidevjs/themes**](https://github.com/slidevjs/themes): Official themes for Slidev
 
