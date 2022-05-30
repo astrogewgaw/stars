@@ -504,7 +504,6 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
-* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -826,7 +825,7 @@
 * [**adrn/CitationPEP**](https://github.com/adrn/CitationPEP): Sketching out a PEP for a software citation standard
 * [**polynote/polynote**](https://github.com/polynote/polynote): A better notebook for Scala (and more)
 * [**adsabs/adsabs-dev-api**](https://github.com/adsabs/adsabs-dev-api): Developer API service description and example client code
-* [**gpuhackathons-org/gpubootcamp**](https://github.com/gpuhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
+* [**openhackathons-org/gpubootcamp**](https://github.com/openhackathons-org/gpubootcamp): This repository consists for gpu bootcamp material for HPC and AI
 * [**munozcar/MCCOY**](https://github.com/munozcar/MCCOY): Millimiter Characterization of Complex Organics in Young stellar objects
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
@@ -2138,6 +2137,7 @@
 * [**bqplot/bqplot**](https://github.com/bqplot/bqplot): Plotting library for IPython/Jupyter notebooks
 * [**jupyterlab/lumino**](https://github.com/jupyterlab/lumino): Lumino is a library for building interactive web applications
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
+* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
