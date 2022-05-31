@@ -504,6 +504,7 @@
 * [**danielfrg/jupyter-flex**](https://github.com/danielfrg/jupyter-flex): Build dashboards using Jupyter Notebooks
 * [**gregnb/mui-datatables**](https://github.com/gregnb/mui-datatables): Datatables for React using Material-UI - https://www.material-ui-datatables.com
 * [**carbon-app/carbon**](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
+* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
 * [**themerdev/themer**](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [**astefanutti/decktape**](https://github.com/astefanutti/decktape): PDF exporter for HTML presentations
 * [**henrikingo/impressionist**](https://github.com/henrikingo/impressionist): A Visual 3D editor for creating stunning impress.js presentations
@@ -528,6 +529,7 @@
 
 ## Julia
 
+* [**JuliaLang/JuliaSyntax.jl**](https://github.com/JuliaLang/JuliaSyntax.jl): A Julia frontend, written in Julia
 * [**JuliaPlots/MakieTeX.jl**](https://github.com/JuliaPlots/MakieTeX.jl): TeX integration in Makie
 * [**tecosaur/HelpfulErrors.jl**](https://github.com/tecosaur/HelpfulErrors.jl): *No description*
 * [**tpapp/DefaultApplication.jl**](https://github.com/tpapp/DefaultApplication.jl): Julia package for opening a file with the default application determined by the OS.
@@ -605,6 +607,7 @@
 * [**MydonSolutions/GuppiRaw.jl**](https://github.com/MydonSolutions/GuppiRaw.jl): A reader and writer of GUPPI RAW files.
 * [**JuliaComputing/Cobweb.jl**](https://github.com/JuliaComputing/Cobweb.jl): 🕸️ Cobble together web content in Julia
 * [**JuliaComputing/DataSets.jl**](https://github.com/JuliaComputing/DataSets.jl): *No description*
+* [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaDebug/Infiltrator.jl**](https://github.com/JuliaDebug/Infiltrator.jl): No-overhead breakpoints in Julia
 * [**JuliaDebug/Debugger.jl**](https://github.com/JuliaDebug/Debugger.jl): Julia debugger
 * [**JuliaDebug/Cthulhu.jl**](https://github.com/JuliaDebug/Cthulhu.jl): The slow descent into madness
@@ -961,6 +964,7 @@
 
 ## Others
 
+* [**martinbjeldbak/ultimate-beamer-theme-list**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list): A collection of custom Beamer themes
 * [**writing-resources/awesome-scientific-writing**](https://github.com/writing-resources/awesome-scientific-writing): :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 * [**heartly/awesome-writing-tools**](https://github.com/heartly/awesome-writing-tools): A curated list of awesome tools for improving written communication
 * [**jrevels/YASGuide**](https://github.com/jrevels/YASGuide): Yet Another Style Guide For Julia
@@ -973,7 +977,6 @@
 * [**tiimgreen/github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub.
 * [**amburkhardt/molsim**](https://github.com/amburkhardt/molsim): *No description*
 * [**bluescan/proggyfonts**](https://github.com/bluescan/proggyfonts): Monospaced fonts for programming.
-* [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
 * [**JuliaTesting/TestEnv.jl**](https://github.com/JuliaTesting/TestEnv.jl): Activate your test enviroment, so you can use your test dependencies in the REPL
 * [**penk/penkesu**](https://github.com/penk/penkesu): Penkesu Computer - A Homebrew Retro-style Handheld PC
 * [**egeerardyn/awesome-LaTeX**](https://github.com/egeerardyn/awesome-LaTeX): Curated list of LaTeX awesomeness
@@ -2137,7 +2140,6 @@
 * [**bqplot/bqplot**](https://github.com/bqplot/bqplot): Plotting library for IPython/Jupyter notebooks
 * [**jupyterlab/lumino**](https://github.com/jupyterlab/lumino): Lumino is a library for building interactive web applications
 * [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
-* [**google/zx**](https://github.com/google/zx): A tool for writing better scripts
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
