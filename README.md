@@ -457,6 +457,7 @@
 
 ## JavaScript
 
+* [**floccusaddon/floccus**](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [**Rich-Harris/degit**](https://github.com/Rich-Harris/degit): Straightforward project scaffolding
 * [**dzello/reveal-hugo**](https://github.com/dzello/reveal-hugo): 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 * [**hiroppy/fusuma**](https://github.com/hiroppy/fusuma): ✍️Fusuma makes slides with Markdown easily.
@@ -800,6 +801,7 @@
 
 ## Jupyter Notebook
 
+* [**manishacaleb/MKT-J0901-4046**](https://github.com/manishacaleb/MKT-J0901-4046): This is the data and code underlying the figures in the paper "Discovery of a radio emitting neutron star with an ultra-long spin period of 76 seconds"
 * [**MorganWaddy/barb**](https://github.com/MorganWaddy/barb): A Bayesian rate estimation python package for FRBs
 * [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
 * [**executablebooks/MyST-NB**](https://github.com/executablebooks/MyST-NB): Parse and execute ipynb files in Sphinx
@@ -1070,6 +1072,9 @@
 
 ## Python
 
+* [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
+* [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 75 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1626,7 +1631,7 @@
 * [**Morisset/pyStb99**](https://github.com/Morisset/pyStb99): pythonic interface to the Starburst99 code
 * [**Morisset/pySSN**](https://github.com/Morisset/pySSN): Pythonic Spectral Synthesis for Nebulae
 * [**Morisset/PyNeb_devel**](https://github.com/Morisset/PyNeb_devel): PyNeb development repository
-* [**natashabatalha/picaso**](https://github.com/natashabatalha/picaso): A Planetary Intensity Code for Atmospheric Scattering Observations
+* [**natashabatalha/picaso**](https://github.com/natashabatalha/picaso): A Planetary Intensity Code for Atmospheric Spectroscopy Observations
 * [**yangcht/radex_emcee**](https://github.com/yangcht/radex_emcee): RADEX+emcee, LVG modeling with an MCMC approach, used in arXiv: 1709.04740
 * [**3b1b/videos**](https://github.com/3b1b/videos): Code for the manim-generated scenes used in 3blue1brown videos
 * [**dbader/schedule**](https://github.com/dbader/schedule): Python job scheduling for humans.
@@ -1831,7 +1836,7 @@
 * [**volta-cli/volta**](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡
 * [**Nukesor/pueue**](https://github.com/Nukesor/pueue): :stars: Manage your shell commands.
 * [**XAMPPRocky/tokei**](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
-* [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer in Rust
+* [**casey/degenerate**](https://github.com/casey/degenerate): A generative art computer
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
