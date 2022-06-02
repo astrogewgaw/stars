@@ -457,6 +457,7 @@
 
 ## JavaScript
 
+* [**lukeed/kleur**](https://github.com/lukeed/kleur): The fastest Node.js library for formatting terminal text with ANSI colors~!
 * [**floccusaddon/floccus**](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [**Rich-Harris/degit**](https://github.com/Rich-Harris/degit): Straightforward project scaffolding
 * [**dzello/reveal-hugo**](https://github.com/dzello/reveal-hugo): 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
@@ -480,7 +481,6 @@
 * [**spicetify/spicetify-cli**](https://github.com/spicetify/spicetify-cli): Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 * [**Forge-Srl/gushio**](https://github.com/Forge-Srl/gushio): Like bash scripts, but in JavaScript
 * [**StingraySoftware/dave**](https://github.com/StingraySoftware/dave): A GUI for spectral-timing analysis of X-ray astronomical data.
-* [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**iamcco/markdown-preview.nvim**](https://github.com/iamcco/markdown-preview.nvim): markdown preview plugin for (neo)vim
 * [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
 * [**danburzo/percollate**](https://github.com/danburzo/percollate): A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
@@ -530,6 +530,8 @@
 
 ## Julia
 
+* [**JuliaCI/PkgBenchmark.jl**](https://github.com/JuliaCI/PkgBenchmark.jl): Easy benchmark tracking for packages
+* [**andrewcooke/ParserCombinator.jl**](https://github.com/andrewcooke/ParserCombinator.jl): A parser combinator library for Julia
 * [**JuliaLang/JuliaSyntax.jl**](https://github.com/JuliaLang/JuliaSyntax.jl): A Julia frontend, written in Julia
 * [**JuliaPlots/MakieTeX.jl**](https://github.com/JuliaPlots/MakieTeX.jl): TeX integration in Makie
 * [**tecosaur/HelpfulErrors.jl**](https://github.com/tecosaur/HelpfulErrors.jl): *No description*
@@ -892,6 +894,9 @@
 
 ## Lua
 
+* [**marko-cerovac/material.nvim**](https://github.com/marko-cerovac/material.nvim): :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
+* [**folke/persistence.nvim**](https://github.com/folke/persistence.nvim): 💾  Simple session management for Neovim
+* [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * [**ldelossa/gh.nvim**](https://github.com/ldelossa/gh.nvim): A fully featured GitHub integration for performing code reviews in Neovim.
 * [**nvim-telescope/telescope-github.nvim**](https://github.com/nvim-telescope/telescope-github.nvim): Integration with github cli
 * [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -946,7 +951,7 @@
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 
 ## Makefile
 
@@ -1074,7 +1079,7 @@
 
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 75 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 85 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1900,6 +1905,7 @@
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
+* [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [**Rigellute/spotify-tui**](https://github.com/Rigellute/spotify-tui): Spotify for the terminal written in Rust 🚀
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
