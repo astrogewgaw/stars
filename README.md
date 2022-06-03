@@ -530,6 +530,9 @@
 
 ## Julia
 
+* [**oxinabox/DataDepsGenerators.jl**](https://github.com/oxinabox/DataDepsGenerators.jl): Utility for developers to help define DataDeps registration blocks, for reusing existing Data with DataDeps.jl
+* [**oxinabox/DataDeps.jl**](https://github.com/oxinabox/DataDeps.jl): reproducible data setup for reproducible science
+* [**duxfrederic/astrostacker**](https://github.com/duxfrederic/astrostacker): A Julia package to stack astronomical images.
 * [**JuliaCI/PkgBenchmark.jl**](https://github.com/JuliaCI/PkgBenchmark.jl): Easy benchmark tracking for packages
 * [**andrewcooke/ParserCombinator.jl**](https://github.com/andrewcooke/ParserCombinator.jl): A parser combinator library for Julia
 * [**JuliaLang/JuliaSyntax.jl**](https://github.com/JuliaLang/JuliaSyntax.jl): A Julia frontend, written in Julia
@@ -1079,7 +1082,7 @@
 
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 85 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 101 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1831,6 +1834,8 @@
 
 ## Rust
 
+* [**crossbeam-rs/crossbeam**](https://github.com/crossbeam-rs/crossbeam): Tools for concurrent programming in Rust
+* [**Kobzol/rust-delegate**](https://github.com/Kobzol/rust-delegate): Rust method delegation with less boilerplate
 * [**H-M-H/Weylus**](https://github.com/H-M-H/Weylus): Use your tablet as graphic tablet/touch screen on your computer.
 * [**jamesmunns/bbqueue**](https://github.com/jamesmunns/bbqueue): A SPSC, lockless, no_std, thread safe, queue, based on BipBuffers
 * [**pythonspeed/filprofiler**](https://github.com/pythonspeed/filprofiler): A Python memory profiler for data processing and scientific computing applications
