@@ -457,6 +457,7 @@
 
 ## JavaScript
 
+* [**mikecao/umami**](https://github.com/mikecao/umami): Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 * [**lukeed/kleur**](https://github.com/lukeed/kleur): The fastest Node.js library for formatting terminal text with ANSI colors~!
 * [**floccusaddon/floccus**](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [**Rich-Harris/degit**](https://github.com/Rich-Harris/degit): Straightforward project scaffolding
@@ -1080,6 +1081,7 @@
 
 ## Python
 
+* [**UCBerkeleySETI/blimpy**](https://github.com/UCBerkeleySETI/blimpy): Breakthrough Listen I/O Methods for Python
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
 * [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 101 social networks.
