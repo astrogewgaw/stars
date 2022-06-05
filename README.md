@@ -56,6 +56,7 @@
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
+* [**Starlark**](#starlark)
 * [**TeX**](#tex)
 * [**TypeScript**](#typescript)
 * [**Vala**](#vala)
@@ -2095,6 +2096,10 @@
 ## Singularity
 
 * [**josephwkania/radio_transients**](https://github.com/josephwkania/radio_transients): Singularity containers with common radio transient search software.
+
+## Starlark
+
+* [**ratanparai/cpp-template**](https://github.com/ratanparai/cpp-template): C++ console application template using Bazel and googletest
 
 ## TeX
 
