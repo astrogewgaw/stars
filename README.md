@@ -119,6 +119,7 @@
 
 ## C++
 
+* [**SKA-ScienceDataProcessor/FastImaging**](https://github.com/SKA-ScienceDataProcessor/FastImaging): proto typing for fast imaging pipeline
 * [**eschnett/beamforming**](https://github.com/eschnett/beamforming): Experiment with beam forming algorithms for CHORD
 * [**NVIDIA/gdrcopy**](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 * [**Clemapfel/jluna**](https://github.com/Clemapfel/jluna): Julia <-> C++ Wrapper with Focus on Safety, Elegance, and Ease of Use
@@ -212,6 +213,7 @@
 
 ## CSS
 
+* [**scopatz/hdf5-is-for-lovers**](https://github.com/scopatz/hdf5-is-for-lovers): HDF5 Tutorial
 * [**braver/programmingfonts**](https://github.com/braver/programmingfonts): Test drive programming fonts online
 * [**dginev/ar5iv-css**](https://github.com/dginev/ar5iv-css): Some CSS experiments for arXiv HTML documents converted via latexml
 * [**cormullion/juliamono**](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support.
@@ -532,6 +534,10 @@
 
 ## Julia
 
+* [**JuliaML/MLUtils.jl**](https://github.com/JuliaML/MLUtils.jl): Utilities and abstractions for Machine Learning tasks
+* [**avik-pal/Lux.jl**](https://github.com/avik-pal/Lux.jl): Explicitly Parameterized Neural Networks in Julia
+* [**dfdx/Yota.jl**](https://github.com/dfdx/Yota.jl): Reverse-mode automatic differentiation in Julia
+* [**dfdx/Avalon.jl**](https://github.com/dfdx/Avalon.jl): Starter kit for legendary models
 * [**oxinabox/DataDepsGenerators.jl**](https://github.com/oxinabox/DataDepsGenerators.jl): Utility for developers to help define DataDeps registration blocks, for reusing existing Data with DataDeps.jl
 * [**oxinabox/DataDeps.jl**](https://github.com/oxinabox/DataDeps.jl): reproducible data setup for reproducible science
 * [**duxfrederic/astrostacker**](https://github.com/duxfrederic/astrostacker): A Julia package to stack astronomical images.
@@ -808,6 +814,8 @@
 
 ## Jupyter Notebook
 
+* [**denizyuret/Knet.jl**](https://github.com/denizyuret/Knet.jl): Koç University deep learning framework.
+* [**SKA-ScienceDataProcessor/algorithm-reference-library**](https://github.com/SKA-ScienceDataProcessor/algorithm-reference-library): Reference code for simplified aperture synthesis imaging
 * [**manishacaleb/MKT-J0901-4046**](https://github.com/manishacaleb/MKT-J0901-4046): This is the data and code underlying the figures in the paper "Discovery of a radio emitting neutron star with an ultra-long spin period of 76 seconds"
 * [**MorganWaddy/barb**](https://github.com/MorganWaddy/barb): A Bayesian rate estimation python package for FRBs
 * [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
@@ -1074,7 +1082,7 @@
 ## PureScript
 
 * [**sharkdp/insect**](https://github.com/sharkdp/insect): High precision scientific calculator with support for physical units
-* [**sharkdp/purescript-bigints**](https://github.com/sharkdp/purescript-bigints): Arbitrary length integers for PureScript
+* [**purescript-contrib/purescript-bigints**](https://github.com/purescript-contrib/purescript-bigints): Arbitrary length integers for PureScript
 * [**sharkdp/purescript-pairs**](https://github.com/sharkdp/purescript-pairs): Datatype and functions for pairs of values
 * [**purescript-contrib/purescript-colors**](https://github.com/purescript-contrib/purescript-colors): Convert, manipulate, analyze, blend, color scales, color schemes
 * [**sharkdp/purescript-decimals**](https://github.com/sharkdp/purescript-decimals): Arbitrary precision numbers for PureScript
