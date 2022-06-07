@@ -534,6 +534,13 @@
 
 ## Julia
 
+* [**JuliaLogging/LoggingExtras.jl**](https://github.com/JuliaLogging/LoggingExtras.jl): Composable Loggers  for the Julia Logging StdLib
+* [**JuliaAI/MLJTuning.jl**](https://github.com/JuliaAI/MLJTuning.jl): Hyperparameter optimization algorithms for use in the MLJ machine learning framework
+* [**SciML/DifferentialEquations.jl**](https://github.com/SciML/DifferentialEquations.jl): Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components
+* [**ndortega/Oxygen.jl**](https://github.com/ndortega/Oxygen.jl): Oxygen is a micro-framework built on top of the HTTP.jl library
+* [**sefffal/PairPlots.jl**](https://github.com/sefffal/PairPlots.jl): Julia package for producing corner plots, heavily inspired by corner.py
+* [**JuliaSpace/SatelliteToolbox.jl**](https://github.com/JuliaSpace/SatelliteToolbox.jl): A toolbox for satellite analysis written in julia language.
+* [**sefffal/PlanetOrbits.jl**](https://github.com/sefffal/PlanetOrbits.jl): Tools for solving and displaying Keplerian orbits for exoplanets.
 * [**JuliaML/MLUtils.jl**](https://github.com/JuliaML/MLUtils.jl): Utilities and abstractions for Machine Learning tasks
 * [**avik-pal/Lux.jl**](https://github.com/avik-pal/Lux.jl): Explicitly Parameterized Neural Networks in Julia
 * [**dfdx/Yota.jl**](https://github.com/dfdx/Yota.jl): Reverse-mode automatic differentiation in Julia
@@ -814,6 +821,7 @@
 
 ## Jupyter Notebook
 
+* [**kilianbreathnach/CornerPlot.jl**](https://github.com/kilianbreathnach/CornerPlot.jl): Create triangular matrix of subplots showing 2D parameter samples
 * [**denizyuret/Knet.jl**](https://github.com/denizyuret/Knet.jl): Koç University deep learning framework.
 * [**SKA-ScienceDataProcessor/algorithm-reference-library**](https://github.com/SKA-ScienceDataProcessor/algorithm-reference-library): Reference code for simplified aperture synthesis imaging
 * [**manishacaleb/MKT-J0901-4046**](https://github.com/manishacaleb/MKT-J0901-4046): This is the data and code underlying the figures in the paper "Discovery of a radio emitting neutron star with an ultra-long spin period of 76 seconds"
@@ -1090,10 +1098,11 @@
 
 ## Python
 
+* [**spack/spack**](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [**UCBerkeleySETI/blimpy**](https://github.com/UCBerkeleySETI/blimpy): Breakthrough Listen I/O Methods for Python
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 101 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 115 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1845,6 +1854,7 @@
 
 ## Rust
 
+* [**ellie/atuin**](https://github.com/ellie/atuin): 🐢 Magical shell history
 * [**crossbeam-rs/crossbeam**](https://github.com/crossbeam-rs/crossbeam): Tools for concurrent programming in Rust
 * [**Kobzol/rust-delegate**](https://github.com/Kobzol/rust-delegate): Rust method delegation with less boilerplate
 * [**H-M-H/Weylus**](https://github.com/H-M-H/Weylus): Use your tablet as graphic tablet/touch screen on your computer.
@@ -1919,7 +1929,6 @@
 * [**rust-lang/rust-analyzer**](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 * [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
-* [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
@@ -2078,6 +2087,7 @@
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
+* [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
