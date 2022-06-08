@@ -1143,7 +1143,6 @@
 * [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
-* [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
 * [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
 * [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
 * [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
@@ -1929,6 +1928,7 @@
 * [**rust-lang/rust-analyzer**](https://github.com/rust-lang/rust-analyzer): A Rust compiler front-end for IDEs
 * [**parasyte/pixels**](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
 * [**michaelb/sniprun**](https://github.com/michaelb/sniprun): A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
+* [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**visioncortex/vtracer**](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter
 * [**dominikwilkowski/cfonts**](https://github.com/dominikwilkowski/cfonts): Sexy fonts for the console
 * [**dandavison/delta**](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
@@ -2072,7 +2072,7 @@
 * [**astrogewgaw/tochky**](https://github.com/astrogewgaw/tochky): Мои точки | My dots
 * [**turquoise-hexagon/cherry**](https://github.com/turquoise-hexagon/cherry): another bitmap font
 * [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli): A cli tool to browse and play anime
-* [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): Feature-rich Syntax Highlighting for Zsh.
+* [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): 🧙‍♂️ Feature-rich Syntax Highlighting for Zsh
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
@@ -2087,7 +2087,6 @@
 * [**unixorn/awesome-zsh-plugins**](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
 * [**k4m4/terminals-are-sexy**](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [**agarrharr/awesome-cli-apps**](https://github.com/agarrharr/awesome-cli-apps): 🖥 📊 🕹 🛠 A curated list of command line apps
-* [**cross-rs/cross**](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
 * [**dylanaraps/pure-bash-bible**](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [**mcbernadich/multiTRAPUM**](https://github.com/mcbernadich/multiTRAPUM): This is an RFI masking pipelined based on the multibeam nature of the TRAPUM pulsar surveys. Used softwares: singularity, presto, sigproc, sigpyproc and filtools. getout_rfifind.py from P. Padmanabh and parts of rfifind_getout from V. Balakrishnan and M. Cruces, version 15.10.19.
 * [**dylanaraps/neofetch**](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
@@ -2154,6 +2153,7 @@
 * [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+* [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
