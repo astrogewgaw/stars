@@ -318,7 +318,7 @@
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [**YaoApp/yao**](https://github.com/YaoApp/yao): Yao A low code engine to create web services and dashboard.
+* [**YaoApp/yao**](https://github.com/YaoApp/yao): A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
 * [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
@@ -534,6 +534,9 @@
 
 ## Julia
 
+* [**cormullion/Karnak.jl**](https://github.com/cormullion/Karnak.jl): drawing graphs and networks with Luxor
+* [**JuliaGraphics/ColorSchemes.jl**](https://github.com/JuliaGraphics/ColorSchemes.jl): colorschemes, colormaps, gradients, and palettes
+* [**cormullion/Glyphy.jl**](https://github.com/cormullion/Glyphy.jl): I will look for you. I will find you. And I will print you.
 * [**JuliaLogging/LoggingExtras.jl**](https://github.com/JuliaLogging/LoggingExtras.jl): Composable Loggers  for the Julia Logging StdLib
 * [**JuliaAI/MLJTuning.jl**](https://github.com/JuliaAI/MLJTuning.jl): Hyperparameter optimization algorithms for use in the MLJ machine learning framework
 * [**SciML/DifferentialEquations.jl**](https://github.com/SciML/DifferentialEquations.jl): Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components
@@ -967,7 +970,7 @@
 * [**luukvbaal/nnn.nvim**](https://github.com/luukvbaal/nnn.nvim): File manager for Neovim powered by nnn.
 * [**Xuyuanp/scrollbar.nvim**](https://github.com/Xuyuanp/scrollbar.nvim): scrollbar for neovim
 * [**wbthomason/packer.nvim**](https://github.com/wbthomason/packer.nvim): A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-* [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
+* [**neovim/nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig): Quickstart configs for Nvim LSP
 * [**nvim-telescope/telescope.nvim**](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick. All lua, all the time.
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
@@ -2120,6 +2123,9 @@
 
 ## TeX
 
+* [**piazzai/arguelles**](https://github.com/piazzai/arguelles): Simple, typographic beamer theme
+* [**milaan9/LaTeX4Everyone**](https://github.com/milaan9/LaTeX4Everyone): Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.
+* [**junwei-wang/beamerthemeNord**](https://github.com/junwei-wang/beamerthemeNord): Nord beamer theme
 * [**alexpovel/latex-cookbook**](https://github.com/alexpovel/latex-cookbook): A comprehensive LaTeX template with examples for theses, books and more, employing the 'latest and greatest' (UTF8, glossaries, fonts, ...). The PDF artifact is built using CI/CD.
 * [**mossr/julia-mono-listings**](https://github.com/mossr/julia-mono-listings): LaTeX listings style for Julia and Unicode support for the JuliaMono font
 * [**astrogewgaw/whyjulia**](https://github.com/astrogewgaw/whyjulia): Proposal to adopt Julia for the GHRSS survey codebase.
@@ -2258,7 +2264,7 @@
 ## Vue
 
 * [**shaunabanana/intrigue**](https://github.com/shaunabanana/intrigue): Organize literature into ideas, fast.
-* [**Lissy93/dashy**](https://github.com/Lissy93/dashy): 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+* [**Lissy93/dashy**](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 * [**slidevjs/themes**](https://github.com/slidevjs/themes): Official themes for Slidev
 
 ## Xonsh
