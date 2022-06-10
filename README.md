@@ -318,7 +318,7 @@
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [**YaoApp/yao**](https://github.com/YaoApp/yao): A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+* [**YaoApp/yao**](https://github.com/YaoApp/yao): :rocket: A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
 * [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
@@ -534,6 +534,7 @@
 
 ## Julia
 
+* [**dmolina/DaemonMode.jl**](https://github.com/dmolina/DaemonMode.jl): Client-Daemon workflow to run faster scripts in Julia
 * [**cormullion/Karnak.jl**](https://github.com/cormullion/Karnak.jl): drawing graphs and networks with Luxor
 * [**JuliaGraphics/ColorSchemes.jl**](https://github.com/JuliaGraphics/ColorSchemes.jl): colorschemes, colormaps, gradients, and palettes
 * [**cormullion/Glyphy.jl**](https://github.com/cormullion/Glyphy.jl): I will look for you. I will find you. And I will print you.
@@ -845,6 +846,7 @@
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
+* [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
@@ -1110,7 +1112,7 @@
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * [**CIRADA-Tools/RMTable**](https://github.com/CIRADA-Tools/RMTable): Code to read/write tables of rotation measures following the proposed standard.
-* [**nanograv/pulsar-clock-corrections**](https://github.com/nanograv/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
+* [**ipta/pulsar-clock-corrections**](https://github.com/ipta/pulsar-clock-corrections): Distribution point and tools for observatory clock corrections for pulsar timing.
 * [**flekschas/jupyter-scatter**](https://github.com/flekschas/jupyter-scatter): Interactive 2D scatter plot widget for Jupyter Lab and Notebook. Scales to millions of points!
 * [**bitprophet/releases**](https://github.com/bitprophet/releases): A powerful Sphinx changelog-generating extension.
 * [**citation-file-format/citation-file-format**](https://github.com/citation-file-format/citation-file-format): The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
@@ -1220,7 +1222,6 @@
 * [**giganano/VICE**](https://github.com/giganano/VICE): A python package designed to run numerical simulations of galactic chemical evolution
 * [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
 * [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
-* [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**asciimoo/exrex**](https://github.com/asciimoo/exrex): Irregular methods on regular expressions
 * [**joke2k/faker**](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you.
 * [**Goldziher/pydantic-factories**](https://github.com/Goldziher/pydantic-factories): Pydantic based mock data generation
