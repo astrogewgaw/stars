@@ -318,7 +318,7 @@
 * [**robertkrimen/godocdown**](https://github.com/robertkrimen/godocdown): Format package documentation (godoc) as GitHub friendly Markdown
 * [**charmbracelet/melt**](https://github.com/charmbracelet/melt): 🧊 Backup and restore Ed25519 SSH keys with seed words.
 * [**qax-os/excelize**](https://github.com/qax-os/excelize): Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [**YaoApp/yao**](https://github.com/YaoApp/yao): :rocket: A opensource app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+* [**YaoApp/yao**](https://github.com/YaoApp/yao): :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 * [**gohugoio/hugo**](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [**fogleman/fauxgl**](https://github.com/fogleman/fauxgl): Software-only 3D renderer written in Go.
 * [**fogleman/pt**](https://github.com/fogleman/pt): A path tracer written in Go.
@@ -460,6 +460,8 @@
 
 ## JavaScript
 
+* [**damianavila/RISE**](https://github.com/damianavila/RISE): RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
+* [**denehyg/reveal.js-menu**](https://github.com/denehyg/reveal.js-menu): Slide out menu for reveal.js
 * [**mikecao/umami**](https://github.com/mikecao/umami): Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 * [**lukeed/kleur**](https://github.com/lukeed/kleur): The fastest Node.js library for formatting terminal text with ANSI colors~!
 * [**floccusaddon/floccus**](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
@@ -534,6 +536,15 @@
 
 ## Julia
 
+* [**JuliaMath/GSL.jl**](https://github.com/JuliaMath/GSL.jl): Julia interface to the GNU Scientific Library (GSL)
+* [**fhs/NPZ.jl**](https://github.com/fhs/NPZ.jl): A Julia package that provides support for reading and writing Numpy .npy and .npz files
+* [**mweastwood/CLI.jl**](https://github.com/mweastwood/CLI.jl): A common Command Line Interface for my Julia programs.
+* [**mweastwood/MLPFlagger.jl**](https://github.com/mweastwood/MLPFlagger.jl): A flagging routine developed for the OVRO LWA.
+* [**helgee/Convertible.jl**](https://github.com/helgee/Convertible.jl): Multi-step convert for Julia types
+* [**mweastwood/LibHealpix.jl**](https://github.com/mweastwood/LibHealpix.jl): A Julia wrapper of the Healpix library.
+* [**mweastwood/BPJSpec.jl**](https://github.com/mweastwood/BPJSpec.jl): A 21-cm power spectrum code developed for the OVRO-LWA.
+* [**mweastwood/TTCal.jl**](https://github.com/mweastwood/TTCal.jl): A calibration routine developed for the OVRO LWA.
+* [**mweastwood/CasaCore.jl**](https://github.com/mweastwood/CasaCore.jl): A Julia wrapper of CasaCore.
 * [**dmolina/DaemonMode.jl**](https://github.com/dmolina/DaemonMode.jl): Client-Daemon workflow to run faster scripts in Julia
 * [**cormullion/Karnak.jl**](https://github.com/cormullion/Karnak.jl): drawing graphs and networks with Luxor
 * [**JuliaGraphics/ColorSchemes.jl**](https://github.com/JuliaGraphics/ColorSchemes.jl): colorschemes, colormaps, gradients, and palettes
@@ -1103,11 +1114,14 @@
 
 ## Python
 
+* [**Cimbali/pympress**](https://github.com/Cimbali/pympress): Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
+* [**amperser/proselint**](https://github.com/amperser/proselint): A linter for prose.
+* [**altdesktop/i3ipc-python**](https://github.com/altdesktop/i3ipc-python): 🐍 An improved Python library to control i3wm and sway.
 * [**spack/spack**](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [**UCBerkeleySETI/blimpy**](https://github.com/UCBerkeleySETI/blimpy): Breakthrough Listen I/O Methods for Python
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 115 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 116 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -2180,7 +2194,7 @@
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**nota-lang/nota**](https://github.com/nota-lang/nota): A document language for the browser
-* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A client side, offline-first, reactive database for JavaScript Applications
+* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A fast, offline-first, reactive database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary microblogging platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
