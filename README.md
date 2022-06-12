@@ -548,7 +548,7 @@
 * [**dmolina/DaemonMode.jl**](https://github.com/dmolina/DaemonMode.jl): Client-Daemon workflow to run faster scripts in Julia
 * [**cormullion/Karnak.jl**](https://github.com/cormullion/Karnak.jl): drawing graphs and networks with Luxor
 * [**JuliaGraphics/ColorSchemes.jl**](https://github.com/JuliaGraphics/ColorSchemes.jl): colorschemes, colormaps, gradients, and palettes
-* [**cormullion/Glyphy.jl**](https://github.com/cormullion/Glyphy.jl): I will look for you. I will find you. And I will print you.
+* [**cormullion/Glyphy.jl**](https://github.com/cormullion/Glyphy.jl): I will look for you. I will find you. And I will print you. (If you're a Unicode glyph...)
 * [**JuliaLogging/LoggingExtras.jl**](https://github.com/JuliaLogging/LoggingExtras.jl): Composable Loggers  for the Julia Logging StdLib
 * [**JuliaAI/MLJTuning.jl**](https://github.com/JuliaAI/MLJTuning.jl): Hyperparameter optimization algorithms for use in the MLJ machine learning framework
 * [**SciML/DifferentialEquations.jl**](https://github.com/SciML/DifferentialEquations.jl): Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components
@@ -1008,6 +1008,7 @@
 
 ## Others
 
+* [**dfm/workflows**](https://github.com/dfm/workflows): A collection of GitHub Actions workflows that I find useful
 * [**martinbjeldbak/ultimate-beamer-theme-list**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list): A collection of custom Beamer themes
 * [**writing-resources/awesome-scientific-writing**](https://github.com/writing-resources/awesome-scientific-writing): :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 * [**heartly/awesome-writing-tools**](https://github.com/heartly/awesome-writing-tools): A curated list of awesome tools for improving written communication
