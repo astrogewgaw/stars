@@ -295,6 +295,7 @@
 
 ## Go
 
+* [**caarlos0/log**](https://github.com/caarlos0/log): Colorful CLI logger
 * [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
 * [**BetaPictoris/dict**](https://github.com/BetaPictoris/dict): 📔 View the dictionary through the CLI
@@ -1342,7 +1343,7 @@
 * [**RadioAstronomySoftwareGroup/pyradiosky**](https://github.com/RadioAstronomySoftwareGroup/pyradiosky): Python objects and interfaces for representing diffuse, extended and compact astrophysical radio sources
 * [**RadioAstronomySoftwareGroup/pyuvsim**](https://github.com/RadioAstronomySoftwareGroup/pyuvsim): A ultra-high precision package for simulating radio interferometers in python on compute clusters.
 * [**ckinzthompson/oldplotlib**](https://github.com/ckinzthompson/oldplotlib): Matplotlib stylesheets to replicate old scientific figure styles
-* [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Speed up your Pandas workflows by changing a single line of code
+* [**modin-project/modin**](https://github.com/modin-project/modin): Modin: Scale your Pandas workflows by changing a single line of code
 * [**pyscf/pyscf**](https://github.com/pyscf/pyscf): Python module for quantum chemistry
 * [**google/textfsm**](https://github.com/google/textfsm): Python module for parsing semi-structured text into python tables.
 * [**dmulyalin/ttp**](https://github.com/dmulyalin/ttp): Template Text Parser
