@@ -14,7 +14,9 @@
 <div align="justify">
 
 * [**C**](#c)
+* [**C#**](#c#)
 * [**C++**](#c++)
+* [**CMake**](#cmake)
 * [**CSS**](#css)
 * [**Clojure**](#clojure)
 * [**Cuda**](#cuda)
@@ -117,8 +119,14 @@
 * [**esheldon/fitsio**](https://github.com/esheldon/fitsio): A python package for FITS input/output wrapping cfitsio
 * [**scottransom/presto**](https://github.com/scottransom/presto): Open source pulsar search and analysis toolkit
 
+## C#
+
+* [**RustingRobot/Kea**](https://github.com/RustingRobot/Kea): A webtoons downloader. With GUI and everything!
+
 ## C++
 
+* [**MisterTea/EternalTerminal**](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell
+* [**kiranshila/casascorewrapper**](https://github.com/kiranshila/casascorewrapper): Michael Eastwood's Julia wrapper for CasaCore.jl, to be used with BinaryBuilder
 * [**SKA-ScienceDataProcessor/FastImaging**](https://github.com/SKA-ScienceDataProcessor/FastImaging): proto typing for fast imaging pipeline
 * [**eschnett/beamforming**](https://github.com/eschnett/beamforming): Experiment with beam forming algorithms for CHORD
 * [**NVIDIA/gdrcopy**](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
@@ -210,6 +218,10 @@
 * [**CARTAvis/carta-backend**](https://github.com/CARTAvis/carta-backend): Source code repository for the backend component of CARTA, a new visualization tool designed for the ALMA, the VLA and the SKA pathfinders.
 * [**tensorflow/tensorflow**](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [**casacore/casacore**](https://github.com/casacore/casacore): Suite of C++ libraries for radio astronomy data processing
+
+## CMake
+
+* [**kiranshila/jlcasacore**](https://github.com/kiranshila/jlcasacore): A C++ -> Julia wrapper for casacore using CxxWrap
 
 ## CSS
 
@@ -461,6 +473,7 @@
 
 ## JavaScript
 
+* [**j3soon/arxiv-utils**](https://github.com/j3soon/arxiv-utils): Meaningful titles for tabs and PDF downloads! Also supports tab search.
 * [**damianavila/RISE**](https://github.com/damianavila/RISE): RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 * [**denehyg/reveal.js-menu**](https://github.com/denehyg/reveal.js-menu): Slide out menu for reveal.js
 * [**mikecao/umami**](https://github.com/mikecao/umami): Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -537,6 +550,10 @@
 
 ## Julia
 
+* [**mrxiaohe/RobustStats.jl**](https://github.com/mrxiaohe/RobustStats.jl): A collection of robust statistical tests in Julia
+* [**mileslucas/BiweightStats.jl**](https://github.com/mileslucas/BiweightStats.jl): Robust statistics based on the biweight transform.
+* [**rikhuijzer/PlutoStaticHTML.jl**](https://github.com/rikhuijzer/PlutoStaticHTML.jl): Convert Pluto notebooks to HTML in automated workflows
+* [**JuliaPluto/PlutoSliderServer.jl**](https://github.com/JuliaPluto/PlutoSliderServer.jl): Web server to run just the `@bind` parts of a Pluto.jl notebook
 * [**JuliaMath/GSL.jl**](https://github.com/JuliaMath/GSL.jl): Julia interface to the GNU Scientific Library (GSL)
 * [**fhs/NPZ.jl**](https://github.com/fhs/NPZ.jl): A Julia package that provides support for reading and writing Numpy .npy and .npz files
 * [**mweastwood/CLI.jl**](https://github.com/mweastwood/CLI.jl): A common Command Line Interface for my Julia programs.
@@ -924,6 +941,7 @@
 
 ## Kotlin
 
+* [**gotson/komga**](https://github.com/gotson/komga): Media server for comics/mangas/BDs with API and OPDS support
 * [**tachiyomiorg/tachiyomi**](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
 
 ## Lex
@@ -1164,6 +1182,7 @@
 * [**bencebecsy/QuickCW**](https://github.com/bencebecsy/QuickCW): Fast continuous wave (CW) analysis for PTA data
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
+* [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
 * [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
 * [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
 * [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
@@ -1873,6 +1892,7 @@
 
 ## Rust
 
+* [**r-darwish/topgrade**](https://github.com/r-darwish/topgrade): Upgrade everything
 * [**ellie/atuin**](https://github.com/ellie/atuin): 🐢 Magical shell history
 * [**crossbeam-rs/crossbeam**](https://github.com/crossbeam-rs/crossbeam): Tools for concurrent programming in Rust
 * [**Kobzol/rust-delegate**](https://github.com/Kobzol/rust-delegate): Rust method delegation with less boilerplate
@@ -1890,7 +1910,7 @@
 * [**maciejhirsz/logos**](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
 * [**ClementTsang/bottom**](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor.
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like crossplatform app development for desktop, web, mobile, and more.
+* [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like GUI library for desktop, web, mobile, and more.
 * [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
 * [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 * [**johnthagen/min-sized-rust**](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
@@ -2176,7 +2196,6 @@
 * [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-* [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
 * [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
