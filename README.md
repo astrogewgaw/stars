@@ -70,6 +70,7 @@
 
 ## C
 
+* [**david-macmahon/hashpipe**](https://github.com/david-macmahon/hashpipe): High Availability Shared Pipeline Engine
 * [**evanocathain/Useful_FRB_stuff**](https://github.com/evanocathain/Useful_FRB_stuff): Useful Codes and Scripts for FRB Analyses
 * [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
@@ -125,6 +126,7 @@
 
 ## C++
 
+* [**TomHarte/CLK**](https://github.com/TomHarte/CLK): A latency-hating emulator of 8- and 16-bit platforms: the Acorn Electron, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1, Oric 1/Atmos, Sega Master System, Sinclair ZX80/81 and ZX Spectrum.
 * [**MisterTea/EternalTerminal**](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell
 * [**kiranshila/casascorewrapper**](https://github.com/kiranshila/casascorewrapper): Michael Eastwood's Julia wrapper for CasaCore.jl, to be used with BinaryBuilder
 * [**SKA-ScienceDataProcessor/FastImaging**](https://github.com/SKA-ScienceDataProcessor/FastImaging): proto typing for fast imaging pipeline
@@ -550,6 +552,17 @@
 
 ## Julia
 
+* [**david-macmahon/Blio.jl**](https://github.com/david-macmahon/Blio.jl): *No description*
+* [**yakir12/UnitfulAngles.jl**](https://github.com/yakir12/UnitfulAngles.jl): Angular units for Unitful
+* [**simonbyrne/KeywordDispatch.jl**](https://github.com/simonbyrne/KeywordDispatch.jl): Dispatch on keyword arguments
+* [**cscherrer/KeywordCalls.jl**](https://github.com/cscherrer/KeywordCalls.jl): *No description*
+* [**JuliaPlots/PlotUtils.jl**](https://github.com/JuliaPlots/PlotUtils.jl): Generic helper algorithms for building plotting components
+* [**JuliaGeometry/CoordinateTransformations.jl**](https://github.com/JuliaGeometry/CoordinateTransformations.jl): A fresh approach to coordinate transformations...
+* [**JuliaOptics/OpticsPolynomials.jl**](https://github.com/JuliaOptics/OpticsPolynomials.jl): Polynomials used in optics.  Zernike, Legendre, etc
+* [**JuliaLogging/ProgressLogging.jl**](https://github.com/JuliaLogging/ProgressLogging.jl): *No description*
+* [**JuliaLogging/TerminalLoggers.jl**](https://github.com/JuliaLogging/TerminalLoggers.jl): Logging sinks and utilites for interactive terminals
+* [**JuliaAstro/PSFModels.jl**](https://github.com/JuliaAstro/PSFModels.jl): Fast, allocation-free PSF representations
+* [**helgee/RemoteFiles.jl**](https://github.com/helgee/RemoteFiles.jl): Download files from the Internet and keep them up-to-date.
 * [**mrxiaohe/RobustStats.jl**](https://github.com/mrxiaohe/RobustStats.jl): A collection of robust statistical tests in Julia
 * [**mileslucas/BiweightStats.jl**](https://github.com/mileslucas/BiweightStats.jl): Robust statistics based on the biweight transform.
 * [**rikhuijzer/PlutoStaticHTML.jl**](https://github.com/rikhuijzer/PlutoStaticHTML.jl): Convert Pluto notebooks to HTML in automated workflows
@@ -959,7 +972,6 @@
 * [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
 * [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 * [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
-* [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A small, documented, and featureful neovim starter config
 * [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
 * [**chipsenkbeil/distant.nvim**](https://github.com/chipsenkbeil/distant.nvim): 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 * [**LinArcX/telescope-command-palette.nvim**](https://github.com/LinArcX/telescope-command-palette.nvim): Create key-bindings and watch them with telescope :telescope:
@@ -1134,6 +1146,8 @@
 
 ## Python
 
+* [**Pyomo/pyomo**](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems.
+* [**yusukeaso-astron/plotastrodata**](https://github.com/yusukeaso-astron/plotastrodata): Python package to make figures from radio astronomical data by astropy and matplotlib.
 * [**Cimbali/pympress**](https://github.com/Cimbali/pympress): Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 * [**amperser/proselint**](https://github.com/amperser/proselint): A linter for prose.
 * [**altdesktop/i3ipc-python**](https://github.com/altdesktop/i3ipc-python): 🐍 An improved Python library to control i3wm and sway.
@@ -2112,7 +2126,7 @@
 * [**astrogewgaw/tochky**](https://github.com/astrogewgaw/tochky): Мои точки | My dots
 * [**turquoise-hexagon/cherry**](https://github.com/turquoise-hexagon/cherry): another bitmap font
 * [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli): A cli tool to browse and play anime
-* [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): 🧙‍♂️ Feature-rich Syntax Highlighting for Zsh
+* [**z-shell/F-Sy-H**](https://github.com/z-shell/F-Sy-H): ⚙️ Feature-rich Syntax Highlighting for Zsh
 * [**Tecate/bitmap-fonts**](https://github.com/Tecate/bitmap-fonts): Monospaced bitmap fonts for X11, good for terminal use.
 * [**jtpio/replite**](https://github.com/jtpio/replite): An embeddable REPL powered by JupyterLite
 * [**P3rf/rofi-network-manager**](https://github.com/P3rf/rofi-network-manager): A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
