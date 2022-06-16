@@ -349,7 +349,7 @@
 * [**meowgorithm/defaults**](https://github.com/meowgorithm/defaults): Enforce default values on structs in Go
 * [**irevenko/what-anime-cli**](https://github.com/irevenko/what-anime-cli): ❓🖼 Find the anime scene by image using your terminal
 * [**muesli/gamut**](https://github.com/muesli/gamut): Go package to generate and manage color palettes & schemes 🎨
-* [**bashbunni/project-management**](https://github.com/bashbunni/project-management): A basic CLI for regularly updating your project's status
+* [**bashbunni/pjs**](https://github.com/bashbunni/pjs): A basic CLI for regularly updating your project's status
 * [**google/go-github**](https://github.com/google/go-github): Go library for accessing the GitHub v3 API
 * [**beetcb/ghdl**](https://github.com/beetcb/ghdl): A much more convenient way to download GitHub release binaries on the command line, works on Win & Unix-like systems
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs 🐱 !
@@ -552,6 +552,7 @@
 
 ## Julia
 
+* [**BioJulia/BufferedStreams.jl**](https://github.com/BioJulia/BufferedStreams.jl): Fast composable IO streams
 * [**david-macmahon/Blio.jl**](https://github.com/david-macmahon/Blio.jl): *No description*
 * [**yakir12/UnitfulAngles.jl**](https://github.com/yakir12/UnitfulAngles.jl): Angular units for Unitful
 * [**simonbyrne/KeywordDispatch.jl**](https://github.com/simonbyrne/KeywordDispatch.jl): Dispatch on keyword arguments
