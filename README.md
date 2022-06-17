@@ -379,7 +379,7 @@
 * [**gdamore/tcell**](https://github.com/gdamore/tcell): Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 * [**binwiederhier/ntfy**](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 * [**tvrzna/emptty**](https://github.com/tvrzna/emptty): Dead simple CLI Display Manager on TTY
-* [**erroneousboat/slack-term**](https://github.com/erroneousboat/slack-term): Slack client for your terminal
+* [**jpbruinsslot/slack-term**](https://github.com/jpbruinsslot/slack-term): Slack client for your terminal
 * [**klauspost/cpuid**](https://github.com/klauspost/cpuid): CPU feature identification for Go
 * [**jesseduffield/lazynpm**](https://github.com/jesseduffield/lazynpm): terminal UI for npm
 * [**jesseduffield/lazydocker**](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
@@ -552,7 +552,8 @@
 
 ## Julia
 
-* [**BioJulia/BufferedStreams.jl**](https://github.com/BioJulia/BufferedStreams.jl): Fast composable IO streams
+* [**JuliaPluto/PlutoPlotly.jl**](https://github.com/JuliaPluto/PlutoPlotly.jl): *No description*
+* [**JuliaIO/BufferedStreams.jl**](https://github.com/JuliaIO/BufferedStreams.jl): Fast composable IO streams
 * [**david-macmahon/Blio.jl**](https://github.com/david-macmahon/Blio.jl): *No description*
 * [**yakir12/UnitfulAngles.jl**](https://github.com/yakir12/UnitfulAngles.jl): Angular units for Unitful
 * [**simonbyrne/KeywordDispatch.jl**](https://github.com/simonbyrne/KeywordDispatch.jl): Dispatch on keyword arguments
@@ -1147,6 +1148,8 @@
 
 ## Python
 
+* [**prideout/svg3d**](https://github.com/prideout/svg3d): generate 3D wireframes as vector art
+* [**orsinium-labs/svg.py**](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 * [**Pyomo/pyomo**](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems.
 * [**yusukeaso-astron/plotastrodata**](https://github.com/yusukeaso-astron/plotastrodata): Python package to make figures from radio astronomical data by astropy and matplotlib.
 * [**Cimbali/pympress**](https://github.com/Cimbali/pympress): Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
@@ -2208,6 +2211,7 @@
 
 ## TypeScript
 
+* [**JuliaPluto/PlutoDesktop**](https://github.com/JuliaPluto/PlutoDesktop): Pluto as an all-included Electron app, under development
 * [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
