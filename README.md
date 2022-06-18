@@ -309,6 +309,10 @@
 
 ## Go
 
+* [**errata-ai/vale**](https://github.com/errata-ai/vale): :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+* [**charmbracelet/bubbletea-app-template**](https://github.com/charmbracelet/bubbletea-app-template): A template repository to create Bubbletea apps.
+* [**muesli/cancelreader**](https://github.com/muesli/cancelreader): A cancelable reader for Go
+* [**metafates/mangal**](https://github.com/metafates/mangal): 📖 Manga browser and downloader for Linux, Windows & MacOS
 * [**caarlos0/log**](https://github.com/caarlos0/log): Colorful CLI logger
 * [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
@@ -552,6 +556,7 @@
 
 ## Julia
 
+* [**ovro-lwa/CasaCore.jl**](https://github.com/ovro-lwa/CasaCore.jl): A Julia wrapper of CasaCore.
 * [**JuliaPluto/PlutoPlotly.jl**](https://github.com/JuliaPluto/PlutoPlotly.jl): *No description*
 * [**JuliaIO/BufferedStreams.jl**](https://github.com/JuliaIO/BufferedStreams.jl): Fast composable IO streams
 * [**david-macmahon/Blio.jl**](https://github.com/david-macmahon/Blio.jl): *No description*
@@ -616,7 +621,7 @@
 * [**eschnett/CxxInterface.jl**](https://github.com/eschnett/CxxInterface.jl): Create Julia interfaces to C++ libraries
 * [**JuliaMath/Polynomials.jl**](https://github.com/JuliaMath/Polynomials.jl): Polynomial manipulations in Julia
 * [**JuliaMath/Interpolations.jl**](https://github.com/JuliaMath/Interpolations.jl): Fast, continuous interpolation of discrete datasets in Julia
-* [**JuliaApproximation/FastTransforms.jl**](https://github.com/JuliaApproximation/FastTransforms.jl): :rocket: Julia package for fast orthogonal polynomial transforms :snowboarder:
+* [**JuliaApproximation/FastTransforms.jl**](https://github.com/JuliaApproximation/FastTransforms.jl): :rocket: Julia package for orthogonal polynomial transforms :snowboarder:
 * [**JuliaDSP/FourierTransforms.jl**](https://github.com/JuliaDSP/FourierTransforms.jl): Fourier transforms written in Julia
 * [**JuliaDSP/Deconvolution.jl**](https://github.com/JuliaDSP/Deconvolution.jl): A Julia package for deconvolution of digital signals
 * [**kiranshila/BipBuffers.jl**](https://github.com/kiranshila/BipBuffers.jl): lock-free circular buffers with contiguous reservations
@@ -890,7 +895,6 @@
 * [**MBravoS/scicm**](https://github.com/MBravoS/scicm): Science Colour Maps is a small package containing several colour maps created using viscm.
 * [**timholy/AdvancedScientificComputing**](https://github.com/timholy/AdvancedScientificComputing): A short course on Julia and open-source software development
 * [**stevertaylor/pulsar_timing_gibbsspec**](https://github.com/stevertaylor/pulsar_timing_gibbsspec): A Gibbs sampling implementation of a Bayesian periodogram analysis for pulsar timing data.
-* [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**StingraySoftware/HENDRICS**](https://github.com/StingraySoftware/HENDRICS): Shell scripts for spectral-timing analysis of X-ray astronomical data.
 * [**NCAR/sunstardb**](https://github.com/NCAR/sunstardb): the solar-stellar database
 * [**emerge-erc/ALminer**](https://github.com/emerge-erc/ALminer): ALminer: ALMA archive mining and visualization toolkit
@@ -1275,6 +1279,7 @@
 * [**giganano/VICE**](https://github.com/giganano/VICE): A python package designed to run numerical simulations of galactic chemical evolution
 * [**tomerfiliba/plumbum**](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators
 * [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
+* [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**asciimoo/exrex**](https://github.com/asciimoo/exrex): Irregular methods on regular expressions
 * [**joke2k/faker**](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you.
 * [**Goldziher/pydantic-factories**](https://github.com/Goldziher/pydantic-factories): Pydantic based mock data generation
