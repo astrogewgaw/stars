@@ -447,6 +447,7 @@
 
 ## HTML
 
+* [**mtfishman/JuliaTutorial**](https://github.com/mtfishman/JuliaTutorial): A tutorial for Julia
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
 * [**Igglybuff/awesome-piracy**](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
@@ -874,6 +875,7 @@
 
 ## Jupyter Notebook
 
+* [**devincody/DSAbeamformer**](https://github.com/devincody/DSAbeamformer): Real-time GPU Beamformer for DSA110 written in C/CUDA
 * [**kilianbreathnach/CornerPlot.jl**](https://github.com/kilianbreathnach/CornerPlot.jl): Create triangular matrix of subplots showing 2D parameter samples
 * [**denizyuret/Knet.jl**](https://github.com/denizyuret/Knet.jl): Koç University deep learning framework.
 * [**SKA-ScienceDataProcessor/algorithm-reference-library**](https://github.com/SKA-ScienceDataProcessor/algorithm-reference-library): Reference code for simplified aperture synthesis imaging
@@ -1163,7 +1165,7 @@
 * [**UCBerkeleySETI/blimpy**](https://github.com/UCBerkeleySETI/blimpy): Breakthrough Listen I/O Methods for Python
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 116 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 119 social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
