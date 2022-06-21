@@ -309,6 +309,8 @@
 
 ## Go
 
+* [**abdfnx/botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
+* [**smmr-software/mabel**](https://github.com/smmr-software/mabel): A fancy BitTorrent client for the terminal
 * [**errata-ai/vale**](https://github.com/errata-ai/vale): :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 * [**charmbracelet/bubbletea-app-template**](https://github.com/charmbracelet/bubbletea-app-template): A template repository to create Bubbletea apps.
 * [**muesli/cancelreader**](https://github.com/muesli/cancelreader): A cancelable reader for Go
@@ -359,7 +361,7 @@
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs 🐱 !
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
-* [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+* [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 * [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A customizable, interactive table component for the Bubble Tea framework
 * [**muesli/reflow**](https://github.com/muesli/reflow): A collection of (ANSI-sequence aware) text reflow operations & algorithms
 * [**sahilm/fuzzy**](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
@@ -456,6 +458,7 @@
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
+* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
@@ -1620,7 +1623,6 @@
 * [**piccolomo/plotext**](https://github.com/piccolomo/plotext): plotting on terminal
 * [**pyvista/pyvista**](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * [**joerick/pyinstrument**](https://github.com/joerick/pyinstrument): 🚴 Call stack profiler for Python. Shows you why your code is slow!
-* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically with Machine Learning
 * [**kynan/nbstripout**](https://github.com/kynan/nbstripout): strip output from Jupyter and IPython notebooks
 * [**chrissimpkins/codeface**](https://github.com/chrissimpkins/codeface): Typefaces for source code beautification
 * [**bmcguir2/astromol**](https://github.com/bmcguir2/astromol): *No description*
