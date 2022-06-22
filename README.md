@@ -279,6 +279,7 @@
 
 ## FORTRAN
 
+* [**nolta/SpecialFunctions.jl**](https://github.com/nolta/SpecialFunctions.jl): *No description*
 * [**rjw57/MultiNest**](https://github.com/rjw57/MultiNest): MultiNest is a Bayesian inference tool which calculates the evidence and explores the parameter space which may contain multiple posterior modes and pronounced (curving) degeneracies in moderately high dimensions.
 
 ## Fortran
@@ -449,6 +450,7 @@
 
 ## HTML
 
+* [**joemccann/dillinger**](https://github.com/joemccann/dillinger): The last Markdown editor, ever.
 * [**mtfishman/JuliaTutorial**](https://github.com/mtfishman/JuliaTutorial): A tutorial for Julia
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [**gnab/remark**](https://github.com/gnab/remark): A simple, in-browser, markdown-driven slideshow tool.
@@ -458,7 +460,7 @@
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
-* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically
+* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically by just providing examples
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
@@ -560,6 +562,21 @@
 
 ## Julia
 
+* [**JuliaCollections/LRUCache.jl**](https://github.com/JuliaCollections/LRUCache.jl): An implementation of an LRU Cache in Julia
+* [**anthofflab/Judyp.jl**](https://github.com/anthofflab/Judyp.jl): Julia package for solving dynamic programming problems
+* [**nolta/Calendar.jl**](https://github.com/nolta/Calendar.jl): Calendar time package for Julia
+* [**awllee/SequentialMonteCarlo.jl**](https://github.com/awllee/SequentialMonteCarlo.jl): A light interface to serial and multi-threaded Sequential Monte Carlo
+* [**JuliaAstro/LombScargle.jl**](https://github.com/JuliaAstro/LombScargle.jl): Compute Lomb-Scargle periodogram, suitable for unevenly sampled data.  It supports multi-threading
+* [**cscherrer/Soss.jl**](https://github.com/cscherrer/Soss.jl): Probabilistic programming via source rewriting
+* [**anthofflab/RobustAdaptiveMetropolisSampler.jl**](https://github.com/anthofflab/RobustAdaptiveMetropolisSampler.jl): A Julia implementation of the RAM algorithm (Vihola, 2012)
+* [**nolta/Elliptic.jl**](https://github.com/nolta/Elliptic.jl): Elliptic integral and Jacobi elliptic special functions
+* [**cscherrer/TupleVectors.jl**](https://github.com/cscherrer/TupleVectors.jl): *No description*
+* [**ptiede/Dynesty.jl**](https://github.com/ptiede/Dynesty.jl): *No description*
+* [**ptiede/HypercubeTransform.jl**](https://github.com/ptiede/HypercubeTransform.jl): *No description*
+* [**ptiede/ComradeSoss.jl**](https://github.com/ptiede/ComradeSoss.jl): *No description*
+* [**ptiede/ComradeBase.jl**](https://github.com/ptiede/ComradeBase.jl): Defines the minimal interface for Comrade so people can add their own models
+* [**ptiede/JuKeBOX.jl**](https://github.com/ptiede/JuKeBOX.jl): *No description*
+* [**ptiede/Comrade.jl**](https://github.com/ptiede/Comrade.jl): *No description*
 * [**ovro-lwa/CasaCore.jl**](https://github.com/ovro-lwa/CasaCore.jl): A Julia wrapper of CasaCore.
 * [**JuliaPluto/PlutoPlotly.jl**](https://github.com/JuliaPluto/PlutoPlotly.jl): *No description*
 * [**JuliaIO/BufferedStreams.jl**](https://github.com/JuliaIO/BufferedStreams.jl): Fast composable IO streams
@@ -878,6 +895,7 @@
 
 ## Jupyter Notebook
 
+* [**ElOceanografo/MarginalLogDensities.jl**](https://github.com/ElOceanografo/MarginalLogDensities.jl): Marginalized log-probability functions in Julia
 * [**devincody/DSAbeamformer**](https://github.com/devincody/DSAbeamformer): Real-time GPU Beamformer for DSA110 written in C/CUDA
 * [**kilianbreathnach/CornerPlot.jl**](https://github.com/kilianbreathnach/CornerPlot.jl): Create triangular matrix of subplots showing 2D parameter samples
 * [**denizyuret/Knet.jl**](https://github.com/denizyuret/Knet.jl): Koç University deep learning framework.
@@ -1050,6 +1068,7 @@
 
 ## Others
 
+* [**ptiede/Elliptic.jl**](https://github.com/ptiede/Elliptic.jl): Elliptic integral and Jacobi elliptic special functions
 * [**dfm/workflows**](https://github.com/dfm/workflows): A collection of GitHub Actions workflows that I find useful
 * [**martinbjeldbak/ultimate-beamer-theme-list**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list): A collection of custom Beamer themes
 * [**writing-resources/awesome-scientific-writing**](https://github.com/writing-resources/awesome-scientific-writing): :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
