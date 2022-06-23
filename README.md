@@ -904,7 +904,7 @@
 * [**MorganWaddy/barb**](https://github.com/MorganWaddy/barb): A Bayesian rate estimation python package for FRBs
 * [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
 * [**executablebooks/MyST-NB**](https://github.com/executablebooks/MyST-NB): Parse and execute ipynb files in Sphinx
-* [**christianhbye/croissant**](https://github.com/christianhbye/croissant): *No description*
+* [**christianhbye/croissant**](https://github.com/christianhbye/croissant): An autocorrelator visibility simulator using spherical harmonics
 * [**johnmyleswhite/julia_tutorials**](https://github.com/johnmyleswhite/julia_tutorials): Tutorials on Julia topics
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
@@ -1187,7 +1187,7 @@
 * [**UCBerkeleySETI/blimpy**](https://github.com/UCBerkeleySETI/blimpy): Breakthrough Listen I/O Methods for Python
 * [**vpicouet/pyds9plugin**](https://github.com/vpicouet/pyds9plugin): A python DS9 extension for quicklook processing of astronomical images. This highly interactive extension can be generalized automatically to a set of images to turn the plug-in into a real multi-processing pipeline.
 * [**glentner/dataphile**](https://github.com/glentner/dataphile): Data analytics library for Python and suite of open source, command line based data ops tools.
-* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in 119 social networks.
+* [**p1ngul1n0/blackbird**](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.
 * [**untitled-ai/jupyter_ascending**](https://github.com/untitled-ai/jupyter_ascending): Ascend your Jupyter Notebook usage
 * [**IBM/import-tracker**](https://github.com/IBM/import-tracker): Python utility for tracking third party dependencies within a library
 * [**pytube/pytube**](https://github.com/pytube/pytube): A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -1619,7 +1619,7 @@
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
 * [**jadulose/curvefitting**](https://github.com/jadulose/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
-* [**lukelbd/proplot**](https://github.com/lukelbd/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
+* [**proplot-org/proplot**](https://github.com/proplot-org/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
 * [**dantaki/vapeplot**](https://github.com/dantaki/vapeplot): matplotlib extension for vaporwave aesthetics
 * [**dhaitz/mplcyberpunk**](https://github.com/dhaitz/mplcyberpunk): "Cyberpunk style" for matplotlib plots
