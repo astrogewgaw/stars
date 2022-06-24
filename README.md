@@ -126,6 +126,7 @@
 
 ## C++
 
+* [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
 * [**TomHarte/CLK**](https://github.com/TomHarte/CLK): A latency-hating emulator of 8- and 16-bit platforms: the Acorn Electron, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1, Oric 1/Atmos, Sega Master System, Sinclair ZX80/81 and ZX Spectrum.
 * [**MisterTea/EternalTerminal**](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell
 * [**kiranshila/casascorewrapper**](https://github.com/kiranshila/casascorewrapper): Michael Eastwood's Julia wrapper for CasaCore.jl, to be used with BinaryBuilder
@@ -310,6 +311,7 @@
 
 ## Go
 
+* [**astrogo/fitsio**](https://github.com/astrogo/fitsio): fitsio is a pure-Go package to read and write `FITS` files
 * [**abdfnx/botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 * [**smmr-software/mabel**](https://github.com/smmr-software/mabel): A fancy BitTorrent client for the terminal
 * [**errata-ai/vale**](https://github.com/errata-ai/vale): :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -562,6 +564,11 @@
 
 ## Julia
 
+* [**JuliaObjects/Accessors.jl**](https://github.com/JuliaObjects/Accessors.jl): Update immutable data
+* [**jw3126/Setfield.jl**](https://github.com/jw3126/Setfield.jl): Update deeply nested immutable structs.
+* [**mauro3/UnPack.jl**](https://github.com/mauro3/UnPack.jl): `@pack` and `@unpack` macros
+* [**JuliaAstro/Cosmology.jl**](https://github.com/JuliaAstro/Cosmology.jl): Cosmology library for Julia
+* [**peterahrens/MemoizedMethods.jl**](https://github.com/peterahrens/MemoizedMethods.jl): Methodwise Memoization for Julia
 * [**JuliaCollections/LRUCache.jl**](https://github.com/JuliaCollections/LRUCache.jl): An implementation of an LRU Cache in Julia
 * [**anthofflab/Judyp.jl**](https://github.com/anthofflab/Judyp.jl): Julia package for solving dynamic programming problems
 * [**nolta/Calendar.jl**](https://github.com/nolta/Calendar.jl): Calendar time package for Julia
@@ -1176,6 +1183,9 @@
 
 ## Python
 
+* [**danijar/handout**](https://github.com/danijar/handout): Turn Python scripts into handouts with Markdown and figures
+* [**mrafieir/frbx**](https://github.com/mrafieir/frbx): Tools for simulating, forecasting and analyzing statistical cross-correlations between fast radio bursts and other cosmological sources
+* [**jlapeyre/julia_project**](https://github.com/jlapeyre/julia_project): Manage a Julia project living within a Python package
 * [**prideout/svg3d**](https://github.com/prideout/svg3d): generate 3D wireframes as vector art
 * [**orsinium-labs/svg.py**](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 * [**Pyomo/pyomo**](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems.
@@ -1322,7 +1332,7 @@
 * [**pypa/hatch**](https://github.com/pypa/hatch): Modern, extensible Python project management
 * [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
-* [**aiiie/cram**](https://github.com/aiiie/cram): Functional tests for command line applications
+* [**brodie/cram_**](https://github.com/brodie/cram_): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
@@ -1619,7 +1629,7 @@
 * [**lehner/gpt**](https://github.com/lehner/gpt): A Python toolkit for lattice field theory, quantum computing, and machine learning
 * [**jadulose/curvefitting**](https://github.com/jadulose/curvefitting): An easy-use and MATLAB-like graphical curve fitting tool, for Python, Jupyter and other environments.
 * [**bd-j/prospector**](https://github.com/bd-j/prospector): Python code for Stellar Population Inference from Spectra and SEDs
-* [**proplot-org/proplot**](https://github.com/proplot-org/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
+* [**proplot-dev/proplot**](https://github.com/proplot-dev/proplot): 🎨 A succinct matplotlib wrapper for making beautiful, publication-quality graphics
 * [**lmmentel/chemtools**](https://github.com/lmmentel/chemtools): Python tools for quantum chemical calculations
 * [**dantaki/vapeplot**](https://github.com/dantaki/vapeplot): matplotlib extension for vaporwave aesthetics
 * [**dhaitz/mplcyberpunk**](https://github.com/dhaitz/mplcyberpunk): "Cyberpunk style" for matplotlib plots
