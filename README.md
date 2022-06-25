@@ -162,7 +162,6 @@
 * [**NVIDIA/MatX**](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax
 * [**doctest/doctest**](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
 * [**microsoft/Pyjion**](https://github.com/microsoft/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
-* [**electron/electron**](https://github.com/electron/electron): :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 * [**gnuradio/gnuradio**](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem
 * [**taichi-dev/taichi**](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python.
 * [**ArthurSonzogni/FTXUI**](https://github.com/ArthurSonzogni/FTXUI): :computer: C++ Functional Terminal User Interface. :heart:
@@ -219,7 +218,6 @@
 * [**psi4/psi4**](https://github.com/psi4/psi4): Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python
 * [**ocornut/imgui**](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 * [**CARTAvis/carta-backend**](https://github.com/CARTAvis/carta-backend): Source code repository for the backend component of CARTA, a new visualization tool designed for the ALMA, the VLA and the SKA pathfinders.
-* [**tensorflow/tensorflow**](https://github.com/tensorflow/tensorflow): An Open Source Machine Learning Framework for Everyone
 * [**casacore/casacore**](https://github.com/casacore/casacore): Suite of C++ libraries for radio astronomy data processing
 
 ## CMake
@@ -364,7 +362,7 @@
 * [**astrogewgaw/koshka**](https://github.com/astrogewgaw/koshka): Meow-ster of cat-alogs 🐱 !
 * [**lucasb-eyer/go-colorful**](https://github.com/lucasb-eyer/go-colorful): A library for playing with colors in go (golang).
 * [**rs/curlie**](https://github.com/rs/curlie): The power of curl, the ease of use of httpie.
-* [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+* [**pterm/pterm**](https://github.com/pterm/pterm): ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 * [**Evertras/bubble-table**](https://github.com/Evertras/bubble-table): A customizable, interactive table component for the Bubble Tea framework
 * [**muesli/reflow**](https://github.com/muesli/reflow): A collection of (ANSI-sequence aware) text reflow operations & algorithms
 * [**sahilm/fuzzy**](https://github.com/sahilm/fuzzy): Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
@@ -406,7 +404,6 @@
 * [**iawia002/lux**](https://github.com/iawia002/lux): 👾 Fast and simple video download library and CLI tool written in Go
 * [**marcelja/facebook-delete**](https://github.com/marcelja/facebook-delete): Fast facebook activity deletion
 * [**fogleman/ln**](https://github.com/fogleman/ln): 3D line art engine.
-* [**moby/moby**](https://github.com/moby/moby): Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [**JanDeDobbeleer/oh-my-posh**](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [**TimothyStiles/poly**](https://github.com/TimothyStiles/poly): A Go package for engineering organisms.
 * [**charmbracelet/harmonica**](https://github.com/charmbracelet/harmonica): A simple, physics-based animation library 🎼
@@ -420,7 +417,6 @@
 * [**olekukonko/tablewriter**](https://github.com/olekukonko/tablewriter): ASCII table in golang
 * [**fatih/color**](https://github.com/fatih/color): Color package for Go (golang)
 * [**syncthing/syncthing**](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
-* [**photoprism/photoprism**](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * [**matryer/xbar**](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [**akavel/up**](https://github.com/akavel/up): Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 * [**dolthub/dolt**](https://github.com/dolthub/dolt): Dolt – It's Git for Data
@@ -435,7 +431,6 @@
 * [**fyne-io/fyne-cross**](https://github.com/fyne-io/fyne-cross): Cross compiler tool for Fyne apps
 * [**google/go-jsonnet**](https://github.com/google/go-jsonnet): *No description*
 * [**agola-io/agola**](https://github.com/agola-io/agola): Agola: CI/CD Redefined
-* [**gin-gonic/gin**](https://github.com/gin-gonic/gin): Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [**gopherjs/gopherjs**](https://github.com/gopherjs/gopherjs): A compiler from Go to JavaScript for running Go code in a browser
 * [**guark/guark**](https://github.com/guark/guark): Build awesome Golang desktop apps and beautiful interfaces with Vue.js, React.js, Framework 7, and more...
 * [**goreleaser/goreleaser**](https://github.com/goreleaser/goreleaser): Deliver Go binaries as fast and easily as possible
@@ -497,7 +492,6 @@
 * [**dzello/reveal-hugo**](https://github.com/dzello/reveal-hugo): 📽️ Create rich HTML-based presentations with Hugo and Reveal.js
 * [**hiroppy/fusuma**](https://github.com/hiroppy/fusuma): ✍️Fusuma makes slides with Markdown easily.
 * [**JulienMaille/dribbblish-dynamic-theme**](https://github.com/JulienMaille/dribbblish-dynamic-theme): A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.
-* [**resume/resume.github.com**](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [**vercel/ncc**](https://github.com/vercel/ncc): Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 * [**docsifyjs/docsify**](https://github.com/docsifyjs/docsify): 🃏 A magical documentation site generator.
 * [**marko-js/marko**](https://github.com/marko-js/marko): A declarative, HTML-based language that makes building web apps fun
@@ -999,6 +993,7 @@
 
 ## Lua
 
+* [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A launch point for your personal nvim configuration
 * [**marko-cerovac/material.nvim**](https://github.com/marko-cerovac/material.nvim): :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 * [**folke/persistence.nvim**](https://github.com/folke/persistence.nvim): 💾  Simple session management for Neovim
 * [**folke/tokyonight.nvim**](https://github.com/folke/tokyonight.nvim): 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -1106,7 +1101,6 @@
 * [**texworld/betterbib**](https://github.com/texworld/betterbib): :green_book: Update BibTeX files with info from online resources.
 * [**nanotee/nvim-lua-guide**](https://github.com/nanotee/nvim-lua-guide): A guide to using Lua in Neovim
 * [**webpro/awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
-* [**github/gitignore**](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [**msgpack/msgpack**](https://github.com/msgpack/msgpack): MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 * [**rockerBOO/awesome-neovim**](https://github.com/rockerBOO/awesome-neovim): Collections of awesome neovim plugins.
 * [**crazyhottommy/The-world-of-faculty**](https://github.com/crazyhottommy/The-world-of-faculty): resources for faculty
@@ -1183,6 +1177,7 @@
 
 ## Python
 
+* [**PyFstat/PyFstat**](https://github.com/PyFstat/PyFstat): a python package for gravitational wave analysis with the F-statistic
 * [**danijar/handout**](https://github.com/danijar/handout): Turn Python scripts into handouts with Markdown and figures
 * [**mrafieir/frbx**](https://github.com/mrafieir/frbx): Tools for simulating, forecasting and analyzing statistical cross-correlations between fast radio bursts and other cosmological sources
 * [**jlapeyre/julia_project**](https://github.com/jlapeyre/julia_project): Manage a Julia project living within a Python package
@@ -1315,7 +1310,6 @@
 * [**v-morello/rratsolve**](https://github.com/v-morello/rratsolve): A brute-force robust pulsar periodicity solver that needs only a few TOAs.
 * [**Camryn-Phillips/APT**](https://github.com/Camryn-Phillips/APT): *No description*
 * [**asciimoo/exrex**](https://github.com/asciimoo/exrex): Irregular methods on regular expressions
-* [**joke2k/faker**](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you.
 * [**Goldziher/pydantic-factories**](https://github.com/Goldziher/pydantic-factories): Pydantic based mock data generation
 * [**Textualize/rich-cli**](https://github.com/Textualize/rich-cli): Rich-cli is a command line toolbox for fancy output in the terminal
 * [**matplotlib/matplotview**](https://github.com/matplotlib/matplotview): A library for creating lightweight views of matplotlib axes.
@@ -1344,7 +1338,7 @@
 * [**delestro/outputformat**](https://github.com/delestro/outputformat): Python library to decorate and beautify strings
 * [**KshitijAggarwal/frbpa**](https://github.com/KshitijAggarwal/frbpa): FRB Periodicity Analysis
 * [**Matheart/manim-physics**](https://github.com/Matheart/manim-physics): Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
-* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): A modern TUI library free from the shackles of web development.
+* [**bczsalba/pytermgui**](https://github.com/bczsalba/pytermgui): Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 * [**gruns/icecream**](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 * [**llimllib/pymag-trees**](https://github.com/llimllib/pymag-trees): Code from the article "Drawing Good-looking Trees" in Python Magazine
 * [**PetchMa/MeerKATgen**](https://github.com/PetchMa/MeerKATgen): MeerKAT radio telescope simulation package. Built to simulate multibeam antenna data.
@@ -1587,7 +1581,6 @@
 * [**abey79/vsketch**](https://github.com/abey79/vsketch): Generative plotter art environment for Python
 * [**nimbo-sh/nimbo**](https://github.com/nimbo-sh/nimbo): Run compute jobs on AWS as if you were running them locally.
 * [**tiangolo/sqlmodel**](https://github.com/tiangolo/sqlmodel): SQL databases in Python, designed for simplicity, compatibility, and robustness.
-* [**tiangolo/fastapi**](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * [**jorisschellekens/borb**](https://github.com/jorisschellekens/borb): borb is a library for reading, creating and manipulating PDF files in python.
 * [**CIRADA-Tools/FRion**](https://github.com/CIRADA-Tools/FRion): Ionospheric Faraday rotation correction for Stokes Q/U cubes
 * [**mwshinn/paranoidscientist**](https://github.com/mwshinn/paranoidscientist): Runtime software verification and automated testing for scientific software in Python
@@ -1865,7 +1858,6 @@
 * [**mattpitkin/psrqpy**](https://github.com/mattpitkin/psrqpy): A python module to query the ATNF pulsar catalogue
 * [**andycasey/ads**](https://github.com/andycasey/ads): Python tool for ADS
 * [**1313e/CMasher**](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots
-* [**ansible/ansible**](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [**leegao/readme2tex**](https://github.com/leegao/readme2tex): Renders TeXy Math for Github Readmes
 * [**darrenburns/pytest-clarity**](https://github.com/darrenburns/pytest-clarity): A plugin to improve the output of pytest with colourful unified diffs
 * [**dmentipl/plonk**](https://github.com/dmentipl/plonk): Smoothed particle hydrodynamics analysis and visualization with Python.
@@ -1895,7 +1887,6 @@
 * [**ratt-ru/Stimela**](https://github.com/ratt-ru/Stimela): A containerized radio interferometry scripting framework
 * [**ratt-ru/CubiCal**](https://github.com/ratt-ru/CubiCal): A fast radio interferometric calibration suite.
 * [**caracal-pipeline/caracal**](https://github.com/caracal-pipeline/caracal): Containerized Automated Radio Astronomy Calibration (CARACal) pipeline
-* [**ray-project/ray**](https://github.com/ray-project/ray): An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 * [**satwikkansal/wtfpython**](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
 * [**sharanbngr/blip**](https://github.com/sharanbngr/blip): A bayesian pipeline for detecting stochastic backgrounds with LISA.
 * [**pyro-ppl/pyro**](https://github.com/pyro-ppl/pyro): Deep universal probabilistic programming with Python and PyTorch
@@ -1944,7 +1935,6 @@
 * [**inukshuk/anystyle**](https://github.com/inukshuk/anystyle): Fast and smart citation reference parsing
 * [**red-data-tools/YouPlot**](https://github.com/red-data-tools/YouPlot): A command line tool that draw plots on the terminal.
 * [**Homebrew/brew**](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
-* [**huginn/huginn**](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## Rust
 
@@ -2054,7 +2044,6 @@
 * [**kitao/pyxel**](https://github.com/kitao/pyxel): A retro game engine for Python
 * [**sharkdp/binocle**](https://github.com/sharkdp/binocle): a graphical tool to visualize binary data
 * [**fschutt/azul**](https://github.com/fschutt/azul): Desktop GUI Framework
-* [**yewstack/yew**](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
 * [**MoonZoon/MoonZoon**](https://github.com/MoonZoon/MoonZoon): Rust Fullstack Framework
 * [**seed-rs/seed**](https://github.com/seed-rs/seed): A Rust framework for creating web apps
 * [**thedodd/trunk**](https://github.com/thedodd/trunk): Build, bundle & ship your Rust WASM application to the web.
@@ -2249,13 +2238,13 @@
 
 ## TypeScript
 
+* [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**JuliaPluto/PlutoDesktop**](https://github.com/JuliaPluto/PlutoDesktop): Pluto as an all-included Electron app, under development
 * [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * [**pyscript/pyscript**](https://github.com/pyscript/pyscript): Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 * [**spacedriveapp/spacedrive**](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 * [**nkallen/plasticity**](https://github.com/nkallen/plasticity): *No description*
 * [**reaviz/reaviz**](https://github.com/reaviz/reaviz): 📊 Data visualization library for React
-* [**laurent22/joplin**](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * [**nukeop/nuclear**](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [**vadimdemedes/ink**](https://github.com/vadimdemedes/ink): 🌈 React for interactive command-line apps
 * [**goreleaser/goreleaser-action**](https://github.com/goreleaser/goreleaser-action): GitHub Action for GoReleaser
@@ -2266,30 +2255,24 @@
 * [**multiprocessio/datastation**](https://github.com/multiprocessio/datastation): App to easily query, script, and visualize data from every database, file, and API.
 * [**tamagui/tamagui**](https://github.com/tamagui/tamagui): Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 * [**m4tt72/terminal**](https://github.com/m4tt72/terminal): Terminal style website
-* [**sveltejs/svelte**](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
-* [**vuetifyjs/vuetify**](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
 * [**electron/electron-rebuild**](https://github.com/electron/electron-rebuild): Package to rebuild native Node.js modules against the currently installed Electron version
 * [**electron/fiddle**](https://github.com/electron/fiddle): :electron: 🚀 The easiest way to get started with Electron
 * [**nybbles/obsidian-pocket**](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [**nota-lang/nota**](https://github.com/nota-lang/nota): A document language for the browser
-* [**pubkey/rxdb**](https://github.com/pubkey/rxdb): 🔄 A fast, offline-first, reactive database for JavaScript Applications
 * [**misskey-dev/misskey**](https://github.com/misskey-dev/misskey): 🌎 An interplanetary microblogging platform 🚀
 * [**henrymyers/lorembarnak**](https://github.com/henrymyers/lorembarnak): The Québecois swear generator
 * [**dendronhq/dendron**](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
 * [**foambubble/foam**](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [**bqplot/bqplot**](https://github.com/bqplot/bqplot): Plotting library for IPython/Jupyter notebooks
 * [**jupyterlab/lumino**](https://github.com/jupyterlab/lumino): Lumino is a library for building interactive web applications
-* [**Eugeny/tabby**](https://github.com/Eugeny/tabby): A terminal for a more modern age
 * [**peter-evans/create-pull-request**](https://github.com/peter-evans/create-pull-request): A GitHub action to create a pull request for changes to your repository in the actions workspace
 * [**probot/probot**](https://github.com/probot/probot): 🤖 A framework for building GitHub Apps to automate and improve your workflow
 * [**appsmithorg/appsmith**](https://github.com/appsmithorg/appsmith): Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-* [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**slidevjs/slidev**](https://github.com/slidevjs/slidev): Presentation Slides for Developers
 * [**williamngan/pts**](https://github.com/williamngan/pts): A library for visualization and creative-coding
 * [**vega/voyager**](https://github.com/vega/voyager): Visualization Tool for Data Exploration
 * [**github/catalyst**](https://github.com/github/catalyst): Catalyst is a set of patterns and techniques for developing components within a complex application.
 * [**widgetti/ipyvolume**](https://github.com/widgetti/ipyvolume): 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
-* [**microsoft/vscode**](https://github.com/microsoft/vscode): Visual Studio Code
 * [**utterance/utterances**](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
 * [**darekkay/dashboard**](https://github.com/darekkay/dashboard): Customizable personal dashboard and startpage
 * [**renovatebot/renovate**](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows.
