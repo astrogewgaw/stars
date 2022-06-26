@@ -558,6 +558,9 @@
 
 ## Julia
 
+* [**xKDR/CRRao.jl**](https://github.com/xKDR/CRRao.jl): *No description*
+* [**xKDR/Lowess.jl**](https://github.com/xKDR/Lowess.jl): Hand translated version of Cleveland's Lowess.c
+* [**JuliaStats/Loess.jl**](https://github.com/JuliaStats/Loess.jl): Local regression, so smooooth!
 * [**JuliaObjects/Accessors.jl**](https://github.com/JuliaObjects/Accessors.jl): Update immutable data
 * [**jw3126/Setfield.jl**](https://github.com/jw3126/Setfield.jl): Update deeply nested immutable structs.
 * [**mauro3/UnPack.jl**](https://github.com/mauro3/UnPack.jl): `@pack` and `@unpack` macros
