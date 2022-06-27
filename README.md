@@ -309,6 +309,7 @@
 
 ## Go
 
+* [**rsc/tmplfunc**](https://github.com/rsc/tmplfunc): Go templates invoked as functions
 * [**astrogo/fitsio**](https://github.com/astrogo/fitsio): fitsio is a pure-Go package to read and write `FITS` files
 * [**abdfnx/botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 * [**smmr-software/mabel**](https://github.com/smmr-software/mabel): A fancy BitTorrent client for the terminal
@@ -1180,6 +1181,8 @@
 
 ## Python
 
+* [**pydata/numexpr**](https://github.com/pydata/numexpr): Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more
+* [**holoviz/colorcet**](https://github.com/holoviz/colorcet): A set of useful perceptually uniform colormaps for plotting scientific data
 * [**PyFstat/PyFstat**](https://github.com/PyFstat/PyFstat): a python package for gravitational wave analysis with the F-statistic
 * [**danijar/handout**](https://github.com/danijar/handout): Turn Python scripts into handouts with Markdown and figures
 * [**mrafieir/frbx**](https://github.com/mrafieir/frbx): Tools for simulating, forecasting and analyzing statistical cross-correlations between fast radio bursts and other cosmological sources
@@ -2241,6 +2244,7 @@
 
 ## TypeScript
 
+* [**tani/glance-vim**](https://github.com/tani/glance-vim): Preview document wrtting in YOUR markdown.
 * [**vercel/hyper**](https://github.com/vercel/hyper): A terminal built on web technologies
 * [**JuliaPluto/PlutoDesktop**](https://github.com/JuliaPluto/PlutoDesktop): Pluto as an all-included Electron app, under development
 * [**lucide-icons/lucide**](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
