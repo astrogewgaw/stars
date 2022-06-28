@@ -309,6 +309,7 @@
 
 ## Go
 
+* [**maaslalani/draw**](https://github.com/maaslalani/draw): Draw in your terminal
 * [**rsc/tmplfunc**](https://github.com/rsc/tmplfunc): Go templates invoked as functions
 * [**astrogo/fitsio**](https://github.com/astrogo/fitsio): fitsio is a pure-Go package to read and write `FITS` files
 * [**abdfnx/botway**](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
@@ -316,7 +317,7 @@
 * [**errata-ai/vale**](https://github.com/errata-ai/vale): :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 * [**charmbracelet/bubbletea-app-template**](https://github.com/charmbracelet/bubbletea-app-template): A template repository to create Bubbletea apps.
 * [**muesli/cancelreader**](https://github.com/muesli/cancelreader): A cancelable reader for Go
-* [**metafates/mangal**](https://github.com/metafates/mangal): 📖 Manga browser and downloader for Linux, Windows & MacOS
+* [**metafates/mangal**](https://github.com/metafates/mangal): 📖 Manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration
 * [**caarlos0/log**](https://github.com/caarlos0/log): Colorful CLI logger
 * [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
@@ -909,7 +910,7 @@
 * [**MorganWaddy/barb**](https://github.com/MorganWaddy/barb): A Bayesian rate estimation python package for FRBs
 * [**executablebooks/sphinx-book-theme**](https://github.com/executablebooks/sphinx-book-theme): A clean book theme for scientific explanations and documentation with Sphinx
 * [**executablebooks/MyST-NB**](https://github.com/executablebooks/MyST-NB): Parse and execute ipynb files in Sphinx
-* [**christianhbye/croissant**](https://github.com/christianhbye/croissant): An autocorrelator visibility simulator using spherical harmonics
+* [**christianhbye/croissant**](https://github.com/christianhbye/croissant): A visibility simulator suited for radio astronomy experiments using spherical harmonics
 * [**johnmyleswhite/julia_tutorials**](https://github.com/johnmyleswhite/julia_tutorials): Tutorials on Julia topics
 * [**omlins/julia-gpu-course**](https://github.com/omlins/julia-gpu-course): GPU Programming with Julia - course at the Swiss National Supercomputing Centre (CSCS), ETH Zurich
 * [**nanograv/pulsar_timing_school**](https://github.com/nanograv/pulsar_timing_school): Learning material for pulsar timing data analysis
@@ -1181,6 +1182,7 @@
 
 ## Python
 
+* [**faif/python-patterns**](https://github.com/faif/python-patterns): A collection of design patterns/idioms in Python
 * [**pydata/numexpr**](https://github.com/pydata/numexpr): Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more
 * [**holoviz/colorcet**](https://github.com/holoviz/colorcet): A set of useful perceptually uniform colormaps for plotting scientific data
 * [**PyFstat/PyFstat**](https://github.com/PyFstat/PyFstat): a python package for gravitational wave analysis with the F-statistic
