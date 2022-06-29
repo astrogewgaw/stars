@@ -487,7 +487,7 @@
 * [**j3soon/arxiv-utils**](https://github.com/j3soon/arxiv-utils): Meaningful titles for tabs and PDF downloads! Also supports tab search.
 * [**damianavila/RISE**](https://github.com/damianavila/RISE): RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 * [**denehyg/reveal.js-menu**](https://github.com/denehyg/reveal.js-menu): Slide out menu for reveal.js
-* [**mikecao/umami**](https://github.com/mikecao/umami): Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+* [**umami-software/umami**](https://github.com/umami-software/umami): Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 * [**lukeed/kleur**](https://github.com/lukeed/kleur): The fastest Node.js library for formatting terminal text with ANSI colors~!
 * [**floccusaddon/floccus**](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [**Rich-Harris/degit**](https://github.com/Rich-Harris/degit): Straightforward project scaffolding
@@ -998,6 +998,7 @@
 
 ## Lua
 
+* [**declancm/cinnamon.nvim**](https://github.com/declancm/cinnamon.nvim): Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A launch point for your personal nvim configuration
 * [**marko-cerovac/material.nvim**](https://github.com/marko-cerovac/material.nvim): :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 * [**folke/persistence.nvim**](https://github.com/folke/persistence.nvim): 💾  Simple session management for Neovim
@@ -1182,6 +1183,7 @@
 
 ## Python
 
+* [**AnkitBarik/planetMagFields**](https://github.com/AnkitBarik/planetMagFields): Routines to plot magnetic fields of planets in our solar system
 * [**faif/python-patterns**](https://github.com/faif/python-patterns): A collection of design patterns/idioms in Python
 * [**pydata/numexpr**](https://github.com/pydata/numexpr): Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more
 * [**holoviz/colorcet**](https://github.com/holoviz/colorcet): A set of useful perceptually uniform colormaps for plotting scientific data
@@ -1603,7 +1605,7 @@
 * [**lmmentel/zefram**](https://github.com/lmmentel/zefram): *No description*
 * [**lmmentel/pydmft**](https://github.com/lmmentel/pydmft): Python utilities for running density matrix functional theory (DMFT) quantum chemical calculations.
 * [**python-poetry/poetry**](https://github.com/python-poetry/poetry): Python dependency management and packaging made easy.
-* [**pdm-project/pdm**](https://github.com/pdm-project/pdm): A modern Python package manager with PEP 582 support.
+* [**pdm-project/pdm**](https://github.com/pdm-project/pdm): A modern Python package and dependency manager supporting the latest PEP standards
 * [**realiti4/pip-upgrade**](https://github.com/realiti4/pip-upgrade): Upgrade your pip packages with one line. A fast, reliable and easy tool for upgrading all of your packages while not breaking any dependencies
 * [**kingyiusuen/image-to-latex**](https://github.com/kingyiusuen/image-to-latex): Convert images of LaTex math equations into LaTex code.
 * [**lmmentel/panthera**](https://github.com/lmmentel/panthera): Python package for computing thermochemical properties of molecules and solids in the anharmonic approximation.
