@@ -317,7 +317,7 @@
 * [**errata-ai/vale**](https://github.com/errata-ai/vale): :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 * [**charmbracelet/bubbletea-app-template**](https://github.com/charmbracelet/bubbletea-app-template): A template repository to create Bubbletea apps.
 * [**muesli/cancelreader**](https://github.com/muesli/cancelreader): A cancelable reader for Go
-* [**metafates/mangal**](https://github.com/metafates/mangal): 📖 Manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration
+* [**metafates/mangal**](https://github.com/metafates/mangal): 📖 Manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration. It's fast!
 * [**caarlos0/log**](https://github.com/caarlos0/log): Colorful CLI logger
 * [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
