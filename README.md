@@ -1076,6 +1076,8 @@
 
 ## Others
 
+* [**KshitijAggarwal/FRB-journal-club**](https://github.com/KshitijAggarwal/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
+* [**ReshmaAnnaThomas/FRB-journal-club**](https://github.com/ReshmaAnnaThomas/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ptiede/Elliptic.jl**](https://github.com/ptiede/Elliptic.jl): Elliptic integral and Jacobi elliptic special functions
 * [**dfm/workflows**](https://github.com/dfm/workflows): A collection of GitHub Actions workflows that I find useful
 * [**martinbjeldbak/ultimate-beamer-theme-list**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list): A collection of custom Beamer themes
