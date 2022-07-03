@@ -309,6 +309,8 @@
 
 ## Go
 
+* [**mum4k/termdash**](https://github.com/mum4k/termdash): Terminal based dashboard.
+* [**bloznelis/typioca**](https://github.com/bloznelis/typioca): Cozy typing speed tester
 * [**maaslalani/draw**](https://github.com/maaslalani/draw): Draw in your terminal
 * [**rsc/tmplfunc**](https://github.com/rsc/tmplfunc): Go templates invoked as functions
 * [**astrogo/fitsio**](https://github.com/astrogo/fitsio): fitsio is a pure-Go package to read and write `FITS` files
@@ -560,6 +562,7 @@
 
 ## Julia
 
+* [**jonniedie/ComponentArrays.jl**](https://github.com/jonniedie/ComponentArrays.jl): Arrays with arbitrarily nested named components.
 * [**xKDR/CRRao.jl**](https://github.com/xKDR/CRRao.jl): *No description*
 * [**xKDR/Lowess.jl**](https://github.com/xKDR/Lowess.jl): Hand translated version of Cleveland's Lowess.c
 * [**JuliaStats/Loess.jl**](https://github.com/JuliaStats/Loess.jl): Local regression, so smooooth!
@@ -901,6 +904,7 @@
 
 ## Jupyter Notebook
 
+* [**strath-sdr/dsp_notebooks**](https://github.com/strath-sdr/dsp_notebooks): A collection of Digital Signal Processing notebooks with a wireless communications theme.
 * [**ElOceanografo/MarginalLogDensities.jl**](https://github.com/ElOceanografo/MarginalLogDensities.jl): Marginalized log-probability functions in Julia
 * [**devincody/DSAbeamformer**](https://github.com/devincody/DSAbeamformer): Real-time GPU Beamformer for DSA110 written in C/CUDA
 * [**kilianbreathnach/CornerPlot.jl**](https://github.com/kilianbreathnach/CornerPlot.jl): Create triangular matrix of subplots showing 2D parameter samples
@@ -998,6 +1002,7 @@
 
 ## Lua
 
+* [**tiagovla/tokyodark.nvim**](https://github.com/tiagovla/tokyodark.nvim): A clean dark theme written in lua for neovim.
 * [**declancm/cinnamon.nvim**](https://github.com/declancm/cinnamon.nvim): Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A launch point for your personal nvim configuration
 * [**marko-cerovac/material.nvim**](https://github.com/marko-cerovac/material.nvim): :trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
@@ -1970,7 +1975,7 @@
 * [**SeaDve/Kooha**](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [**DioxusLabs/dioxus**](https://github.com/DioxusLabs/dioxus): Friendly React-like GUI library for desktop, web, mobile, and more.
 * [**DioxusLabs/rink**](https://github.com/DioxusLabs/rink): Build reactive terminal user interfaces using Rust and Dioxus.
-* [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
+* [**kyclark/command-line-rust**](https://github.com/kyclark/command-line-rust): Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/
 * [**johnthagen/min-sized-rust**](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
 * [**JuliaLang/juliaup**](https://github.com/JuliaLang/juliaup): Julia installer and version multiplexer
 * [**dginev/ar5iv**](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
@@ -1997,7 +2002,7 @@
 * [**mitsuhiko/similar**](https://github.com/mitsuhiko/similar): A high level diffing library for rust based on diffs
 * [**gimli-rs/findshlibs**](https://github.com/gimli-rs/findshlibs): Find the shared libraries loaded in the current process with a cross platform API
 * [**mitsuhiko/procspawn**](https://github.com/mitsuhiko/procspawn): like thread::spawn but for processes
-* [**federico-terzi/espanso**](https://github.com/federico-terzi/espanso): Cross-platform Text Expander written in Rust
+* [**espanso/espanso**](https://github.com/espanso/espanso): Cross-platform Text Expander written in Rust
 * [**elkowar/eww**](https://github.com/elkowar/eww): ElKowars wacky widgets
 * [**GuillaumeGomez/sysinfo**](https://github.com/GuillaumeGomez/sysinfo): Cross-platform library to fetch system information
 * [**dfm/discretionary**](https://github.com/dfm/discretionary): A tiny proc macro to make all your struct fields optional
