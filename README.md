@@ -1022,7 +1022,7 @@
 * [**rebelot/kanagawa.nvim**](https://github.com/rebelot/kanagawa.nvim): NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 * [**dstein64/nvim-scrollview**](https://github.com/dstein64/nvim-scrollview): 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 * [**ray-x/lsp_signature.nvim**](https://github.com/ray-x/lsp_signature.nvim): LSP signature hint as you type
-* [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
+* [**lukas-reineke/headlines.nvim**](https://github.com/lukas-reineke/headlines.nvim): This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 * [**onsails/lspkind.nvim**](https://github.com/onsails/lspkind.nvim): vscode-like pictograms for neovim lsp completion items
 * [**kosayoda/nvim-lightbulb**](https://github.com/kosayoda/nvim-lightbulb): VSCode 💡 for neovim's built-in LSP.
 * [**folke/which-key.nvim**](https://github.com/folke/which-key.nvim): 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
