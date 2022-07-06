@@ -126,6 +126,7 @@
 
 ## C++
 
+* [**acaudwell/Gource**](https://github.com/acaudwell/Gource): software version control visualization
 * [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
 * [**TomHarte/CLK**](https://github.com/TomHarte/CLK): A latency-hating emulator of 8- and 16-bit platforms: the Acorn Electron, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1, Oric 1/Atmos, Sega Master System, Sinclair ZX80/81 and ZX Spectrum.
 * [**MisterTea/EternalTerminal**](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell
@@ -309,6 +310,7 @@
 
 ## Go
 
+* [**antonmedv/fx**](https://github.com/antonmedv/fx): Terminal JSON viewer
 * [**mum4k/termdash**](https://github.com/mum4k/termdash): Terminal based dashboard.
 * [**bloznelis/typioca**](https://github.com/bloznelis/typioca): Cozy typing speed tester
 * [**maaslalani/draw**](https://github.com/maaslalani/draw): Draw in your terminal
@@ -904,6 +906,8 @@
 
 ## Jupyter Notebook
 
+* [**timsainb/noisereduce**](https://github.com/timsainb/noisereduce): Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
+* [**david-macmahon/JuliaDeDopplerNotebooks**](https://github.com/david-macmahon/JuliaDeDopplerNotebooks): *No description*
 * [**strath-sdr/dsp_notebooks**](https://github.com/strath-sdr/dsp_notebooks): A collection of Digital Signal Processing notebooks with a wireless communications theme.
 * [**ElOceanografo/MarginalLogDensities.jl**](https://github.com/ElOceanografo/MarginalLogDensities.jl): Marginalized log-probability functions in Julia
 * [**devincody/DSAbeamformer**](https://github.com/devincody/DSAbeamformer): Real-time GPU Beamformer for DSA110 written in C/CUDA
@@ -1081,6 +1085,7 @@
 
 ## Others
 
+* [**jmesyou/functional-programming-jargon.py**](https://github.com/jmesyou/functional-programming-jargon.py): Jargon from the functional programming world in simple terms!
 * [**KshitijAggarwal/FRB-journal-club**](https://github.com/KshitijAggarwal/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ReshmaAnnaThomas/FRB-journal-club**](https://github.com/ReshmaAnnaThomas/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ptiede/Elliptic.jl**](https://github.com/ptiede/Elliptic.jl): Elliptic integral and Jacobi elliptic special functions
@@ -1190,6 +1195,9 @@
 
 ## Python
 
+* [**reece/pytest-optional-tests**](https://github.com/reece/pytest-optional-tests): Easy declaration of optional tests (i.e., not run by default)
+* [**pyodide/pyodide**](https://github.com/pyodide/pyodide): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+* [**caracal-pipeline/MosaicQueen**](https://github.com/caracal-pipeline/MosaicQueen): A package with mosaicking commands from montage, that also does primary-beam correction for both 2D and 3D images.
 * [**AnkitBarik/planetMagFields**](https://github.com/AnkitBarik/planetMagFields): Routines to plot magnetic fields of planets in our solar system
 * [**faif/python-patterns**](https://github.com/faif/python-patterns): A collection of design patterns/idioms in Python
 * [**pydata/numexpr**](https://github.com/pydata/numexpr): Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more
@@ -1462,7 +1470,7 @@
 * [**DedalusProject/dedalus**](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods.
 * [**cookiecutter/cookiecutter**](https://github.com/cookiecutter/cookiecutter): A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * [**anki-code/xontrib-onepath**](https://github.com/anki-code/xontrib-onepath): Associate files and directories with app or alias and run it without preceding commands in xonsh shell.
-* [**tokenizer/xontrib-output-search**](https://github.com/tokenizer/xontrib-output-search): Get identifiers, paths, URLs and words from the previous command output and use them for the next command in xonsh shell.
+* [**anki-code/xontrib-output-search**](https://github.com/anki-code/xontrib-output-search): Get identifiers, paths, URLs and words from the previous command output and use them for the next command in xonsh shell.
 * [**anki-code/xontrib-back2dir**](https://github.com/anki-code/xontrib-back2dir): Return to the most recently used directory when starting the xonsh shell.
 * [**xonsh/xontrib-template**](https://github.com/xonsh/xontrib-template): A cookiecutter template for xontribs, a.k.a xonsh contributions
 * [**vaaaaanquish/xontrib-readable-traceback**](https://github.com/vaaaaanquish/xontrib-readable-traceback): xonsh readable traceback
