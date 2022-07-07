@@ -1195,6 +1195,8 @@
 
 ## Python
 
+* [**whitead/skunk**](https://github.com/whitead/skunk): Insert SVG images into matplotlib elements. Can be used to also compose matplotlib plots by nesting them.
+* [**pjcigan/multicolorfits**](https://github.com/pjcigan/multicolorfits): Python tool for colorizing and combining fits images.
 * [**reece/pytest-optional-tests**](https://github.com/reece/pytest-optional-tests): Easy declaration of optional tests (i.e., not run by default)
 * [**pyodide/pyodide**](https://github.com/pyodide/pyodide): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 * [**caracal-pipeline/MosaicQueen**](https://github.com/caracal-pipeline/MosaicQueen): A package with mosaicking commands from montage, that also does primary-beam correction for both 2D and 3D images.
