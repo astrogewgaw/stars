@@ -126,6 +126,7 @@
 
 ## C++
 
+* [**WerWolv/ImHex**](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 * [**acaudwell/Gource**](https://github.com/acaudwell/Gource): software version control visualization
 * [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
 * [**TomHarte/CLK**](https://github.com/TomHarte/CLK): A latency-hating emulator of 8- and 16-bit platforms: the Acorn Electron, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1, Oric 1/Atmos, Sega Master System, Sinclair ZX80/81 and ZX Spectrum.
@@ -453,6 +454,7 @@
 
 ## HTML
 
+* [**petermr/pygetpapers**](https://github.com/petermr/pygetpapers): a Python version of getpapers
 * [**joemccann/dillinger**](https://github.com/joemccann/dillinger): The last Markdown editor, ever.
 * [**mtfishman/JuliaTutorial**](https://github.com/mtfishman/JuliaTutorial): A tutorial for Julia
 * [**papis/papis**](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
@@ -463,7 +465,6 @@
 * [**hrshe/swan-processing-sessions**](https://github.com/hrshe/swan-processing-sessions): This repository is being developed to help undergrad students participating in SWAN get familiarised with radio data processing techniques.
 * [**theXYZT/notebooks**](https://github.com/theXYZT/notebooks): Collection of miscellaneous notebooks
 * [**thespacedoctor/atelParser**](https://github.com/thespacedoctor/atelParser): Download Astronomers' Telegrams and parse them to find transient names and coordinates
-* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically by just providing examples
 * [**rigtorp/awesome-modern-cpp**](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 * [**a-nau/markdownslides**](https://github.com/a-nau/markdownslides): A "markdown-first" approach for generating beautiful browser-based slides easily. Based on Reveal.js and Reveal-Jekyll.
 * [**cdominik/optool-additional-refind-data**](https://github.com/cdominik/optool-additional-refind-data): Repository for preparing refractive index data for use with optool
@@ -479,7 +480,7 @@
 
 ## Haskell
 
-* [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten
+* [**srid/neuron**](https://github.com/srid/neuron): Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 
 ## Java
 
@@ -564,6 +565,7 @@
 
 ## Julia
 
+* [**emmt/OIFITS.jl**](https://github.com/emmt/OIFITS.jl): Support for OI-FITS (optical interferometry data format) in Julia.
 * [**jonniedie/ComponentArrays.jl**](https://github.com/jonniedie/ComponentArrays.jl): Arrays with arbitrarily nested named components.
 * [**xKDR/CRRao.jl**](https://github.com/xKDR/CRRao.jl): *No description*
 * [**xKDR/Lowess.jl**](https://github.com/xKDR/Lowess.jl): Hand translated version of Cleveland's Lowess.c
@@ -1085,6 +1087,8 @@
 
 ## Others
 
+* [**mmalenta/spring_time_legacy**](https://github.com/mmalenta/spring_time_legacy): Spring supervisor
+* [**mmalenta/spring_time**](https://github.com/mmalenta/spring_time): Clustering and triggering for spring post-processing pipeline
 * [**jmesyou/functional-programming-jargon.py**](https://github.com/jmesyou/functional-programming-jargon.py): Jargon from the functional programming world in simple terms!
 * [**KshitijAggarwal/FRB-journal-club**](https://github.com/KshitijAggarwal/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ReshmaAnnaThomas/FRB-journal-club**](https://github.com/ReshmaAnnaThomas/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
@@ -1195,6 +1199,9 @@
 
 ## Python
 
+* [**mmalenta/spring**](https://github.com/mmalenta/spring): MeerTRAP single pulse post processing pipeline
+* [**mcmtroffaes/sphinxcontrib-bibtex**](https://github.com/mcmtroffaes/sphinxcontrib-bibtex): Sphinx extension for bibtex style references.
+* [**jobovy/sphinx-astrorefs**](https://github.com/jobovy/sphinx-astrorefs): Astro-style references in Sphinx documents
 * [**whitead/skunk**](https://github.com/whitead/skunk): Insert SVG images into matplotlib elements. Can be used to also compose matplotlib plots by nesting them.
 * [**pjcigan/multicolorfits**](https://github.com/pjcigan/multicolorfits): Python tool for colorizing and combining fits images.
 * [**reece/pytest-optional-tests**](https://github.com/reece/pytest-optional-tests): Easy declaration of optional tests (i.e., not run by default)
@@ -1672,6 +1679,7 @@
 * [**piccolomo/plotext**](https://github.com/piccolomo/plotext): plotting on terminal
 * [**pyvista/pyvista**](https://github.com/pyvista/pyvista): 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * [**joerick/pyinstrument**](https://github.com/joerick/pyinstrument): 🚴 Call stack profiler for Python. Shows you why your code is slow!
+* [**lorey/mlscraper**](https://github.com/lorey/mlscraper): 🤖 Scrape data from HTML websites automatically by just providing examples
 * [**kynan/nbstripout**](https://github.com/kynan/nbstripout): strip output from Jupyter and IPython notebooks
 * [**chrissimpkins/codeface**](https://github.com/chrissimpkins/codeface): Typefaces for source code beautification
 * [**bmcguir2/astromol**](https://github.com/bmcguir2/astromol): *No description*
