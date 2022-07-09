@@ -1199,6 +1199,8 @@
 
 ## Python
 
+* [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Download your fonts and show them off!
+* [**seatgeek/fuzzywuzzy**](https://github.com/seatgeek/fuzzywuzzy): Fuzzy String Matching in Python
 * [**mmalenta/spring**](https://github.com/mmalenta/spring): MeerTRAP single pulse post processing pipeline
 * [**mcmtroffaes/sphinxcontrib-bibtex**](https://github.com/mcmtroffaes/sphinxcontrib-bibtex): Sphinx extension for bibtex style references.
 * [**jobovy/sphinx-astrorefs**](https://github.com/jobovy/sphinx-astrorefs): Astro-style references in Sphinx documents
@@ -1491,7 +1493,7 @@
 * [**AstraLuma/xontrib-schedule**](https://github.com/AstraLuma/xontrib-schedule): Xonsh Task Scheduling
 * [**AstraLuma/xontrib-z**](https://github.com/AstraLuma/xontrib-z): Tracks your most used directories, based on 'frecency'.
 * [**laloch/xontrib-fzf-widgets**](https://github.com/laloch/xontrib-fzf-widgets): Set of fzf widgets for xonsh
-* [**anki-code/awesome-xonshrc**](https://github.com/anki-code/awesome-xonshrc): 👓 🐚 Awesome snippets of code for xonshrc in xonsh shell.
+* [**anki-code/xontrib-rc-awesome**](https://github.com/anki-code/xontrib-rc-awesome): 👓 🐚 Awesome snippets of code for xonshrc in xonsh shell.
 * [**74th/xonsh-direnv**](https://github.com/74th/xonsh-direnv): xonsh extension for using direnv
 * [**anki-code/xontrib-argcomplete**](https://github.com/anki-code/xontrib-argcomplete): Argcomplete support to tab completion of python and xonsh scripts in xonsh shell.
 * [**anki-code/xontrib-pipeliner**](https://github.com/anki-code/xontrib-pipeliner): Let your pipe lines flow thru the Python code in xonsh.
