@@ -55,6 +55,7 @@
 * [**Rust**](#rust)
 * [**SCSS**](#scss)
 * [**Sass**](#sass)
+* [**Scala**](#scala)
 * [**Scheme**](#scheme)
 * [**Shell**](#shell)
 * [**Singularity**](#singularity)
@@ -311,6 +312,8 @@
 
 ## Go
 
+* [**dlvhdr/random-picker**](https://github.com/dlvhdr/random-picker): *No description*
+* [**bensadeh/circumflex**](https://github.com/bensadeh/circumflex): 🌿 It's Hacker News in your terminal
 * [**antonmedv/fx**](https://github.com/antonmedv/fx): Terminal JSON viewer
 * [**mum4k/termdash**](https://github.com/mum4k/termdash): Terminal based dashboard.
 * [**bloznelis/typioca**](https://github.com/bloznelis/typioca): Cozy typing speed tester
@@ -565,6 +568,7 @@
 
 ## Julia
 
+* [**JuliaRegistries/General**](https://github.com/JuliaRegistries/General): The official registry of general Julia packages
 * [**emmt/OIFITS.jl**](https://github.com/emmt/OIFITS.jl): Support for OI-FITS (optical interferometry data format) in Julia.
 * [**jonniedie/ComponentArrays.jl**](https://github.com/jonniedie/ComponentArrays.jl): Arrays with arbitrarily nested named components.
 * [**xKDR/CRRao.jl**](https://github.com/xKDR/CRRao.jl): *No description*
@@ -1199,6 +1203,9 @@
 
 ## Python
 
+* [**davidwhogg/TheThresher**](https://github.com/davidwhogg/TheThresher): we Don't Throw Away Data (tm).
+* [**elimintz/justpy**](https://github.com/elimintz/justpy): An object oriented high-level Python Web Framework that requires no frontend programming
+* [**ActiveState/appdirs**](https://github.com/ActiveState/appdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 * [**astrogewgaw/flaunt**](https://github.com/astrogewgaw/flaunt): Download your fonts and show them off!
 * [**seatgeek/fuzzywuzzy**](https://github.com/seatgeek/fuzzywuzzy): Fuzzy String Matching in Python
 * [**mmalenta/spring**](https://github.com/mmalenta/spring): MeerTRAP single pulse post processing pipeline
@@ -2185,6 +2192,10 @@
 
 * [**pradyunsg/furo**](https://github.com/pradyunsg/furo): A clean customizable documentation theme for Sphinx
 
+## Scala
+
+* [**ucb-art/pfb**](https://github.com/ucb-art/pfb): Polyphase Filter Bank
+
 ## Scheme
 
 * [**nvim-treesitter/nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter): Nvim Treesitter configurations and abstraction layer
@@ -2242,6 +2253,9 @@
 
 ## TeX
 
+* [**davidwhogg/AstronomyChallenges**](https://github.com/davidwhogg/AstronomyChallenges): *No description*
+* [**davidwhogg/DataAnalysisRecipes**](https://github.com/davidwhogg/DataAnalysisRecipes): chapters of a book Hogg will never write
+* [**davidwhogg/BadForScience**](https://github.com/davidwhogg/BadForScience): a philosophical paper
 * [**piazzai/arguelles**](https://github.com/piazzai/arguelles): Simple, typographic beamer theme
 * [**milaan9/LaTeX4Everyone**](https://github.com/milaan9/LaTeX4Everyone): Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.
 * [**junwei-wang/beamerthemeNord**](https://github.com/junwei-wang/beamerthemeNord): Nord beamer theme
