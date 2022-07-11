@@ -198,7 +198,7 @@
 * [**linuxdeploy/linuxdeploy**](https://github.com/linuxdeploy/linuxdeploy): AppDir creation and maintenance tool. Featuring flexible plugin system.
 * [**google/orbit**](https://github.com/google/orbit): C/C++ Performance Profiler
 * [**pybind/pybind11**](https://github.com/pybind/pybind11): Seamless operability between C++11 and Python
-* [**skramm/homog2d**](https://github.com/skramm/homog2d): C++ 2D geometry library, handles points, lines, planar transformations (and other primitives), using homogeneous coordinates
+* [**skramm/homog2d**](https://github.com/skramm/homog2d): C++ 2D geometry library, handles points, lines, polylines, planar transformations (and other primitives), using homogeneous coordinates. Provided with complete manual and samples.
 * [**hoffstadt/DearPyGui**](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [**tuplex/tuplex**](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
 * [**typesense/typesense**](https://github.com/typesense/typesense): Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -312,7 +312,7 @@
 
 ## Go
 
-* [**dlvhdr/random-picker**](https://github.com/dlvhdr/random-picker): *No description*
+* [**dlvhdr/roulette**](https://github.com/dlvhdr/roulette): *No description*
 * [**bensadeh/circumflex**](https://github.com/bensadeh/circumflex): 🌿 It's Hacker News in your terminal
 * [**antonmedv/fx**](https://github.com/antonmedv/fx): Terminal JSON viewer
 * [**mum4k/termdash**](https://github.com/mum4k/termdash): Terminal based dashboard.
