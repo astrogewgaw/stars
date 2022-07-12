@@ -312,7 +312,7 @@
 
 ## Go
 
-* [**dlvhdr/roulette**](https://github.com/dlvhdr/roulette): *No description*
+* [**dlvhdr/roulette**](https://github.com/dlvhdr/roulette): :slot_machine: Making life decisions easier
 * [**bensadeh/circumflex**](https://github.com/bensadeh/circumflex): 🌿 It's Hacker News in your terminal
 * [**antonmedv/fx**](https://github.com/antonmedv/fx): Terminal JSON viewer
 * [**mum4k/termdash**](https://github.com/mum4k/termdash): Terminal based dashboard.
@@ -1012,6 +1012,7 @@
 
 ## Lua
 
+* [**rmagatti/auto-session**](https://github.com/rmagatti/auto-session): A small automated session manager for Neovim
 * [**tiagovla/tokyodark.nvim**](https://github.com/tiagovla/tokyodark.nvim): A clean dark theme written in lua for neovim.
 * [**declancm/cinnamon.nvim**](https://github.com/declancm/cinnamon.nvim): Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
 * [**nvim-lua/kickstart.nvim**](https://github.com/nvim-lua/kickstart.nvim): A launch point for your personal nvim configuration
@@ -1369,7 +1370,7 @@
 * [**pypa/hatch**](https://github.com/pypa/hatch): Modern, extensible Python project management
 * [**terrencepreilly/darglint**](https://github.com/terrencepreilly/darglint): A python documentation linter which checks that the docstring description matches the definition.
 * [**ashleychontos/ticguide**](https://github.com/ashleychontos/ticguide): quick + painless TESS observing information
-* [**brodie/cram_**](https://github.com/brodie/cram_): Functional tests for command line applications
+* [**brodie/cram**](https://github.com/brodie/cram): Functional tests for command line applications
 * [**google/python-fire**](https://github.com/google/python-fire): Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [**pschanely/CrossHair**](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 * [**astrogewgaw/whoswho**](https://github.com/astrogewgaw/whoswho): A list of astrochemists from across the globe!
