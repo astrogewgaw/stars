@@ -312,6 +312,8 @@
 
 ## Go
 
+* [**stretchr/testify**](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
+* [**guptarohit/asciigraph**](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [**dlvhdr/roulette**](https://github.com/dlvhdr/roulette): :slot_machine: Making life decisions easier
 * [**bensadeh/circumflex**](https://github.com/bensadeh/circumflex): 🌿 It's Hacker News in your terminal
 * [**antonmedv/fx**](https://github.com/antonmedv/fx): Terminal JSON viewer
@@ -1204,6 +1206,7 @@
 
 ## Python
 
+* [**cyllab/ccinput**](https://github.com/cyllab/ccinput): Computational Chemistry Input Generator
 * [**davidwhogg/TheThresher**](https://github.com/davidwhogg/TheThresher): we Don't Throw Away Data (tm).
 * [**elimintz/justpy**](https://github.com/elimintz/justpy): An object oriented high-level Python Web Framework that requires no frontend programming
 * [**ActiveState/appdirs**](https://github.com/ActiveState/appdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
@@ -1983,6 +1986,7 @@
 
 ## Rust
 
+* [**nickgerace/gfold**](https://github.com/nickgerace/gfold): CLI tool to help keep track of your Git repositories, written in Rust
 * [**r-darwish/topgrade**](https://github.com/r-darwish/topgrade): Upgrade everything
 * [**ellie/atuin**](https://github.com/ellie/atuin): 🐢 Magical shell history
 * [**crossbeam-rs/crossbeam**](https://github.com/crossbeam-rs/crossbeam): Tools for concurrent programming in Rust
