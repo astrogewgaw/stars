@@ -127,6 +127,7 @@
 
 ## C++
 
+* [**microsoft/picologging**](https://github.com/microsoft/picologging): An optimized logging library for Python
 * [**WerWolv/ImHex**](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 * [**acaudwell/Gource**](https://github.com/acaudwell/Gource): software version control visualization
 * [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
@@ -570,6 +571,8 @@
 
 ## Julia
 
+* [**IanButterworth/SystemBenchmark.jl**](https://github.com/IanButterworth/SystemBenchmark.jl): Julia package for benchmarking a system
+* [**JuliaMath/NaNMath.jl**](https://github.com/JuliaMath/NaNMath.jl): Julia math built-ins which return NaN and accumulator functions which ignore NaN
 * [**JuliaRegistries/General**](https://github.com/JuliaRegistries/General): The official registry of general Julia packages
 * [**emmt/OIFITS.jl**](https://github.com/emmt/OIFITS.jl): Support for OI-FITS (optical interferometry data format) in Julia.
 * [**jonniedie/ComponentArrays.jl**](https://github.com/jonniedie/ComponentArrays.jl): Arrays with arbitrarily nested named components.
@@ -956,7 +959,7 @@
 * [**oschulz/Why-Julia**](https://github.com/oschulz/Why-Julia): Talk motivating using Julia in scientific contexts
 * [**rometsch/vortector**](https://github.com/rometsch/vortector): Home of the vortex detector.
 * [**jeff-regier/Celeste.jl**](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images
-* [**cgobat/XDBS**](https://github.com/cgobat/XDBS): Seeking to identify and understand Be stars in (x-ray) binary systems.
+* [**cgobat/XDBS**](https://github.com/cgobat/XDBS): A catalog of X-ray detected Be stars
 * [**znstrider/highlight_text**](https://github.com/znstrider/highlight_text): functions to plot text with <highlighted substrings> in matplotlib.
 * [**ekaterinailin/AltaiPony**](https://github.com/ekaterinailin/AltaiPony): Find flares in Kepler, K2, and TESS light curves. Notebooks for quickstart inside.
 * [**hannorein/megaconstellations**](https://github.com/hannorein/megaconstellations): Script to reproduce figures of Lawler, Boley & Rein 2021. Source code of web app.
@@ -1014,6 +1017,8 @@
 
 ## Lua
 
+* [**kylechui/nvim-surround**](https://github.com/kylechui/nvim-surround): Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+* [**jinh0/eyeliner.nvim**](https://github.com/jinh0/eyeliner.nvim): 👀 Move faster with unique f/F indicators.
 * [**rmagatti/auto-session**](https://github.com/rmagatti/auto-session): A small automated session manager for Neovim
 * [**tiagovla/tokyodark.nvim**](https://github.com/tiagovla/tokyodark.nvim): A clean dark theme written in lua for neovim.
 * [**declancm/cinnamon.nvim**](https://github.com/declancm/cinnamon.nvim): Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
@@ -1206,6 +1211,7 @@
 
 ## Python
 
+* [**riga/scinum**](https://github.com/riga/scinum): Scientific numbers with multiple uncertainties and correlation-aware, gaussian propagation and numpy support.
 * [**cyllab/ccinput**](https://github.com/cyllab/ccinput): Computational Chemistry Input Generator
 * [**davidwhogg/TheThresher**](https://github.com/davidwhogg/TheThresher): we Don't Throw Away Data (tm).
 * [**elimintz/justpy**](https://github.com/elimintz/justpy): An object oriented high-level Python Web Framework that requires no frontend programming
@@ -1986,6 +1992,7 @@
 
 ## Rust
 
+* [**rust-num/num-complex**](https://github.com/rust-num/num-complex): Complex numbers for Rust
 * [**nickgerace/gfold**](https://github.com/nickgerace/gfold): CLI tool to help keep track of your Git repositories, written in Rust
 * [**r-darwish/topgrade**](https://github.com/r-darwish/topgrade): Upgrade everything
 * [**ellie/atuin**](https://github.com/ellie/atuin): 🐢 Magical shell history
