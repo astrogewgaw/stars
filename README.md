@@ -2024,7 +2024,7 @@
 * [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
-* [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code
+* [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
 * [**notify-rs/notify**](https://github.com/notify-rs/notify): 🔭 Cross-platform filesystem notification library for Rust.
 * [**hannobraun/inotify-rs**](https://github.com/hannobraun/inotify-rs): Idiomatic inotify wrapper for the Rust programming language
