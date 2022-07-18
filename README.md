@@ -313,6 +313,7 @@
 
 ## Go
 
+* [**lrstanley/bubblezone**](https://github.com/lrstanley/bubblezone): helper utility for BubbleTea, allowing easy mouse event tracking
 * [**stretchr/testify**](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [**guptarohit/asciigraph**](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [**dlvhdr/roulette**](https://github.com/dlvhdr/roulette): :slot_machine: Making life decisions easier
@@ -571,6 +572,7 @@
 
 ## Julia
 
+* [**vchuravy/Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl): *No description*
 * [**IanButterworth/SystemBenchmark.jl**](https://github.com/IanButterworth/SystemBenchmark.jl): Julia package for benchmarking a system
 * [**JuliaMath/NaNMath.jl**](https://github.com/JuliaMath/NaNMath.jl): Julia math built-ins which return NaN and accumulator functions which ignore NaN
 * [**JuliaRegistries/General**](https://github.com/JuliaRegistries/General): The official registry of general Julia packages
@@ -1099,6 +1101,7 @@
 
 ## Others
 
+* [**Moelf/functional-programming-jargon.jl**](https://github.com/Moelf/functional-programming-jargon.jl): Julia version: Jargon from the functional programming world in simple terms!
 * [**mmalenta/spring_time_legacy**](https://github.com/mmalenta/spring_time_legacy): Spring supervisor
 * [**mmalenta/spring_time**](https://github.com/mmalenta/spring_time): Clustering and triggering for spring post-processing pipeline
 * [**jmesyou/functional-programming-jargon.py**](https://github.com/jmesyou/functional-programming-jargon.py): Jargon from the functional programming world in simple terms!
@@ -1211,6 +1214,7 @@
 
 ## Python
 
+* [**hpyproject/hpy**](https://github.com/hpyproject/hpy): HPy: a better API for Python
 * [**riga/scinum**](https://github.com/riga/scinum): Scientific numbers with multiple uncertainties and correlation-aware, gaussian propagation and numpy support.
 * [**cyllab/ccinput**](https://github.com/cyllab/ccinput): Computational Chemistry Input Generator
 * [**davidwhogg/TheThresher**](https://github.com/davidwhogg/TheThresher): we Don't Throw Away Data (tm).
@@ -2214,6 +2218,7 @@
 
 ## Shell
 
+* [**icyphox/shlide**](https://github.com/icyphox/shlide): :framed_picture: a slide deck presentation tool written in pure bash
 * [**astrogewgaw/tochky**](https://github.com/astrogewgaw/tochky): Мои точки | My dots
 * [**turquoise-hexagon/cherry**](https://github.com/turquoise-hexagon/cherry): another bitmap font
 * [**pystardust/ani-cli**](https://github.com/pystardust/ani-cli): A cli tool to browse and play anime
