@@ -127,7 +127,7 @@
 
 ## C++
 
-* [**microsoft/picologging**](https://github.com/microsoft/picologging): An optimized logging library for Python
+* [**carbon-language/carbon-lang**](https://github.com/carbon-language/carbon-lang): Carbon language specification and documentation.
 * [**WerWolv/ImHex**](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 * [**acaudwell/Gource**](https://github.com/acaudwell/Gource): software version control visualization
 * [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
@@ -572,6 +572,8 @@
 
 ## Julia
 
+* [**ptiede/RadioImagePriors.jl**](https://github.com/ptiede/RadioImagePriors.jl): *No description*
+* [**JuliaPhysics/PeriodicTable.jl**](https://github.com/JuliaPhysics/PeriodicTable.jl): Periodic Table for Julians! :fire:
 * [**vchuravy/Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl): *No description*
 * [**IanButterworth/SystemBenchmark.jl**](https://github.com/IanButterworth/SystemBenchmark.jl): Julia package for benchmarking a system
 * [**JuliaMath/NaNMath.jl**](https://github.com/JuliaMath/NaNMath.jl): Julia math built-ins which return NaN and accumulator functions which ignore NaN
@@ -919,6 +921,7 @@
 
 ## Jupyter Notebook
 
+* [**cphyc/matplotlib-label-lines**](https://github.com/cphyc/matplotlib-label-lines): Label line using matplotlib.
 * [**timsainb/noisereduce**](https://github.com/timsainb/noisereduce): Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
 * [**david-macmahon/JuliaDeDopplerNotebooks**](https://github.com/david-macmahon/JuliaDeDopplerNotebooks): *No description*
 * [**strath-sdr/dsp_notebooks**](https://github.com/strath-sdr/dsp_notebooks): A collection of Digital Signal Processing notebooks with a wireless communications theme.
@@ -1031,7 +1034,7 @@
 * [**ldelossa/gh.nvim**](https://github.com/ldelossa/gh.nvim): A fully featured GitHub integration for performing code reviews in Neovim.
 * [**nvim-telescope/telescope-github.nvim**](https://github.com/nvim-telescope/telescope-github.nvim): Integration with github cli
 * [**nvim-neorg/neorg**](https://github.com/nvim-neorg/neorg): Modernity meets insane extensibility. The future of organizing your life in Neovim.
-* [**Pocco81/TrueZen.nvim**](https://github.com/Pocco81/TrueZen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
+* [**Pocco81/true-zen.nvim**](https://github.com/Pocco81/true-zen.nvim): 🦝 Clean and elegant distraction-free writing for NeoVim
 * [**edluffy/hologram.nvim**](https://github.com/edluffy/hologram.nvim): 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 * [**folke/zen-mode.nvim**](https://github.com/folke/zen-mode.nvim): 🧘  Distraction-free coding for Neovim
 * [**norcalli/nvim-colorizer.lua**](https://github.com/norcalli/nvim-colorizer.lua): The fastest Neovim colorizer.
@@ -1214,7 +1217,9 @@
 
 ## Python
 
+* [**nanograv/la_forge**](https://github.com/nanograv/la_forge): *No description*
 * [**hpyproject/hpy**](https://github.com/hpyproject/hpy): HPy: a better API for Python
+* [**microsoft/picologging**](https://github.com/microsoft/picologging): An optimized logging library for Python
 * [**riga/scinum**](https://github.com/riga/scinum): Scientific numbers with multiple uncertainties and correlation-aware, gaussian propagation and numpy support.
 * [**cyllab/ccinput**](https://github.com/cyllab/ccinput): Computational Chemistry Input Generator
 * [**davidwhogg/TheThresher**](https://github.com/davidwhogg/TheThresher): we Don't Throw Away Data (tm).
