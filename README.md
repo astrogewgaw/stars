@@ -75,7 +75,7 @@
 * [**evanocathain/Useful_FRB_stuff**](https://github.com/evanocathain/Useful_FRB_stuff): Useful Codes and Scripts for FRB Analyses
 * [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-* [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): *No description*
+* [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): Snake game that plays itself
 * [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
 * [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
 * [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
@@ -127,7 +127,7 @@
 
 ## C++
 
-* [**carbon-language/carbon-lang**](https://github.com/carbon-language/carbon-lang): Carbon language specification and documentation.
+* [**carbon-language/carbon-lang**](https://github.com/carbon-language/carbon-lang): Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 * [**WerWolv/ImHex**](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 * [**acaudwell/Gource**](https://github.com/acaudwell/Gource): software version control visualization
 * [**bluescarni/mppp**](https://github.com/bluescarni/mppp): Multiprecision for modern C++
