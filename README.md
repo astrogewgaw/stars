@@ -71,6 +71,8 @@
 
 ## C
 
+* [**cgca/rns**](https://github.com/cgca/rns): Rapidly Rotating Neutron Star (RNS)
+* [**demorest/dspsr**](https://github.com/demorest/dspsr): Digital signal processing package for pulsar astronomy (copy of SourceForge version)
 * [**david-macmahon/hashpipe**](https://github.com/david-macmahon/hashpipe): High Availability Shared Pipeline Engine
 * [**evanocathain/Useful_FRB_stuff**](https://github.com/evanocathain/Useful_FRB_stuff): Useful Codes and Scripts for FRB Analyses
 * [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
@@ -313,6 +315,7 @@
 
 ## Go
 
+* [**muesli/kmeans**](https://github.com/muesli/kmeans): k-means clustering algorithm implementation written in Go
 * [**lrstanley/bubblezone**](https://github.com/lrstanley/bubblezone): helper utility for BubbleTea, allowing easy mouse event tracking
 * [**stretchr/testify**](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [**guptarohit/asciigraph**](https://github.com/guptarohit/asciigraph): Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
@@ -461,6 +464,7 @@
 
 ## HTML
 
+* [**brettcannon/mousebender**](https://github.com/brettcannon/mousebender): A package for installing Python packages
 * [**petermr/pygetpapers**](https://github.com/petermr/pygetpapers): a Python version of getpapers
 * [**joemccann/dillinger**](https://github.com/joemccann/dillinger): The last Markdown editor, ever.
 * [**mtfishman/JuliaTutorial**](https://github.com/mtfishman/JuliaTutorial): A tutorial for Julia
@@ -587,7 +591,7 @@
 * [**jw3126/Setfield.jl**](https://github.com/jw3126/Setfield.jl): Update deeply nested immutable structs.
 * [**mauro3/UnPack.jl**](https://github.com/mauro3/UnPack.jl): `@pack` and `@unpack` macros
 * [**JuliaAstro/Cosmology.jl**](https://github.com/JuliaAstro/Cosmology.jl): Cosmology library for Julia
-* [**peterahrens/MemoizedMethods.jl**](https://github.com/peterahrens/MemoizedMethods.jl): Methodwise Memoization for Julia
+* [**willow-ahrens/MemoizedMethods.jl**](https://github.com/willow-ahrens/MemoizedMethods.jl): Methodwise Memoization for Julia
 * [**JuliaCollections/LRUCache.jl**](https://github.com/JuliaCollections/LRUCache.jl): An implementation of an LRU Cache in Julia
 * [**anthofflab/Judyp.jl**](https://github.com/anthofflab/Judyp.jl): Julia package for solving dynamic programming problems
 * [**nolta/Calendar.jl**](https://github.com/nolta/Calendar.jl): Calendar time package for Julia
@@ -1157,7 +1161,7 @@
 * [**willmcgugan/codereviews**](https://github.com/willmcgugan/codereviews): Free code reviews for open source projects
 * [**jive-vlbi/PolConvert**](https://github.com/jive-vlbi/PolConvert): Advanced polarization calibration of linear feeds in VLBI observations.
 * [**gwisk/gradguide**](https://github.com/gwisk/gradguide): A guide on STEM PhD admissions
-* [**bromite/bromite**](https://github.com/bromite/bromite): Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+* [**bromite/bromite**](https://github.com/bromite/bromite): Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 * [**astronexus/HYG-Database**](https://github.com/astronexus/HYG-Database): Current version of the HYG Stellar database
 * [**GBNCC/GBT820_results**](https://github.com/GBNCC/GBT820_results): Results from the GBT 820 MHz Cygnus Survey.
 * [**GBNCC/data**](https://github.com/GBNCC/data): Parameter and TOA files for GBNCC discoveries
@@ -1217,6 +1221,7 @@
 
 ## Python
 
+* [**MJastro95/frb-pulse-finder**](https://github.com/MJastro95/frb-pulse-finder): *No description*
 * [**nanograv/la_forge**](https://github.com/nanograv/la_forge): *No description*
 * [**hpyproject/hpy**](https://github.com/hpyproject/hpy): HPy: a better API for Python
 * [**microsoft/picologging**](https://github.com/microsoft/picologging): An optimized logging library for Python
