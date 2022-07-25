@@ -77,7 +77,7 @@
 * [**evanocathain/Useful_FRB_stuff**](https://github.com/evanocathain/Useful_FRB_stuff): Useful Codes and Scripts for FRB Analyses
 * [**FRBs/Transient_Phase_Space**](https://github.com/FRBs/Transient_Phase_Space): Transient phase space plot
 * [**jonls/redshift**](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-* [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): Snake game that plays itself
+* [**AngelJumbo/sssnake**](https://github.com/AngelJumbo/sssnake): Snake game that plays itself in a terminal
 * [**MydonSolutions/radiointerferometryc99**](https://github.com/MydonSolutions/radiointerferometryc99): C library for useful radio interferometric functions
 * [**ymaan4/pcBeam-GMRT**](https://github.com/ymaan4/pcBeam-GMRT): *No description*
 * [**ymaan4/gbd_cohDD**](https://github.com/ymaan4/gbd_cohDD): A package to coherently dedisperse GBD data.
@@ -337,7 +337,6 @@
 * [**mfridman/tparse**](https://github.com/mfridman/tparse): CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 * [**BetaPictoris/timeleft**](https://github.com/BetaPictoris/timeleft): ⏳ Display the time left of the day as a progress bar.
 * [**BetaPictoris/dict**](https://github.com/BetaPictoris/dict): 📔 View the dictionary through the CLI
-* [**jon4hz/tmpdir**](https://github.com/jon4hz/tmpdir): a garbage collector for tmp directories
 * [**1xyz/pryrite**](https://github.com/1xyz/pryrite): Pryrite, interactively execute shell code blocks in a markdown file
 * [**dsnet/try**](https://github.com/dsnet/try): Simplified error handling in Go
 * [**FiloSottile/age**](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -1088,7 +1087,7 @@
 * [**svermeulen/nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker): Moonscript plugin support for neovim
 * [**leafo/moonscript**](https://github.com/leafo/moonscript): :crescent_moon: A language that compiles to Lua
 * [**nvim-lualine/lualine.nvim**](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+* [**williamboman/nvim-lsp-installer**](https://github.com/williamboman/nvim-lsp-installer): Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!
 
 ## Makefile
 
@@ -2092,7 +2091,7 @@
 * [**BurntSushi/quickcheck**](https://github.com/BurntSushi/quickcheck): Automated property based testing for Rust (with shrinking).
 * [**PyO3/maturin**](https://github.com/PyO3/maturin): Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 * [**PyO3/pyo3**](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter
-* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
+* [**rustdesk/rustdesk**](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 * [**tauri-apps/tauri**](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
 * [**mmstick/tv-renamer**](https://github.com/mmstick/tv-renamer): Mirror of https://gitlab.com/mmstick/tv-renamer
 * [**blyxxyz/lexopt**](https://github.com/blyxxyz/lexopt): Minimalist pedantic command line parser
