@@ -575,6 +575,7 @@
 
 ## Julia
 
+* [**JuliaDynamics/GoodScientificCodeWorkshop**](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop): A workshop on writing good scientific code.
 * [**ptiede/RadioImagePriors.jl**](https://github.com/ptiede/RadioImagePriors.jl): *No description*
 * [**JuliaPhysics/PeriodicTable.jl**](https://github.com/JuliaPhysics/PeriodicTable.jl): Periodic Table for Julians! :fire:
 * [**vchuravy/Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl): *No description*
@@ -731,7 +732,7 @@
 * [**MydonSolutions/GuppiRaw.jl**](https://github.com/MydonSolutions/GuppiRaw.jl): A reader and writer of GUPPI RAW files.
 * [**JuliaComputing/Cobweb.jl**](https://github.com/JuliaComputing/Cobweb.jl): 🕸️ Cobble together web content in Julia
 * [**JuliaComputing/DataSets.jl**](https://github.com/JuliaComputing/DataSets.jl): *No description*
-* [**matteobachetti/Stingray.jl**](https://github.com/matteobachetti/Stingray.jl): Julia porting of Stingray
+* [**StingraySoftware/Stingray.jl**](https://github.com/StingraySoftware/Stingray.jl): Julia porting of Stingray - Under heavy development, be ready to help debugging it ;)
 * [**JuliaDebug/Infiltrator.jl**](https://github.com/JuliaDebug/Infiltrator.jl): No-overhead breakpoints in Julia
 * [**JuliaDebug/Debugger.jl**](https://github.com/JuliaDebug/Debugger.jl): Julia debugger
 * [**JuliaDebug/Cthulhu.jl**](https://github.com/JuliaDebug/Cthulhu.jl): The slow descent into madness
