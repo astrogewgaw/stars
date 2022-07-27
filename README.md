@@ -289,6 +289,7 @@
 
 ## Fortran
 
+* [**vivekvenkris/fitorbit**](https://github.com/vivekvenkris/fitorbit): Program to fit binary pulsar orbits
 * [**samb8s/PsrPopPy**](https://github.com/samb8s/PsrPopPy): Python implementation of PSRPOP, designed to be run from the command line or from Python scripts/interpreter
 * [**mdmaas/julia-numpy-fortran-test**](https://github.com/mdmaas/julia-numpy-fortran-test): Comparing Julia vs Numpy vs Fortran for performance and code simplicity
 * [**MESAHub/mesa**](https://github.com/MESAHub/mesa): Modules for Experiments in Stellar Astrophysics
@@ -398,7 +399,7 @@
 * [**charmbracelet/wish**](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
 * [**muesli/duf**](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [**rivo/tview**](https://github.com/rivo/tview): Terminal UI library with rich, interactive widgets — written in Golang
-* [**rivo/uniseg**](https://github.com/rivo/uniseg): Unicode Text Segmentation for Go (or: How to Count Characters in a String)
+* [**rivo/uniseg**](https://github.com/rivo/uniseg): Unicode Text Segmentation and Line Breaking in Go
 * [**gdamore/tcell**](https://github.com/gdamore/tcell): Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 * [**binwiederhier/ntfy**](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 * [**tvrzna/emptty**](https://github.com/tvrzna/emptty): Dead simple CLI Display Manager on TTY
@@ -925,6 +926,7 @@
 
 ## Jupyter Notebook
 
+* [**etsmit/RFI_Simulations**](https://github.com/etsmit/RFI_Simulations): Tools for simulating RFI and flagging it
 * [**cphyc/matplotlib-label-lines**](https://github.com/cphyc/matplotlib-label-lines): Label line using matplotlib.
 * [**timsainb/noisereduce**](https://github.com/timsainb/noisereduce): Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
 * [**david-macmahon/JuliaDeDopplerNotebooks**](https://github.com/david-macmahon/JuliaDeDopplerNotebooks): *No description*
@@ -1026,6 +1028,7 @@
 
 ## Lua
 
+* [**williamboman/mason.nvim**](https://github.com/williamboman/mason.nvim): Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * [**kylechui/nvim-surround**](https://github.com/kylechui/nvim-surround): Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 * [**jinh0/eyeliner.nvim**](https://github.com/jinh0/eyeliner.nvim): 👀 Move faster with unique f/F indicators.
 * [**rmagatti/auto-session**](https://github.com/rmagatti/auto-session): A small automated session manager for Neovim
@@ -1108,6 +1111,7 @@
 
 ## Others
 
+* [**jamiebuilds/babel-handbook**](https://github.com/jamiebuilds/babel-handbook): :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 * [**Moelf/functional-programming-jargon.jl**](https://github.com/Moelf/functional-programming-jargon.jl): Julia version: Jargon from the functional programming world in simple terms!
 * [**mmalenta/spring_time_legacy**](https://github.com/mmalenta/spring_time_legacy): Spring supervisor
 * [**mmalenta/spring_time**](https://github.com/mmalenta/spring_time): Clustering and triggering for spring post-processing pipeline
@@ -1221,6 +1225,8 @@
 
 ## Python
 
+* [**ryanslynch/pycycstat**](https://github.com/ryanslynch/pycycstat): *No description*
+* [**matteobachetti/ell1fit**](https://github.com/matteobachetti/ell1fit): *No description*
 * [**MJastro95/frb-pulse-finder**](https://github.com/MJastro95/frb-pulse-finder): *No description*
 * [**nanograv/la_forge**](https://github.com/nanograv/la_forge): *No description*
 * [**hpyproject/hpy**](https://github.com/hpyproject/hpy): HPy: a better API for Python
@@ -2006,6 +2012,7 @@
 
 ## Rust
 
+* [**PureArtistry/oi**](https://github.com/PureArtistry/oi): trivia on the command line
 * [**rust-num/num-complex**](https://github.com/rust-num/num-complex): Complex numbers for Rust
 * [**nickgerace/gfold**](https://github.com/nickgerace/gfold): CLI tool to help keep track of your Git repositories, written in Rust
 * [**r-darwish/topgrade**](https://github.com/r-darwish/topgrade): Upgrade everything
@@ -2036,7 +2043,7 @@
 * [**XAMPPRocky/octocrab**](https://github.com/XAMPPRocky/octocrab): A modern, extensible GitHub API Client for Rust.
 * [**Stebalien/tempfile**](https://github.com/Stebalien/tempfile): Temporary file library for rust
 * [**dtolnay/proc-macro-workshop**](https://github.com/dtolnay/proc-macro-workshop): Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
-* [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
+* [**pemistahl/grex**](https://github.com/pemistahl/grex): A command-line tool and Rust library for generating regular expressions from user-provided test cases
 * [**dtolnay/prettyplease**](https://github.com/dtolnay/prettyplease): A minimal `syn` syntax tree pretty-printer
 * [**rust-lang/rust-clippy**](https://github.com/rust-lang/rust-clippy): A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 * [**hoodie/notify-rust**](https://github.com/hoodie/notify-rust): ☝️send desktop notifications from you rust app.
