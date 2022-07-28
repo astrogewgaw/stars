@@ -1307,7 +1307,7 @@
 * [**darrenburns/kupo**](https://github.com/darrenburns/kupo): A terminal file browser, kupo!
 * [**dlakaplan/pulsardb**](https://github.com/dlakaplan/pulsardb): *No description*
 * [**orchest/orchest**](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️
-* [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): ipyvizzu is the Jupyter Notebook integration of Vizzu.
+* [**vizzuhq/ipyvizzu**](https://github.com/vizzuhq/ipyvizzu): Build animated charts in Jupyter notebook with a simple Python synthax.
 * [**darrenburns/ward**](https://github.com/darrenburns/ward): Ward is a modern test framework for Python with a focus on productivity and readability.
 * [**darrenburns/dunk**](https://github.com/darrenburns/dunk): Prettier git diffs
 * [**PAHFIT/pahfit**](https://github.com/PAHFIT/pahfit): Model Decomposition for Near- to Mid-Infrared Spectroscopy of Astronomical Sources
