@@ -316,6 +316,7 @@
 
 ## Go
 
+* [**charmbracelet/gum**](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
 * [**muesli/kmeans**](https://github.com/muesli/kmeans): k-means clustering algorithm implementation written in Go
 * [**lrstanley/bubblezone**](https://github.com/lrstanley/bubblezone): helper utility for BubbleTea, allowing easy mouse event tracking
 * [**stretchr/testify**](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -1225,6 +1226,7 @@
 
 ## Python
 
+* [**astrogewgaw/orbytal**](https://github.com/astrogewgaw/orbytal): Fitting binary pulsar orbits, fast and simple.
 * [**ryanslynch/pycycstat**](https://github.com/ryanslynch/pycycstat): *No description*
 * [**matteobachetti/ell1fit**](https://github.com/matteobachetti/ell1fit): *No description*
 * [**MJastro95/frb-pulse-finder**](https://github.com/MJastro95/frb-pulse-finder): *No description*
