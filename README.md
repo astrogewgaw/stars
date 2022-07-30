@@ -316,6 +316,7 @@
 
 ## Go
 
+* [**caarlos0/tablewriter**](https://github.com/caarlos0/tablewriter): A very simple table using lipgloss and text/tabwriter.
 * [**charmbracelet/gum**](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
 * [**muesli/kmeans**](https://github.com/muesli/kmeans): k-means clustering algorithm implementation written in Go
 * [**lrstanley/bubblezone**](https://github.com/lrstanley/bubblezone): helper utility for BubbleTea, allowing easy mouse event tracking
@@ -577,6 +578,8 @@
 
 ## Julia
 
+* [**vchuravy/FancyDebugger.jl**](https://github.com/vchuravy/FancyDebugger.jl): *No description*
+* [**omlins/JustSayIt.jl**](https://github.com/omlins/JustSayIt.jl): Offline, low latency, highly accurate and secure speech to command translation software and high-level API on Linux, MacOS and Windows
 * [**JuliaDynamics/GoodScientificCodeWorkshop**](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop): A workshop on writing good scientific code.
 * [**ptiede/RadioImagePriors.jl**](https://github.com/ptiede/RadioImagePriors.jl): *No description*
 * [**JuliaPhysics/PeriodicTable.jl**](https://github.com/JuliaPhysics/PeriodicTable.jl): Periodic Table for Julians! :fire:
@@ -2014,6 +2017,7 @@
 
 ## Rust
 
+* [**pombadev/bropages**](https://github.com/pombadev/bropages): Highly readable supplement to man pages from http://bropages.org. Shows simple, concise examples for commands with syntax highlighting.
 * [**PureArtistry/oi**](https://github.com/PureArtistry/oi): trivia on the command line
 * [**rust-num/num-complex**](https://github.com/rust-num/num-complex): Complex numbers for Rust
 * [**nickgerace/gfold**](https://github.com/nickgerace/gfold): CLI tool to help keep track of your Git repositories, written in Rust
