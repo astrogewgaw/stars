@@ -1375,7 +1375,7 @@
 * [**ceccopierangiolieugenio/pyTermTk**](https://github.com/ceccopierangiolieugenio/pyTermTk): Python Terminal Toolkit
 * [**SL-RU/ranger_udisk_menu**](https://github.com/SL-RU/ranger_udisk_menu): This script draws menu to choose, mount and unmount drives using udisksctl and ncurses for ranger file manager
 * [**alexanderjeurissen/ranger_devicons**](https://github.com/alexanderjeurissen/ranger_devicons): Ranger plugin that adds file glyphs / icon support to Ranger
-* [**yxngh/ranger-gitplug**](https://github.com/yxngh/ranger-gitplug): Github integration for ranger file manager
+* [**yuukilla/ranger-gitplug**](https://github.com/yuukilla/ranger-gitplug): Github integration for ranger file manager
 * [**laggardkernel/ranger-fzf-marks**](https://github.com/laggardkernel/ranger-fzf-marks): Ranger plugin to manage bookmarks with fzf
 * [**cdump/ranger-devicons2**](https://github.com/cdump/ranger-devicons2): *No description*
 * [**maximtrp/ranger-cmus**](https://github.com/maximtrp/ranger-cmus): Ranger Plugin for Integration with Cmus Audio Player
