@@ -578,6 +578,7 @@
 
 ## Julia
 
+* [**david-macmahon/DataPipelineLocks.jl**](https://github.com/david-macmahon/DataPipelineLocks.jl): *No description*
 * [**vchuravy/FancyDebugger.jl**](https://github.com/vchuravy/FancyDebugger.jl): *No description*
 * [**omlins/JustSayIt.jl**](https://github.com/omlins/JustSayIt.jl): Offline, low latency, highly accurate and secure speech to command translation software and high-level API on Linux, MacOS and Windows
 * [**JuliaDynamics/GoodScientificCodeWorkshop**](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop): A workshop on writing good scientific code.
@@ -1229,6 +1230,7 @@
 
 ## Python
 
+* [**vivekvenkris/psrpype**](https://github.com/vivekvenkris/psrpype): A python and psrchive based pipeline for reducing Parkes UWL  fold mode data
 * [**astrogewgaw/orbytal**](https://github.com/astrogewgaw/orbytal): Fitting binary pulsar orbits, fast and simple.
 * [**ryanslynch/pycycstat**](https://github.com/ryanslynch/pycycstat): *No description*
 * [**matteobachetti/ell1fit**](https://github.com/matteobachetti/ell1fit): *No description*
