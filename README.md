@@ -578,6 +578,8 @@
 
 ## Julia
 
+* [**triscale-innov/GFlops.jl**](https://github.com/triscale-innov/GFlops.jl): Estimate the absolute performance of a piece of Julia code
+* [**MasonProtter/ShapeCheck.jl**](https://github.com/MasonProtter/ShapeCheck.jl): *No description*
 * [**david-macmahon/DataPipelineLocks.jl**](https://github.com/david-macmahon/DataPipelineLocks.jl): *No description*
 * [**vchuravy/FancyDebugger.jl**](https://github.com/vchuravy/FancyDebugger.jl): *No description*
 * [**omlins/JustSayIt.jl**](https://github.com/omlins/JustSayIt.jl): Offline, low latency, highly accurate and secure speech to command translation software and high-level API on Linux, MacOS and Windows
@@ -1124,7 +1126,6 @@
 * [**KshitijAggarwal/FRB-journal-club**](https://github.com/KshitijAggarwal/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ReshmaAnnaThomas/FRB-journal-club**](https://github.com/ReshmaAnnaThomas/FRB-journal-club): Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU
 * [**ptiede/Elliptic.jl**](https://github.com/ptiede/Elliptic.jl): Elliptic integral and Jacobi elliptic special functions
-* [**dfm/workflows**](https://github.com/dfm/workflows): A collection of GitHub Actions workflows that I find useful
 * [**martinbjeldbak/ultimate-beamer-theme-list**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list): A collection of custom Beamer themes
 * [**writing-resources/awesome-scientific-writing**](https://github.com/writing-resources/awesome-scientific-writing): :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 * [**heartly/awesome-writing-tools**](https://github.com/heartly/awesome-writing-tools): A curated list of awesome tools for improving written communication
@@ -1265,6 +1266,7 @@
 * [**orsinium-labs/svg.py**](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 * [**Pyomo/pyomo**](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems.
 * [**yusukeaso-astron/plotastrodata**](https://github.com/yusukeaso-astron/plotastrodata): Python package to make figures from radio astronomical data by astropy and matplotlib.
+* [**dfm/workflows**](https://github.com/dfm/workflows): A collection of GitHub Actions workflows that I find useful
 * [**Cimbali/pympress**](https://github.com/Cimbali/pympress): Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 * [**amperser/proselint**](https://github.com/amperser/proselint): A linter for prose.
 * [**altdesktop/i3ipc-python**](https://github.com/altdesktop/i3ipc-python): 🐍 An improved Python library to control i3wm and sway.
